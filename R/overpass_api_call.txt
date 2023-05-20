@@ -1,0 +1,57 @@
+// API call
+
+[out:json][timeout:10000];
+// gather results
+(
+  // query part for: “landuse=residential”
+  //way["landuse"="residential"]({{bbox}});
+  //relation["landuse"="residential"]({{bbox}});
+  // query part for: “landuse=commercial”
+  //way["landuse"="commercial"]({{bbox}});
+  //relation["landuse"="commercial"]({{bbox}});
+  // query part for: “landuse=commercial”
+
+  // this gets all landuse and universities
+  //way["landuse"]({{bbox}});
+  //relation["landuse"]({{bbox}});
+  //way["amenity"="college"]({{bbox}});
+  //way["amenity"="university"]({{bbox}});
+
+  way["shop"="grocery"]({{bbox}});
+  way["shop"="convenience"]({{bbox}});
+  way["shop"="deli"]({{bbox}});
+  way["shop"="greengrocer"]({{bbox}});
+  way["shop"="deli"]({{bbox}});
+  way["shop"="food"]({{bbox}});
+  way["shop"="general"]({{bbox}});
+  way["shop"="supermarket"]({{bbox}});
+
+  way["amenity"="restaurant"]({{bbox}});
+  way["amenity"="pub"]({{bbox}});
+  way["amenity"="bar"]({{bbox}});
+  way["amenity"="cafe"]({{bbox}});
+  way["amenity"="fast_food"]({{bbox}});
+  way["amenity"="food_court"]({{bbox}});
+
+  node["shop"="grocery"]({{bbox}});
+  node["shop"="convenience"]({{bbox}});
+  node["shop"="deli"]({{bbox}});
+  node["shop"="greengrocer"]({{bbox}});
+  node["shop"="deli"]({{bbox}});
+  node["shop"="food"]({{bbox}});
+  node["shop"="general"]({{bbox}});
+  node["shop"="supermarket"]({{bbox}});
+
+  node["amenity"="restaurant"]({{bbox}});
+  node["amenity"="pub"]({{bbox}});
+  node["amenity"="bar"]({{bbox}});
+  node["amenity"="cafe"]({{bbox}});
+  node["amenity"="fast_food"]({{bbox}});
+  node["amenity"="food_court"]({{bbox}});
+
+  //node({{bbox}});
+);
+// print results
+out body;
+>;
+out skel qt;
