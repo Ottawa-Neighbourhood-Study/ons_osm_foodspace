@@ -1,0 +1,12 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+.Random.seed|object|029797d547f1961f|||||||||||||||
+amenities|stem|5eaf275ea9cf1c7d|bd0d3dfb53bd8196|a3dad144c40657ed|1993867516||t19522.6304470516s|f55bdaeb17afeaf9|102|rds|local|vector|||0.001||
+ons_gen3_buffer|stem|afd341eb4dccd69e|1c6bf3042d69626d|016395e60b98a5a4|-1718569965||t19522.6278666076s|68410c631a43068e|13022|rds|local|vector|||0.28||
+ons_gen3_shp|stem|d97b626f6a88a05b|6c5efe2062bfb503|caaeafe52f848122|-919512166||t19522.6278632511s|f76f6239d73c8f3f|147307|rds|local|vector|||0.055||
+ottawa_food|stem|937989b5c8132b96|49d0f90dd4819b73|021694f04c8edd89|-463986791||t19522.6325253856s|5ef9a135d2b20c90|159707|rds|local|vector|||0.276|st_centroid assumes attributes are constant over geometries of x. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+overpass_data|stem|af740072994ba407|5fd6761e511e3d87|2ac4f52321795b09|2129618202||t19522.6307305179s|5b5646a87cc84dda|908087|rds|local|vector|||7.159|running command timedatectl had status 1|
+process_overpass_data|function|5c468fcbcd44a776|||||||||||||||
+query_osm_api_food|function|bb1e74511d0d231f|||||||||||||||
+save_food_data|function|c9edc5b95b047654|||||||||||||||
+save_ottawa_food|stem|da7a3dad7a31c553|b0560a7c95dae04e|b33bb28a4c282a42|1901892111||t19522.6385755865s|ac45463db19e2cbe|48|rds|local|vector|||0.272|Field names abbreviated for ESRI Shapefile driver. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.|
+shops|stem|c479098e9aff3756|13e1b3f8d0eadb27|a3dad144c40657ed|1003437644||t19522.6304471673s|c1aa9ca10fc19154|116|rds|local|vector|||0||
