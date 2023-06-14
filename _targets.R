@@ -4,6 +4,7 @@ library(dplyr)
 library(readr)
 library(neighbourhoodstudy)
 library(osmdata)
+library(future)
 
 source("R/functions.R")
 
@@ -17,6 +18,9 @@ list(
                         sf::st_union() |>
                         sf::st_buffer(10000) |>
                         sf::st_transform(crs="WGS84")),
+
+  targets::tar_target(ottawa_roads_shp, pseudohouseholds::ottawa_roads_shp),
+  targets::tar_target(ons_db_sli, neighbourhoodstudy::sli_dbs_gen3_maxoverlap),
 
   # OSM Overpass query parameters
   targets::tar_target(amenities,
@@ -41,12 +45,21 @@ list(
                       query_osm_api_food(ons_gen3_buffer, amenities, shops)),
 
   targets::tar_target(ottawa_food,
-                    process_overpass_data(overpass_data)),
+                    process_overpass_data(overpass_data, shops, amenities)),
 
   # Save foodspace results to disk
   targets::tar_target(save_ottawa_food,
                       save_food_data(ottawa_food)),
 
+
+  # Run distance analysis
+  targets::tar_target(ons_phhs,
+                      create_ons_phhs (ons_gen3_shp, ons_gen3_pop2021, ottawa_roads_shp)),
+
+  targets::tar_target(result_within_15min_walk,
+                      phh_walkdistance (ottawa_phhs, ons_gen3_shp, ottawa_food, ons_db_sli)),
+  # targets::tar_target(od_table,
+  #                     phh_distance_analysis (ottawa_phhs = ottawa_phhs, ons_gen3_shp = ons_gen3_shp, destinations = ottawa_food, destination_id_col = "osm_id")),
 
   NULL
 )

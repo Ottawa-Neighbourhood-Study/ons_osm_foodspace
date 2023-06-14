@@ -1,12 +1,22 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-.Random.seed|object|029797d547f1961f|||||||||||||||
+.Random.seed|object|084fdffdf9cd7979|||||||||||||||
 amenities|stem|5eaf275ea9cf1c7d|bd0d3dfb53bd8196|a3dad144c40657ed|1993867516||t19522.6304470516s|f55bdaeb17afeaf9|102|rds|local|vector|||0.001||
+create_ons_phhs|function|3458c6aa78bfe56e|||||||||||||||
+get_number_per_1000|function|62d4a7a12b712832|||||||||||||||
+get_number_per_hood|function|72b823423e1efddf|||||||||||||||
+od_table|stem|b6dc4cedcbed8fa3|abc1b3d31e5abab1|dee25322c332fa7a|337822913||t19522.7195732517s||626|rds|local|vector|||0.046||this doesnt work properly
+ons_db_sli|stem|f23e25aef209a005|16b529546e503eab|c3b5fc02cdc369c1|1075562696||t19522.8071371438s|6c1757e441399f02|69354|rds|local|vector|||0.008||
 ons_gen3_buffer|stem|afd341eb4dccd69e|1c6bf3042d69626d|016395e60b98a5a4|-1718569965||t19522.6278666076s|68410c631a43068e|13022|rds|local|vector|||0.28||
 ons_gen3_shp|stem|d97b626f6a88a05b|6c5efe2062bfb503|caaeafe52f848122|-919512166||t19522.6278632511s|f76f6239d73c8f3f|147307|rds|local|vector|||0.055||
-ottawa_food|stem|937989b5c8132b96|49d0f90dd4819b73|021694f04c8edd89|-463986791||t19522.6325253856s|5ef9a135d2b20c90|159707|rds|local|vector|||0.276|st_centroid assumes attributes are constant over geometries of x. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+ons_phhs|stem|ea98658e816e862b|9b663d062382ef34|8f1a1b1151b29c76|1002371129||t19522.7882178541s|1d354df09c234e36|542731|rds|local|vector|||32.349||
+ottawa_food|stem|be005100beafd241|7de240c1b31ab9de|a64ce96c9bb8e5ee|-463986791||t19522.7663140158s|7e51c07c2989ea3b|162125|rds|local|vector|||0.335|st_centroid assumes attributes are constant over geometries of x. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+ottawa_roads_shp|stem|d5e5c21329bdebf4|62ae5bba1867a6b1|c3b5fc02cdc369c1|1646096607||t19522.7878413332s|838dcd8f3ec59db2|2431531|rds|local|vector|||0.113||
 overpass_data|stem|af740072994ba407|5fd6761e511e3d87|2ac4f52321795b09|2129618202||t19522.6307305179s|5b5646a87cc84dda|908087|rds|local|vector|||7.159|running command timedatectl had status 1|
-process_overpass_data|function|5c468fcbcd44a776|||||||||||||||
+phh_distance_analysis|function|876dcbe30a501ec4|||||||||||||||
+phh_walkdistance|function|347bdf0f5a69f1e7|||||||||||||||
+process_overpass_data|function|dd835f3d48659960|||||||||||||||
 query_osm_api_food|function|bb1e74511d0d231f|||||||||||||||
+result_within_15min_walk|stem|16d63a7c6a8b38ef|c209f66ef2d90886|2ee4ec59ada91b16|-934852062||t19522.8089612896s|7146b2c5b1eab951|3767|rds|local|vector|||157.545||
 save_food_data|function|c9edc5b95b047654|||||||||||||||
-save_ottawa_food|stem|da7a3dad7a31c553|b0560a7c95dae04e|b33bb28a4c282a42|1901892111||t19522.6385755865s|ac45463db19e2cbe|48|rds|local|vector|||0.272|Field names abbreviated for ESRI Shapefile driver. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.|
+save_ottawa_food|stem|da7a3dad7a31c553|b0560a7c95dae04e|77dd79c839bf4cee|1901892111||t19522.7663169093s|ac45463db19e2cbe|48|rds|local|vector|||0.245|Field names abbreviated for ESRI Shapefile driver. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.|
 shops|stem|c479098e9aff3756|13e1b3f8d0eadb27|a3dad144c40657ed|1003437644||t19522.6304471673s|c1aa9ca10fc19154|116|rds|local|vector|||0||
