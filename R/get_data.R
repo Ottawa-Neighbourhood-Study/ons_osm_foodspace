@@ -59,7 +59,7 @@ osm_pts <- osm_pts |>
   dplyr::mutate(type = dplyr::if_else(is.na(amenity), shop, amenity)) |>
   dplyr::select(osm_id, type, name, shop, amenity, brand, addr.street, addr.housenumber, addr.city, addr.postcode) |>
   dplyr::filter(!is.na(type))#|>
-  #sf::st_transform(crs = "WGS84")
+#sf::st_transform(crs = "WGS84")
 
 osm_poly_centroids <- osm_polys |>
   dplyr::as_tibble() |>
@@ -68,7 +68,7 @@ osm_poly_centroids <- osm_polys |>
   dplyr::select(osm_id, type, name, shop, amenity, brand, addr.street, addr.housenumber, addr.city, addr.postcode) |>
   dplyr::filter(!is.na(type)) |>
   sf::st_centroid()#|>
-  #sf::st_transform(crs = "WGS84")
+#sf::st_transform(crs = "WGS84")
 
 
 ottawa_food <- dplyr::bind_rows(osm_pts, osm_poly_centroids) |>
@@ -150,10 +150,160 @@ make_buffer_grid <- function(bounding_box, side_length=2) {
       bbox <- c(xmin, ymin, xmax, ymax)
       names(bbox) <- c("xmin", "ymin", "xmax", "ymax")
 
-    bboxes[[(i-1) * side_length + j]] <- bbox
+      bboxes[[(i-1) * side_length + j]] <- bbox
 
     }
   }
 
-bboxes
+  bboxes
 }
+
+
+
+phh_latlon <- sf::st_coordinates(ottawa_phhs) |>
+  dplyr::as_tibble() |>
+  dplyr::rename(lon=X,lat=Y)
+
+phhs <- dplyr::bind_cols(sf::st_drop_geometry(ottawa_phhs), phh_latlon) |>
+  dplyr::select(phh_id, dbpop, lat, lon)
+
+dests <- sf::st_drop_geometry(destinations)
+
+row <- phh_destination_candidates[[1]] |>
+  dplyr::group_by(osm_id) |>
+  tidyr::nest() |>
+  dplyr::ungroup() |>
+  dplyr::slice_head(n=1)
+
+row_osm_id <- row$osm_id[[1]]
+row_data <- row$data[[1]]
+
+function(row_osm_id, row_data) {
+
+  osm_coords <- dplyr::filter(dests, osm_id == row_osm_id) |>
+    dplyr::select(osm_id, lat, lon)
+
+  phh_coords <- dplyr::left_join(row_data , phhs, by= "phh_id") |>
+    dplyr::select(phh_id, lat, lon)
+
+  valhallr::od_table(froms = phh_coords, from_id_col="phh_id", tos=osm_coords, to_id_col = "osm_id")
+}
+
+
+#########
+ottawa_phhs <- neighbourhoodstudy::ottawa_phhs
+
+ottawa_food_latlon <- ottawa_food |>
+  dplyr::bind_cols(sf::st_coordinates(ottawa_food)) |>
+  dplyr::select(osm_id, lat=Y, lon=X) |>
+  sf::st_drop_geometry()
+
+
+ottawa_phhs_latlon <- ottawa_phhs |>
+  dplyr::bind_cols(sf::st_coordinates(ottawa_phhs)) |>
+  dplyr::select(phh_id, lat=Y, lon=X) |>
+  sf::st_drop_geometry()
+
+
+z <- phh_destination_candidates[[1]]
+
+# nested map functions to walk over all amenity types, then each phh to each candidate destination
+test <- purrr::map2(names(phh_destination_candidates), phh_destination_candidates,
+
+            function(name, candidates) {
+
+              candidates |>
+                dplyr::left_join(ottawa_food_latlon, by = "osm_id") |>
+                dplyr::select(-dist_m) |>
+                tidyr::nest(destinations = -phh_id) |>
+                dplyr::left_join(ottawa_phhs_latlon, by = "phh_id") |>
+                dplyr::mutate(set = name, .before = 1) |>
+                head(5) |>
+                dplyr::mutate(result = purrr::pmap(list(phh_id, lat, lon, destinations),  function (phh_id, origin_lat, origin_lon, destinations) {
+
+                  froms <- dplyr::tibble(lat = origin_lat, lon = origin_lon, phh_id = phh_id)
+                  #tos <- dplyr::select(destinations, osm_id, lat, lon)
+                  valhallr::od_table(froms = froms, from_id_col = "phh_id", tos = destinations, to_id_col = "osm_id" )
+                  # purrr::map2(destinations$lat, destinations$lon, function(dest_lat, dest_lon) {
+                  #
+                })) # end  purrr::pmap over phh candidates
+
+
+            }) # end purrr::map2 over all sets
+
+test[[2]]$result
+
+z |>
+  dplyr::left_join(ottawa_food_latlon, by = "osm_id") |>
+  dplyr::select(-dist_m) |>
+  tidyr::nest(destinations = -phh_id) |>
+  dplyr::left_join(ottawa_phhs_latlon, by = "phh_id") |>
+  head(500) -> test
+
+z
+test
+
+tictoc::tic()
+test |>
+  dplyr::mutate(result = purrr::pmap(list(phh_id, lat, lon, destinations),  function (phh_id, origin_lat, origin_lon, destinations) {
+
+    froms <- dplyr::tibble(lat = origin_lat, lon = origin_lon, phh_id = phh_id)
+    #tos <- dplyr::select(destinations, osm_id, lat, lon)
+    valhallr::od_table(froms = froms, from_id_col = "phh_id", tos = destinations, to_id_col = "osm_id" )
+    # purrr::map2(destinations$lat, destinations$lon, function(dest_lat, dest_lon) {
+    #
+  })) |>
+  tidyr::unnest()
+tictoc::toc()
+
+
+
+
+## ANOTHER APPROACH
+
+tranche_size <- 1000
+
+test <- phh_destination_candidates[[1]] |>
+  dplyr::ungroup() |>
+  #dplyr::slice_head(n=5000) |>
+
+  tibble::rowid_to_column() |>
+  dplyr::mutate(tranche_num = rowid %/% 1000) |>
+  tidyr::nest(tranche = -tranche_num) |>
+  dplyr::mutate(result = purrr::map(tranche, function(tranche) {
+
+    # tranche <- phh_destination_candidates[[1]] |>
+    #   dplyr::ungroup() |>
+    #   dplyr::slice_head(n=1000)
+
+    phhs <- dplyr::select(tranche, phh_id) |>
+      dplyr::distinct() |>
+      dplyr::left_join(ottawa_phhs_latlon, by = "phh_id")
+
+    osms <- dplyr::select(tranche, osm_id) |>
+      dplyr::distinct() |>
+      dplyr::left_join(ottawa_food_latlon, by = "osm_id")
+
+    tictoc::tic()
+    result <- valhallr::od_table(froms = phhs, from_id_col = "phh_id", tos = osms, to_id_col = "osm_id")
+    tictoc::toc()
+    return(result)
+  }))
+
+
+
+tranche <- phh_destination_candidates[[1]] |>
+  dplyr::ungroup() |>
+  dplyr::slice_head(n=1000)
+
+phhs <- dplyr::select(tranche, phh_id) |>
+  dplyr::distinct() |>
+  dplyr::left_join(ottawa_phhs_latlon, by = "phh_id")
+
+osms <- dplyr::select(tranche, osm_id) |>
+  dplyr::distinct() |>
+  dplyr::left_join(ottawa_food_latlon, by = "osm_id")
+
+tictoc::tic()
+test <- valhallr::od_table(froms = phhs, from_id_col = "phh_id", tos = osms, to_id_col = "osm_id")
+tictoc::toc()
