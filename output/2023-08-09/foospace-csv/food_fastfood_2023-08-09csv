@@ -1,0 +1,2028 @@
+osm_id,name,shop,amenity,brand,addr.street,addr.housenumber,addr.city,addr.postcode,lon,lat
+293565377,JP's Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.7274245,45.3353187
+438892467,Tea Store,tea,cafe,NA,York Street,53,NA,NA,-75.6928924,45.4282671
+443152543,Coutts Coffee Roastery & Cafe,NA,cafe,NA,NA,NA,NA,NA,-76.2492273,44.8999295
+457282818,Claude Chip Wagon,NA,fast_food,NA,NA,NA,NA,NA,-75.6317923,45.4256069
+588145957,Ideal Coffee,NA,cafe,NA,Dalhousie Street,176,NA,NA,-75.6944959,45.4325556
+600101638,Pizza Pizza,NA,fast_food,Pizza Pizza,Elgin Street,230,NA,NA,-75.6911579,45.4185648
+600101643,Harvey's,NA,fast_food,Harvey's,Elgin Street,216,NA,NA,-75.691363,45.418767
+600121720,Pizza Pizza,NA,fast_food,Pizza Pizza,Bank Street,931,NA,NA,-75.6864805,45.3999558
+600122049,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Bank Street,277,NA,NA,-75.6962877,45.415551
+600126931,Dining Hall,NA,food_court,NA,Rideau Street,50,NA,NA,-75.6900368,45.4245725
+671834591,Subway,NA,fast_food,Subway,Boulevard Sacré-Coeur,25,NA,NA,-75.7207668,45.4370563
+671852037,Starbucks,NA,cafe,Starbucks,Iris Street,2735,NA,NA,-75.7879882,45.3495289
+671983436,McDonald's,NA,fast_food,McDonald's,Rideau Street,99,NA,NA,-75.6917795,45.4264491
+686659922,Starbucks,NA,cafe,Starbucks,Richmond Road,421,NA,NA,-75.7573384,45.3905632
+726928791,Pizza Pizza,NA,fast_food,Pizza Pizza,Somerset Street West,673,NA,NA,-75.7059491,45.4114848
+736395925,Tim Hortons,NA,cafe,Tim Hortons,Metcalfe Street,100,NA,NA,-75.6958842,45.4208701
+736395952,Starbucks,NA,cafe,Starbucks,Metcalfe Street,81,NA,NA,-75.6957529,45.421217
+747184851,Bridgehead,NA,cafe,Bridgehead,Richmond Road,440,NA,NA,-75.7581814,45.3896629
+747459792,Dairy Queen,NA,fast_food,Dairy Queen,Richmond Road,401,NA,NA,-75.7564009,45.3910674
+765178898,Geo's Pizza,NA,fast_food,NA,Centrum Boulevard,250,NA,NA,-75.5106624,45.4798886
+765363806,Bridgehead,NA,cafe,Bridgehead,Sparks Street,96,NA,NA,-75.6973938,45.4226533
+765366980,Planet Coffee,NA,cafe,NA,NA,NA,NA,NA,-75.6936392,45.4271156
+775320081,McDonald's,NA,fast_food,McDonald's,Elgin Street,252,NA,NA,-75.6909105,45.4182521
+790308511,Fat Albert's,NA,fast_food,NA,Watters Road,915,NA,NA,-75.4756314,45.4837122
+795245165,Holland Cross Food Court,NA,food_court,NA,NA,NA,NA,NA,-75.7331365,45.4034687
+796576223,Chipmunk Chippery,NA,fast_food,NA,NA,NA,NA,NA,-76.2508598,44.9016216
+808467735,Cafe Deluxe,NA,cafe,NA,NA,NA,NA,NA,-75.6959234,45.4217095
+828565649,Saigon Pho,NA,fast_food,NA,Bank Street,232,NA,NA,-75.6977268,45.4167482
+828566195,Asian Kitchen,NA,fast_food,NA,Bank Street,212,NA,NA,-75.6980746,45.4171868
+830720565,Preso tea,NA,cafe,NA,Richmond Road,352,NA,NA,-75.7543496,45.3917342
+876639105,Tim Hortons,NA,cafe,Tim Hortons,Baseline Road,2545,NA,K2H 7B3,-75.7863524,45.3421621
+938660537,Second Cup,NA,cafe,Second Cup,Laurier Avenue East,153,NA,K1N 6N8,-75.6843303,45.424905
+938691904,Second Cup,NA,cafe,Second Cup,Metcalfe Street,99,NA,K1P 6L7,-75.6955214,45.4209905
+938691909,Starbucks,NA,cafe,Starbucks,Elgin Street,216,NA,NA,-75.6915984,45.419023
+938698341,Starbucks,NA,cafe,Starbucks,Rideau Street,47,NA,NA,-75.6929674,45.4258653
+938706957,Starbucks,NA,cafe,Starbucks,Queen Street,131,NA,NA,-75.6982529,45.4217659
+940310743,Bridgehead,NA,cafe,Bridgehead,Bank Street,366,NA,NA,-75.6952895,45.4139342
+940315054,Bridgehead,NA,cafe,Bridgehead,Bank Street,750,NA,NA,-75.6888231,45.4035603
+940320797,Bridgehead,NA,cafe,Bridgehead,Bank Street,1172,NA,NA,-75.6820529,45.3922222
+941441313,Bridgehead,NA,cafe,Bridgehead,Beechwood Avenue,131,NA,K1M 1L5,-75.6720114,45.442089
+941443111,Bridgehead,NA,cafe,Bridgehead,Elgin Street,282,NA,NA,-75.6898573,45.4170402
+941449475,Bridgehead,NA,cafe,Bridgehead,Wellington Street West,1279,NA,NA,-75.7345792,45.3993482
+941451883,Bridgehead,NA,cafe,Bridgehead,Slater Street,341,NA,K1R 7Y3,-75.7025424,45.4179425
+941527871,Second Cup,NA,cafe,Second Cup,Carling Avenue,1053,NA,NA,-75.7217389,45.3926855
+948968729,Second Cup,NA,cafe,Second Cup,Rideau Street,50,NA,NA,-75.6908901,45.4248065
+948968731,Second Cup,NA,cafe,Second Cup,Université Private,65,NA,NA,-75.6843119,45.4232829
+949085885,Happy Goat,NA,cafe,NA,Bank Street,1124,NA,NA,-75.6831073,45.3934146
+975865644,Lunch,NA,fast_food,NA,Sparks Street,240,NA,NA,-75.7019652,45.4204018
+975866525,Subway,NA,fast_food,Subway,Laurier Avenue West,365,NA,NA,-75.7006061,45.4180671
+981450335,Carlingwood Food Court,NA,food_court,NA,Carling Avenue,2121,NA,NA,-75.7682526,45.3727446
+1026537537,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-75.4956556,45.5303826
+1144102551,Uncle Tetsu,NA,fast_food,NA,Elgin Street,280,NA,NA,-75.6901453,45.417387
+1144102554,The Ministry of Coffee,NA,cafe,NA,Elgin Street,274,NA,K2P 1M2,-75.6902638,45.4175168
+1305071677,Dairy Queen,NA,fast_food,Dairy Queen,Notre Dame Street,767,NA,NA,-75.3015143,45.2687081
+1339121916,Pizza Pizza,NA,fast_food,Pizza Pizza,NA,NA,NA,NA,-76.3669402,45.425465
+1339121928,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-76.369038,45.4237914
+1339127907,Domino's,NA,fast_food,Domino's,Daniel Street South,395,NA,NA,-76.3693032,45.4236506
+1339127908,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-76.3703376,45.4232333
+1339127912,Wendy's,NA,fast_food,Wendy's,NA,NA,NA,NA,-76.3705212,45.4231621
+1461227907,Tealive,NA,cafe,NA,Somerset Street West,675,NA,K1R 6P3,-75.7060419,45.4114449
+1520453682,Tim Hortons,NA,cafe,Tim Hortons,Hazeldean Road,401,NA,NA,-75.8779526,45.3039853
+1520455410,Willys,NA,fast_food,NA,Kakulu Road,7,NA,NA,-75.8812431,45.3097034
+1521214054,Dairy Queen,NA,fast_food,Dairy Queen,Hazeldean Road,415,NA,NA,-75.878885,45.3036967
+1561733378,Equator Coffee,NA,cafe,NA,Ottawa Street,451,NA,NA,-76.1812601,45.2351569
+1643687468,The Scone Witch,NA,cafe,NA,Beechwood Avenue,35,NA,K1M 1M1,-75.6770382,45.4395423
+1648588224,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-76.1210998,45.1323952
+1669178975,Café Alt,NA,cafe,NA,NA,NA,NA,NA,-75.6854103,45.4234375
+1674565934,Harvey's,NA,fast_food,Harvey's,Highway 7,NA,NA,NA,-76.1223892,45.1299478
+1725499851,Starbucks,NA,cafe,Starbucks,Preston Street,349,NA,NA,-75.7100027,45.4018158
+1739424729,Subway,NA,fast_food,Subway,Boulevard Alexandre-Taché,390,NA,NA,-75.7458008,45.4219914
+1758687529,Glen French Fries (chip truck),NA,fast_food,NA,NA,NA,NA,NA,-75.7446979,45.3960646
+1764246930,Chez Jack,NA,fast_food,NA,NA,NA,NA,NA,-76.0993955,45.551866
+1798947619,Wendy's,NA,fast_food,Wendy's,Edgewater Street,6,NA,NA,-75.8939614,45.295117
+1800921194,Bridgehead,NA,cafe,Bridgehead,Wellington Street West,1024,NA,NA,-75.7236776,45.4045652
+1826905562,Starbucks,NA,cafe,Starbucks,Elgin Street,100,NA,NA,-75.6933691,45.4210352
+1836648080,TacoLot,NA,fast_food,NA,Wellington Street West,995,NA,NA,-75.7234813,45.405286
+1882231484,Subway,NA,fast_food,Subway,Coleman Street,124,NA,NA,-76.1352609,45.1359655
+2011458417,Starbucks,NA,cafe,Starbucks,Terry Fox Drive,500,NA,K2T 1C3,-75.916787,45.3086788
+2038796564,Beneci Pizzeria,NA,fast_food,NA,Lorry Greenberg Drive,4,NA,NA,-75.6210228,45.3690945
+2038796571,Libnan Bakery & Shawarma,NA,fast_food,NA,Lorry Greenberg Drive,4,NA,NA,-75.6208105,45.3691831
+2086327010,Twisted Fork Cafe and Bistro,NA,cafe,NA,NA,NA,NA,NA,-76.2509928,44.9010131
+2088038854,Dairy Queen,NA,fast_food,Dairy Queen,Walkley Road,1412,NA,NA,-75.6537722,45.3734929
+2088038880,House of Pizza,NA,fast_food,NA,Walkley Road,1574,NA,NA,-75.6468558,45.3767345
+2088038883,Subtown,NA,fast_food,NA,Walkley Road,1600,NA,NA,-75.6459663,45.376868
+2092975673,Little Victories Coffee,NA,cafe,NA,Bank Street,801,NA,K1S 3V7,-75.6880743,45.4027534
+2096396268,Tim Hortons,NA,cafe,Tim Hortons,Rideaucrest Drive,5,NA,NA,-75.7225531,45.2848892
+2104707497,Pizza Hut Delivery,NA,fast_food,Pizza Hut,Bank Street,855,NA,NA,-75.6873491,45.4014885
+2104707501,Subway,NA,fast_food,Subway,Bank Street,864,NA,NA,-75.6874034,45.4010701
+2104707510,McDonald's,NA,fast_food,McDonald's,Bank Street,853,NA,NA,-75.687389,45.4015447
+2104707516,Gong Cha,NA,cafe,Gong Cha,Bank Street,856,NA,NA,-75.6875663,45.4013093
+2193202452,Binh-Go Fries,NA,fast_food,NA,Robertson Road,2135,NA,NA,-75.835742,45.321505
+2207243264,Second Cup,NA,cafe,Second Cup,NA,NA,NA,NA,-75.7098974,45.4293889
+2242157232,Tommy's Chip Wagon,NA,fast_food,NA,NA,NA,NA,NA,-75.7327454,45.399581
+2242201582,Epicurean Munchie Truck,NA,fast_food,NA,NA,NA,NA,NA,-75.6621771,45.4358113
+2242208974,Ad Mare,NA,fast_food,NA,NA,NA,NA,NA,-75.6975948,45.4201745
+2242224743,Ragin' Cajun,NA,fast_food,NA,NA,NA,NA,NA,-75.6901953,45.4059039
+2242260829,Asian-Fusion,NA,fast_food,NA,NA,NA,NA,NA,-75.7020624,45.416714
+2242264585,Lunch,NA,fast_food,NA,NA,NA,NA,NA,-75.7043265,45.4183493
+2277788204,Tim Hortons,NA,cafe,Tim Hortons,Edgewater Street,6,NA,NA,-75.8938952,45.2951545
+2295959714,Bridgehead,NA,cafe,Bridgehead,Anderson Street,130,NA,NA,-75.7130017,45.4073291
+2331294972,Starbucks,NA,cafe,Starbucks,Earl Grey Drive,400,NA,NA,-75.914583,45.311364
+2341907404,Cafe Postino,NA,cafe,NA,NA,NA,NA,NA,-76.1952954,45.2255198
+2364687174,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-76.0301306,44.8917058
+2364883185,chez villa pizza & shawarma,NA,fast_food,NA,Rue Montcalm,166,Gatineau,J8X 2M2,-75.7264268,45.4295177
+2383388855,Starbucks,NA,cafe,Starbucks,O'Connor Street,124,NA,NA,-75.6972935,45.4193923
+2388632480,Starbucks,NA,cafe,Starbucks,Airport Parkway Private,1000,NA,NA,-75.665454,45.3209995
+2408276927,The Chip Shop,NA,fast_food,NA,Hazeldean Road,6001,NA,NA,-75.9252178,45.2755382
+2420120249,South Breeze Bistro,NA,fast_food,NA,NA,NA,NA,NA,-75.2184479,45.3147139
+2422169473,Subway,NA,fast_food,Subway,Carling Avenue,1423,NA,NA,-75.7407128,45.3860361
+2434101407,La Catrina Churros + Café Bar,NA,cafe,NA,Clarence Street,105,NA,NA,-75.6923938,45.4294657
+2435143841,Subway,NA,fast_food,Subway,Bank Street,106,NA,NA,-75.7005644,45.4200067
+2435572791,Starbucks,NA,cafe,Starbucks,Albert Street,340,NA,NA,-75.7024634,45.4187943
+2456328309,Harvey's,NA,fast_food,Harvey's,Airport Parkway Private,1000,NA,NA,-75.6669366,45.3220247
+2458140964,Pizza Pizza,NA,fast_food,Pizza Pizza,Wellington Street West,1199,NA,NA,-75.7302806,45.4004778
+2459473613,Cadman's Bagel,NA,fast_food,NA,Carling Avenue,2177,NA,NA,-75.7710421,45.3702978
+2476963172,Subway,NA,fast_food,Subway,Laurier Avenue East,50,NA,NA,-75.6867985,45.4233215
+2476976981,Pizza Lovers,NA,fast_food,NA,Laurier Avenue East,223,NA,NA,-75.681722,45.4259469
+2476976982,Subway,NA,fast_food,Subway,Laurier Avenue East,229,NA,NA,-75.6816218,45.4259832
+2476976983,Oka's,NA,fast_food,NA,Laurier Avenue East,233,NA,NA,-75.6815277,45.4260538
+2476976985,Figaro,NA,cafe,NA,Laurier Avenue East,234,NA,K1N 6P2,-75.6813629,45.4257942
+2501656860,Tim Hortons,NA,cafe,Tim Hortons,Walkley Road,1950,NA,NA,-75.6315333,45.3826826
+2511900621,Rocky River Cafe & Restaurant,NA,cafe,NA,NA,NA,NA,NA,-76.2523829,44.9001401
+2546870760,Second Cup,NA,cafe,Second Cup,O'Connor Street,111,NA,NA,-75.697723,45.4214639
+2586816963,Subway,NA,fast_food,Subway,West Hunt Club Road,340,NA,NA,-75.7138806,45.33758
+2604947798,Mantovani 1946,NA,cafe,NA,Murray Street,87,NA,NA,-75.6936311,45.4297926
+2608298967,Tim Hortons,NA,cafe,Tim Hortons,Main Street West,12001,NA,NA,-75.3746163,45.0864583
+2622899069,Domino's,NA,fast_food,Domino's,Carling Avenue,1393,NA,NA,-75.7396346,45.3863321
+2685200915,Marcello's,NA,cafe,NA,Preston Street,NA,NA,NA,-75.7101366,45.4020571
+2707169262,Subway,NA,fast_food,Subway,Albert Street,111,NA,NA,-75.6976916,45.4215292
+2719757458,Subway,NA,fast_food,Subway,Slater Street,110,NA,NA,-75.6960651,45.4207801
+2752666348,Harvey's,NA,fast_food,Harvey's,Baseline Road,1900,NA,NA,-75.7578714,45.3527498
+2799506455,McDonald's,NA,fast_food,McDonald's,Hunt Club Road,1661,NA,NA,-75.6314958,45.3606045
+2799778386,Subway,NA,fast_food,Subway,Bank Street,4505,NA,NA,-75.5994379,45.331389
+2801285847,Subway,NA,fast_food,Subway,Sparks Street,136,NA,NA,-75.6988012,45.4221259
+2801289221,Sushi Shop,NA,fast_food,Sushi Shop,Sparks Street,140,NA,NA,-75.6989105,45.4220813
+2801647373,Tim Hortons,NA,cafe,Tim Hortons,Terminal Avenue,535,NA,NA,-75.6436944,45.4147318
+2801647399,Wendy's,NA,fast_food,Wendy's,Terminal Avenue,535,NA,NA,-75.6437186,45.4146583
+2806231381,McDonald's,NA,fast_food,McDonald's,Stonehaven Drive,800,NA,NA,-75.8383583,45.2811385
+2873407138,Tim Hortons,NA,cafe,Tim Hortons,Constellation Drive,100,NA,NA,-75.7637548,45.3457322
+2889822298,Tim Hortons,NA,cafe,Tim Hortons,Strandherd Drive,3580,NA,NA,-75.7385041,45.2747218
+2904933202,War Museum Cafe,NA,cafe,NA,NA,NA,NA,NA,-75.7177324,45.4169773
+2935921841,Tim Hortons,NA,cafe,Tim Hortons,Colonel By Drive,1125,NA,NA,-75.6938094,45.3861027
+2937152509,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.7158053,45.4257901
+2946837335,Honey Boba,NA,cafe,NA,Somerset Street West,822,NA,NA,-75.7113405,45.4090915
+2951341618,Patates des 4 As,NA,fast_food,NA,NA,NA,NA,NA,-75.9127014,45.4388106
+2964203961,3 Brothers Shawarma,NA,fast_food,NA,NA,NA,NA,NA,-75.6778831,45.4318511
+2964218047,Margo,NA,fast_food,NA,Rideau Street,606,NA,NA,-75.6750682,45.4329108
+2965189866,Tim Hortons,NA,cafe,Tim Hortons,Bank Street,1611,NA,NA,-75.6668207,45.3782261
+2970689417,Subway,NA,fast_food,Subway,Elgin Street,180,NA,NA,-75.6919599,45.4194674
+2990989312,Bismillah Pies,NA,fast_food,NA,Carruthers Avenue,220,NA,NA,-75.7281414,45.4042938
+3037564182,Le M&R,NA,fast_food,NA,NA,NA,NA,NA,-75.802973,45.5034082
+3064006797,Tim Hortons,NA,cafe,Tim Hortons,Robertson Road,1856,NA,NA,-75.8197708,45.3271228
+3073717603,Thaï Express,NA,fast_food,Thaï Express,Clyde Avenue,1311,NA,NA,-75.7400831,45.3628339
+3155031103,McDonald's,NA,fast_food,McDonald's,Boulevard Maloney Est,882,NA,NA,-75.6024409,45.487042
+3163607759,Starbucks,NA,cafe,Starbucks,Scott Street,1620,NA,K1Y 4S7,-75.7337343,45.4035185
+3275585862,Falafel House,NA,fast_food,NA,Ogilvie Road,1054,NA,NA,-75.6348791,45.4246532
+3277850472,Tim Hortons,NA,cafe,Tim Hortons,Industrial Avenue,631,NA,NA,-75.6409784,45.4113024
+3325662206,Cloud Forest Pokoloko,NA,cafe,NA,Richmond Road,339,NA,K2A 0E7,-75.7540899,45.3921356
+3404786754,Opulence Coffee,NA,cafe,NA,Dalhousie Street,261,NA,K1N 7E3,-75.6924136,45.4305721
+3441705810,Starbucks,NA,cafe,Starbucks,Bank Street,455,NA,NA,-75.6931154,45.4116856
+3458020964,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.1289621,44.9444225
+3459766245,Burger King,NA,fast_food,Burger King,NA,NA,NA,NA,-75.1290244,44.9443675
+3470380010,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-75.1813069,44.9013233
+3607367770,Pizza Pizza,NA,fast_food,Pizza Pizza,Boulevard Saint-Joseph,434,Gatineau,NA,-75.7322314,45.4446326
+3607367771,Subway,NA,fast_food,Subway,Boulevard Saint-Joseph,438,Gatineau,NA,-75.7322191,45.4447605
+3607375288,Sushi Shop,NA,fast_food,Sushi Shop,Boulevard Saint-Joseph,454,Gatineau,NA,-75.7321926,45.4452105
+3645235263,Aladdin Pizza & Subs,NA,fast_food,NA,Montréal Road,272,NA,NA,-75.6599245,45.4365922
+3646536176,Subway,NA,fast_food,Subway,Boulevard du Mont-Bleu,207,NA,NA,-75.7667307,45.4602485
+3662389215,Rotisserie House Express,NA,fast_food,NA,NA,NA,NA,NA,-75.7877066,45.345696
+3667311989,Ogilvie Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.6419064,45.4431174
+3668935288,Tim Hortons,NA,cafe,Tim Hortons,Riverside Drive,3705,NA,NA,-75.6904345,45.342712
+3671178018,Shawarma King,NA,fast_food,NA,Bank Street,395,NA,NA,-75.6944446,45.4133466
+3671180070,Burgers 'n Fries Forever,NA,fast_food,NA,Bank Street,329,NA,NA,-75.6953121,45.4143479
+3688740051,Pizza Pizza,NA,fast_food,Pizza Pizza,NA,NA,NA,NA,-76.1211431,45.1324982
+3690226423,Wally's,NA,fast_food,NA,Rue Jacques-Cartier,1271,Gatineau,J8T 2W3,-75.6812903,45.4644138
+3690369608,Sérénithé,tea,cafe,NA,Rue Principale,142,Gatineau,J9H 3M4,-75.8421772,45.3949267
+3690399764,Sushi Shop,NA,fast_food,Sushi Shop,Promenade du Portage,152,NA,J8X 2K3,-75.7155969,45.4261046
+3690457110,La Joie Shawarma,NA,fast_food,NA,Promenade du Portage,169,Gatineau,J8X 2K4,-75.7156359,45.4264243
+3690478313,Subway,NA,fast_food,Subway,Boulevard Saint-Joseph,177,NA,J8Y 3X1,-75.7333717,45.4328549
+3690531279,Pizza Pizza,NA,fast_food,Pizza Pizza,Rue Georges-Bilodeau,2,Gatineau,J8Z 1V2,-75.7480591,45.4622264
+3690549132,Shawarma Style,NA,fast_food,NA,Boulevard du Mont-Bleu,207,Gatineau,J8Z 3G3,-75.7667236,45.4601851
+3690605528,La Cabane,NA,fast_food,NA,Chemin de Montréal Ouest,27,NA,J8M 1E9,-75.429805,45.542377
+3690678717,Amiral,NA,fast_food,NA,Boulevard Alexandre-Taché,365,Gatineau,J9A 1M4,-75.743935,45.421777
+3690721522,Thaï Express,NA,fast_food,Thaï Express,Boulevard Saint-Joseph,452,Gatineau,NA,-75.7321919,45.4451143
+3690725525,BarBurrito,NA,fast_food,NA,Boulevard Saint-Joseph,450,Gatineau,NA,-75.7322284,45.4449709
+3690733699,A&W,NA,fast_food,A&W,Chemin Vanier,479,Gatineau,NA,-75.8077263,45.4161345
+3690734660,Subway,NA,fast_food,Subway,Chemin Vanier,475,Gatineau,NA,-75.8078915,45.4161251
+3690735211,Starbucks,NA,cafe,Starbucks,Chemin Vanier,495,Gatineau,NA,-75.8069617,45.4162501
+3690739840,La Zone Chawarma,NA,fast_food,NA,Chemin Vanier,491,Gatineau,NA,-75.8071279,45.4162438
+3690765682,Pizza La Difference,NA,fast_food,NA,Avenue de Buckingham,556,Gatineau,J8L 2H1,-75.4159071,45.5855363
+3690792157,Café Cloudforest Coffee,NA,cafe,NA,Rue Eddy,63,Gatineau,J8X 2W1,-75.7200903,45.4270305
+3690867976,Cafe British,NA,cafe,NA,Rue Principale,79,Gatineau,NA,-75.846721,45.394924
+3692147799,3 Brothers Shawarma & Poutine,NA,fast_food,NA,Osgoode Street,124,NA,NA,-75.6807891,45.4238721
+3703012717,Happy Goat Coffee,NA,cafe,NA,Laurel Street,35,NA,K1Y 4M4,-75.7172558,45.4052794
+3715901205,Rockland Pizza,NA,fast_food,NA,Laurier Street,2294,NA,K4K 1E3,-75.2947855,45.5462629
+3720511814,Its Mamas Kitchen,NA,fast_food,NA,NA,NA,NA,NA,-75.6902171,45.3915691
+3741511680,Subway,NA,fast_food,Subway,Bank Street,414,NA,NA,-75.694119,45.4125585
+3755250944,Tim Hortons,NA,cafe,Tim Hortons,Colonel By Drive,1125,NA,NA,-75.6959664,45.3821288
+3755250945,Tim Hortons,NA,cafe,Tim Hortons,Colonel By Drive,1125,NA,NA,-75.698025,45.3833928
+3836525496,Tim Hortons,NA,cafe,Tim Hortons,Innes Road,3869,NA,NA,-75.5122822,45.4532186
+3842987881,Subway,NA,fast_food,Subway,Riverside Drive,3987,NA,NA,-75.6923817,45.3336266
+3869632853,Westboro Subs,NA,fast_food,NA,Wellington Street West,1262,NA,NA,-75.7332749,45.3992688
+3872339560,Second Cup,NA,cafe,Second Cup,Colonel By Drive,1125,NA,NA,-75.6984018,45.384313
+3928664712,The Dadam,NA,cafe,NA,Thad Johnson Private,140,NA,NA,-75.6534545,45.3256343
+3978191464,Bombay Garden,NA,fast_food,NA,Bank Street,2401,NA,NA,-75.6491715,45.3548624
+3984740461,A&W,NA,fast_food,A&W,Ogilvie Road,1980,NA,NA,-75.6095403,45.4318307
+4003118886,Cypress Gardens,NA,fast_food,NA,Carling Avenue,937,NA,NA,-75.7133799,45.3955081
+4143839524,The Gathering Room Cafe,NA,cafe,NA,NA,NA,NA,NA,-75.2287201,45.1022021
+4152424712,The Vanitea Room,NA,cafe,NA,Somerset Street West,551,NA,K1R 5J9,-75.7021043,45.4131195
+4210789303,Tim Hortons,NA,cafe,Tim Hortons,Elgin Street,90,NA,NA,-75.6948609,45.4221172
+4232113592,Pizza Hull,NA,fast_food,NA,Boulevard Saint-Joseph,530,NA,NA,-75.7342895,45.4488413
+4234091693,County Grill,NA,fast_food,NA,Boundary Road,NA,NA,NA,-75.443307,45.3445689
+4241812889,Bread By Us,bakery,cafe,NA,NA,NA,NA,NA,-75.7249963,45.403615
+4243063701,Loaded Pierogi,NA,fast_food,NA,Wellington Street West,1202,NA,NA,-75.7303268,45.4002006
+4243199770,Subway,NA,fast_food,Subway,Wellington Street West,1068,NA,NA,-75.7247267,45.403491
+4244636594,The Pizza Castle,NA,fast_food,NA,NA,NA,NA,NA,-75.1823485,44.900897
+4249078789,Meltwitch Food Co,NA,fast_food,NA,Wellington Street West,1264,NA,NA,-75.7334084,45.3992391
+4257043038,Ti-Jean Casse-Croute,NA,fast_food,NA,NA,NA,NA,NA,-75.7396605,45.4472739
+4260939189,Morning Owl,NA,cafe,NA,Armstrong Street,229,NA,NA,-75.7302475,45.4019941
+4269823295,#1 Chinese,NA,fast_food,NA,Wellington Street West,NA,NA,NA,-75.7227027,45.4056203
+4322688646,Brian's Spuds with Taste,NA,fast_food,NA,Staye Court Drive,31,NA,K7S 0E8,-76.3699988,45.4239556
+4343788836,Picolo Grande,NA,cafe,NA,Murray Street,55,NA,NA,-75.694458,45.4294771
+4350026197,Wellington Market,NA,fast_food,NA,NA,NA,NA,NA,-75.6977336,45.4188885
+4350026290,Orient House,NA,fast_food,NA,Laurier Avenue West,150,NA,NA,-75.6939168,45.4205083
+4350026291,Tim Hortons,NA,cafe,Tim Hortons,Laurier Avenue West,161,NA,K1P 5J2,-75.6947011,45.4205613
+4350043119,Presotea,NA,cafe,NA,Slater Street,212,NA,K1P 5H8,-75.6993198,45.419412
+4350043980,Shawarma Village,NA,fast_food,NA,O'Connor Street,84,NA,NA,-75.6981568,45.4204049
+4350044648,Tim Hortons,NA,cafe,Tim Hortons,Slater Street,171,NA,NA,-75.6980395,45.4202346
+4350057560,La Prep,NA,fast_food,NA,NA,NA,NA,NA,-75.6951409,45.4200333
+4350070836,Fat Alberts,NA,fast_food,NA,NA,NA,NA,NA,-75.6967928,45.4196083
+4352652592,Tim Hortons,NA,cafe,Tim Hortons,King Edward Avenue,800,NA,NA,-75.678723,45.4193955
+4352985557,Timothy's,NA,cafe,Timothy's,Sparks Street,240,NA,NA,-75.7020573,45.4204194
+4352999190,K&W Shawarma & Restaurant,NA,fast_food,NA,Lees Avenue,180,NA,NA,-75.6711614,45.4151819
+4353871608,Subway,NA,fast_food,Subway,St-Laurent Boulevard,1767,NA,NA,-75.625665,45.4046199
+4353873155,Alissar,NA,fast_food,NA,St-Laurent Boulevard,1765,NA,NA,-75.6256886,45.4046759
+4354739366,Tim Hortons,NA,cafe,Tim Hortons,Queen Street,330,NA,NA,-75.7041701,45.418937
+4365606189,Le Moulin De Provence,NA,cafe,NA,Metcalfe Street,30,NA,NA,-75.6971115,45.4222773
+4407010726,Shawarma Express,NA,fast_food,NA,Slater Street,119,NA,NA,-75.6963782,45.420931
+4408934306,S&S Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.7461467,45.2711676
+4410766031,McDonald's,NA,fast_food,McDonald's,Bank Street,77,NA,NA,-75.7009299,45.4208882
+4416302489,Cafe Cristal,NA,cafe,NA,Kennevale Drive,240,NA,NA,-75.7772933,45.2649291
+4416783989,Byward Cafe,NA,cafe,NA,By Ward Market Square,55,NA,NA,-75.6920006,45.4273792
+4456757733,SushiGo,NA,fast_food,NA,By Ward Market Square,48,NA,NA,-75.6927302,45.4273951
+4456757736,India Cafe,NA,fast_food,NA,NA,NA,NA,NA,-75.693016,45.427786
+4456757740,Eddy Authentic Lebanese Cuisine,NA,fast_food,NA,By Ward Market Square,42,NA,K1N 7A2,-75.692811,45.4274974
+4457025801,Hing Lung Chinese Food,NA,fast_food,NA,Dalhousie Street,199,NA,NA,-75.6937377,45.432121
+4459625889,Le BBQ Shop,NA,fast_food,NA,Boulevard Fournier,41,Gatineau,NA,-75.713298,45.4451962
+4485962422,Starbucks,NA,cafe,Starbucks,Bank Street,2210,NA,NA,-75.655831,45.3566782
+4492679764,Domino's,NA,fast_food,Domino's,Cumberland Street,333,NA,NA,-75.6892406,45.4303142
+4494519848,Tim Hortons,NA,cafe,Tim Hortons,Rideau Street,99,NA,NA,-75.6918172,45.4263948
+4494580713,Lollo,NA,cafe,NA,George Street,60,NA,NA,-75.6920183,45.4268473
+4512646805,Golden Thai,NA,fast_food,NA,Scott Street,1620,NA,NA,-75.7333854,45.4034249
+4512646806,Subway,NA,fast_food,Subway,Scott Street,1620,NA,NA,-75.7330837,45.4035944
+4512646807,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Scott Street,1620,NA,NA,-75.7332835,45.4035389
+4559290367,Mont Liban Bakery & Shawarma,NA,fast_food,NA,Montréal Road,351,NA,NA,-75.6559813,45.4382653
+4562411181,Happy Goat,NA,cafe,NA,Rideau Street,229,NA,K1N 5X8,-75.6877731,45.428088700000004
+4571313556,River Pizza,NA,fast_food,NA,Innes Road,4042,NA,NA,-75.5051264,45.455013
+4600017124,Cafeteria/CHFC Gym,NA,fast_food,NA,NA,NA,NA,NA,-75.690046,45.3745365
+4613299441,Tim Hortons,NA,cafe,Tim Hortons,Cooper Street,396,NA,NA,-75.6967151,45.4159891
+4616547724,Subway,NA,fast_food,Subway,Bronson Avenue,572 A,NA,NA,-75.7025375,45.4054531
+4616547725,Harvey's,NA,fast_food,Harvey's,Bronson Avenue,564,NA,NA,-75.7029158,45.4056907
+4616547726,Burrito Gringo,NA,fast_food,NA,Bronson Avenue,566,NA,NA,-75.7028749,45.4056028
+4618955413,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Notre Dame Street,1025,NA,NA,-75.276047,45.2739559
+4619011307,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Kennevale Drive,220,NA,NA,-75.776624,45.2651546
+4620974908,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Metcalfe Street,100,NA,NA,-75.6956742,45.4206447
+4620975919,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Promenade du Portage,200,NA,NA,-75.7132787,45.4267707
+4620981437,Boustan,NA,fast_food,NA,Rideau Street,175,NA,NA,-75.6894792,45.4273661
+4620983267,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Boulevard Gréber,178,NA,J8T 6Z6,-75.7014815,45.4717362
+4636657489,Wolf Down,NA,fast_food,NA,Bank Street,380,NA,NA,-75.6950544,45.4136479
+4639825962,Burgers and Shakes,NA,fast_food,NA,Kennevale Drive,220,NA,K2J 6B6,-75.776942,45.2650414
+4640808618,Food Stop,NA,fast_food,NA,Perth Street,6180,NA,NA,-75.8413895,45.1925128
+4672375530,Quesada,NA,fast_food,Quesada,NA,NA,NA,NA,-75.181228,44.9013442
+4677473731,CC's Corner,NA,cafe,NA,Lennox Street,6,NA,NA,-75.8395357,45.1932643
+4688776912,John's Diner,NA,fast_food,NA,Wellington Street West,1365,NA,NA,-75.7388294,45.398384
+4697719759,Subway,NA,fast_food,Subway,Mccarthy Road,3332,NA,NA,-75.6702435,45.3509209
+4699096116,Subway,NA,fast_food,Subway,Rue Victoria,299,NA,NA,-75.2419349,45.5973857
+4707526037,Subway,NA,fast_food,Subway,Campeau Drive,8555,NA,K2T 0K5,-75.9393047,45.2974911
+4707526038,Villa Madina,NA,fast_food,Villa Madina,Campeau Drive,8555,NA,K2T 0K5,-75.9393793,45.2974568
+4707526039,Teriyaki Experience,NA,fast_food,Teriyaki Experience,Campeau Drive,8555,NA,K2T 0K5,-75.939449,45.2974147
+4707526040,Sbarro,NA,fast_food,Sbarro,Campeau Drive,8555,NA,K2T 0K5,-75.9395309,45.2973783
+4708975590,Tim Hortons,NA,cafe,Tim Hortons,Airport Parkway Private,1000,NA,NA,-75.6668641,45.3221089
+4710641111,Tim Hortons,NA,cafe,Tim Hortons,Cumberland Street,423,NA,NA,-75.6870976,45.4277133
+4715845735,Tim Hortons,NA,cafe,Tim Hortons,Innes Road,1494,NA,NA,-75.6045105,45.4146655
+4733084883,Bridgehead,NA,cafe,Bridgehead,Iris Street,2745,NA,K2C 3V5,-75.7880337,45.3481767
+4735313764,Subway,NA,fast_food,Subway,Iris Street,2745,NA,K2C 3V5,-75.7881771,45.348192
+4743702495,Burger Lovers,NA,fast_food,NA,Laurier Avenue East,223,NA,NA,-75.6816921,45.4259593
+4750915981,Pizzeria Da Romolo,NA,fast_food,NA,Bank Street,410,NA,NA,-75.6941771,45.4126248
+4750968162,Panago,NA,fast_food,Panago,Rideau Street,458,NA,NA,-75.6800929,45.4309538
+4751129740,Gourmet Sushi,NA,fast_food,NA,Dalhousie Street,206,NA,NA,-75.6938749,45.4318658
+4751593811,Jerkies Chicken,NA,fast_food,NA,Mann Avenue,105,NA,NA,-75.6723959,45.4212027
+4757841150,Harvey's,NA,fast_food,Harvey's,Innes Road,4290,NA,NA,-75.494673,45.4584031
+4760024042,Centrale Bergham,NA,fast_food,NA,Bank Street,1611,NA,NA,-75.6667662,45.3781159
+4779808529,Sugar Marmalade,NA,fast_food,NA,Rideau Street,180,NA,NA,-75.6890844,45.4271844
+4779808761,Island Flava,NA,fast_food,NA,Dalhousie Street,409,NA,NA,-75.689131,45.4267458
+4779808790,Hot-Star Chicken,NA,fast_food,NA,Dalhousie Street,412,NA,NA,-75.6893269,45.4264964
+4779808814,Midnights,NA,fast_food,NA,Rideau Street,221,NA,NA,-75.6881477,45.4279051
+4779808926,Centrale Bergham,NA,fast_food,NA,Dalhousie Street,374,NA,NA,-75.6901882,45.4274544
+4779809322,Food Mood,NA,fast_food,NA,Rideau Street,178,NA,NA,-75.6891309,45.4271597
+4779809509,Kothu Rotti,NA,fast_food,NA,Dalhousie Street,408,NA,NA,-75.6893531,45.4265303
+4779873995,Tony's Pizza,NA,fast_food,NA,Jeanne-d'Arc Boulevard North,7772,NA,NA,-75.5275944,45.4819112
+4782141725,Shawarma Rosana,NA,fast_food,NA,Arch Street,2219,NA,NA,-75.6303146,45.3894133
+4782968326,Takeout King,NA,fast_food,NA,NA,NA,NA,NA,-75.6966854,45.4155311
+4782968327,Cheese it Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.6966572,45.415494
+4783668754,Subway,NA,fast_food,Subway,Beechwood Avenue,160,NA,NA,-75.6726989,45.4414192
+4796845724,Lunchbox Goyrmet Sandwiches & Salads,NA,fast_food,NA,Hinchey Avenue,173,NA,NA,-75.7306324,45.4072149
+4805717221,Carlsbad Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.4557745,45.3690256
+4829277921,Marius,NA,cafe,NA,NA,NA,NA,NA,-75.7138761,45.4288751
+4829318224,Moca Cafe,NA,cafe,NA,NA,NA,NA,NA,-75.7157641,45.4290053
+4830165695,Domino's,NA,fast_food,Domino's,Belfast Road,1010,NA,NA,-75.6304853,45.4105867
+4833189434,North Gower Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.7159096,45.1305081
+4846309224,Stella Luna Café,NA,cafe,NA,NA,NA,NA,NA,-75.7267862,45.4017088
+4874405348,Nacho Cartel,NA,fast_food,NA,NA,NA,NA,NA,-75.6847724,45.4253704
+4876778421,Bridgehead,NA,cafe,Bridgehead,McRae Avenue,317,NA,NA,-75.7497205,45.395893
+4880994736,Shorty's Sandwich Shop,NA,fast_food,NA,Colonnade Road South,174,NA,K2E 7J5,-75.7131595,45.3420685
+4907630483,Art House Café,NA,cafe,NA,Somerset Street West,555,NA,K1R 5K1,-75.7023605,45.4130352
+4913992318,Favoritz,NA,fast_food,NA,NA,NA,NA,NA,-75.4792419,45.4902707
+4924957943,Cacao 70,NA,cafe,NA,Marché Way,225,NA,NA,-75.6844389,45.400307
+4924957949,Aroma Espresso Bar,NA,cafe,Aroma Espresso Bar,NA,NA,NA,NA,-75.6846938,45.3997928
+4940326562,Chip Wagon,NA,fast_food,NA,NA,NA,NA,NA,-75.6817366,45.4302477
+4969122479,Coco,NA,cafe,CoCo,NA,NA,NA,NA,-75.6908351,45.3349876
+4981000004,Bap by Raon Kitchen,NA,fast_food,NA,Laurier Avenue West,141,NA,NA,-75.6940605,45.4208171
+5054736221,Cafe Morala,NA,cafe,NA,Bank Street,734,NA,NA,-75.6890954,45.4040123
+5057582464,Tim Hortons,NA,cafe,Tim Hortons,Trim Road,1270,NA,NA,-75.4797643,45.4907323
+5060367088,Subway,NA,fast_food,Subway,Main Street,164,NA,NA,-75.678574,45.4095966
+5081705877,Starbucks,coffee,cafe,Starbucks,Tunney's Pasture Driveway,170,NA,NA,-75.734853,45.4069064
+5081735092,Dura-Don,NA,fast_food,NA,NA,NA,NA,NA,-75.7337978,45.4025756
+5085976323,Asian Stars,NA,fast_food,NA,Clyde Avenue,1380,NA,NA,-75.7393817,45.3596785
+5087047594,McDonald's,NA,fast_food,McDonald's,Boulevard de la Gappe,640,Gatineau,J8T 0B5,-75.720215,45.4653498
+5095878971,Fattoush Lady,NA,fast_food,NA,Slater Street,99,NA,NA,-75.6948766,45.4216073
+5102251257,Nutella Cafe,NA,cafe,NA,Metcalfe Street,193,NA,NA,-75.6934069,45.4185738
+5115858561,Presotea,NA,cafe,NA,Rideau Street,174 A,NA,NA,-75.6893101,45.4270864
+5129263655,Tim Hortons,NA,cafe,Tim Hortons,Carling Avenue,1053,NA,NA,-75.7222632,45.3925928
+5129263656,The Tulip Café,NA,cafe,NA,NA,NA,NA,NA,-75.7209611,45.3932323
+5158087366,Gladstone Lounge,NA,cafe,NA,NA,NA,NA,NA,-75.7052924,45.4070532
+5159729978,Starbucks,NA,cafe,Starbucks,Colonel By Drive,1125,NA,NA,-75.6994825,45.3822517
+5160966449,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-75.4163163,45.5860164
+5163719545,Oasis,NA,food_court,NA,Colonel By Drive,1125,NA,NA,-75.6971049,45.3870979
+5178407976,Tim Hortons,NA,cafe,Tim Hortons,Hazeldean Road,6061,NA,NA,-75.9309863,45.2726719
+5194249714,Second Cup,NA,cafe,Second Cup,Rue Eddy,22,Gatineau,NA,-75.719666,45.4256591
+5204841596,Tim Hortons,NA,cafe,Tim Hortons,Université Private,85,NA,K1N 6N5,-75.683858,45.4226616
+5215408329,Subway,NA,fast_food,Subway,Boulevard Saint-Joseph,1030,NA,NA,-75.73754,45.468784
+5228464110,A&W,NA,fast_food,A&W,Montée Paiement,395,NA,NA,-75.6762904,45.4901908
+5297919950,Megabite Cafe,NA,cafe,NA,NA,NA,NA,NA,-75.9199817,45.3491167
+5298489412,B-Café,NA,cafe,NA,Legget Drive,525,NA,NA,-75.9181606,45.3481545
+5298603557,Little Caesars,NA,fast_food,Little Caesars,Montréal Road,355,NA,NA,-75.6550714,45.4387191
+5302662802,Good Eats,NA,cafe,NA,Bell Street North,207,NA,NA,-75.7052602,45.4058686
+5362589803,Wes' Chips,NA,fast_food,NA,NA,198,Arnprior,K7S 3K2,-76.3425511,45.4328659
+5363534913,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-75.6165897,45.5939234
+5363534914,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.6167283,45.5951423
+5369368927,Happy Goat,NA,cafe,NA,Wilbrod Street,317,NA,NA,-75.6806017,45.4277156
+5398499721,Little Jo Berry's Bakery,bakery,cafe,NA,Wellington Street West,1303,NA,NA,-75.7358391,45.3990103
+5403715821,nom nom,NA,fast_food,NA,Montréal Road,2160,NA,NA,-75.5894346,45.4489149
+5444253028,The Great Canadian Poutinerie,NA,fast_food,NA,Deschamps Avenue,200,NA,NA,-75.6647879,45.4365605
+5489988550,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-76.3457376,45.4342754
+5500119895,Subway,NA,fast_food,Subway,Boulevard du Plateau,20,NA,NA,-75.7683559,45.4368775
+5504236489,Subway,NA,fast_food,Subway,Carling Avenue,3500,NA,NA,-75.8508017,45.3481594
+5504236491,Subway,NA,fast_food,Subway,Hazeldean Road,5577,NA,NA,-75.9060248,45.2887911
+5504236497,Subway,NA,fast_food,Subway,Bank Street,2056,NA,NA,-75.6605647,45.3647688
+5504236498,Subway,NA,fast_food,Subway,Aviation Parkway,801,NA,NA,-75.6280067,45.4393554
+5504236500,Subway,NA,fast_food,Subway,Colonel By Drive,1125,NA,NA,-75.6934163,45.3861242
+5504236501,Subway,NA,fast_food,Subway,Colonel By Drive,1125,NA,NA,-75.6975185,45.3833907
+5504236503,Subway,NA,fast_food,Subway,Queen Street,320,NA,NA,-75.7041811,45.419438
+5504236505,Subway,NA,fast_food,Subway,Laurier Avenue West,407,NA,NA,-75.702307,45.4178349
+5504236506,Subway,NA,fast_food,Subway,Sparks Street,240,NA,NA,-75.701899,45.420423
+5506692108,Tim Hortons,NA,cafe,Tim Hortons,Prince Of Wales Drive,2162,NA,NA,-75.7018202,45.3333194
+5519526864,Pizza 9,NA,fast_food,NA,NA,NA,NA,NA,-75.7120577,45.4349888
+5520981726,Starbucks,NA,cafe,Starbucks,MacKay Street,409,NA,NA,-75.6773738,45.4393087
+5538205921,Misto Find Food Shop & Eatery,NA,fast_food,NA,Carling Avenue,1387,NA,NA,-75.7394928,45.386375
+5541444230,Olga's Deli,NA,fast_food,NA,Bank Street,588,NA,NA,-75.6912624,45.4077784
+5543403442,Tim Hortons,NA,cafe,Tim Hortons,Aviation Parkway,801,NA,NA,-75.6261116,45.4403687
+5554845552,Mimi's In Manotick,NA,cafe,NA,Bridge Street,1088,NA,K4M 1H3,-75.6819607,45.2292623
+5556769034,Kernels Popcorn,NA,fast_food,Kernels Popcorn,Place-d'Orléans Drive,110,NA,NA,-75.5168072,45.4780965
+5584426818,Golden Crust,NA,fast_food,NA,Montréal Road,1730,NA,NA,-75.6101894,45.4456318
+5597089089,Domino's,NA,fast_food,Domino's,Bank Street,464,NA,NA,-75.6933814,45.4113054
+5599372836,Tim Hortons,NA,cafe,Tim Hortons,Baseline Road,1980,NA,NA,-75.7594014,45.3514077
+5606069125,Grab N' Eat,NA,fast_food,NA,Carling Avenue,2916,NA,NA,-75.8009085,45.3565614
+5614137260,Starbucks,NA,cafe,Starbucks,Colonel By Drive,1125,NA,NA,-75.6974168,45.3871072
+5616186717,Milano Pizzeria,NA,fast_food,NA,Baseline Road,2529,NA,NA,-75.7855287,45.3423683
+5622497590,Rooster's Coffeehouse,NA,cafe,NA,NA,NA,NA,NA,-75.6978661,45.3831012
+5622497591,Booster Juice,NA,fast_food,Booster Juice,Colonel By Drive,1125,NA,NA,-75.698063200000007,45.3833339
+5622497592,Starbucks,NA,cafe,Starbucks,Colonel By Drive,1125,NA,NA,-75.6981631,45.383023
+5622497593,The Kitchen Exchange,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6975281,45.3833128
+5622497594,The Market,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6975533,45.3833288
+5622497595,The Greens,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6975221,45.3832602
+5622497596,Spring Rolls Go,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.697571,45.3832788
+5622497597,La Cocina,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6976005,45.383308
+5622497598,Colonel By Chicken,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6976569,45.3833362
+5622497599,Burger 101,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6976381,45.3833852
+5622497600,Bento Sushi,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6974671,45.3832717
+5622497602,The Food Court,NA,food_court,NA,Colonel By Drive,1125,NA,NA,-75.6975563,45.3833716
+5622637386,Pizza Pizza,NA,fast_food,Pizza Pizza,Colonel By Drive,1125,NA,NA,-75.697052,45.3871331
+5622637387,La Cocina,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6971526,45.387135
+5622637388,Il Forno Tuscano,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6990168,45.3808605
+5622637389,The Greens,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6989289,45.3808855
+5622637390,Grill Works,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6989678,45.3809015
+5622637391,Pizza Pizza,NA,fast_food,Pizza Pizza,Colonel By Drive,1125,NA,NA,-75.69901,45.3808907
+5622637392,Loeb Cafe,NA,food_court,NA,Colonel By Drive,1125,NA,NA,-75.6989738,45.3808735
+5622637393,The Bent Coin,NA,fast_food,NA,Colonel By Drive,1125,NA,NA,-75.6942813,45.3832491
+5629538329,Tim Hortons,NA,cafe,Tim Hortons,Bronson Avenue,655,NA,NA,-75.7007508,45.4034586
+5631157087,Presse Café,NA,cafe,NA,Queen Street,181,NA,K1P 1K9,-75.6999585,45.4210513
+5631157090,Friends Coffee,NA,cafe,NA,Queen Street,224,NA,NA,-75.7010371,45.4203169
+5631415376,1 For 1 Pizza,NA,fast_food,NA,Rideau Street,195,NA,NA,-75.6888733,45.4276291
+5631506334,Cadman's Montreal Bagels,NA,fast_food,NA,Montréal Road,150,NA,NA,-75.6649379,45.4344053
+5635222932,Wrap City,NA,fast_food,NA,Bronson Avenue,462 ½,NA,NA,-75.7038519,45.4079092
+5640038598,Queensway Carleton Cafeteria,NA,food_court,NA,NA,NA,NA,NA,-75.8078997,45.3345789
+5640038599,Tim Hortons,NA,cafe,Tim Hortons,Baseline Road,3045,NA,NA,-75.8070011,45.334939
+5645816802,Tim Hortons,NA,cafe,Tim Hortons,Airport Parkway Private,1000,NA,NA,-75.6672788,45.3218791
+5664638039,Tim Hortons,NA,cafe,Tim Hortons,Montréal Road,2075,NA,NA,-75.5938912,45.4480389
+5664722304,Presse Cafe,NA,cafe,NA,Blair Towers Place,1420,NA,NA,-75.605354,45.4346594
+5667282243,Aztec Tacos,NA,fast_food,NA,Montréal Road,77,NA,NA,-75.6677215,45.4338324
+5667282253,Lorenzo's Pizzeria,NA,fast_food,NA,Montréal Road,94,NA,NA,-75.6669407,45.4338852
+5667880282,Chatime,NA,cafe,Chatime,Dalhousie Street,375,NA,NA,-75.689843,45.4276014
+5667920325,Amore Gelato,NA,fast_food,NA,William Street,71,NA,NA,-75.6913052,45.4269042
+5667959434,Sharetea,NA,fast_food,NA,Dalhousie Street,399,NA,NA,-75.6893365,45.4269397
+5667959437,Smoke's Poutinerie,NA,fast_food,Smoke's Poutinerie,Dalhousie Street,407,NA,NA,-75.6892042,45.4268158
+5668006563,Palermo Express,NA,fast_food,NA,Sparks Street,143,NA,NA,-75.6987962,45.4223811
+5668006570,Tim Hortons,NA,cafe,Tim Hortons,Sparks Street,200,NA,NA,-75.7007385,45.4212903
+5668153226,240 Sparks Food Court,NA,food_court,NA,Sparks Street,240,NA,NA,-75.7018276,45.4205068
+5668153227,Valentina,NA,fast_food,NA,Sparks Street,240,NA,NA,-75.7018168,45.4204584
+5668153228,Shawarma Royale,NA,fast_food,NA,Sparks Street,240,NA,NA,-75.7017652,45.4204795
+5668153229,Asian Gourmet,NA,fast_food,NA,Sparks Street,240,NA,NA,-75.7016928,45.4205092
+5668153230,Jimmy the Greek,NA,fast_food,Jimmy the Greek,Sparks Street,240,NA,NA,-75.7016366,45.4205319
+5668153231,Manhattan's,NA,fast_food,NA,Sparks Street,240,NA,NA,-75.7015803,45.420553
+5668153232,Teriyaki Experience,NA,fast_food,Teriyaki Experience,Sparks Street,240,NA,NA,-75.7015187,45.4205774
+5668153233,Marcello’s,NA,fast_food,NA,Sparks Street,240,NA,NA,-75.7015041,45.4206298
+5668172184,Station Express,NA,cafe,NA,Queen Street,320,NA,NA,-75.7040029,45.4195196
+5668172185,Corner Kitchen,NA,fast_food,NA,Queen Street,320,NA,NA,-75.7045252,45.4194525
+5668172186,Manhattan's,NA,fast_food,NA,Queen Street,320,NA,NA,-75.7046161,45.419418
+5668172187,Claypot Asian Cuisine,NA,fast_food,NA,Queen Street,320,NA,NA,-75.7049159,45.4193325
+5668172188,Place de Ville Food Court,NA,food_court,NA,Queen Street,320,NA,NA,-75.7046841,45.4193549
+5668279490,Laurier Coffee & Bakery,NA,cafe,NA,Laurier Avenue West,407,NA,NA,-75.7028292,45.4174514
+5668279492,Minto Place Food Court,NA,food_court,NA,Laurier Avenue West,407,NA,NA,-75.7024519,45.4176473
+5668279494,Go For Sushi,NA,fast_food,NA,Laurier Avenue West,407,NA,NA,-75.7024,45.4179933
+5668279495,Treats,NA,fast_food,NA,Laurier Avenue West,407,NA,NA,-75.7025913,45.4176718
+5668279496,El Toro Pizza,NA,fast_food,NA,Laurier Avenue West,407,NA,NA,-75.7024974,45.4176995
+5668279497,Manhattan's,NA,fast_food,NA,Laurier Avenue West,407,NA,NA,-75.7024037,45.4177338
+5668279501,Marcello's,NA,fast_food,NA,Laurier Avenue West,407,NA,NA,-75.7023708,45.4176203
+5668279502,Shawarma Andalos,NA,fast_food,NA,Laurier Avenue West,407,NA,NA,-75.7024951,45.4175502
+5668279503,Manchu Wok,NA,fast_food,Manchu Wok,Laurier Avenue West,407,NA,NA,-75.7026638,45.4174959
+5670777822,The Original Joe’s Pizza and Subs,NA,fast_food,NA,Merivale Road,1482,NA,K2E 6Z5,-75.7359658,45.3600324
+5672984193,Pop's Paninis,NA,fast_food,NA,Carling Avenue,2255,NA,NA,-75.7745115,45.3687192
+5674009495,Sushi Shop,NA,fast_food,Sushi Shop,Bank Street,827,NA,NA,-75.6877401,45.4021719
+5676165158,Oat Couture,NA,cafe,NA,Bank Street,1154,NA,NA,-75.6827566,45.3929707
+5676165172,Panago,NA,fast_food,Panago,Bank Street,1069,NA,NA,-75.6835441,45.394773
+5676880046,Kung Fu Tea,NA,cafe,Kung Fu Tea,Bank Street,1167,NA,NA,-75.6819271,45.3925011
+5680804054,Ottawa Kabab,NA,fast_food,NA,Gladstone Avenue,577,NA,NA,-75.7009365,45.4094309
+5680804055,Cafe Dijla,NA,cafe,NA,Gladstone Avenue,575,NA,NA,-75.7007253,45.4094826
+5689063820,Lunchbox,NA,fast_food,NA,St. Joseph Boulevard,2817,NA,NA,-75.5202623,45.4736717
+5689366238,Fritomania,NA,fast_food,NA,NA,NA,NA,NA,-75.5276491,45.4696103
+5692990021,Second Cup,NA,cafe,Second Cup,Smyth Road,501,NA,NA,-75.6477721,45.4013018
+5692990023,Café 501,NA,cafe,NA,Smyth Road,501,NA,NA,-75.6481668,45.4014291
+5692997384,Tim Hortons,NA,cafe,Tim Hortons,Smyth Road,501,NA,NA,-75.6460898,45.4021965
+5693066258,Oasis,NA,cafe,NA,Smyth Road,401,NA,NA,-75.6513933,45.4010196
+5693066259,Rainbow Cafe,NA,food_court,NA,Smyth Road,401,NA,NA,-75.6519475,45.4013137
+5699786529,African Grill,NA,fast_food,NA,Clyde Avenue,1383,NA,NA,-75.738079,45.3597673
+5699786531,Princess Shawarma,NA,fast_food,NA,Clyde Avenue,1383,NA,NA,-75.7383178,45.3596985
+5700725718,Sunmax Pizza,NA,fast_food,NA,Meadowlands Drive East,1119,NA,NA,-75.7121448,45.3628656
+5700971529,Taters,NA,fast_food,NA,Eagleson Road,660,NA,NA,-75.8694363,45.2874274
+5709610257,Tavern on the Falls,NA,cafe,NA,John Street,1,NA,NA,-75.6959702,45.4420325
+5720669276,Karara The Indian Takeout,NA,fast_food,NA,Richmond Road,356,NA,NA,-75.7545613,45.3916365
+5720726899,MHK Sushi,NA,fast_food,NA,Richmond Road,283,NA,NA,-75.7516471,45.3932375
+5720726914,Happy Goat Coffee Company,NA,cafe,NA,Richmond Road,307,NA,NA,-75.7524152,45.3928921
+5720792395,Shawarma AL Mouna,NA,fast_food,NA,Wellington Street West,1266,NA,NA,-75.7334717,45.3992282
+5720949125,Tim Hortons,NA,cafe,Tim Hortons,Huntmar Drive,225,NA,NA,-75.9275155,45.2940743
+5721516706,Lucky Fortune Chinese Food,NA,fast_food,NA,Trim Road,1970,NA,NA,-75.4552844,45.4713967
+5726396622,Second Cup,NA,cafe,Second Cup,Wellington Street West,1235,NA,NA,-75.7322358,45.3998236
+5731301372,Capilano Pizzeria,NA,fast_food,NA,Prescott Street,215,NA,NA,-75.6438303,45.0151091
+5731368066,Starfries,NA,fast_food,NA,NA,NA,NA,NA,-75.8289403,45.3240351
+5732379444,Kouzina Pizza,NA,fast_food,NA,Lees Avenue,180,NA,NA,-75.6705116,45.4153592
+5732379448,Medina Fried Chicken,NA,fast_food,NA,Lees Avenue,170,NA,NA,-75.6718775,45.415109
+5737389115,Marcello's,NA,fast_food,NA,Lancaster Road,2450,NA,NA,-75.6188905,45.4012707
+5739418227,E T Cafe,NA,cafe,NA,Bank Street,1355,NA,NA,-75.6751474,45.3881374
+5739855486,iL Forno,NA,fast_food,NA,Merivale Road,1950,NA,NA,-75.7199527,45.3263047
+5739855489,Via Slack,NA,cafe,NA,Merivale Road,1950,NA,NA,-75.7198703,45.3260383
+5741697422,Poutine Truck,NA,fast_food,NA,NA,NA,NA,NA,-75.7434589,45.3772976
+5741978132,Booster Juice,NA,fast_food,Booster Juice,Riverside Drive,2277,NA,NA,-75.6776295,45.3857202
+5742002569,Mr. Pretzels,NA,fast_food,NA,Riverside Drive,2277,NA,NA,-75.6773391,45.3855907
+5742002583,Billings Bridge Food Court,NA,food_court,NA,Riverside Drive,2277,NA,NA,-75.6773163,45.3854965
+5742204420,Hazeldean Food Court,NA,food_court,NA,Eagleson Road,300,NA,NA,-75.8778919,45.3023512
+5742294822,Subway,NA,fast_food,Subway,Centrum Boulevard,240,NA,NA,-75.5113453,45.4795857
+5752314224,Poutine Parlour,NA,fast_food,NA,NA,NA,NA,NA,-75.5337404,45.4668409
+5756769157,CoCo Fresh Tea & Juice,NA,cafe,CoCo,Bank Street,290,NA,K2P 1X6,-75.6966008,45.4154049
+5756769169,Bronson Pizza,NA,fast_food,NA,Somerset Street West,491,NA,NA,-75.7003277,45.4138619
+5758906213,Supreme Pizza,NA,fast_food,NA,Donald Street,425,NA,NA,-75.6494086,45.4284408
+5758950692,The Magic Fryer,NA,fast_food,NA,NA,NA,NA,NA,-75.6509422,45.4210351
+5759118156,Dino's Pizzeria,NA,fast_food,NA,Highgate Road,1400,NA,NA,-75.7698666,45.3490355
+5762406675,Tim Hortons,NA,cafe,Tim Hortons,Hunt Club Road,2100,NA,NA,-75.6201464,45.364051
+5764268450,The Sandwich Stop,NA,fast_food,NA,St-Laurent Boulevard,2285,NA,NA,-75.6136192,45.3860741
+5764269654,All Seasons Indian Catering,NA,fast_food,NA,St-Laurent Boulevard,2285,NA,NA,-75.6136517,45.3859145
+5764321682,Far Jano,NA,fast_food,NA,St-Laurent Boulevard,2335,NA,NA,-75.6208813,45.3833367
+5764424917,Chip Wagon,NA,fast_food,NA,NA,NA,NA,NA,-75.6683437,45.3782156
+5764424918,Tim Hortons,NA,cafe,Tim Hortons,Bank Street,1600,NA,NA,-75.6673546,45.3775068
+5771188943,Yaseen Halal Pizza,NA,fast_food,NA,Cyrville Road,1741,NA,NA,-75.6048042,45.4173389
+5771398497,Queensview Cafe,NA,fast_food,NA,Queensview Drive,2650,NA,NA,-75.7844625,45.3531018
+5772097463,Happy Goat Coffee,NA,cafe,NA,Elgin Street,326,NA,K2P 1M5,-75.6890087,45.4160915
+5774046657,Saffron Kabab,NA,fast_food,NA,Carling Avenue,2949,NA,NA,-75.8025793,45.35649
+5777078826,OB&O,NA,fast_food,NA,Carling Avenue,3059,NA,NA,-75.8072747,45.3543524
+5777078831,Domino's,NA,fast_food,Domino's,Carling Avenue,3059,NA,NA,-75.807142,45.354376
+5799962624,Café Qui Pense,NA,cafe,NA,Main Street,204,NA,NA,-75.6777004,45.408174
+5808171270,Tim Hortons,NA,cafe,Tim Hortons,County Road 31,2140,NA,NA,-75.3778276,45.0882554
+5808944198,Cup of Jo's,NA,cafe,NA,Main Street,515,NA,NA,-75.3552165,45.092365
+5809575835,Subway,NA,fast_food,Subway,St. Lawrence Street,542,NA,NA,-75.3523667,45.0904283
+5809664414,Bubba & Bugs,NA,cafe,NA,Prescott Street,146,NA,NA,-75.6448482,45.0153859
+5809687412,Chip Chop,NA,fast_food,NA,NA,NA,NA,NA,-75.6406988,45.014079
+5811024114,Fat Lee's Chip Stand,NA,fast_food,NA,NA,NA,NA,NA,-75.6325422,45.0207208
+5811132047,T&T Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.8166577,45.3289996
+5811278777,Yummy,NA,fast_food,NA,Hazeldean Road,462,NA,NA,-75.8863577,45.2990942
+5812491729,Burger Burger,NA,fast_food,NA,Frank Nighbor Place,10,NA,NA,-75.9153718,45.3027719
+5816706053,Yakko Takko,NA,fast_food,NA,Hamilton Avenue North,25,NA,NA,-75.7300791,45.4006797
+5825900067,Ah-So Sushi,NA,fast_food,NA,Kent Street,381,NA,NA,-75.6968173,45.4129256
+5825966863,Ottawa Pizza,NA,fast_food,NA,Bank Street,320,NA,NA,-75.6957143,45.4143759
+5825966864,Island Grill,NA,fast_food,NA,Bank Street,324,NA,NA,-75.6956519,45.4142982
+5826142671,The Station,NA,fast_food,NA,NA,NA,NA,NA,-75.6392531,45.0281609
+5826142681,McDonald's,NA,fast_food,McDonald's,NA,NA,NA,NA,-75.6291372,45.028685
+5827897938,Equator Coffee,NA,cafe,NA,NA,NA,NA,NA,-75.694402,45.4233962
+5832594952,Marcie's Cafe,NA,cafe,NA,Don Reid Drive,2420,NA,NA,-75.6332597,45.3801256
+5833589344,Mexigo Cabana,NA,fast_food,NA,NA,NA,NA,NA,-75.6628136,45.370866
+5833729296,Saffron Kabob,NA,fast_food,NA,Bank Street,1729,NA,NA,-75.6648266,45.3742425
+5833729297,Slice Station,NA,fast_food,NA,Bank Street,1729,NA,NA,-75.6648233,45.3741902
+5834483714,Say Cheese,NA,fast_food,NA,Bank Street,1581,NA,NA,-75.6675001,45.3794567
+5834483728,Dubai Cafe,NA,cafe,NA,Bank Street,1652,NA,NA,-75.6668758,45.3766137
+5835480953,Roberto Pizza,NA,fast_food,NA,Preston Street,348,NA,NA,-75.7106528,45.4021351
+5835515504,Umbrella Burger,NA,fast_food,NA,Preston Street,186,NA,NA,-75.7130105,45.4059858
+5835515527,Lili Pies,NA,fast_food,NA,Preston Street,274,NA,NA,-75.7117559,45.4040732
+5835515529,Mr. Panino,NA,fast_food,NA,NA,NA,NA,NA,-75.7116057,45.4037698
+5836628249,Ten Toes Coffee House,NA,cafe,NA,Somerset Street West,837,NA,NA,-75.7123004,45.4090771
+5836676592,My Hang,NA,fast_food,NA,Somerset Street West,788,NA,NA,-75.7099549,45.4096742
+5836744303,Drip House,NA,cafe,NA,Somerset Street West,692,NA,K1R 6P4,-75.7064264,45.4110281
+5836744320,Season's Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.7083321,45.4106209
+5838349125,Afghani Kabob Express,NA,fast_food,NA,Bank Street,249,NA,K2P 1X2,-75.6970621,45.4163623
+5838349141,The Greek Souvlaki Shack,NA,fast_food,NA,Bank Street,258,NA,NA,-75.6971768,45.4161071
+5838522829,King Shawarma,NA,fast_food,NA,Bank Street,205,NA,NA,-75.6980545,45.4175465
+5838522830,Sip Tea,NA,cafe,NA,Bank Street,203,NA,NA,-75.69808,45.4175743
+5838522834,Roast 'n' Curries,NA,fast_food,NA,Bank Street,197,NA,NA,-75.6981712,45.4176896
+5838522835,Bread & Sons,NA,cafe,NA,Bank Street,195,NA,NA,-75.6981987,45.4177258
+5838522838,Tim Hortons,NA,cafe,Tim Hortons,Bank Street,187,NA,K2P 1W7,-75.6983046,45.4178835
+5838553658,Paradise Poké,NA,fast_food,NA,Bank Street,134,NA,NA,-75.6997684,45.4191463
+5838553665,Toro Taqueria,NA,fast_food,NA,Bank Street,139,NA,NA,-75.6993668,45.4191059
+5838610364,Café Délice,NA,cafe,NA,Bank Street,100,NA,NA,-75.700618,45.4200999
+5838632390,Drip House Cafe,NA,cafe,NA,Parkdale Avenue,340,NA,NA,-75.7308982,45.4022546
+5838755190,Epicuria,NA,fast_food,NA,St-Laurent Boulevard,357,NA,NA,-75.6505989,45.4489348
+5838755196,Papa John's,NA,fast_food,Papa John's,St-Laurent Boulevard,375,NA,NA,-75.6508104,45.4486182
+5844120478,3 Brothers Shawarma,NA,fast_food,NA,Rideau Street,160,NA,K1N 5X6,-75.6897008,45.4269142
+5844120484,The Shawarma Place,NA,fast_food,NA,Dalhousie Street,284,NA,NA,-75.6921664,45.4298879
+5844174903,Starbucks,NA,cafe,Starbucks,City Park Drive,2401,NA,NA,-75.6136394,45.4330125
+5846881056,Soup 'ER' Sandwich,NA,fast_food,NA,Beaverbrook Road,1002,NA,NA,-75.9007336,45.3288335
+5846931771,Urban Cowboy Food Truck,NA,fast_food,NA,Carling Avenue,3690,NA,NA,-75.8775157,45.3453582
+5849261807,The Corner Cafe,NA,fast_food,NA,Bank Street,1385,NA,NA,-75.6717414,45.3843691
+5852880831,Brampton Indian Food,NA,fast_food,NA,Meadowlands Drive West,178,NA,NA,-75.7555537,45.3422241
+5854194502,Sandwichii,NA,fast_food,NA,Colonnade Road,40,NA,NA,-75.7171907,45.3434447
+5854194532,Grill Master Express,NA,fast_food,NA,Colonnade Road,30,NA,NA,-75.7196456,45.3427783
+5857384834,Domino's,NA,fast_food,Domino's,Lake Avenue East,10,NA,NA,-76.1414498,45.1371067
+5857487892,The Gathering Grounds Cafe,NA,cafe,NA,NA,NA,NA,NA,-76.1456367,45.1397176
+5859756865,Country Style,NA,cafe,Country Style,NA,NA,NA,NA,-75.5968179,45.3246838
+5862294039,Super Sweet Mart,NA,fast_food,NA,Rochester Street,237,NA,NA,-75.7103022,45.4065361
+5862395150,Capital Fare Cafe,NA,cafe,NA,Montréal Road,595,NA,NA,-75.6433173,45.4427926
+5863779628,Golden BBQ Grill,NA,fast_food,NA,Montréal Road,928,NA,NA,-75.6285833,45.4463902
+5863799995,Fry Guyz,NA,fast_food,NA,Montréal Road,1696,NA,NA,-75.6120917,45.4459419
+5864740108,Dig In,NA,fast_food,NA,Canotek Road,5370,NA,NA,-75.5829656,45.4553716
+5866219390,Fat Albert's,NA,fast_food,NA,Canotek Road,5303,NA,NA,-75.5889966,45.4526801
+5867010991,Gongfu Bao,NA,fast_food,NA,Bank Street,365,NA,NA,-75.6950343,45.4140342
+5867011015,KFC,NA,fast_food,KFC,Bank Street,464,NA,NA,-75.6931843,45.4111317
+5867011016,Shawarma Palace,NA,fast_food,NA,Bank Street,464,NA,NA,-75.693248,45.411239
+5868722857,B&B Chips,NA,fast_food,NA,NA,NA,NA,NA,-75.6967081,45.4160907
+5868793690,Pi·Rho,NA,fast_food,NA,Elgin Street,346,NA,NA,-75.6887493,45.4157866
+5868793709,Meow Tea,NA,cafe,NA,Elgin Street,279,NA,NA,-75.6898986,45.417522
+5877024893,Tru Tea,NA,cafe,NA,Richmond Road,181,NA,NA,-75.7475238,45.3951055
+5878873368,Do Good Food,NA,fast_food,NA,Burland Street,80,NA,NA,-75.8051281,45.3555922
+5880266275,Fry Me to the Moon,NA,fast_food,NA,NA,NA,NA,NA,-75.3723639,45.2567297
+5882609721,Starbucks,NA,cafe,Starbucks,Mer Bleue Road,2025,NA,NA,-75.5036608,45.4546784
+5887974213,Country Style,NA,cafe,Country Style,Notre Dame Street,747,NA,NA,-75.3028652,45.2678145
+5888798317,Experience Café,NA,cafe,NA,Notre Dame Street,901,NA,NA,-75.2884678,45.2720575
+5888798608,Dong Seng,NA,fast_food,NA,NA,NA,NA,NA,-75.2919272,45.2698542
+5888798624,Gaetan's Chip Stand,NA,fast_food,NA,NA,NA,NA,NA,-75.2941252,45.269572
+5888865466,Colonel's City Pizza,NA,fast_food,NA,Notre Dame Street,953,NA,NA,-75.2827446,45.2720462
+5888903554,My Second Home,NA,fast_food,NA,NA,NA,NA,NA,-75.275846,45.2739889
+5888903565,Shawarma Supreme,NA,fast_food,NA,Notre Dame Street,1020,NA,NA,-75.2754436,45.2737671
+5888908488,Tiffany's Pizza,NA,fast_food,NA,Notre Dame Street,968,NA,NA,-75.2806766,45.2719051
+5891250659,Rollos Street Eats,NA,fast_food,NA,Iber Road,119,NA,NA,-75.9039952,45.2769315
+5891305888,Thailicious,NA,fast_food,NA,Stittsville Main Street,1488,NA,NA,-75.9222342,45.2592096
+5891429656,Crave Tacos,NA,fast_food,NA,Stittsville Main Street,1610,NA,NA,-75.9168973,45.2547726
+5897278843,H&R Pizza,NA,fast_food,NA,Norice Street,197,NA,NA,-75.7540812,45.3396139
+5897278868,Centrepointe Cafe & Deli,NA,fast_food,NA,Centrepointe Drive,117,NA,NA,-75.7618167,45.3430102
+5897508096,Rôtisserie O-Bec frit,NA,fast_food,NA,Chemin de Masson,1005,NA,NA,-75.4209039,45.5574235
+5897508097,Subway,NA,fast_food,Subway,Chemin de Masson,1005,NA,NA,-75.4210279,45.5573117
+5912767331,Ying Wah,NA,fast_food,NA,Rue Front,117,NA,NA,-75.8553614,45.4043249
+5912767334,Pizzeria Riverview Plus,NA,fast_food,NA,Rue Front,117,NA,NA,-75.8553962,45.4042062
+5912767373,Le coin du capitaine,NA,fast_food,NA,NA,NA,NA,NA,-75.8557194,45.4018202
+5912940536,Domino's,NA,fast_food,Domino's,Merivale Road,1600,NA,NA,-75.7333631,45.3492726
+5916256941,Fry Time,NA,fast_food,NA,NA,NA,NA,NA,-75.6054841,45.4362762
+5929771872,Country Style,NA,cafe,Country Style,NA,NA,NA,NA,-76.3771583,45.4186559
+5931574167,Ottawa Valley Coffee,NA,cafe,NA,Elgin Street West,32,NA,NA,-76.3543085,45.4331884
+5931574182,Mr. Mozzarella,NA,fast_food,NA,Elgin Street West,75,NA,NA,-76.3552574,45.4344378
+5931725086,Aroma Pizzeria,NA,fast_food,NA,Voyageur Drive,6000,NA,NA,-75.548282,45.4757368
+5931809917,Eastview Pizza,NA,fast_food,NA,Montréal Road,251,NA,NA,-75.6612573,45.4363481
+5931838128,SushiME,NA,fast_food,NA,Beechwood Avenue,8,NA,NA,-75.6773217,45.4386386
+5933580834,RAW,NA,cafe,NA,Murray Street,18,NA,NA,-75.6953542,45.4287952
+5934602875,Carrots Buffet Boutique,NA,fast_food,NA,Laurier Avenue West,340,NA,NA,-75.6997375,45.4181268
+5934602876,Tim Hortons,NA,cafe,Tim Hortons,Laurier Avenue West,269,NA,K1P 5J9,-75.6982542,45.4190293
+5934602878,Fuel Bar,NA,fast_food,NA,Metcalfe Street,99,NA,NA,-75.6955095,45.4208898
+5934602879,Olly Fresco's,NA,fast_food,NA,Elgin Street,90,NA,NA,-75.6951375,45.4219948
+5941699900,Babylon Cafe,NA,cafe,NA,Albert Street,270,NA,NA,-75.7011236,45.4192828
+5941699908,Green Rebel,NA,fast_food,NA,Albert Street,340,NA,NA,-75.7025841,45.418767
+5941699910,Sushi Go,NA,fast_food,NA,Albert Street,340,NA,NA,-75.7028785,45.4186521
+5941722846,Cafe le Monde,NA,cafe,NA,Bank Street,99,NA,K1P 6B9,-75.6991535,45.4206539
+5941722847,Starbucks,NA,cafe,Starbucks,O'Connor Street,50,NA,NA,-75.6996477,45.420395
+5941722848,Green Rebel,NA,fast_food,NA,O'Connor Street,50,NA,NA,-75.6992889,45.4209551
+5947441340,Starbucks,NA,cafe,Starbucks,Ogilvie Road,1459,NA,NA,-75.6174991,45.4321998
+5947441356,Lucky King Chinese Food,NA,fast_food,NA,Cadboro Road,1134,NA,NA,-75.6213628,45.4309919
+5947588512,Tokyo Grill,NA,fast_food,NA,Ogilvie Road,1980,NA,NA,-75.609494,45.4322191
+5947588513,Mr. Cheezy Pizza,NA,fast_food,NA,Ogilvie Road,1980,NA,NA,-75.6094444,45.4321702
+5947588516,Shawarma Centre,NA,fast_food,NA,Ogilvie Road,1980,NA,NA,-75.6095564,45.4317796
+5947588519,Silly Billy's,NA,fast_food,NA,Ogilvie Road,1980,NA,NA,-75.6095832,45.4317382
+5947588520,Bagan Indian Food,NA,fast_food,NA,Ogilvie Road,1980,NA,NA,-75.6096355,45.4317048
+5947588538,Gloucester Centre Food Court,NA,food_court,NA,Ogilvie Road,1980,NA,NA,-75.6096724,45.4320055
+5947588547,Subway,NA,fast_food,Subway,Ogilvie Road,1980,NA,NA,-75.6094591,45.4320497
+5949934239,Chip Stand,NA,fast_food,NA,NA,NA,NA,NA,-75.5990911,45.4184215
+5949934280,Alex's Hot Dogs and Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.5996818,45.4173723
+5951860173,Gburger,NA,fast_food,NA,Elgin Street,380,NA,NA,-75.6879399,45.4146771
+5951913584,Upper Crust Sandwich & Deli,NA,fast_food,NA,O'Connor Street,267,NA,NA,-75.6931333,45.4154439
+5951913915,House of Georgie,NA,fast_food,NA,Gilmour Street,211,NA,NA,-75.6897946,45.4164366
+5952002202,3Bites,NA,fast_food,NA,Gladstone Avenue,500,NA,NA,-75.6979358,45.4102198
+5959563714,Food Truck,NA,fast_food,NA,NA,NA,NA,NA,-75.2523968,45.330095
+5959563715,Joe's Pizza Shop,NA,fast_food,NA,NA,NA,NA,NA,-75.2519757,45.3292502
+5959563772,Country Style,NA,cafe,Country Style,Limoges Road,715,NA,NA,-75.2442522,45.3185895
+5962107026,Country Style,NA,cafe,Country Style,Tenth Line Road,2302,NA,NA,-75.4830252,45.4507186
+5962118306,Country Style,NA,cafe,Country Style,NA,NA,NA,NA,-75.6400204,45.0288729
+5962865227,Backyard Burger,NA,fast_food,NA,NA,NA,NA,NA,-75.658523400000007,45.0268007
+5962874404,Fat Les's Chip Stand,NA,fast_food,NA,NA,NA,NA,NA,-75.656324,45.0243419
+5965140057,Freshman Pizza,NA,fast_food,NA,Fourth Line Road,6601,NA,NA,-75.7162794,45.1318058
+5965405473,Holland's Pizzeria,NA,fast_food,NA,Queen Mary Street,283,NA,NA,-75.6532563,45.4252643
+5965405474,Soleil des Iles,NA,fast_food,NA,Queen Mary Street,287,NA,NA,-75.6531047,45.425277
+5972540023,Morning Owl,NA,cafe,NA,Laurier Avenue West,219,NA,NA,-75.6962521,45.4198481
+5973552974,Simply Biscotti,NA,cafe,NA,Colonnade Road North,107,NA,NA,-75.703256,45.3464158
+5982077759,Mr. Luko,NA,cafe,NA,Springfield Road,1,NA,K1M 1C8,-75.6762347,45.4400238
+5985740471,Subway,NA,fast_food,Subway,March Road,329,NA,NA,-75.9076524,45.3348471
+5986726648,Headquarters,NA,cafe,NA,Clarence Street,113,NA,NA,-75.6921647,45.4295625
+5986762260,The Alley,NA,cafe,NA,Sussex Drive,513,NA,NA,-75.6946032,45.4272248
+5986762264,Zak's Cantina,NA,fast_food,NA,By Ward Market Square,10,NA,NA,-75.6936845,45.4284908
+5993769418,Country Style,NA,cafe,Country Style,McArthur Avenue,412,NA,NA,-75.6484511,45.4319054
+5994231115,Regino's Pizza,NA,fast_food,NA,McArthur Avenue,411,NA,NA,-75.6486509,45.4322497
+5995855534,McDonald's,NA,fast_food,McDonald's,St-Laurent Boulevard,1007,NA,NA,-75.6390247,45.4285144
+5996207587,Falafel on Wheels,NA,fast_food,NA,NA,NA,NA,NA,-75.6149831,45.4467148
+6006182222,Toss & Grill Bistro,NA,fast_food,NA,Camelot Drive,59,NA,NA,-75.7269755,45.3299545
+6007626188,Pizza Hut Express,NA,fast_food,Pizza Hut,NA,NA,NA,NA,-75.180476,44.90161
+6015802198,Best Pizza,NA,fast_food,NA,McArthur Avenue,295,NA,NA,-75.6560055,45.4318344
+6015802199,Caribbean Sweets & Treats,NA,fast_food,NA,Lacasse Avenue,369,NA,NA,-75.6560681,45.4319651
+6015834729,Main Street Cafe,NA,fast_food,NA,North River Road,333,NA,NA,-75.66852,45.431422
+6016058813,Le Bac Tacos,NA,fast_food,NA,NA,NA,NA,NA,-75.683189,45.4240147
+6016201028,Tim Hortons,NA,cafe,Tim Hortons,Louis-Pasteur Private,100,NA,NA,-75.6814107,45.421782
+6016201035,Thaï Express,NA,fast_food,Thaï Express,Louis-Pasteur Private,100,NA,NA,-75.6820451,45.421703
+6032360164,Tim Hortons,NA,cafe,Tim Hortons,Terry Fox Drive,501,NA,NA,-75.9187302,45.3101055
+6032576977,Basecamp Cafe,NA,cafe,NA,Beechwood Avenue,230,NA,NA,-75.6702244,45.4437689
+6034518934,Subway,NA,fast_food,Subway,Dalhousie Street,380,NA,NA,-75.6900843,45.4273512
+6034518942,Hokkaido Ramen Express,NA,fast_food,NA,Rideau Street,176,NA,NA,-75.6891965,45.4271298
+6034633364,Marcellos,NA,fast_food,NA,Slater Street,280,NA,NA,-75.7006314,45.4188225
+6034633367,Tim Hortons,NA,cafe,Tim Hortons,Slater Street,275,NA,K1P 5H9,-75.7014107,45.4188074
+6034633368,Toro Taqueria,NA,fast_food,NA,Slater Street,210,NA,NA,-75.6992809,45.4194047
+6034633373,Juice Monkey,NA,fast_food,NA,Slater Street,209,NA,NA,-75.6992833,45.4196902
+6034637685,Iconic Cafe,NA,cafe,NA,Slater Street,123,NA,NA,-75.6965149,45.4208751
+6036866491,Main Street Oasis,NA,fast_food,NA,Stittsville Main Street,1280,NA,NA,-75.9300596,45.2663751
+6036866492,Crispy Spring Roll,NA,fast_food,NA,Stittsville Main Street,1280,NA,NA,-75.9300515,45.2666998
+6041852436,Fitz Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.682141,45.229188
+6041852451,Pizza All'Antica,NA,fast_food,NA,NA,NA,NA,NA,-75.6849164,45.2259785
+6048906704,Subway,NA,fast_food,Subway,Notre Dame Street,685,NA,NA,-75.3080161,45.2681672
+6048906705,Quesada,NA,fast_food,Quesada,NA,NA,NA,NA,-75.3079402,45.268124
+6051955751,35th Street Market Cafe,NA,fast_food,NA,NA,NA,NA,NA,-75.7557455,45.3511066
+6052165887,Noodle's Invitation,NA,fast_food,NA,Colonnade Road South,174,NA,NA,-75.7137528,45.3430328
+6060909695,Lorne Murphy Foods,NA,cafe,NA,NA,NA,NA,NA,-75.7343978,45.4071743
+6060910832,Lorne Murphy Foods,NA,cafe,NA,NA,NA,NA,NA,-75.733966,45.405714
+6065306251,Pizza La Cite,NA,fast_food,NA,NA,NA,NA,NA,-75.7721204,45.4645506
+6067392241,Moca Loca,NA,cafe,NA,NA,NA,NA,NA,-75.7458213,45.462439
+6067392242,Shawarma.com,NA,fast_food,NA,NA,NA,NA,NA,-75.7458843,45.4625293
+6067392243,L&Z Pizza et Kebab,NA,fast_food,NA,NA,NA,NA,NA,-75.7459474,45.4625791
+6067392250,Subway,NA,fast_food,Subway,Boulevard du Mont-Bleu,207,NA,NA,-75.7466554,45.4625304
+6067433323,Mozza Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.7550052,45.4498765
+6071971196,PapaJack Popcorn,NA,fast_food,NA,Thurston Drive,2184,NA,NA,-75.6205098,45.3794869
+6076887399,Laziza Pizza,NA,fast_food,NA,Bantree Street,1756,NA,NA,-75.6182434,45.4074254
+6080239924,Sizzle n' Grill,NA,fast_food,NA,Kennevale Drive,200,NA,NA,-75.7766687,45.2654326
+6084123544,McDonald's,NA,fast_food,McDonald's,Industrial Avenue,450,NA,NA,-75.6504339,45.4135037
+6090096665,Domino's,NA,fast_food,Domino's,Friel Street,400,NA,NA,-75.6800221,45.4268982
+6093977208,Le Snack Attack,NA,fast_food,NA,NA,NA,NA,NA,-75.6922147,45.419666
+6094106074,The Great Canadian Poutinerie,NA,fast_food,NA,Bank Street,311,NA,NA,-75.6955902,45.4146795
+6094132624,Tokyo Sushi,NA,fast_food,NA,Kent Street,248,NA,NA,-75.7000172,45.4160342
+6100576572,Maverick's Donut,NA,fast_food,NA,By Ward Market Square,46,NA,NA,-75.692794,45.4274686
+6100576575,Shafali Bazzar,NA,fast_food,NA,By Ward Market Square,55,NA,NA,-75.6923555,45.4274451
+6100576577,Wang's Noodle House,NA,fast_food,NA,By Ward Market Square,55,NA,NA,-75.6924587,45.4275811
+6103824304,Bridgehead,NA,cafe,Bridgehead,Elgin Street,160,NA,NA,-75.6932876,45.4198655
+6103824305,Booster Juice,NA,fast_food,Booster Juice,Elgin Street,160,NA,NA,-75.6930361,45.4197761
+6103824306,Ya Habibi,NA,fast_food,NA,Elgin Street,160,NA,NA,-75.6929141,45.4197639
+6103824307,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Elgin Street,160,NA,NA,-75.6928343,45.4198665
+6103824308,California Thai,NA,fast_food,NA,Elgin Street,160,NA,NA,-75.692906,45.4199615
+6103824309,Mac's Sushi,NA,fast_food,NA,Elgin Street,160,NA,NA,-75.693014,45.420003
+6103824310,Cuisine Club,NA,food_court,NA,NA,NA,NA,NA,-75.6930193,45.4198985
+6103871468,Grounded Kitchen,NA,cafe,NA,Gloucester Street,100,NA,NA,-75.6958719,45.4189068
+6104060093,Manhattan's Coffee Co.,NA,cafe,NA,Laurier Avenue West,200,NA,NA,-75.6956781,45.4198039
+6104074493,Centretown Donair & Pizza,NA,fast_food,NA,Bronson Avenue,422,NA,NA,-75.704288,45.4086536
+6112190710,Munchin' Junction,NA,fast_food,NA,NA,NA,NA,NA,-76.3627321,45.015867
+6112190715,Gourmet Grub,NA,fast_food,NA,NA,NA,NA,NA,-76.362378,45.016433
+6114108743,Matar Kabob House,NA,fast_food,NA,Albion Road South,3515,NA,NA,-75.642801,45.3542313
+6114182394,Starbucks,NA,cafe,Starbucks,Hunt Club Road,690,NA,NA,-75.6697994,45.3428094
+6114403959,Crepe Delicious,NA,fast_food,NA,Rideau Street,50,NA,NA,-75.690107,45.424666
+6114641724,Nordstrom Ebar,NA,cafe,NA,Rideau Street,50,NA,NA,-75.6903004,45.424366
+6114641725,Ève Café,NA,cafe,NA,Rideau Street,50,NA,NA,-75.6906185,45.4261132
+6129782998,Westgate Food Court,NA,food_court,NA,Carling Avenue,1309,NA,NA,-75.735476,45.3869381
+6135802147,Grow Your Roots,NA,fast_food,NA,Terence Matthews Crescent,220,NA,NA,-75.8755752,45.2859857
+6139555208,Homemade Burgers and Fries,NA,fast_food,NA,County Road 44,1058,NA,NA,-75.5595472,44.9333233
+6141609772,Pinn-To Thai Food,NA,fast_food,NA,Albion Road,4100,NA,NA,-75.62227,45.3172782
+6144121508,Nates Express,NA,fast_food,NA,Antares Drive,6,NA,NA,-75.7069407,45.3361928
+6146684315,Frankie's Italian Deli,NA,fast_food,NA,Antares Drive,58,NA,NA,-75.7097778,45.3303495
+6146684335,Casa Del Panini,NA,fast_food,NA,Antares Drive,52,NA,NA,-75.7106294,45.331065099999996
+6146731392,Rello's Sandwiches,NA,fast_food,NA,Auriga Drive,81,NA,NA,-75.7118558,45.3281536
+6152749738,Via Bella,NA,fast_food,NA,Sparks Street,87,NA,NA,-75.6972358,45.4230463
+6152749751,Deli Kat Cafe,NA,fast_food,NA,Sparks Street,277,NA,NA,-75.7038729,45.4201931
+6152749753,Starbucks,NA,cafe,Starbucks,Kent Street,100,NA,NA,-75.7034411,45.4200044
+6152753712,Capitol Burger Counter,NA,fast_food,NA,O'Connor Street,50,NA,NA,-75.6993071,45.4209057
+6152753713,Sen Kitchen,NA,fast_food,NA,O'Connor Street,50,NA,NA,-75.6992132,45.4209226
+6152753714,Fiazza,NA,fast_food,NA,O'Connor Street,50,NA,NA,-75.6993701,45.4209339
+6152753715,Bar Robo,NA,cafe,NA,O'Connor Street,50,NA,NA,-75.6990811,45.4209829
+6152753716,Mercadito,NA,fast_food,NA,O'Connor Street,50,NA,NA,-75.6990825,45.4210393
+6152753717,Queen St. Fare,NA,food_court,NA,O'Connor Street,50,NA,NA,-75.6992206,45.4210055
+6152753722,My Vina Food Truck,NA,fast_food,NA,NA,NA,NA,NA,-75.6980398,45.4216884
+6152770214,Blue Gardenia,NA,fast_food,NA,Queen Street,222,NA,NA,-75.7008749,45.4202684
+6154404777,Hog Diggety Dog,NA,fast_food,NA,NA,NA,NA,NA,-75.6987945,45.4183743
+6154404885,Country Style,NA,cafe,Country Style,Laurier Avenue West,340,NA,NA,-75.700211,45.4179438
+6154404888,Euro Bistro 360,NA,fast_food,NA,Laurier Avenue West,360,NA,NA,-75.7005838,45.417772
+6154404889,Gooney's Sandwich Works,NA,fast_food,NA,Laurier Avenue West,360,NA,NA,-75.7007146,45.417724
+6154404891,Cafe Saffron,NA,fast_food,NA,Kent Street,195,NA,NA,-75.7008836,45.4175559
+6154404893,The Canteen,NA,cafe,NA,Slater Street,300,NA,NA,-75.7008051,45.4182323
+6154404900,The Corner Kitchen,NA,fast_food,NA,Kent Street,200,NA,NA,-75.7017674,45.4170641
+6157727295,Burger Saloon,NA,fast_food,NA,NA,NA,NA,NA,-75.6097703,45.410684
+6166247759,Morning Owl,NA,cafe,NA,Canadian Shield Avenue,1047,NA,NA,-75.9019938,45.3149578
+6171412952,Luna Crepes & Cafe,NA,cafe,NA,March Road,329,NA,NA,-75.9084758,45.3355216
+6187041122,Waikato Pizza,NA,fast_food,NA,Queen Street,7,NA,NA,-75.1528055,45.2184063
+6187041124,Tony's Chip Stand,NA,fast_food,NA,Queen Street,9,NA,NA,-75.1525867,45.2181937
+6188944390,Subway,NA,fast_food,Subway,Boulevard de l'Hôpital,120,NA,J8T 8M2,-75.6870461,45.481
+6188944393,Subway,NA,fast_food,Subway,Promenade du Portage,200,NA,NA,-75.7129045,45.4269407
+6197250455,Tim Hortons,NA,cafe,Tim Hortons,St. Joseph Boulevard,1980,NA,NA,-75.5406276,45.463479
+6197309348,Tim Hortons,NA,cafe,Tim Hortons,Innes Road,3900,NA,NA,-75.5084363,45.4518249
+6198754160,Tim Hortons,NA,cafe,Tim Hortons,Shefford Road,813,NA,NA,-75.5908987,45.4569954
+6198754163,Tim Hortons,NA,cafe,Tim Hortons,Montréal Road,700,NA,NA,-75.6360831,45.4435783
+6198974146,Tim Hortons,NA,cafe,Tim Hortons,Montréal Road,120,NA,NA,-75.6660645,45.4340915
+6200081788,Cappuccino Bar,NA,cafe,NA,Cleopatra Drive,152,NA,NA,-75.7275186,45.3295681
+6202432701,TastersHub,NA,fast_food,NA,Bongard Avenue,70,NA,NA,-75.7145079,45.3312881
+6210605880,Bap by Raon Kitchen,NA,fast_food,NA,Bentley Avenue,65,NA,NA,-75.7172089,45.3343365
+6213561421,Cravings Food Truck,NA,fast_food,NA,NA,NA,NA,NA,-75.6215476,45.4214077
+6238685367,KFC,NA,fast_food,KFC,Innes Road,4027,NA,NA,-75.5054486,45.4558496
+6238685368,Taco Bell,NA,fast_food,Taco Bell,Innes Road,4027,NA,NA,-75.5054165,45.4558092
+6259113018,The Sweet Potato,NA,fast_food,NA,NA,NA,NA,NA,-76.0339804,45.3439462
+6283637096,Mr. Pretzels,NA,fast_food,NA,NA,NA,NA,NA,-75.6959821,45.4758286
+6283666951,Pärlé - Bistro Ludique,NA,fast_food,NA,Boulevard Gréber,325,NA,J8T 8J3,-75.699285,45.478383
+6284375884,Chuck's Casse-Croûte,NA,fast_food,NA,Chemin de la Savane,196,NA,NA,-75.6827458,45.4749328
+6286347138,Joanna Pizza,NA,fast_food,NA,Boulevard Saint-René Ouest,229,NA,NA,-75.6558184,45.4920268
+6298267636,Little Red Shack BBQ,NA,fast_food,NA,Carp Road,1016,NA,NA,-75.9464318,45.2721363
+6300350761,The Owl Cafe,NA,cafe,NA,Morrison Drive,1140,NA,NA,-75.7975718,45.3449972
+6303711149,Taco Bell,NA,fast_food,Taco Bell,St-Laurent Boulevard,1200,NA,NA,-75.638291,45.4227375
+6303711150,KFC,NA,fast_food,KFC,St-Laurent Boulevard,1200,NA,NA,-75.6382597,45.4227445
+6304257595,Smiley Cafe,NA,cafe,NA,City Park Drive,1900,NA,NA,-75.6146911,45.4287117
+6307358634,Orange Julius,NA,fast_food,Orange Julius,Carling Avenue,2121,NA,NA,-75.7692706,45.3727273
+6307358635,Dairy Queen,NA,fast_food,Dairy Queen,Carling Avenue,2121,NA,NA,-75.7693073,45.3727312
+6317039212,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Rideau Street,290,NA,NA,-75.6860841,45.4283797
+6317041085,Golden One,NA,fast_food,NA,Rideau Street,354,NA,NA,-75.6835464,45.4295197
+6318872675,Subway,NA,fast_food,Subway,Bank Street,248,NA,NA,-75.6973169,45.4162357
+6318998468,Z3 Specialty Coffee,NA,cafe,NA,Katimavik Road,150,NA,NA,-75.8953799,45.3124246
+6366514791,Tea & Cake,NA,cafe,NA,NA,NA,NA,NA,-76.193847,45.2259563
+6366514792,Pizzeria Unlimited,NA,fast_food,NA,NA,NA,NA,NA,-76.1939177,45.2257557
+6386327184,Cafe Va Santi,NA,cafe,NA,Rue de l'Hôtel-de-Ville,105,NA,NA,-75.7149249,45.4277072
+6386333346,Starbucks,NA,cafe,Starbucks,Rue Wellington,119,NA,NA,-75.7192788,45.4262535
+6386333347,Centrale Bergham,NA,fast_food,NA,Rue Eddy,22,NA,NA,-75.7191789,45.4252017
+6386851089,Casse-Croute Du Village,NA,fast_food,NA,NA,NA,NA,NA,-76.2297213,45.5204528
+6386922427,Layali Eshark,NA,cafe,NA,Parkdale Avenue,272,NA,NA,-75.73134,45.404177
+6388479610,Country Style,NA,cafe,Country Style,Hawthorne Road,3199,NA,NA,-75.6015131,45.383073
+6392265077,McDonald's,NA,fast_food,McDonald's,Baseline Road,1375,NA,NA,-75.738126,45.3635507
+6392308008,McDonald's,NA,fast_food,McDonald's,Boulevard Maloney Ouest,640,NA,J8P 7M4,-75.6761938,45.4811467
+6392308020,McDonald's,NA,fast_food,McDonald's,Boulevard du Plateau,35,NA,NA,-75.7707498,45.4355421
+6392325457,McDonald's,NA,fast_food,McDonald's,Innes Road,3900,NA,NA,-75.5087905,45.4517045
+6392325474,McDonald's,NA,fast_food,McDonald's,Bank Street,2210,NA,NA,-75.6546329,45.3553024
+6392347241,Tim Hortons,NA,cafe,Tim Hortons,Fernbank Road,5357,NA,NA,-75.8719817,45.2749544
+6392347242,McDonald's,NA,fast_food,McDonald's,Fernbank Road,5357,NA,NA,-75.8723411,45.2747185
+6392347261,McDonald's,NA,fast_food,McDonald's,Strandherd Drive,3651,NA,NA,-75.7409665,45.2711831
+6397388885,Tazij House,NA,fast_food,NA,NA,NA,NA,NA,-75.7324585,45.3474837
+6399811703,Sushi Shop,NA,fast_food,Sushi Shop,Bank Street,2210,NA,NA,-75.6578942,45.3593936
+6403111389,Smiley's Deli,NA,fast_food,NA,Riverside Drive,2269,NA,NA,-75.6798577,45.3857593
+6403336959,Country Style,NA,cafe,Country Style,Burton Road,922,NA,NA,-75.3464122,45.331249
+6405130207,Milano Pizzeria,NA,fast_food,NA,Mill Street,83,NA,NA,-75.3581744,45.2565687
+6410304094,Wendy's,NA,fast_food,Wendy's,Walkley Road,1950,NA,NA,-75.6314251,45.3827282
+6414931390,Thaï Express,NA,fast_food,Thaï Express,NA,NA,NA,NA,-75.6803065,45.4265979
+6414931391,Sushiman,NA,fast_food,NA,Laurier Avenue East,275,NA,NA,-75.6801622,45.4266615
+6414931414,Ole Bole,NA,fast_food,NA,NA,NA,NA,NA,-75.6819043,45.4214902
+6414983302,Tim Hortons,NA,cafe,Tim Hortons,Woodroffe Avenue,1545,NA,NA,-75.7517889,45.334507
+6427055894,Eve,NA,cafe,NA,NA,NA,NA,NA,-75.6968378,45.4765922
+6427086067,1 for 1 Pizza,NA,fast_food,NA,Boulevard Gréber,355,NA,NA,-75.7004853,45.4795265
+6427109869,Shami Shawarma,NA,fast_food,NA,Rue d'Orléans,4,NA,NA,-75.7010264,45.4811138
+6427109871,Pizza Marie,NA,fast_food,NA,NA,NA,NA,NA,-75.7009077,45.4811217
+6428368563,Papa Pizza,NA,fast_food,NA,Rue des Flandres,22,NA,NA,-75.7182294,45.4711856
+6434057650,Yellow Canoe Cafe,NA,cafe,NA,NA,NA,NA,NA,-75.8373302,44.9158572
+6440874660,Golden Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.5353349,45.4799073
+6463033099,Millette Palate,NA,fast_food,NA,Boulevard Saint-Joseph,73,NA,NA,-75.7335716,45.4283199
+6464895586,The Ministry of Coffee,NA,cafe,NA,Beechwood Avenue,18,NA,NA,-75.6768694,45.4389884
+6464895587,Vanier & Marya Pizza,NA,fast_food,NA,Marier Avenue,201,NA,NA,-75.6632697,45.4391323
+6475698940,Milano Pizzeria,NA,fast_food,NA,Perth Street,5925,NA,NA,-75.8298308,45.2007693
+6475954933,Cousin Vinny's Pizzeria,NA,fast_food,NA,Perth Street,6179,NA,NA,-75.8426276,45.1941201
+6501394138,The Natural Cafe,NA,cafe,NA,Strandherd Drive,4325,NA,NA,-75.7839762,45.2704074
+6504969772,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.7318577,45.4420822
+6504990314,Aire de Restauration Galeries de Hull,NA,food_court,NA,NA,NA,NA,NA,-75.7320482,45.4420953
+6505007281,Sushi Hull,NA,fast_food,NA,Boulevard Saint-Joseph,530,NA,NA,-75.7342355,45.4487936
+6505184300,L'artisan maître de la saucisse,NA,fast_food,NA,Boulevard Saint-Joseph,555,NA,NA,-75.7353781,45.4492942
+6506591977,Country Style,NA,cafe,Country Style,NA,NA,NA,NA,-75.6065395,45.1456364
+6515366701,Shawarma Sante,NA,fast_food,NA,Chemin d'Aylmer,204,NA,NA,-75.8336623,45.3954214
+6515420712,Coco Cacao,NA,fast_food,NA,Rue Principale,135,NA,NA,-75.8424821,45.3952256
+6515420713,Miss Press,NA,fast_food,NA,Rue Principale,135,NA,NA,-75.8424358,45.3952265
+6515775624,Paradise Poké,NA,fast_food,NA,Holland Avenue,118,NA,NA,-75.7323031,45.3999793
+6543038295,Drew's Chewz,NA,fast_food,NA,NA,NA,NA,NA,-75.822967,45.325854
+6569052537,Prestotea,NA,cafe,NA,St-Laurent Boulevard,1200,NA,NA,-75.6399009,45.4216998
+6569052538,Freshly Sequeezed,NA,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.6398775,45.4217429
+6573512598,Meryenda Food Truck,NA,fast_food,NA,NA,NA,NA,NA,-75.7013174,45.367778
+6579180690,Morning Owl,NA,cafe,NA,Manotick Main Street,5521,NA,NA,-75.6857613,45.22643
+6580660687,Snack Shack,NA,fast_food,NA,NA,NA,NA,NA,-75.1780902,44.9038509
+6580676180,Gaetan's Chip Stand,NA,fast_food,NA,NA,NA,NA,NA,-75.1828015,44.9018352
+6580689231,Milano Pizzeria,NA,fast_food,NA,NA,NA,NA,NA,-75.1800482,44.9017554
+6600290369,Rockland Shawarma,NA,fast_food,NA,NA,NA,NA,NA,-75.3027298,45.5403878
+6600368398,Jumbo Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.2978709,45.5437091
+6600368487,Domino's,NA,fast_food,Domino's,NA,NA,NA,NA,-75.3018352,45.5418737
+6600506693,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-75.2926876,45.5477919
+6600802814,Shawarma des Lauriers,NA,fast_food,NA,NA,NA,NA,NA,-75.2918414,45.5480126
+6600802818,Mari-Jo,NA,cafe,NA,NA,NA,NA,NA,-75.2925239,45.5479196
+6630164155,La Prince Shawarma,NA,fast_food,NA,NA,NA,NA,NA,-75.7847063,45.4382231
+6638727673,Le M&R,NA,cafe,NA,NA,NA,NA,NA,-75.8021764,45.4987709
+6646683922,Tim Hortons,NA,cafe,Tim Hortons,Rue de Neuville,1223,Gatineau,J8M 1W2,-75.4956929,45.5310734
+6648386631,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-76.1235005,45.12929
+6651531349,Valley Fries,NA,fast_food,NA,NA,NA,NA,NA,-76.1290339,45.1302579
+6651536709,Bud's Spuds,NA,fast_food,NA,NA,NA,NA,NA,-76.1368163,45.135978
+6651582682,Lakeside Shawarma,NA,fast_food,NA,Bridge Street,155,NA,NA,-76.146116,45.1400876
+6651660259,Potato King,NA,fast_food,NA,NA,NA,NA,NA,-76.1554416,45.1405785
+6682273473,Glen's,NA,fast_food,NA,NA,NA,NA,NA,-75.9173888,45.3075853
+6682365636,Starbucks,NA,cafe,Starbucks,Innes Road,4510,NA,NA,-75.4843435,45.4613309
+6699413250,Fit for Life,NA,fast_food,NA,O'Connor Street,110,NA,NA,-75.6975794,45.419709
+6699413253,Marcello's,NA,fast_food,NA,O'Connor Street,151,NA,NA,-75.6971745,45.4197442
+6699413254,Bridgehead,NA,cafe,Bridgehead,O'Connor Street,151,NA,NA,-75.6972355,45.4198115
+6699486366,Fat Lee's Chip Stand,NA,fast_food,NA,NA,NA,NA,NA,-75.752445,45.2678881
+6699497168,Booster Juice,NA,fast_food,Booster Juice,Slater Street,344,NA,NA,-75.702876,45.4178026
+6699498943,Working Title,NA,cafe,NA,Laurier Avenue West,330,NA,NA,-75.6776448,45.4272748
+6718992579,Barburrito,NA,fast_food,Barburrito,NA,NA,NA,NA,-75.7126892,45.4269281
+6719002794,Café Quick Pick,NA,cafe,NA,NA,NA,NA,NA,-75.7140926,45.4270222
+6719016802,Timothy's,NA,cafe,Timothy's,NA,NA,NA,NA,-75.7131338,45.4266905
+6719016803,Cultures,NA,fast_food,Cultures,NA,NA,NA,NA,-75.7132505,45.4266425
+6719016804,Café Vasanti,NA,cafe,NA,NA,NA,NA,NA,-75.7128146,45.4268487
+6719016808,Starbucks,NA,cafe,Starbucks,NA,NA,NA,NA,-75.7128563,45.4269359
+6719016809,Adonis,NA,fast_food,NA,NA,NA,NA,NA,-75.7129598,45.426944399999996
+6719016810,Midi Thai,NA,fast_food,NA,NA,NA,NA,NA,-75.7130114,45.4269473
+6719016811,Élégant,NA,fast_food,NA,NA,NA,NA,NA,-75.7130605,45.4269507
+6719016812,Papy's,NA,fast_food,NA,NA,NA,NA,NA,-75.7131109,45.4269532
+6719016815,Le Deli,NA,fast_food,NA,NA,NA,NA,NA,-75.7132614,45.4268941
+6719016816,Thaï Express,NA,fast_food,Thaï Express,NA,NA,NA,NA,-75.7132665,45.4268549
+6719016817,Manchu Wok,NA,fast_food,Manchu Wok,NA,NA,NA,NA,-75.7132736,45.4268163
+6719016818,As-So Sushi,NA,fast_food,NA,NA,NA,NA,NA,-75.7132858,45.4267279
+6719016819,Jugo Juice,NA,fast_food,NA,NA,NA,NA,NA,-75.7131821,45.42675
+6719016821,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.7127682,45.4269371
+6719059044,Le Pierot,NA,fast_food,NA,NA,NA,NA,NA,-75.7128114,45.4280997
+6719059062,Cafe Yummies,NA,cafe,NA,NA,NA,NA,NA,-75.7132157,45.4261203
+6719059065,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.7137588,45.425556
+6719059066,Lunch,NA,fast_food,NA,NA,NA,NA,NA,-75.7141216,45.4255829
+6719059067,Le Pierot,NA,fast_food,NA,NA,NA,NA,NA,-75.7143067,45.426174
+6719067647,Booster Juice,NA,fast_food,Booster Juice,Albert Street,111,NA,NA,-75.6973938,45.4216485
+6719067648,Thaï Express,NA,fast_food,Thaï Express,Albert Street,111,NA,NA,-75.6977329,45.4215128
+6719067649,Sushi Shop,NA,fast_food,Sushi Shop,Albert Street,111,NA,NA,-75.697751,45.4215368
+6719067650,Cheezy Pizza,NA,fast_food,NA,Albert Street,111,NA,NA,-75.6977336,45.4213382
+6719067651,Tasha's Fine Foods,NA,fast_food,NA,Albert Street,111,NA,NA,-75.697794,45.4213241
+6719067652,Asian Gourmet,NA,fast_food,NA,Albert Street,111,NA,NA,-75.6972837,45.421518
+6719067653,Kebob Kebob,NA,fast_food,NA,Albert Street,111,NA,NA,-75.6976057,45.4213829
+6719067656,Soup Guy Plus,NA,fast_food,NA,Albert Street,111,NA,NA,-75.6975286,45.421414
+6720062665,Cafe 57,NA,cafe,NA,NA,NA,NA,NA,-75.4086533,45.5759756
+6720169001,Gabriel Pizza,NA,fast_food,Gabriel Pizza,NA,NA,NA,NA,-75.4102262,45.5757346
+6720220646,Sushi Shop,NA,fast_food,Sushi Shop,NA,NA,NA,NA,-75.4169748,45.5883651
+6720220648,1 for 1 Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.4172082,45.5888674
+6720239439,Chez Villa Shawarma & Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.4166872,45.5872113
+6721899491,Chez Sylvie,NA,fast_food,NA,NA,NA,NA,NA,-76.0202133,45.5387082
+6721913773,Country Style,NA,cafe,Country Style,NA,NA,NA,NA,-75.2293029,45.2905432
+6744461082,Booster Juice,NA,fast_food,Booster Juice,NA,NA,NA,NA,-75.6667804,45.3216559
+6744461083,Cafe & Vin,NA,cafe,NA,NA,NA,NA,NA,-75.668207,45.3224791
+6744461084,Pizza Union,NA,fast_food,NA,NA,NA,NA,NA,-75.6671311,45.3218087
+6744498906,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.6670241,45.3226637
+6754398783,Starbucks,NA,cafe,Starbucks,NA,NA,NA,NA,-75.7562196,45.3499125
+6754422985,Booster Juice,NA,fast_food,Booster Juice,NA,NA,NA,NA,-75.7562018,45.3496061
+6754422995,Marketplace Food Court,NA,food_court,NA,NA,NA,NA,NA,-75.7565422,45.3489941
+6754422996,Luigi’s Pizza & Pastas,NA,fast_food,NA,NA,NA,NA,NA,-75.7566138,45.3490706
+6754422997,Kelly’s Grill,NA,fast_food,NA,NA,NA,NA,NA,-75.7565087,45.3490755
+6754422998,Taste of Asia,NA,fast_food,NA,NA,NA,NA,NA,-75.7564258,45.3490288
+6754422999,It’s a Wrap,NA,fast_food,NA,NA,NA,NA,NA,-75.7564048,45.3489689
+6754681489,Portable Feast,NA,fast_food,NA,NA,NA,NA,NA,-75.7588528,45.3479615
+6754681493,First Cup,NA,cafe,NA,NA,NA,NA,NA,-75.7573816,45.3480831
+6754681510,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.7586483,45.3486458
+6754681527,The Fix,NA,fast_food,NA,NA,NA,NA,NA,-75.760843,45.3475628
+6760321446,Marroush International,NA,fast_food,NA,NA,NA,NA,NA,-75.7391156,45.4530211
+6760321448,Domino's,NA,fast_food,Domino's,Boulevard Saint-Joseph,662,NA,NA,-75.7392009,45.4531021
+6760848994,Starbucks,NA,cafe,Starbucks,Laurier Avenue East,275,NA,NA,-75.6798931,45.4267694
+6760848996,Insta Bolz,NA,fast_food,NA,Laurier Avenue East,261,NA,NA,-75.6805704,45.4264923
+6761573572,Harris Deli,NA,fast_food,NA,NA,NA,NA,NA,-75.7032049,45.4191358
+6761628261,Kernels Popcorn,NA,fast_food,Kernels Popcorn,NA,NA,NA,NA,-75.691607200000007,45.4253588
+6762701214,Jugo Juice,NA,fast_food,NA,NA,NA,NA,NA,-75.8065631,45.3469266
+6762950636,Greber Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.7421152,45.459075
+6762950637,Greber Shawarma,NA,fast_food,NA,NA,NA,NA,NA,-75.742094,45.4591278
+6762950663,Brûlerie Café Aladdin,NA,cafe,NA,NA,NA,NA,NA,-75.7410467,45.4600552
+6810454819,MunCheese,NA,fast_food,NA,Merivale Road,1489,NA,NA,-75.7357848,45.3592942
+6871415457,Mikey's Fast Food,NA,fast_food,NA,NA,NA,NA,NA,-75.695322,45.420331
+6913606825,The Fresh Mango & Salad Bar,NA,fast_food,NA,Innes Road,2559,NA,NA,-75.5677052,45.4307575
+6917331190,Milano Pizzeria,NA,fast_food,NA,NA,NA,NA,NA,-76.2557984,44.9027858
+6918436234,North Folk Cafe,NA,cafe,NA,NA,NA,NA,NA,-76.2511172,44.9014324
+6950216615,Momo Bistro,NA,fast_food,NA,Merivale Road,1445,NA,NA,-75.7329554,45.3626485
+6956220038,Smiley Fries,NA,fast_food,NA,NA,NA,NA,NA,-76.1748996,45.1325561
+6960840852,The Cuban Mix,NA,fast_food,NA,NA,NA,NA,NA,-76.1804867,45.2368748
+6960840872,The Cheeky Chippy,NA,fast_food,NA,NA,NA,NA,NA,-76.1814576,45.235565
+6960938422,The Greene Mill,NA,fast_food,NA,NA,NA,NA,NA,-76.1871935,45.2334159
+6960963107,Ottawa Valley Coffee,NA,cafe,NA,NA,NA,NA,NA,-76.1959439,45.2255453
+6960981202,North Market,NA,cafe,NA,NA,NA,NA,NA,-76.1952,45.2253016
+6970390565,Mac's Sushi,NA,fast_food,NA,NA,NA,NA,NA,-75.5162063,45.4777068
+6988507669,House of Pizza,NA,fast_food,NA,Richmond Road,160,NA,NA,-75.7463197,45.3951888
+7010373038,Starbucks,NA,cafe,Starbucks,NA,NA,NA,NA,-75.8513785,45.3503642
+7010373039,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.8504455,45.3505042
+7014399054,The Hawk's Nest,NA,cafe,NA,NA,NA,NA,NA,-76.0150211,44.8825507
+7027818223,K&H Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.7054681,45.401193
+7027818224,Thee Chip Shoppe,NA,fast_food,NA,NA,NA,NA,NA,-75.7049022,45.4002405
+7027818225,Long Patates,NA,fast_food,NA,NA,NA,NA,NA,-75.7219701,45.3941294
+7027818226,Frenchie's Super Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.727184,45.401688300000004
+7030401490,Tommy's Chip Wagon,NA,fast_food,NA,NA,NA,NA,NA,-75.6979512,45.4233362
+7030401491,Season Chips,NA,fast_food,NA,NA,NA,NA,NA,-75.7058097,45.4192853
+7030401492,Ha Lou French Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.702051,45.4183038
+7030401493,TD Chips,NA,fast_food,NA,NA,NA,NA,NA,-75.6977435,45.4166527
+7030401494,Street Side Concessions,NA,fast_food,NA,NA,NA,NA,NA,-75.6855135,45.4241164
+7030401495,Thee Chip Shoppe,NA,fast_food,NA,NA,NA,NA,NA,-75.6857358,45.4316403
+7030401496,Crystal Dog,NA,fast_food,NA,NA,NA,NA,NA,-75.6688865,45.4308975
+7030401497,Angry Dragonz,NA,fast_food,NA,NA,NA,NA,NA,-75.7025472,45.4163086
+7039312079,Shawarma Nour,NA,fast_food,NA,NA,NA,NA,NA,-75.7475279,45.4883429
+7039312080,Pizzeria Alonzo,NA,fast_food,NA,NA,NA,NA,NA,-75.7475776,45.4883212
+7039550165,Milano Pizzeria,NA,fast_food,NA,NA,NA,NA,NA,-75.7262833,45.4781319
+7086907428,Mr. Mozzarella,NA,fast_food,NA,Prescott Street,105,NA,NA,-75.6456085,45.0160331
+7102198831,German Döner Kebab,NA,fast_food,NA,Elgin Street,272,NA,NA,-75.6902941,45.4175474
+7102203041,Bridgehead,NA,cafe,Bridgehead,Guigues Avenue,122,NA,NA,-75.6934532,45.4313799
+7102238213,Milano Pizzeria,NA,fast_food,NA,Dalhousie Street,339,NA,K1N 7G1,-75.6905332,45.4283901
+7126174117,Eva's Chip Wagon,NA,fast_food,NA,NA,NA,NA,NA,-75.571528,45.2814361
+7131986987,Bistro,NA,cafe,NA,NA,NA,NA,NA,-75.744564,45.4103321
+7241404360,Gabriel Pizza,NA,fast_food,Gabriel Pizza,NA,NA,NA,NA,-75.6626599,45.4355115
+7241487477,Hero Certified Burgers,NA,fast_food,Hero Certified Burgers,Merivale Road,1950,NA,NA,-75.7201095,45.3263904
+7244046056,Pi Co.,NA,fast_food,NA,Richmond Road,236,NA,NA,-75.749748,45.3937468
+7244052016,Dal Moro's,NA,fast_food,NA,By Ward Market Square,8,NA,NA,-75.6937191,45.4285359
+7244056367,Pi Co.,NA,fast_food,NA,Metcalfe Street,170,NA,NA,-75.6943125,45.4190419
+7440231816,Xronos Fish & Chips,NA,fast_food,NA,NA,NA,NA,NA,-76.0493696,45.318448
+7610828236,Thrive Cafe,NA,cafe,NA,NA,NA,NA,NA,-75.6891872,45.4054591
+7638327485,Aviation Museum,NA,cafe,NA,NA,NA,NA,NA,-75.6442422,45.4586669
+7638346186,Decathlon,NA,cafe,NA,NA,NA,NA,NA,-75.6374386,45.4277024
+7659949269,Milano Pizzeria,NA,fast_food,NA,Main Street,506,NA,NA,-75.3541102,45.0930258
+7728936685,La Cantina Streatery,NA,fast_food,NA,NA,NA,NA,NA,-75.6117168,45.1433948
+7732002231,Pomelo Hat,NA,fast_food,NA,Bank Street,1196,NA,NA,-75.6814457,45.3916936
+7752634547,Creek Shawarma & Bakery,NA,fast_food,NA,Shuttleworth Drive,105,NA,NA,-75.592055,45.3190824
+7773797287,Cafe British,NA,cafe,NA,NA,NA,NA,NA,-75.8467541,45.3949212
+7779570046,Bananas,NA,fast_food,NA,NA,NA,NA,NA,-75.4909541,45.5057973
+7821552667,Easy Tea,NA,cafe,NA,Somerset Street West,706,NA,NA,-75.7071295,45.4106888
+7821651238,Aroy Thai,NA,fast_food,NA,Rideaucrest Drive,5,NA,NA,-75.7224995,45.2848194
+7869417685,SuzyQ,NA,fast_food,NA,Wellington Street West,1015,NA,NA,-75.723772,45.4049756
+7961528865,Happy Goat Coffee,NA,cafe,NA,Main Street,145,NA,NA,-75.6782471,45.4100042
+8084195873,Street Food,NA,fast_food,NA,NA,NA,NA,NA,-75.6831635,45.4239582
+8241874568,Triple B,NA,fast_food,NA,NA,NA,NA,NA,-75.3732678,45.0845114
+8756620522,Fazendeiro Café Lounge,NA,cafe,NA,Eagleson Road,782,NA,NA,-75.8650897,45.2805088
+8756620524,Barburrito,NA,fast_food,Barburrito,Eagleson Road,782,NA,NA,-75.8652533,45.2808297
+8762603010,A&W,NA,fast_food,A&W,Dufferin Street,80,NA,NA,-76.2635615,44.9089186
+8830687717,Café Mulligan,NA,cafe,NA,NA,NA,NA,NA,-75.8412271,45.3954422
+8892739861,Law & Orders,NA,fast_food,NA,Deer Run Road,239,NA,NA,-76.3445416,45.346834
+9006618218,Braumeister Brewing Co,NA,cafe,NA,Stirling Avenue,175,NA,NA,-75.7284102,45.4060601
+9046464750,Second Cup,NA,cafe,Second Cup,Hawthorne Road,3500,NA,NA,-75.5980905,45.3742871
+9046528722,Chickpeas,NA,fast_food,NA,Bank Street,931,NA,NA,-75.6864912,45.4000046
+9072207289,Café Bistro Léo,NA,cafe,NA,Rue Galipeau,169,Thurso,NA,-75.2436492,45.6002198
+9085059901,Greek on Wheels,NA,fast_food,NA,NA,NA,NA,NA,-75.745044,45.284898
+9140811645,Fat Bastards Burrito,NA,fast_food,NA,NA,NA,NA,NA,-75.746633,45.2739312
+9152789663,Patterson Creek Bistro,NA,cafe,NA,NA,NA,NA,NA,-75.6824942,45.4080968
+9176321101,McDonald's,NA,fast_food,McDonald's,NA,NA,NA,NA,-75.3019867,45.2677084
+9176321102,hot patato,NA,fast_food,NA,NA,NA,NA,NA,-75.3099539,45.2681861
+9215171615,Seven Tea Miles,NA,fast_food,NA,NA,NA,NA,NA,-75.7370241,45.3574239
+9215171616,Botanitas,NA,fast_food,NA,NA,NA,NA,NA,-75.7359909,45.3590483
+9234126992,Bridgehead,NA,cafe,Bridgehead,NA,NA,NA,NA,-75.6968296,45.3841077
+9247067110,Domino's,NA,fast_food,Domino's,NA,NA,NA,NA,-75.6360087,45.0298668
+9250980417,Drip House,NA,cafe,NA,Parkdale Avenue,121,NA,NA,-75.733457,45.4084346
+9278393472,Milano Pizzeria,NA,fast_food,NA,Bridge Street,26,NA,NA,-76.1431061,45.1373999
+9296868311,Chef Ric's,NA,fast_food,NA,Rideau Street,384,NA,NA,-75.6826385,45.4298913
+9296868314,Okay-Dokay Tea House,NA,cafe,NA,NA,NA,NA,NA,-75.6786511,45.4318524
+9297542490,Bibi's,NA,fast_food,NA,NA,NA,NA,NA,-75.6716614,45.4422843
+9297669401,Greek on Wheels,NA,fast_food,NA,Somerset Street West,343,NA,NA,-75.6957441,45.4159576
+9307365053,La Poutinerie Albert,NA,fast_food,NA,Boulevard Saint-Joseph,780,NA,NA,-75.74064,45.4602341
+9333158045,Charcoal Boys,NA,fast_food,NA,Innes Road,3681,NA,NA,-75.5187787,45.4504157
+9333206341,Crêperie Rim,NA,fast_food,NA,Sparks Street,89,NA,NA,-75.6972813,45.4230265
+9495446304,A&W,NA,fast_food,A&W,NA,NA,NA,NA,-75.311756,45.2702999
+9567460846,Bank Shawarma & Poutine,NA,fast_food,NA,NA,NA,NA,NA,-75.6807283,45.3914877
+9577958844,Cafeteria,NA,food_court,NA,NA,NA,NA,NA,-75.8280348,45.1862526
+9592565721,Ritual on Main,NA,cafe,NA,NA,NA,NA,NA,-75.9209192,45.2582563
+9592565722,Marrybrown,NA,fast_food,Marrybrown,NA,NA,NA,NA,-75.6909229,45.3349624
+9611917165,Chungchun,NA,fast_food,NA,Woodroffe Avenue,1379,NA,NA,-75.7617584,45.350572
+9634708666,Cafe Cognac,NA,cafe,NA,Allée de Hambourg,10,NA,NA,-75.799626,45.4348626
+9634708679,La Casbah Shawarma et Grillades,NA,fast_food,NA,NA,NA,NA,NA,-75.7980307,45.4338786
+9634708681,Chatime,NA,cafe,Chatime,Allée de Hambourg,20,NA,NA,-75.7991257,45.4346278
+9674397073,KFC,NA,fast_food,KFC,Rideau Street,305,NA,NA,-75.6850859,45.4292645
+9674471789,Red Swan Pizza,NA,fast_food,NA,Montréal Road,2084,NA,NA,-75.5937539,45.4471332
+9674471790,Lava Cafe,NA,cafe,NA,Montréal Road,1754,NA,NA,-75.6093114,45.4455427
+9681053060,Mary Brown's,NA,fast_food,Mary Brown's,Eagleson Road,782,NA,NA,-75.8650172,45.2803947
+9681053061,Red Swan Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.8650415,45.2804462
+9695158487,A&W,NA,fast_food,A&W,NA,NA,NA,NA,-75.8066004,45.3472372
+9695158488,Jimmy the Greek,NA,fast_food,Jimmy the Greek,NA,NA,NA,NA,-75.8066695,45.3472942
+9695158489,Thaï Express,NA,fast_food,Thaï Express,NA,NA,NA,NA,-75.8067293,45.3473437
+9695158490,Cultures,NA,fast_food,Cultures,NA,NA,NA,NA,-75.8067891,45.3474026
+9695158491,Teriyaki Experience,NA,fast_food,Teriyaki Experience,NA,NA,NA,NA,-75.806833,45.3474437
+9695158492,Willy's Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.8069008,45.3474979
+9695158493,Dal Moro's Fresh Pasta To Go,NA,fast_food,NA,NA,NA,NA,NA,-75.8070058,45.3475007
+9695158494,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.8071268,45.3474428
+9695158495,Starbucks,NA,cafe,Starbucks,NA,NA,NA,NA,-75.8073022,45.3473522
+9695158496,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-75.8073926,45.3473045
+9695158497,Bayshore Food Court,NA,food_court,NA,NA,NA,NA,NA,-75.8069872,45.3472513
+9695158498,Mac's Sushi,NA,fast_food,NA,NA,NA,NA,NA,-75.8068915,45.347142
+9695158499,Osmow's,NA,fast_food,NA,NA,NA,NA,NA,-75.8074179,45.3472587
+9695158500,KFC,NA,fast_food,KFC,NA,NA,NA,NA,-75.8074046,45.3472111
+9695158501,Shanghai 360,NA,fast_food,NA,NA,NA,NA,NA,-75.8073487,45.3471606
+9695158502,BarBurrito,NA,fast_food,NA,NA,NA,NA,NA,-75.8072982,45.3471037
+9695158503,Manchu Wok,NA,fast_food,Manchu Wok,NA,NA,NA,NA,-75.8072504,45.3470495
+9695158504,New York Fries,NA,fast_food,New York Fries,NA,NA,NA,NA,-75.8072025,45.3470149
+9695164984,Taco Bell,NA,fast_food,Taco Bell,NA,NA,NA,NA,-75.8074532,45.347217
+9721713684,Starbucks,NA,cafe,Starbucks,Iber Road,24,NA,NA,-75.9113663,45.2816741
+9723487617,Casse-croûte Marie,NA,fast_food,NA,NA,NA,NA,NA,-75.4065239,45.594013
+9757011017,Palmier,NA,cafe,NA,NA,NA,NA,NA,-75.8114372,45.5075566
+9758250017,Little Victories Coffee,NA,cafe,NA,Elgin Street,44,NA,K1P 1C7,-75.6956236,45.423333
+9773984236,Oh My Grill,NA,fast_food,NA,York Street,169,NA,NA,-75.6892433,45.4299535
+9797481326,Milano Pizzeria,NA,fast_food,NA,Baxter Road,1143,NA,NA,-75.7818969,45.3505491
+9813439462,Dessert First,bakery,cafe,NA,Bay Street,350,Ottawa,K1R 6A2,-75.70221,45.4128188
+9820810186,Happy Goat Coffee,NA,cafe,NA,NA,NA,NA,NA,-75.6980349,45.4299227
+9820819575,Happy Goat Coffee,NA,cafe,NA,NA,NA,NA,NA,-75.6940433,45.4129335
+9836641818,Quelque Chose,NA,cafe,NA,NA,NA,NA,NA,-75.7557127,45.3913796
+9836659417,Dairy Queen,NA,fast_food,Dairy Queen,NA,NA,NA,NA,-75.7563674,45.3910651
+9844869117,3 Sisters,NA,cafe,NA,NA,NA,NA,NA,-75.6287308,45.3898718
+9893531119,Tim Hortons,NA,fast_food,NA,NA,NA,NA,NA,-75.6577875,45.4080823
+9894948888,Real Fruit Bubble Tea,NA,cafe,Real Fruit Bubble Tea,Bank Street,500,NA,NA,-75.6929206,45.4106386
+9937516413,Fat Bastard Burrito Co.,NA,fast_food,NA,NA,NA,NA,NA,-76.0304195,44.8907211
+9938314496,C'est Tout,bakery,cafe,NA,NA,NA,NA,NA,-76.0214464,44.9006834
+9938320187,Subway,NA,fast_food,Subway,Beckwith Street North,48,Smiths Falls,K7A 2B3,-76.0215102,44.9012127
+9948507311,Shawarma on the Falls,NA,fast_food,NA,Beckwith Street North,16,Smiths Falls,K7A 2B1,-76.0214072,44.9003149
+9948536821,Milano Pizzeria,NA,fast_food,NA,Main Street East,14,Smiths Falls,K7A 1A2,-76.02029,44.8998351
+9948536822,Pizza Pizza,NA,fast_food,Pizza Pizza,Beckwith Street South,1,Smiths Falls,K7A 2A9,-76.0208677,44.8994782
+9989465617,Market,NA,fast_food,NA,NA,NA,NA,NA,-75.6934582,45.4283005
+10000718589,South Street Burgers,NA,fast_food,NA,Laurier Avenue East,275,NA,NA,-75.6802215,45.4266347
+10017136172,Chip Stop,NA,fast_food,NA,NA,NA,NA,NA,-75.9489662,45.2750505
+10038120592,Wendy,NA,fast_food,NA,NA,NA,NA,NA,-75.7117114,45.4035476
+10045487850,Starbucks,NA,cafe,Starbucks,NA,NA,NA,NA,-75.7430059,45.2684135
+10054513588,SHARPFLE WAFFLE,NA,fast_food,NA,NA,NA,NA,NA,-75.7265055,45.4019304
+10057082331,Chatime,NA,cafe,Chatime,Somerset Street West,695,NA,NA,-75.7069584,45.4110775
+10073168801,Juice Dudez,NA,fast_food,NA,Richmond Road,91,NA,NA,-75.7436047,45.3967744
+10092442941,Sweet Militia,NA,fast_food,NA,NA,NA,NA,NA,-75.5242386,45.4710892
+10092442942,Tortilla Maker,NA,fast_food,NA,St. Joseph Boulevard,2003,NA,NA,-75.5388996,45.4651319
+10288218386,A&W,NA,fast_food,A&W,NA,NA,NA,NA,-75.3739422,45.0866028
+10315995947,Pizza Jose,NA,fast_food,NA,NA,NA,NA,NA,-75.7182521,45.4839895
+10316002488,Brûlerie Élixir,NA,cafe,NA,NA,NA,NA,NA,-75.7212369,45.481965
+10555699487,Badawi Grill & Bakery,NA,fast_food,NA,Bank Street,1710,NA,NA,-75.6662031,45.3748881
+10555699488,Juice Dudz,NA,fast_food,NA,Bank Street,1702,NA,NA,-75.666221,45.3749992
+10555699490,Rambutan Juice & Panini,NA,fast_food,NA,Bank Street,1666,NA,NA,-75.6667632,45.3763203
+10555699492,Moul Hanout,NA,fast_food,NA,NA,NA,NA,NA,-75.667464,45.3793792
+10555715092,Lokma,NA,fast_food,NA,NA,NA,NA,NA,-75.666782799999993,45.3781706
+10713351591,SuzyQ,NA,fast_food,NA,St-Laurent Boulevard,1721,NA,NA,-75.6261511,45.4058471
+10781820350,Bergham lokma,NA,fast_food,NA,NA,NA,NA,NA,-75.7337414,45.2969255
+10782590954,Green Leaf Bubble Tea,NA,cafe,NA,NA,NA,NA,NA,-75.9196861,45.2575993
+10799475987,La Bottega Nicastro,deli,cafe,NA,Rue Laurier,199,NA,NA,-75.7092292,45.4360245
+10800555110,Chicco Pizza,NA,fast_food,NA,Boulevard Maloney Est,842,NA,NA,-75.6076723,45.4847843
+10827902070,Chico Pizza,NA,fast_food,NA,Boulevard Lorrain,1320,NA,NA,-75.6106229,45.5051451
+10861305993,McDonald's,NA,fast_food,McDonald's,Trim Road,1520,NA,NA,-75.4736084,45.4830981
+10926955199,Tikka,NA,fast_food,NA,Carling Avenue,3001,NA,NA,-75.8049947,45.3554796
+10927013005,Sandwich Factory,NA,fast_food,NA,NA,NA,NA,NA,-75.9338054,45.3123336
+10927013008,Red Swan Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.9340449,45.312423
+10927013009,Turkish Kebab House,NA,fast_food,NA,NA,NA,NA,NA,-75.9345745,45.3126759
+10963896805,Café la Brûlerie,NA,cafe,NA,NA,NA,NA,NA,-75.7335437,45.4277885
+10966040783,The Village Cafe,NA,cafe,NA,Hazeldean Road,5734,NA,NA,-75.9125021,45.2819767
+10966040786,Papa John's,NA,fast_food,Papa John's,Hazeldean Road,5754,NA,NA,-75.9133304,45.2813337
+16386413,Pizza Pizza,NA,fast_food,Pizza Pizza,McArthur Avenue,320,NA,NA,-75.65390507890638,45.43158737935886
+68577092,The Lucky House,NA,fast_food,NA,Tenth Line Road,1675,NA,K1E 3P6,-75.49055146923752,45.46852051874696
+68577537,Garlic King,NA,fast_food,NA,St. Joseph Boulevard,2586,NA,NA,-75.52469997004545,45.4706961935335
+68586659,Burger King,NA,fast_food,Burger King,St-Laurent Boulevard,1802,NA,NA,-75.6263840270779,45.403405645917864
+68587644,Senpai,NA,restaurant,NA,Carling Avenue,2280,NA,NA,-75.77427482681833,45.36795386949496
+68587781,McDonald's,NA,fast_food,McDonald's,Carling Avenue,2526,NA,NA,-75.7893888622932,45.36230629797246
+68609292,Tim Hortons,NA,cafe,Tim Hortons,Richmond Road,993,NA,NA,-75.7770925897258,45.375877864952074
+68609494,McDonald's,NA,fast_food,McDonald's,Chemin d'Aylmer,213,Gatineau,J9H 1A3,-75.83142674980596,45.39615479935169
+68609695,KFC,NA,fast_food,KFC,Hazeldean Road,475,NA,NA,-75.88946274174978,45.29802771409922
+68658428,McDonald's,NA,fast_food,McDonald's,Robertson Road,2126,NA,NA,-75.83424829149853,45.321180667254374
+68658476,Tim Hortons,NA,cafe,Tim Hortons,Robertson Road,2145,NA,NA,-75.83669970700298,45.32097545926395
+68853657,McDonald's,NA,fast_food,McDonald's,Boulevard Gréber,80,Gatineau,J8T 3P8,-75.70064001117495,45.464308949049205
+68899836,McDonald's,NA,fast_food,McDonald's,Boulevard Maloney Ouest,378,NA,J8P 6W2,-75.66365225964039,45.48370546625483
+75713174,Wendy's,NA,fast_food,Wendy's,NA,NA,NA,NA,-76.27005304674293,44.90702733417995
+88760162,Restaurant Le Destination,NA,fast_food,NA,Chemin de Masson,775,NA,NA,-75.42039594028348,45.54488293338735
+89769326,Tim Hortons,NA,cafe,Tim Hortons,Chemin de Masson,1015,Gatineau,J8M 1R4,-75.4198134339815,45.55824215461323
+89771959,McDonald's,NA,fast_food,McDonald's,Chemin de Masson,1003,Gatineau,J8M 1R4,-75.42136863311026,45.55657814129506
+89781213,A&W,NA,fast_food,A&W,Chemin de Masson,1017,Gatineau,J8M 1R4,-75.41945440056436,45.55863474952041
+89786645,McDonald's,NA,fast_food,McDonald's,Riverside Drive,2269,NA,NA,-75.67674526527232,45.38707207329021
+91011313,1 for 1 Pizza,NA,fast_food,NA,Rue Principale,178,Gatineau,J9H 6J9,-75.83645688557806,45.39477051773999
+94173715,Tim Hortons,NA,cafe,Tim Hortons,Rue Principale,165,Gatineau,J9H 3M9,-75.83860360036066,45.39563425019652
+94198063,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Chemin d'Aylmer,215,Gatineau,J9H 1A3,-75.83075371177635,45.39614875867242
+116046007,McDonald's,NA,fast_food,McDonald's,Boulevard Maisonneuve,180,Gatineau,J8X 3N5,-75.71247814152801,45.43170225982478
+116622281,Subway,NA,fast_food,Subway,Promenade du Portage,48,Gatineau,NA,-75.71933831443967,45.424876045763746
+117388340,McDonald's,NA,fast_food,McDonald's,Boulevard du Mont-Bleu,38,Gatineau,J8Z 1J3,-75.74753566396794,45.462290380091304
+117884503,Subway,NA,fast_food,Subway,Montée Paiement,710,NA,J8R 4A3,-75.675917100449,45.502869048942394
+132374603,Tim Hortons,NA,cafe,Tim Hortons,Boulevard Saint-Raymond,208,Gatineau,J9A 3H6,-75.76650139238673,45.43678742132799
+138735304,Tim Hortons,NA,cafe,Tim Hortons,Carling Avenue,4060,NA,NA,-75.90845513586663,45.33733253006321
+147434950,Wendy's,NA,fast_food,Wendy's,Carling Avenue,2545,NA,K2B 7H6,-75.78681528369782,45.36370910914377
+147434956,Pizza Pizza,NA,fast_food,Pizza Pizza,Richmond Road,1338,NA,NA,-75.78644748379163,45.36672593212785
+151670109,McDonald's,NA,fast_food,McDonald's,Stittsville Main Street,1250,NA,K2S 1S9,-75.93065224942293,45.26842687006085
+152498416,Pizza Pizza,NA,fast_food,Pizza Pizza,Rideau Street,336,NA,NA,-75.68404330118547,45.429127998927825
+153008507,Parma Ravioli,deli,fast_food,NA,Wellington Street West,1314,NA,NA,-75.73672217291822,45.39847801179977
+153383765,Tim Hortons,NA,cafe,Tim Hortons,Montréal Road,115,NA,K1L 6E8,-75.66671565210535,45.43444940165369
+158028952,Sip Tea,NA,cafe,NA,Merivale Road,1541,NA,NA,-75.73498766219535,45.35552342382099
+158621670,Shawarma Prince,NA,fast_food,NA,Merivale Road,1667,NA,NA,-75.73197015310514,45.348964899708314
+161998606,Café Taché,NA,cafe,NA,Boulevard Alexandre-Taché,481,Gatineau,NA,-75.75194990752463,45.420208859392034
+162777994,Harvey's,NA,fast_food,Harvey's,Boulevard Saint-Joseph,541,Gatineau,J8Y 4A1,-75.73512695097979,45.44891309953219
+163760237,Poulet Frit Maniaque,NA,fast_food,NA,Boulevard Gréber,456,NA,NA,-75.70292367119212,45.48700489636329
+166313378,Tim Hortons,NA,cafe,Tim Hortons,Merivale Road,1260,NA,K2C 4A7,-75.73256520482298,45.370451909193626
+166369164,Harvey's,NA,fast_food,Harvey's,Boulevard Gréber,180,Gatineau,J8T 6K2,-75.70168408656482,45.47212644253315
+167817024,Shawarma Andalos,NA,fast_food,NA,O'Connor Street,154,NA,NA,-75.69672186726065,45.4183682927889
+167908116,Starbucks,NA,cafe,Starbucks,McNeely Avenue,505,NA,NA,-76.11940262744606,45.132074767516926
+167908119,Shawarma Place,NA,fast_food,NA,McNeely Avenue,545,NA,NA,-76.11849179982372,45.13134024916425
+168259543,Tim Hortons,NA,cafe,Tim Hortons,Chemin Vanier,405,Gatineau,NA,-75.80787366862063,45.41378325087869
+171266703,Tim Hortons,NA,cafe,Tim Hortons,Prince Of Wales Drive,1406,NA,NA,-75.70266035234981,45.36927720680247
+174767025,A&W,NA,fast_food,A&W,McNeely Avenue,506,NA,NA,-76.11991185374117,45.13149753901663
+174769203,Domino's,NA,fast_food,Domino's,Wellington Street West,1096,NA,NA,-75.72530185521957,45.4027832717059
+175821516,Tim Hortons,NA,cafe,Tim Hortons,River Road,989,NA,NA,-75.67638755412531,45.23457767943522
+176414412,Tim Hortons,NA,cafe,Tim Hortons,Boulevard Saint-Joseph,894,Gatineau,J8Z 1S9,-75.73882413652865,45.46457827606933
+182249103,Le Palais Libanais,NA,fast_food,NA,Boulevard Gréber,332,NA,J8T 8H4,-75.7015769623183,45.47807027399506
+182249105,Tim Hortons,NA,cafe,Tim Hortons,Boulevard Gréber,378,NA,J8T 5R6,-75.70201591337322,45.481016373880216
+186835572,Dairy Queen,NA,fast_food,Dairy Queen,Merivale Road,1503,NA,K2E 5P3,-75.73696309287962,45.35778817973511
+217978240,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.80546688729332,45.38635578222335
+218467987,Dairy Queen,NA,fast_food,Dairy Queen,Highway 7,10497,NA,NA,-76.12396575489173,45.12910473647241
+218815745,Tim Hortons,NA,cafe,Tim Hortons,Carling Avenue,2970,NA,NA,-75.80280080978059,45.3555501990035
+219306013,Tim Hortons,NA,cafe,Tim Hortons,Bank Street,4764,NA,K1T 3W7,-75.59324804788005,45.318823159156516
+223280425,Starbucks,NA,cafe,Starbucks,Woodroffe Avenue,3302,NA,NA,-75.7188783502156,45.275068149914304
+223446332,Tim Hortons,NA,cafe,Tim Hortons,Fallowfield Road,3330,NA,K2J 4P5,-75.73245786156964,45.297526462060965
+223446336,McDonald's,NA,fast_food,McDonald's,Fallowfield Road,3340,NA,K2J 5L1,-75.73288626480688,45.29732833321228
+223935734,Burger King,NA,fast_food,Burger King,March Road,700,NA,NA,-75.92511594011471,45.349879351626676
+229189599,McDonald's,NA,fast_food,McDonald's,County Road 43,2600,NA,NA,-75.65720520162706,45.01873989861338
+229189727,Tim Hortons,NA,cafe,Tim Hortons,County Road 43,2600,NA,NA,-75.65799509142904,45.0183645163489
+229623197,Tim Hortons,NA,cafe,Tim Hortons,Innes Road,4454,NA,NA,-75.48595439136966,45.4608889879322
+230280211,Shish Kabab House,NA,fast_food,NA,Carling Avenue,1679,NA,K2A 1C4,-75.75038969988043,45.37968579951437
+231274825,Starbucks,NA,cafe,Starbucks,Coventry Road,380,NA,NA,-75.64923722192943,45.42102246389262
+231835267,Little Mac's,NA,fast_food,NA,Wellington Street West,991,NA,K1Y 2Y1,-75.72347206599206,45.40553698056009
+231975870,Harvey's,NA,fast_food,Harvey's,Earl Grey Drive,150,NA,NA,-75.91463951379605,45.3089874035407
+231975872,Mucho Burrito,NA,fast_food,Mucho Burrito,Earl Grey Drive,130,NA,NA,-75.91490837558446,45.30908958501024
+233576876,Thaï Express,NA,fast_food,Thaï Express,Terry Fox Drive,499,NA,K2T 1H7,-75.92030003637392,45.31013315736279
+233577475,Arby's,NA,fast_food,Arby's,Hazeldean Road,474,NA,K2L 4E5,-75.88867572302105,45.29732259199162
+233662996,Penguins Stop Dairy Bar,NA,fast_food,NA,NA,NA,NA,NA,-75.2180705017873,45.31470826970692
+233662997,Ulysses Bar & Grill,NA,fast_food,NA,NA,NA,NA,NA,-75.21797935175114,45.31514009911916
+233809750,Tim Hortons,NA,cafe,Tim Hortons,Carp Road,1130,NA,NA,-75.94072155309021,45.26847793521872
+233810235,Taco Bell,NA,fast_food,Taco Bell,Hazeldean Road,461,NA,K2L 1V1,-75.886749551228,45.29954725078401
+233811387,Dairy Queen,NA,fast_food,Dairy Queen,Robertson Road,2036,NA,NA,-75.82857722810122,45.32354756458753
+233898506,Harvey's,NA,fast_food,Harvey's,Robertson Road,1946,NA,NA,-75.82383304371139,45.325552055344616
+233898512,Tim Hortons,NA,cafe,Tim Hortons,Robertson Road,1879,NA,NA,-75.82118667931009,45.327453320124235
+233903203,Shawarma Palace,NA,fast_food,NA,Carling Avenue,2961,NA,NA,-75.80320952031565,45.35627882085619
+233905579,Dairy Queen,NA,fast_food,Dairy Queen,Conn Street,2605,NA,NA,-75.79009020718303,45.363597876911136
+233910514,Starbucks,NA,cafe,Starbucks,Carling Avenue,4055,NA,NA,-75.90785401376952,45.338506198437386
+234032096,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Stonehaven Drive,62,NA,NA,-75.8574298002065,45.292268149904814
+236327935,Pizza Pizza,NA,fast_food,Pizza Pizza,Carling Avenue,1779,NA,NA,-75.7545220920076,45.377532513408596
+236328144,Tim Hortons,NA,cafe,Tim Hortons,Carling Avenue,1778,NA,NA,-75.75366475646192,45.37711065550395
+236328147,McDonald's,NA,fast_food,McDonald's,Carling Avenue,1884,NA,NA,-75.75836211224,45.37521343017342
+236970180,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-76.13614321475416,45.13546677537757
+238903196,Heartbreakers Pizza,NA,fast_food,NA,Parkdale Avenue,465,NA,NA,-75.72768626837093,45.39882850214778
+239254040,Tim Hortons,NA,cafe,Tim Hortons,Eagleson Road,650,NA,NA,-75.86897925718912,45.28833507532641
+239508344,Starbucks,NA,cafe,Starbucks,Eagleson Road,690,NA,K2M 2G9,-75.8677619801288,45.28669950647694
+239818669,Burrito Gringo,NA,fast_food,NA,Merivale Road,1715,NA,K2G 3J8,-75.72951819712611,45.34489210125012
+239818893,Pho Thi Noodle Soup,NA,fast_food,NA,Merivale Road,1691,NA,NA,-75.73020607935392,45.346251438270784
+242966111,Tim Hortons,NA,cafe,Tim Hortons,Colonnade Drive,301,NA,NA,-75.63370376453932,45.030288551620906
+242966116,A&W,NA,fast_food,A&W,Colonnade Drive,305,NA,NA,-75.63320686149639,45.029840507455965
+244593903,Tim Hortons,NA,cafe,Tim Hortons,St. Joseph Boulevard,2895,NA,NA,-75.51860166179702,45.47499764968286
+246860636,Dairy Queen,NA,fast_food,Dairy Queen,St-Laurent Boulevard,345,NA,NA,-75.6514066857058,45.449658981575205
+250694723,Kettleman's Bagels,NA,fast_food,NA,Bank Street,912,NA,NA,-75.68696897737097,45.3998974063089
+252266021,Starbucks,NA,cafe,Starbucks,Prince Of Wales Drive,2271,NA,NA,-75.70152059198278,45.32737084586002
+257109723,Mr. Mozarella,NA,fast_food,NA,NA,NA,NA,NA,-76.14400294916035,45.13806110257875
+257158830,Pita Bell Kebab,NA,fast_food,NA,Carling Avenue,1696,NA,NA,-75.75051279621242,45.378601332019066
+257178559,Harvey's,NA,fast_food,Harvey's,Merivale Road,1650,NA,NA,-75.72988803433772,45.3442005893005
+257374419,TV's Fries,NA,fast_food,NA,NA,NA,NA,NA,-75.72768863867495,45.33512846599487
+258269889,Simply Biscotti,NA,cafe,NA,Preston Street,354,NA,NA,-75.71043138296666,45.40180645348039
+258271694,Nutty Greek Bake Shop,NA,cafe,NA,Rochester Street,490 B,NA,NA,-75.70756661455272,45.40104988119737
+259456820,Dairy Queen,NA,fast_food,Dairy Queen,Bank Street,1272,NA,NA,-75.67976391336227,45.39033376031022
+259456822,The Strand Fish & Chips,NA,fast_food,NA,Bank Street,1265,NA,K1S 3Y2,-75.67967363563699,45.39078222194578
+261967903,A&W,NA,fast_food,A&W,Edgewater Street,41,NA,NA,-75.90018680180845,45.29700890017151
+263567665,Thaï Express,NA,fast_food,Thaï Express,Richmond Road,1315,NA,NA,-75.79065888747833,45.36328776991075
+264693947,Dairy Queen,NA,fast_food,Dairy Queen,Madawaska Boulevard,136,NA,K7S 2C8,-76.34461841098253,45.43370842071406
+264797713,McDonald's,NA,fast_food,McDonald's,Baskin Drive West,NA,NA,NA,-76.3689835139796,45.42425217030702
+266067034,Five Guys,NA,fast_food,Five Guys,Greenbank Road,1181,NA,K2J 4Y6,-75.74803104736361,45.27446430919036
+270213695,Tim Hortons,NA,cafe,Tim Hortons,Baseline Road,1384,NA,NA,-75.7378311958717,45.36177110021826
+273582562,Les Saisons Café,NA,cafe,NA,Chemin Old Chelsea,232,Chelsea,J9B 1J3,-75.8098510443934,45.503264023594305
+273587693,Biscotti & cie,NA,cafe,NA,Chemin Scott,6,Chelsea,J9B 1J3,-75.81112377745008,45.50371924385612
+275479192,Cafe El-Hara,NA,cafe,NA,Bank Street,1818,NA,NA,-75.66424731353695,45.37146260050687
+275506589,A&W,NA,fast_food,A&W,Hawthorne Road,3228,NA,NA,-75.6020941502053,45.381519999079714
+275523459,Tim Hortons,NA,cafe,Tim Hortons,St-Laurent Boulevard,1802,NA,NA,-75.62703031522591,45.40367005634189
+275523462,McDonald's,NA,fast_food,McDonald's,St-Laurent Boulevard,1795,NA,NA,-75.62526635769417,45.40434722198676
+278067917,Taco Lot,NA,fast_food,NA,NA,NA,NA,NA,-75.69824908762033,45.417026833984046
+283644074,Subway,NA,fast_food,Subway,Strandherd Drive,3141,NA,K2J 5N1,-75.71883291223229,45.27500830257469
+286939622,Wendy's,NA,fast_food,Wendy's,Merivale Road,1595,NA,NA,-75.73312644005644,45.35153651387054
+287531451,Tim Hortons,NA,cafe,Tim Hortons,Alta Vista Drive,1583,NA,NA,-75.65776935537387,45.408083128411526
+288961787,Harvey's,NA,fast_food,Harvey's,Carling Avenue,2150,NA,K2A 1H1,-75.76911239030251,45.37042903024645
+289073111,Cozmos Souvlaki,NA,fast_food,NA,Greenbank Road,196,NA,NA,-75.77999425160344,45.32618238838653
+292839596,KFC,NA,fast_food,KFC,St-Laurent Boulevard,932,NA,NA,-75.64142784141394,45.43088036521645
+294224921,Tim Hortons,NA,cafe,Tim Hortons,Edwards Street,297,Clarence-Rockland,NA,-75.29523824328692,45.55158053826903
+294886310,McDonald's,NA,fast_food,McDonald's,Boulevard Saint-Joseph,515,Gatineau,J8Y 4A1,-75.73389239192728,45.44785452040444
+295279781,Sam's Pizzeria,NA,fast_food,NA,Rideau Street,712,NA,NA,-75.65322989043341,45.02085664117759
+300543261,Burger King,NA,fast_food,Burger King,Montréal Road,199,NA,NA,-75.66384949992064,45.435416499391586
+300577496,McDonald's,NA,fast_food,McDonald's,Bronson Avenue,670,NA,NA,-75.70117442967539,45.40293484429176
+300674931,Popeyes,NA,fast_food,Popeyes,Bank Street,690,NA,NA,-75.69006749648129,45.40523200227017
+301866495,Tim Hortons,NA,cafe,Tim Hortons,Boulevard de la Cité-des-Jeunes,210,Gatineau,J8Y 6L1,-75.7546270486029,45.44908048726879
+302923620,Pizza Pizza,NA,fast_food,Pizza Pizza,St. Joseph Boulevard,2369,NA,NA,-75.5301741102646,45.469052035928414
+303066892,Burger King,NA,fast_food,Burger King,Clyde Avenue,1356,NA,NA,-75.7410256962086,45.36271565384973
+304469710,McDonald's,NA,fast_food,McDonald's,St. Joseph Boulevard,2643,NA,NA,-75.52426666612136,45.471694729088
+305078217,Patterson Creek Bistro,NA,cafe,NA,NA,NA,NA,NA,-75.6824931022496,45.40809372678878
+305804533,Harvey's,NA,fast_food,Harvey's,Montréal Road,660,NA,NA,-75.63973085368416,45.44303975716276
+306190134,McDonald's,NA,fast_food,McDonald's,Montréal Road,594,NA,NA,-75.64350795090014,45.44185494976745
+306190318,Tim Hortons,NA,cafe,Tim Hortons,Montréal Road,585,NA,NA,-75.64477535504798,45.442250331839404
+307096811,Morning Owl,NA,cafe,NA,Woodward Drive,1621,NA,NA,-75.74798401312282,45.37484521831078
+307230825,Burger King,NA,fast_food,Burger King,Boulevard Gréber,104,Gatineau,J8T 6H5,-75.70085459204167,45.465629139664536
+307636942,Pizza Pizza,NA,fast_food,Pizza Pizza,Boulevard Gréber,123,NA,J8T 3R1,-75.70005544926116,45.467304351380164
+308485610,Subway,NA,fast_food,Subway,Boulevard Maloney Est,869,Gatineau,NA,-75.6021667816839,45.4878285862598
+313343299,PFK,NA,fast_food,KFC,Boulevard Saint-Joseph,347,Gatineau,J8Y 3Z3,-75.73316363578351,45.44221876083426
+314351690,PFK,NA,fast_food,KFC,Rue Notre-Dame,258,Gatineau,J8P 1K4,-75.64656528678486,45.481887954712626
+314351784,Tim Hortons,NA,cafe,Tim Hortons,Boulevard Maloney Est,327,NA,J8P 1E2,-75.64308081093245,45.48488404402267
+314798810,Equator Coffee,NA,cafe,NA,Churchill Avenue North,412,NA,NA,-75.75375655849692,45.39170080701401
+315539777,My Favorite Chinese Food,NA,fast_food,NA,St. Joseph Boulevard,2297,NA,NA,-75.53264550194253,45.46803559882116
+316896902,Pizza Power,NA,fast_food,NA,McArthur Avenue,181,NA,NA,-75.66237590766842,45.43140875055573
+319187752,Dairy Barn,NA,fast_food,NA,King Street,312,NA,NA,-75.64619544914432,45.02477944829296
+319811085,Safari Grill,NA,restaurant,NA,St. Patrick Street,360,NA,NA,-75.68914446232898,45.43206839557024
+320912246,Harvey's,NA,fast_food,Harvey's,Baseline Road,1220,NA,NA,-75.73212343044645,45.364424323808684
+321396785,Tim Hortons,NA,cafe,Tim Hortons,Sadler Drive,105,NA,NA,-76.18418355321818,45.235139303469055
+323893216,Kaheab,NA,fast_food,NA,Montréal Road,973,NA,NA,-75.62673400117195,45.44750366746677
+324110984,Carp Pizza,NA,fast_food,NA,Donald B. Munro Drive,439,NA,K0A 1L0,-76.0366487993167,45.34442779960124
+326228802,Mary Brown's,NA,fast_food,Mary Brown's,Bank Street,1701,NA,NA,-75.6653279625905,45.37493965265027
+328864040,La Patata Glacee,NA,fast_food,NA,Boulevard de Lucerne,9,Gatineau,NA,-75.80860061789474,45.38571542733197
+329498165,Subway,NA,fast_food,Subway,Navaho Drive,2301 B,NA,NA,-75.75559170421941,45.35294045394442
+329499168,McDonald's,NA,fast_food,McDonald's,Baseline Road,1850,NA,NA,-75.7561316293186,45.3538407462533
+329499642,Royal Paan,NA,fast_food,NA,Baseline Road,1943,NA,NA,-75.76073128645112,45.35284118696
+330060987,McDonald's,NA,fast_food,McDonald's,Rue Saint-Louis,2335,NA,NA,-75.74651264996383,45.48903243542322
+330060988,Subway,NA,fast_food,Subway,Rue Saint-Louis,2335,NA,J8V 1J2,-75.74643448431844,45.48896565981344
+330063482,Tim Hortons,NA,cafe,Tim Hortons,Avenue du Pont,2,NA,J8V 1E5,-75.74773015712053,45.48826152454116
+335826307,Tim Hortons,NA,cafe,Tim Hortons,Donald Street,1239,NA,NA,-75.63981666329927,45.42950229952797
+340738466,Tim Hortons,NA,cafe,Tim Hortons,Trim Road,2020,NA,K4A 0G4,-75.45374087557725,45.46879453296245
+356950752,Wendy's,NA,fast_food,Wendy's,Place-d'Orléans Drive,1170,NA,NA,-75.51902160081868,45.475503199297776
+357958093,Popeyes,NA,fast_food,Popeyes,Innes Road,4471,NA,NA,-75.48684178604938,45.46168106915288
+359453178,barBurrito,NA,fast_food,NA,Hazeldean Road,5507,NA,NA,-75.9024799108964,45.28964349659267
+360055507,McDonald's,NA,fast_food,McDonald's,Hazeldean Road,510,NA,NA,-75.89476865448846,45.293431365205244
+362496354,Maple Delight Pizza,NA,fast_food,NA,Merivale Road,1012,NA,K1Z 6A5,-75.73356470389584,45.37954494085046
+364377773,Tim Hortons,NA,cafe,Tim Hortons,Montée Paiement,415,NA,J8P 0B1,-75.67606608408866,45.490817816129365
+364377774,Milano Pizzeria,NA,fast_food,NA,Boulevard Saint-René Ouest,643,NA,J8T 8M4,-75.67698804925789,45.49089124937903
+364584303,Sandy Pizza,NA,fast_food,NA,Navan Road,3689,NA,K4B 1H9,-75.48907437752564,45.42651684037537
+366495994,Pizza Pizza,NA,fast_food,Pizza Pizza,Bank Street,1717,NA,NA,-75.66522965454976,45.37473707403968
+367700127,Tim Hortons,NA,cafe,Tim Hortons,Laporte Street,2875,Clarence-Rockland,K4K 1A3,-75.30236802699885,45.539648673460505
+367700139,Patate Express,NA,fast_food,NA,Edwards Street,291,Clarence-Rockland,K4K 1H6,-75.2960682970517,45.55117093661257
+368024772,Casse-croute des deux soeurs,NA,fast_food,NA,Rue Du Vigneau,369,NA,J8P 5V2,-75.65795914704901,45.49068315033833
+368638872,Paterie Chez Jojo,NA,fast_food,NA,Rue Notre-Dame,314,Gatineau,J8X 3V2,-75.64357344842983,45.48129230296308
+368638885,Le Bariste & La Fleuriste,florist,cafe,NA,Rue Notre-Dame,333,Gatineau,J8P 1L3,-75.64280749945968,45.481654250397135
+369104599,Chez Bob Pataterie,NA,fast_food,NA,Rue Saint-Louis,1180,Gatineau,J8T 2L8,-75.7006370947964,45.46101467913022
+371771450,Chalet Donair Shawarma,NA,fast_food,NA,Boulevard Gréber,117,Gatineau,J8T 3P9,-75.70004637712346,45.46665015796837
+371771832,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,Gatineau,NA,-75.7053020612028,45.473967425854674
+371782903,Gaga Patate,NA,fast_food,NA,Rue Saint-Louis,1123,Gatineau,J8T 2R8,-75.69819887667435,45.46204881767123
+373162559,McDonald's,NA,fast_food,McDonald's,Boulevard des Grives,243,Gatineau,J9A 0C7,-75.77946826672866,45.43378211018422
+374560978,The Loft Board Game Lounge,NA,cafe,NA,Waller Street,14,NA,K1N 9C4,-75.68874390988871,45.42702439656556
+376430577,Starbucks,NA,cafe,Starbucks,Third Avenue,111,NA,NA,-75.68814814349183,45.40326047857485
+379128616,Soprano's Pizza,NA,fast_food,NA,York Street,167,NA,NA,-75.68927554454055,45.429970875604994
+380017656,Milano Pizzeria,NA,fast_food,NA,NA,NA,NA,NA,-75.1584040547801,45.43513517506914
+382916383,Starbucks,NA,cafe,Starbucks,Boulevard de la Gappe,71,NA,J8T 0C2,-75.71685744554868,45.46548036430411
+385066257,Starbucks,NA,cafe,Starbucks,St-Laurent Boulevard,1910,NA,K1G 1A4,-75.62386863370429,45.39946515381273
+386571288,Lorenzos's Pizza,NA,fast_food,NA,Queen Mary Street,295,NA,NA,-75.65211280418528,45.42538897031764
+387000499,Benny & Co,NA,fast_food,NA,Boulevard Gréber,384,NA,J8T 5R5,-75.70190465219643,45.48183834979526
+394709218,Aladdin,NA,fast_food,NA,St-Laurent Boulevard,1020,NA,NA,-75.63991315115146,45.42775984895243
+397006255,Starbucks,NA,cafe,Starbucks,Greenbank Road,1181,NA,K2J 4Y6,-75.74818783131063,45.27440470260519
+397788980,The Burger's Priest,NA,fast_food,NA,Bank Street,1677,NA,NA,-75.66585586659073,45.37614747273003
+406481942,Bridgehead,NA,cafe,Bridgehead,Carling Avenue,2140,NA,K2A 1H1,-75.7685202992013,45.370749348367895
+410941070,Dairy Queen,NA,fast_food,Dairy Queen,Marketplace Avenue,50,NA,K2J 5G3,-75.7440408841368,45.26982420819318
+410941071,Pizza Pizza,NA,fast_food,Pizza Pizza,Marketplace Avenue,50,NA,K2J 5G3,-75.74393421657818,45.26969069384045
+410941073,Booster Juice,NA,fast_food,Booster Juice,Marketplace Avenue,50,NA,K2J 5G3,-75.74375226371536,45.26976273317939
+412293230,Moca Loca Café,NA,cafe,NA,Boulevard Saint-Joseph,335,Gatineau,J8Y 3Z2,-75.73310742703256,45.44148287186176
+412293843,La Pataterie Hulloise,NA,fast_food,NA,Boulevard Saint-Joseph,311,Gatineau,J8Y 3Y6,-75.7333232001839,45.44017634235559
+413954416,Papa Pizza,NA,fast_food,NA,Boulevard Saint-Joseph,574,Gatineau,J8Y 4A5,-75.73562573286445,45.44997575033371
+413958172,Tim Hortons,NA,cafe,Tim Hortons,Boulevard Saint-Joseph,650,Gatineau,J8Y 4A8,-75.73814544831909,45.45219894869139
+422898542,Mucho Burrito,NA,fast_food,Mucho Burrito,Greenbank Road,3170,NA,K2J 4H9,-75.74605243720825,45.269179356478496
+422898544,Second Cup,NA,cafe,Second Cup,Greenbank Road,3170,NA,K2J 4H7,-75.74611594939597,45.269262947098504
+422900008,Sushi Shop,NA,fast_food,Sushi Shop,Marketplace Avenue,50,NA,K2J 5G3,-75.74385887037407,45.269896201520005
+428193254,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Boulevard Saint-Joseph,216,Gatineau,J8Y 3X4,-75.73278518105997,45.434905872204595
+428193256,Pizza La Difference,NA,fast_food,NA,Boulevard Saint-Joseph,212,Gatineau,J8Y 3X4,-75.73283454477007,45.43473559593106
+428195963,Réjean Patate,NA,fast_food,NA,Boulevard Saint-Joseph,204,Gatineau,J8Y 3W9,-75.73295383317749,45.43426787283672
+432284771,Second Cup,NA,cafe,Second Cup,Tenth Line Road,1777,NA,K1E 3X2,-75.49087190152865,45.466711499292906
+436156676,Country Fresh Food & Take Out,NA,fast_food,NA,Richmond Road,591,NA,K0A 1B0,-75.99066072800937,45.09176185016067
+436986881,Second Cup,NA,cafe,Second Cup,Bayshore Drive,100,NA,NA,-75.80710883465576,45.346765414725446
+437082149,Cinnabon,NA,fast_food,Cinnabon,Bayshore Drive,100,NA,NA,-75.80664389661001,45.34672950310086
+437086806,Kernels Popcorn,NA,fast_food,Kernels Popcorn,Bayshore Drive,100,NA,NA,-75.8067286593295,45.34743359591592
+437086811,Real Fruit Bubble Tea,NA,cafe,Real Fruit Bubble Tea,NA,NA,NA,NA,-75.80667449235828,45.3473854595021
+437086825,Crepes and Waffles,NA,fast_food,NA,Bayshore Drive,100,NA,NA,-75.80713591187688,45.347128413751726
+437092759,Carlo’s Bake Shop,bakery,fast_food,NA,Bayshore Drive,100,NA,NA,-75.80623545174885,45.347680204179106
+437092779,Akai,NA,fast_food,NA,Bayshore Drive,100,NA,NA,-75.80681444436271,45.34688811017825
+442266113,McDonald's,NA,fast_food,McDonald's,Bank Street,4782,NA,K1T 3W7,-75.59324330830464,45.31824964125908
+445605619,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Limebank Road,4452,NA,NA,-75.67131638299718,45.28709022264228
+447128721,McDonald's,NA,fast_food,McDonald's,NA,NA,NA,NA,-75.29944247468914,45.543315129102076
+447277008,Second Cup,NA,cafe,Second Cup,Hunt Club Road,214,NA,K1V 1C1,-75.69211225287162,45.33440467298408
+447277076,St-Hubert Express,NA,fast_food,St-Hubert,Riverside Drive,4010,NA,NA,-75.69404131926683,45.33295336771559
+447587604,Tim Hortons,NA,cafe,Tim Hortons,Lancaster Road,2800,NA,NA,-75.60527190104081,45.3941498658336
+447587645,Dubai Cafe,NA,cafe,NA,Lancaster Road,2784,NA,NA,-75.60566251247647,45.394899581389716
+450801745,The Beachconers Microcreamery,NA,cafe,NA,Britannia Road,273,NA,K2B 5X3,-75.79605176813686,45.36560796762276
+451784424,Bits 'n Bytes,NA,cafe,NA,NA,NA,NA,NA,-75.75583507577979,45.348296252412965
+452580548,Arnprior Noodle House,NA,fast_food,NA,Madawaska Boulevard,143,Arnprior,K7S 3K1,-76.34465877679527,45.43294789441274
+452580566,Tim Hortons,NA,cafe,Tim Hortons,Madawaska Boulevard,201,Arnprior,K7S 1S6,-76.34299775493432,45.432252901486926
+454071476,Chip Stand,NA,fast_food,NA,York Street,35,NA,NA,-75.69380077467478,45.4280347356853
+457623204,Jimmy the Greek,NA,fast_food,Jimmy the Greek,Carling Avenue,2121,NA,NA,-75.76842816364888,45.372712318131626
+457623205,Thai Express,NA,fast_food,Thai Express,Carling Avenue,2121,NA,NA,-75.76841522566686,45.372764770300996
+457623206,A&W,NA,fast_food,A&W,Carling Avenue,2121,NA,NA,-75.76837372380281,45.37281799904258
+457623207,Manchu Wok,NA,fast_food,Manchu Wok,Carling Avenue,2121,NA,NA,-75.76832470218444,45.37284717139348
+457623209,New York Fries,NA,fast_food,New York Fries,Carling Avenue,2121,NA,NA,-75.76817121746141,45.3728471209359
+457623228,Kernels Popcorn,NA,fast_food,Kernels Popcorn,Carling Avenue,2121,NA,NA,-75.76936345488438,45.37274766580952
+457623300,Mr. Pretzels,bakery,fast_food,NA,Carling Avenue,2121,NA,NA,-75.76931174378605,45.372627050362425
+457623304,Second Cup,NA,cafe,Second Cup,Carling Avenue,2121,NA,K2A 1H2,-75.76996229933539,45.372629758665354
+457623307,Tim Hortons,NA,cafe,Tim Hortons,Carling Avenue,2121,NA,NA,-75.77024097088709,45.37265800958163
+457623308,Subway,NA,fast_food,Subway,Carling Avenue,2121,NA,NA,-75.7703548806064,45.37266919364091
+457623312,Booster Juice,NA,fast_food,Booster Juice,Carling Avenue,2121,NA,NA,-75.77064823965611,45.37272252371932
+459089268,La Patate Dorée,NA,fast_food,NA,Rue Eddy,157,Gatineau,J8X 2W7,-75.7204850156645,45.4302524288364
+459469005,Bar Lucy,NA,cafe,NA,York Street,111,NA,K1N 5T4,-75.6908545215392,45.429335652497564
+460242947,Thaï Express,NA,fast_food,Thaï Express,West Hunt Club Road,330,NA,K2E 0B7,-75.71560306858314,45.33803776244175
+460242948,Booster Juice,NA,fast_food,Booster Juice,West Hunt Club Road,324,NA,K2E 0B7,-75.7144768020691,45.338476150091765
+460242952,Tim Hortons,NA,cafe,Tim Hortons,Merivale Road,1857,NA,NA,-75.72391634609848,45.33562611044603
+460242953,A&W,NA,fast_food,A&W,Merivale Road,1830,NA,NA,-75.72515828952773,45.33568537399576
+460246058,Tim Hortons,NA,cafe,Tim Hortons,Merivale Road,1910,NA,NA,-75.72181099382762,45.32945753375744
+460440197,Arlington Five,NA,cafe,NA,Arlington Avenue,5,NA,K2P 1C1,-75.69291243729194,45.41013446904313
+460440204,Subito Sandwich,NA,fast_food,NA,Gladstone Avenue,389,NA,NA,-75.69434311437416,45.41202826806098
+460956127,Morning Owl,NA,cafe,NA,Rochester Street,538,NA,NA,-75.7065644772188,45.3996413114481
+461140627,Dairy Queen,NA,fast_food,Dairy Queen,Boulevard Alexandre-Taché,413,Gatineau,J9A 1M6,-75.74717984010695,45.42122708977334
+463148880,Shawarma Palace,NA,fast_food,NA,Rideau Street,464,NA,K1N 6B9,-75.67993118196148,45.43095636867688
+464640505,YKO BBQ,NA,fast_food,NA,McArthur Avenue,375,NA,NA,-75.65069929242652,45.43228634998283
+465012335,Café Des Artistes De La Lièvre,NA,cafe,NA,Avenue de Buckingham,408,NA,NA,-75.41678421443414,45.5891546626883
+465221463,The Ministry of Coffee and Social Affairs,NA,cafe,NA,Wellington Street West,1013,NA,NA,-75.72375875474484,45.40505484826382
+465501231,Papa Pizza,NA,fast_food,NA,Chemin de Masson,855,NA,NA,-75.42166657137479,45.54706640060559
+466090062,Coco Frite,NA,fast_food,NA,Boulevard Maloney Est,1195,Gatineau,J8P 1J1,-75.58334639047686,45.49371595551723
+466690719,Wing's Chinese Food,NA,fast_food,NA,Montréal Road,315,NA,NA,-75.65801175512064,45.43763146495627
+466693351,Mr. Shawarma,NA,fast_food,NA,Ogilvie Road,2018,NA,NA,-75.60253990331341,45.43724575774547
+469453077,Tim Hortons,NA,cafe,Tim Hortons,Hawthorne Road,3224,NA,NA,-75.60226647043726,45.38179556228737
+469726986,Milano,NA,fast_food,NA,Fourth Line Road,6594,NA,K0A 2T0,-75.71696866368407,45.13190626026862
+469754847,Far Les's Chip Stand,NA,fast_food,NA,Osgoode Main Street,5657,NA,NA,-75.60182349054364,45.14867222111545
+469765284,Milano Pizzeria,NA,fast_food,NA,Osgoode Main Street,5516,NA,NA,-75.60939407696392,45.14444123001594
+469799296,Tony's Chip Wagon,NA,fast_food,NA,Perth Street,6137,NA,NA,-75.83986407568771,45.194127039443025
+469951367,Badwood Coffee & Consignment,NA,cafe,NA,Victoria Street,8193,NA,NA,-75.47443281834194,45.235320370872245
+469954830,Mike's Pizzeria,NA,fast_food,NA,Bank Street,7168,NA,NA,-75.49720391883766,45.22890435662516
+469956809,Mr. Mozarella,NA,fast_food,NA,Bank Street,7184,NA,NA,-75.49683680666622,45.22823355394364
+470022490,692 Coffee & Bar,NA,cafe,NA,Ann Street,5545,NA,NA,-75.68408816964893,45.224878958790846
+470053314,Milano Pizzeria,NA,fast_food,NA,River Road,990,NA,NA,-75.67745024105936,45.23393389431359
+470334517,Country Perks Cafe,NA,cafe,NA,Trim Road,3470,NA,NA,-75.4271577982225,45.42110185617803
+470376932,Tim Hortons,NA,cafe,Tim Hortons,Perth Street,5915,NA,NA,-75.82875521343638,45.20214850630537
+470443445,Wendy's,NA,fast_food,Wendy's,Strandherd Drive,3681,NA,K2J 4G8,-75.74373900187304,45.27120563483401
+470443708,Tim Hortons,NA,cafe,Tim Hortons,Marketplace Avenue,3691,NA,K2J 4G8,-75.74427832486568,45.27090781549353
+470443934,McDonald's,NA,fast_food,McDonald's,Strandherd Drive,3773,NA,K2J 4B1,-75.74806459078364,45.26942846042901
+470444125,Mr. Mozzarella,NA,fast_food,NA,Tartan Drive,1,NA,K2J 2W7,-75.75398957771795,45.2699476866972
+470451969,Guava's Shawarna,NA,fast_food,NA,Strandherd Drive,3161,NA,K2J 5N1,-75.71938236142873,45.274030120648646
+471120365,Pizza Pizza,NA,fast_food,Pizza Pizza,Portobello Boulevard,1968,NA,NA,-75.46662616206257,45.46672272833609
+471171468,Jojo's Pizzeria,NA,fast_food,NA,Stittsville Main Street,1573,NA,NA,-75.91806398819404,45.25629979212565
+471171478,Milano Pizzeria,NA,fast_food,NA,Stittsville Main Street,1589,NA,NA,-75.91730974338182,45.255819768374316
+471172359,Equator Coffee,NA,cafe,NA,Stittsville Main Street,1523,NA,NA,-75.92025478793968,45.258006216311195
+471204361,Red Gables Creperie,NA,fast_food,NA,Carp Road,2006,NA,NA,-75.94642318318046,45.27300231238262
+471797772,Tim Hortons,NA,cafe,Tim Hortons,Stittsville Main Street,1259,NA,NA,-75.92843495359273,45.2679691025943
+471898499,McDonald's,NA,fast_food,McDonald's,Innes Road,4416,NA,NA,-75.4888179401912,45.46000947504404
+471898532,Cafe Latte Cino,NA,cafe,NA,Tenth Line Road,2020,NA,NA,-75.4872785531029,45.45910966004995
+471920732,Mr. Shawarma,NA,fast_food,NA,Hazeldean Road,5487,NA,NA,-75.9031704086363,45.28919083643602
+471920805,Booster Juice,NA,fast_food,Booster Juice,Hazeldean Road,5547,NA,K2S 0P5,-75.90509385409307,45.28810479866886
+472168403,Burger King,NA,fast_food,Burger King,West Hunt Club Road,527,NA,NA,-75.72623757233403,45.33424095836702
+472229037,Tim Hortons,NA,cafe,Tim Hortons,Watters Road,911,NA,NA,-75.47574850865105,45.483962566736786
+472395994,Cathay,NA,fast_food,NA,Woodroffe Avenue,1423,NA,NA,-75.7568737945156,45.343367001893036
+472403834,Shawarma Palace,NA,fast_food,NA,Innes Road,4320,NA,NA,-75.49853932640872,45.45703764306803
+472844033,Popeyes,NA,fast_food,Popeyes,West Hunt Club Road,280,NA,K2E 0B7,-75.7121869341084,45.33939602694382
+472844035,Barburrito,NA,fast_food,Barburrito,West Hunt Club Road,280,NA,K2E 0B7,-75.71200944911176,45.33944695081413
+472844038,Five Guys,NA,fast_food,Five Guys,West Hunt Club Road,324,NA,K2E 0B7,-75.71455010041235,45.33855734979146
+472844039,KFC,NA,fast_food,KFC,West Hunt Club Road,324,NA,K2E 0B7,-75.71472085056432,45.3384812009537
+472844041,Starbucks,NA,cafe,Starbucks,West Hunt Club Road,330,NA,K2E 0B7,-75.71565074671393,45.33809413202142
+472844624,Panera Bread,NA,fast_food,Panera Bread,West Hunt Club Road,320,NA,NA,-75.71359101570846,45.33890510945077
+473049642,KFC,NA,fast_food,KFC,Bank Street,2919,NA,NA,-75.62572599858962,45.348526996169774
+473049693,Tim Hortons,NA,cafe,Tim Hortons,Bank Street,2959,NA,NA,-75.62405024436859,45.34734680681625
+473049720,Chips and Dairy,NA,fast_food,NA,Bank Street,2920,NA,NA,-75.62630909429022,45.34774216309599
+473083848,Tim Hortons,NA,cafe,Tim Hortons,Hunt Club Road,372,NA,NA,-75.68349168273284,45.33796492962757
+473202506,Tim Hortons,NA,cafe,Tim Hortons,Innes Road,1720,NA,NA,-75.60180265445722,45.416384151285584
+473202862,Harvey's,NA,fast_food,Harvey's,Cyrville Road,1899,NA,NA,-75.60136250461508,45.41597941919108
+473202995,McDonald's,NA,fast_food,McDonald's,Innes Road,1890,NA,NA,-75.59830472685037,45.41764265356609
+473203121,Wendy's,NA,fast_food,Wendy's,Innes Road,1511,NA,NA,-75.60463140370011,45.4160573799926
+473220161,Booster Juice,NA,fast_food,Booster Juice,Ogilvie Road,2014,NA,NA,-75.60378827318785,45.436987399950176
+473224062,Second Cup,NA,cafe,Second Cup,Merivale Road,1715,NA,K2G 3J8,-75.72960827442938,45.34486614109561
+473224067,Tim Hortons,NA,cafe,Tim Hortons,Merivale Road,1611,NA,NA,-75.73305946921091,45.3514504755004
+473653333,Le Choix,NA,fast_food,NA,Rue Principale,139,Gatineau,J9H 3M6,-75.84222778655352,45.39527749483039
+473653473,Loulou Patate,NA,fast_food,NA,Chemin Eardley,29,Gatineau,J9H 4J9,-75.84758747289915,45.39717771990638
+473789562,Tim Hortons,NA,cafe,Tim Hortons,Boulevard Maloney Est,933,Gatineau,NA,-75.59333408934025,45.49134419456571
+473877610,Pizza Bravo,NA,fast_food,NA,Boulevard Lorrain,108,Gatineau,J8P 2E7,-75.60744608212164,45.49554372730782
+474371466,Golden Crust Pizzeria,NA,fast_food,NA,St-Laurent Boulevard,293,NA,NA,-75.65221024937348,45.4511385271982
+474679832,Pizza La Difference,NA,fast_food,NA,Boulevard Lorrain,158,Gatineau,J8P 2G2,-75.60810281376084,45.50003367903155
+474903739,Carlington Coffee House,NA,cafe,NA,Merivale Road,917,NA,NA,-75.73255949009906,45.38282694771432
+475412257,Pizza Pizza,NA,fast_food,Pizza Pizza,Navaho Drive,2301,NA,NA,-75.75571070018766,45.352896099876155
+475412258,Tim Hortons,NA,cafe,Tim Hortons,Navaho Drive,2301,NA,NA,-75.7554721474169,45.35299848118011
+476688339,Frite Royal,NA,fast_food,NA,Boulevard Maloney Est,261,NA,J8P 1C3,-75.64650474382009,45.48460911278788
+476688430,Dairy Queen,NA,fast_food,Dairy Queen,Boulevard Maloney Est,275,NA,J8P 1C5,-75.64600056164018,45.484535266881814
+476956884,Second Cup,NA,cafe,Second Cup,Boulevard Gréber,1520,NA,J8R 0E1,-75.67820250149666,45.50361050185633
+476957523,McDonald's,NA,fast_food,McDonald's,Rue Davidson Ouest,695,NA,J8R 2T1,-75.67546953448156,45.50553593628641
+476957528,Tim Hortons,NA,cafe,Tim Hortons,Montée Paiement,740,NA,J8R 4A3,-75.67660226218341,45.50386357147728
+476957552,Benny & Co.,NA,fast_food,NA,Boulevard Gréber,1398,NA,J8R 0E1,-75.68064132389718,45.504469259761585
+477368638,Chez Fritz,NA,fast_food,NA,Boulevard Maloney Est,562,Gatineau,J8P 1G1,-75.63098472947135,45.48429584775172
+477385916,The Terrace Food Court,NA,food_court,NA,Campeau Drive,8555,NA,K2T 0K5,-75.93927974923315,45.29739069765039
+477490694,Van Houtte Cafe Bistro,NA,cafe,NA,Campeau Drive,8555,NA,K2T 0K5,-75.93850609376297,45.29698612417477
+477497903,Nestle Toll House Cafe,NA,cafe,NA,Campeau Drive,8555,NA,K2T 0K5,-75.93660835123106,45.298668831257
+477524225,Carlo’s Bake Shop Express,bakery,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.63949798467975,45.42257655255219
+477534207,Jugo Juice,NA,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.63830177229119,45.42128416370164
+477534208,Mac's Sushi,NA,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.63822843070074,45.42131592232416
+477534209,Michel's Bakery Café,NA,cafe,NA,St-Laurent Boulevard,1200,NA,NA,-75.63818574556014,45.4212520818726
+477536417,Cinnabon,NA,fast_food,Cinnabon,St-Laurent Boulevard,1200,NA,NA,-75.63916796502717,45.422418994409036
+477536418,Kernels Popcorn,NA,fast_food,Kernels Popcorn,St-Laurent Boulevard,1200,NA,NA,-75.63911484364317,45.422395184125996
+477536433,Starbucks,NA,cafe,Starbucks,St-Laurent Boulevard,1200,NA,NA,-75.63852931009583,45.42314049641017
+477538597,Second Cup,NA,cafe,Second Cup,St-Laurent Boulevard,1200,NA,NA,-75.63975669550416,45.42177540978327
+477546411,Tim Hortons,NA,cafe,Tim Hortons,St-Laurent Boulevard,1200,NA,NA,-75.63761499098987,45.422489077836936
+477546413,Trattoria Tevere,NA,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.6377482263002,45.422668949559835
+477546414,Teriyaki Experience,NA,fast_food,Teriyaki Experience,St-Laurent Boulevard,1200,NA,NA,-75.63780010600237,45.42275969650774
+477546416,Arz Lebanese Cuisine,NA,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.63777472644442,45.422714609793346
+477546417,Subway,NA,fast_food,Subway,St-Laurent Boulevard,1200,NA,NA,-75.6379022052645,45.422814951620204
+477546418,Jimmy the Greek,NA,fast_food,Jimmy the Greek,St-Laurent Boulevard,1200,NA,NA,-75.6383527040652,45.42272632977828
+477546419,New York Fries,NA,fast_food,New York Fries,St-Laurent Boulevard,1200,NA,NA,-75.63819965499191,45.422769654575895
+477546420,Shanghai 360,NA,fast_food,Shanghai 360,St-Laurent Boulevard,1200,NA,NA,-75.63811878788015,45.42279261086256
+477546421,A&W,NA,fast_food,A&W,St-Laurent Boulevard,1200,NA,NA,-75.6380426329138,45.422814056480014
+477546431,Burrito Gringo,NA,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.63844575427902,45.42246999852568
+477546432,Manchu Wok,NA,fast_food,Manchu Wok,St-Laurent Boulevard,1200,NA,NA,-75.63848241949549,45.42253526351592
+477546433,Bourbon St. Grill,NA,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.63851202516452,45.422601560834245
+477546434,Thaï Express,NA,fast_food,Thaï Express,St-Laurent Boulevard,1200,NA,NA,-75.63846732124554,45.42265679147595
+477547231,Crepe de Licious,ice_cream,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.63790525712139,45.42253347949693
+477547232,Booster Juice,NA,fast_food,Booster Juice,St-Laurent Boulevard,1200,NA,NA,-75.6379359131206,45.42259425028493
+477547233,Bento Nouveau Sushi,NA,fast_food,NA,St-Laurent Boulevard,1200,NA,NA,-75.63821915063444,45.422516499475904
+477553945,Lou Patate,NA,fast_food,NA,Rue Main,374,NA,J8P 5K7,-75.6516903348942,45.4912967580834
+477906835,Bento Sushi,NA,fast_food,NA,NA,NA,NA,NA,-75.69428864375232,45.476248924809006
+477906850,Rock n' deli,NA,fast_food,NA,NA,NA,NA,NA,-75.69377584471323,45.47587212259736
+477906851,Manchu Wok,NA,fast_food,Manchu Wok,NA,NA,NA,NA,-75.69385834395065,45.47586737722244
+477906852,Torino,NA,fast_food,NA,NA,NA,NA,NA,-75.69394142241578,45.47586277188253
+477906855,Sukiyaki,NA,fast_food,NA,NA,NA,NA,NA,-75.69411223469818,45.475969504392296
+477906856,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-75.69411845120948,45.476028849840525
+477906857,A&W,NA,fast_food,A&W,NA,NA,NA,NA,-75.69412557358267,45.476092359239075
+477906858,Thai Express,NA,fast_food,Thai Express,NA,NA,NA,NA,-75.69413052150402,45.4761492612989
+477906859,Valentine,NA,fast_food,Valentine,NA,NA,NA,NA,-75.69390783797884,45.476461417954475
+477906861,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.69403288646377,45.476468321221226
+477906862,Mia Pasta,NA,fast_food,NA,NA,NA,NA,NA,-75.69383402873645,45.476464789234115
+477906865,Kernels,NA,fast_food,NA,NA,NA,NA,NA,-75.69410423853549,45.47653398759745
+477906950,Starbucks,NA,cafe,Starbucks,NA,NA,NA,NA,-75.69645912111802,45.475692520419635
+477906992,Second Cup,NA,cafe,Second Cup,NA,NA,NA,NA,-75.69904424629868,45.47579905428736
+478147436,Arret Gourmet,NA,food_court,NA,NA,NA,NA,NA,-75.69394257071457,45.4761779982698
+478188356,Mary Brown's,NA,fast_food,Mary Brown's,Marketplace Avenue,80,NA,K2J 5G3,-75.7426848975898,45.27031569884101
+478217644,Dickey's Barbeque Pit,NA,fast_food,NA,Riocan Avenue,81,NA,K2J 5G3,-75.74104079678855,45.26961379109273
+478217645,Prestotea,NA,cafe,NA,Riocan Avenue,129,NA,K2J 5G3,-75.73877099672403,45.269257493393134
+478217648,Shawarma Heaven,NA,fast_food,NA,Riocan Avenue,129,NA,K2J 5G3,-75.73908961705732,45.26913893298922
+478366932,Subway,NA,fast_food,Subway,Strandherd Drive,3777,NA,K2J 4B1,-75.7477519237685,45.26799735043224
+478366933,Thai Express,NA,fast_food,Thai Express,Strandherd Drive,3777,NA,K2J 4B1,-75.74789721026758,45.26794034032767
+478366934,Little Caesars,NA,fast_food,Little Caesars,Strandherd Drive,3777,NA,K2J 4B1,-75.74782165376628,45.26796997661084
+478374548,Quiznos,NA,fast_food,Quiznos,Greenbank Road,1581,NA,K2J 4Y6,-75.74632978892217,45.27353410383197
+478521054,Pizza Pizza,NA,fast_food,Pizza Pizza,Strandherd Drive,3171,NA,K2J 5N1,-75.72015341166804,45.27369037940589
+478533536,Go 4 Greek,NA,fast_food,NA,Strandherd Drive,3570,NA,K2J 5L4,-75.73736969908026,45.275221449767415
+478533537,Liu's Cuisine,NA,fast_food,NA,Strandherd Drive,3570,NA,K2J 5L4,-75.73742829913462,45.27519804972143
+478555828,Amazon Cafe,NA,cafe,NA,Strandherd Drive,4100,NA,K2J 0V2,-75.76799065063423,45.26055110299984
+478740495,Shawarma Prince,NA,fast_food,NA,Strandherd Drive,3101,NA,K2G 4R9,-75.71736823389917,45.27555945991112
+478750902,Milano Pizzeria,NA,fast_food,NA,Woodroffe Avenue,3050,NA,K2J 4G3,-75.72435211297139,45.284507233514155
+478766612,Shawarma Byte,NA,fast_food,NA,Bank Street,4750,NA,K1T 0K8,-75.5952798602711,45.31860045199051
+478766615,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Bank Street,4772,NA,K1T 0K8,-75.59485479863723,45.31802454796124
+478766617,Subway,NA,fast_food,Subway,Bank Street,4772,NA,K1T 0K8,-75.59478048009336,45.31793370830269
+478859097,Milano Pizzeria,NA,fast_food,NA,Seneca Street,44,NA,NA,-75.69006663097355,45.39135817280516
+478956205,Lulu Shawarma & Grill,NA,fast_food,NA,Woodroffe Avenue,2910,NA,K2J 4G3,-75.72861700621473,45.29283288319515
+478956208,1 for 1 Pizza,NA,fast_food,NA,Woodroffe Avenue,2900,NA,K2J 4G3,-75.72910455708852,45.29257055904432
+478968911,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Fallowfield Road,3350,NA,K2J 5L1,-75.73374678971018,45.29685827539541
+478969448,SconeWitch,NA,cafe,NA,Winston Avenue,393,NA,NA,-75.75643927005407,45.39169964653524
+478977123,Subway,NA,fast_food,Subway,Greenbank Road,900,NA,K2J 1S8,-75.75654548076493,45.285304367917384
+478978386,KFC,NA,fast_food,KFC,Fallowfield Road,3780,NA,K2J 1A1,-75.75807605059377,45.28696095037099
+479191280,Winner House Chinese,NA,fast_food,NA,Tartan Drive,1,NA,K2J 2W7,-75.7540820492571,45.26977215129558
+479399948,Domino's,NA,fast_food,Domino's,Fallowfield Road,3500,NA,K2J 4A7,-75.74137052118196,45.29394849441013
+479756554,Dairy Queen,NA,fast_food,Dairy Queen,McArthur Avenue,401,NA,NA,-75.6495009992343,45.43227500045187
+479756583,Arey Tea & Coffee,NA,cafe,NA,McArthur Avenue,419,NA,NA,-75.64760211818461,45.43246213642624
+481046294,Union Street Kitchen Cafe,NA,cafe,NA,Crichton Street,42,NA,K1M 1V4,-75.68985969636937,45.44188629885102
+481263683,Downtown Pizza,NA,fast_food,NA,Gladstone Avenue,714,NA,NA,-75.70441644629211,45.407362348031114
+481263739,Papa Joe's Pizza,NA,fast_food,NA,Bronson Avenue,527,NA,NA,-75.70243686744547,45.4061445585316
+481263892,Bello E Buono,NA,cafe,NA,Gladstone Avenue,777,NA,NA,-75.70670517019333,45.406887050759536
+481263911,Bronson Pizza,NA,fast_food,NA,Bronson Avenue,370,NA,NA,-75.70499848691338,45.40971261333243
+481439837,Si Señor,NA,fast_food,NA,Rideau Street,506,NA,NA,-75.67861273010686,45.43150208828928
+481482487,Tim Hortons,NA,cafe,Tim Hortons,March Road,406,NA,NA,-75.91183544912558,45.33817884812918
+481482491,A&W,NA,fast_food,A&W,March Road,405,NA,NA,-75.91256967227729,45.33767309387774
+481693119,Edo Japan,NA,fast_food,NA,Woodroffe Avenue,1379,NA,K2G 1V7,-75.76183123882217,45.350472745957475
+481693120,Gong Cha,NA,cafe,Gong Cha,Woodroffe Avenue,1379,NA,K2G 1V7,-75.76186886513109,45.35053132814398
+481693121,Thaï Express,NA,fast_food,Thaï Express,Woodroffe Avenue,1379,NA,NA,-75.76179794355734,45.35042733865411
+481693124,Starbucks,NA,cafe,Starbucks,Woodroffe Avenue,1379,NA,K2G 1V7,-75.76172416013422,45.350331590493894
+481693141,Mucho Burrito,NA,fast_food,Mucho Burrito,Woodroffe Avenue,1365,NA,K2G 1V7,-75.75904057327924,45.350225573574704
+481889853,Subway,NA,fast_food,Subway,Prince Of Wales Drive,1896,NA,NA,-75.70437338951156,45.35398685113416
+481891645,Kettleman's Bagel Co.,NA,fast_food,NA,Woodroffe Avenue,1365,NA,K2G 1V7,-75.75936646184452,45.35010056604785
+481891646,Popeyes,NA,fast_food,Popeyes,Woodroffe Avenue,1365,NA,K2G 1V7,-75.75947642051477,45.350039706817206
+481899070,Subway,NA,fast_food,Subway,Robertson Road,90,NA,K2H 8V5,-75.83242870787667,45.32187934761107
+482238173,Aroma,NA,cafe,Aroma,Nepean Street,239,NA,NA,-75.69965245358115,45.41682909061397
+482693146,Tim Hortons,NA,cafe,Tim Hortons,Blair Road,1150,NA,NA,-75.60839547433845,45.433252096832874
+483073973,Tim Hortons,NA,cafe,Tim Hortons,Innes Road,2636,NA,NA,-75.56350154091675,45.43174104015599
+483105460,McDonald's,NA,fast_food,McDonald's,Walkley Road,1771,NA,NA,-75.64039571434064,45.38013700251173
+483215131,Shawarma Palace,NA,fast_food,NA,Bank Street,2440,NA,NA,-75.64807400910243,45.35347363051767
+483215166,Harvey's,NA,fast_food,Harvey's,Bank Street,2430,NA,NA,-75.64900892795161,45.35381344995137
+483215312,Wendy's,NA,fast_food,Wendy's,Bank Street,2456,NA,NA,-75.64653991484415,45.3531527698249
+483215323,Mr. Luko,NA,fast_food,NA,Bank Street,2533,NA,NA,-75.64354769821553,45.35431593579302
+483215338,Pizza Pizza,NA,fast_food,Pizza Pizza,Bank Street,2495,NA,NA,-75.64602911783425,45.35426657292371
+483215489,McDonald's,NA,fast_food,McDonald's,Bank Street,2380,NA,NA,-75.65074225312534,45.35467045163379
+483664585,Tim Hortons,NA,cafe,Tim Hortons,Hunt Club Road,1665,NA,NA,-75.63073727713409,45.36071355078503
+483702489,Tim Hortons,NA,cafe,Tim Hortons,Walkley Road,1610,NA,NA,-75.6453506785949,45.37732736207774
+483739674,Tangerine Pizza,NA,fast_food,NA,Cummings Avenue,969,NA,NA,-75.63448249891975,45.43204307368256
+484009024,Tim Hortons,NA,cafe,Tim Hortons,Montréal Road,2134,NA,NA,-75.59044064896544,45.44844306791809
+484009381,Popeyes,NA,fast_food,Popeyes,Montréal Road,2000,NA,NA,-75.5946534359577,45.44661679035372
+484009436,McDonald's,NA,fast_food,McDonald's,Montréal Road,2170,NA,NA,-75.5890985558895,45.449134160893045
+484079335,Holy Voice,NA,cafe,NA,Cyrville Road,1109,NA,NA,-75.63346922713305,45.42431814970944
+484370784,Domino's,NA,fast_food,Domino's,St. Joseph Boulevard,2034,NA,NA,-75.53752083680268,45.46479956902996
+484370943,Dairy Queen,NA,fast_food,Dairy Queen,St. Joseph Boulevard,2000,NA,NA,-75.53837490661283,45.46452733973464
+484384759,Tim Hortons,NA,cafe,Tim Hortons,St. Joseph Boulevard,2311,NA,NA,-75.53124083476855,45.469241193592694
+484525713,Firehouse Subs,NA,fast_food,Firehouse Subs,Innes Road,3838,NA,K1W 0C8,-75.51279932876355,45.45214840226618
+484531226,A&W,NA,fast_food,A&W,Innes Road,3897,NA,NA,-75.5105501971745,45.45360129260898
+484531286,Wendy's,NA,fast_food,Wendy's,Innes Road,3880,NA,NA,-75.51070383923488,45.45257952848654
+484619027,Pita Pit,NA,fast_food,Pita Pit,Ogilvie Road,2016,NA,NA,-75.60344440806008,45.43720757890544
+484644581,Subway,NA,fast_food,Subway,Donald Street,1261,NA,K1K 3B1,-75.63801250547812,45.42964985813578
+484822051,John Juan,NA,fast_food,NA,St Laurent Boulevard,1091,Ottawa,K1K 3B1,-75.63811035234606,45.42651986769817
+484822868,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Baseline Road,780,NA,K2C 3V8,-75.71733535207977,45.370505198423096
+484822877,Subway,NA,fast_food,Subway,Baseline Road,780,NA,K2C 3V8,-75.71713380312741,45.37059304871029
+484828730,Chez Shawarma,NA,fast_food,NA,Innes Road,3848,NA,K1W 0C8,-75.51160651672173,45.451771569503414
+484828731,Milano Pizzeria,NA,fast_food,NA,Innes Road,3848,NA,K1W 0C8,-75.51144780189723,45.451833472582294
+484828750,Pita Pit,NA,fast_food,Pita Pit,Innes Road,3712,NA,K1W 0C8,-75.51668934076113,45.44916879932109
+484828764,Thaï Express,NA,fast_food,Thaï Express,Innes Road,3712,NA,K1W 0C8,-75.5173786016068,45.450045804969314
+484828781,Five Guys,NA,fast_food,Five Guys,Innes Road,3738,NA,NA,-75.51624117065688,45.45055507605741
+484963096,Meltwich Food Co.,NA,fast_food,NA,Innes Road,3920,NA,NA,-75.50859451080619,45.45348114162621
+484963106,Mucho Burrito,NA,fast_food,Mucho Burrito,Mer Bleue Road,2002,NA,NA,-75.50674033124956,45.45462813655033
+485006313,Tim Hortons,NA,cafe,Tim Hortons,Somerset Street West,525,NA,NA,-75.70180870542872,45.41332396625951
+485140453,Booster Juice,NA,fast_food,Booster Juice,Tenth Line Road,1675,NA,NA,-75.49188711502133,45.469250797352025
+485140463,Mary Brown's,NA,fast_food,Mary Brown's,Tenth Line Road,1675,NA,NA,-75.49209016096204,45.469167976872555
+485140467,Pizza Pizza,NA,fast_food,Pizza Pizza,Tenth Line Road,1675,NA,K1E 3P6,-75.49080447137483,45.46844234947192
+485140474,Dairy Queen,NA,fast_food,Dairy Queen,Tenth Line Road,1675,NA,K1E 3P6,-75.49046552300626,45.46854408220397
+485140488,The King Lebanese Restaurant,NA,fast_food,NA,Tenth Line Road,1675,NA,K1E 3P6,-75.49073322628348,45.469497829763604
+485140494,La Belle Poutine,NA,fast_food,NA,Tenth Line Road,1675,NA,K1E 3P6,-75.49080543584252,45.469773391638476
+485200638,Urban Indian Cafe,vacant,fast_food,NA,St-Laurent Boulevard,1910,NA,K1G 1A4,-75.62377104894338,45.39929894665399
+485200641,Fried Chicken Club,NA,fast_food,NA,St-Laurent Boulevard,1910,NA,K1G 1A4,-75.62368151045146,45.39914046709818
+485200642,Pizza Pizza,NA,fast_food,Pizza Pizza,St-Laurent Boulevard,1910,NA,K1G 1A4,-75.62363687819008,45.39905481944585
+485200643,Capital Shawarma,NA,fast_food,NA,St-Laurent Boulevard,1910,NA,K1G 1A4,-75.62380096600259,45.3993508905005
+485219139,Damas Kitchen,NA,fast_food,NA,Mccarthy Road,3310,NA,NA,-75.67170268073797,45.35032144658384
+485230002,Cafe Van Houte,NA,cafe,NA,Hazeldean Road,5547,NA,K2S 0P5,-75.9049250406962,45.28797810826986
+485230239,Five Guys,NA,fast_food,Five Guys,Hazeldean Road,5487,NA,NA,-75.9032679123403,45.2891297674599
+485230240,Kal’s Pizza,NA,fast_food,NA,Hazeldean Road,5487,NA,NA,-75.90311008873529,45.28922776960082
+485230465,Thaï Express,NA,fast_food,Thaï Express,Hazeldean Road,5507,NA,NA,-75.90241034639418,45.28968604672547
+485230472,Masakali Indian cuisine,NA,fast_food,NA,Hazeldean Road,5507,NA,NA,-75.90224689615111,45.28978846696154
+485239231,Mucho Burrito,NA,fast_food,Mucho Burrito,Bank Street,2210,NA,K1V 1J5,-75.65778625957712,45.35948921722136
+485239232,Thaï Express,NA,fast_food,Thaï Express,Bank Street,2210,NA,K1V 1J5,-75.65775995936627,45.359423522874515
+485242195,Delivery Sushi,NA,fast_food,NA,Bank Street,2430,NA,NA,-75.64925090617972,45.353688487982375
+485242199,Milano Pizzeria,NA,fast_food,NA,Bank Street,2430,NA,NA,-75.64909051688204,45.35375429788567
+488736132,Tim Hortons,NA,cafe,Tim Hortons,Gore Street East,136,Perth,NA,-76.24680228172444,44.897301986552215
+489060891,KFC,NA,fast_food,KFC,NA,NA,NA,NA,-76.02719944933507,44.89493184963176
+489060896,McDonald's,NA,fast_food,McDonald's,NA,NA,NA,NA,-76.02807184849225,44.893475699771294
+489060897,Dairy Queen,NA,fast_food,Dairy Queen,NA,NA,NA,NA,-76.02845324014294,44.8932664150928
+489060900,Harvey's,NA,fast_food,Harvey's,NA,NA,NA,NA,-76.03060915852824,44.89117025747526
+489060901,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-76.03030705109094,44.891415548349066
+494245861,St-Hubert Express,NA,fast_food,St-Hubert,NA,NA,NA,NA,-75.30427807199872,45.54374726572227
+496742913,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-76.26829696910886,44.906586345713656
+496742917,McDonald's,NA,fast_food,McDonald's,NA,NA,NA,NA,-76.2631648811123,44.91124988301748
+496742918,KFC,NA,fast_food,KFC,NA,NA,NA,NA,-76.26357294858069,44.91099235103473
+498924544,A&W,NA,fast_food,A&W,Gibford Drive,2870,NA,NA,-75.66919818113016,45.343356731634756
+499974972,Mr. Mozzarella,NA,fast_food,NA,Woodroffe Avenue,1433,NA,NA,-75.75602569268388,45.34180711451636
+503661837,Milano Pizzeria,NA,fast_food,NA,Spratt Road,4188,NA,K1V 0Z6,-75.68631336890923,45.28316429732165
+505298045,Happy Times Pizza,NA,fast_food,NA,Constance Bay Road,117,NA,NA,-76.07412001203403,45.48632029591404
+505420921,McCann's Chips,NA,fast_food,NA,Rue de Clarendon,1152,Quyon,J0X 2V0,-76.23126047690837,45.520379224328906
+510520341,A&W,NA,fast_food,A&W,Strandherd Drive,4255,NA,K2J 6E5,-75.78103934921346,45.26959930001275
+510520342,Tim Hortons,NA,cafe,Tim Hortons,Strandherd Drive,4295,NA,NA,-75.78198769975165,45.270434601759284
+510520360,Burrito Gringo,NA,fast_food,NA,Strandherd Drive,4235,NA,NA,-75.78136682308086,45.26875876683217
+510520366,Popeyes,NA,fast_food,Popeyes,Strandherd Drive,4235,NA,NA,-75.78170229906048,45.26862441481672
+510520367,Panago,NA,fast_food,Panago,Strandherd Drive,4285,NA,NA,-75.78236243316692,45.26941031527156
+510520368,Shawarma Kingdom,NA,fast_food,NA,Strandherd Drive,4285,NA,NA,-75.78240407188267,45.26946020258276
+510520369,Subway,NA,fast_food,Subway,Strandherd Drive,4285,NA,K2J 6E5,-75.78243974600299,45.26950323329089
+510535383,A&W,NA,fast_food,A&W,Ogilvie Road,2016,NA,NA,-75.6034843116391,45.437267343709806
+510535386,Tim Hortons,NA,cafe,Tim Hortons,Ogilvie Road,2016,NA,NA,-75.60336186356868,45.43708041824838
+510535388,Firehouse Subs,NA,fast_food,Firehouse Subs,Ogilvie Road,2014,NA,K1J 7N9,-75.60383492404583,45.43705127924709
+510535390,Barburrito,NA,fast_food,NA,Ogilvie Road,2014,NA,NA,-75.60374878977781,45.436932599960876
+510535395,Thaï Express,NA,fast_food,Thaï Express,Ogilvie Road,2014,NA,NA,-75.6036530104777,45.4368017471021
+512189259,Tavern on the Hill,NA,cafe,NA,Alexandra Bridge,1223,NA,NA,-75.69910088997513,45.428388761792284
+519816582,Burger King,NA,fast_food,Burger King,NA,NA,NA,NA,-76.02202281584623,44.90231121982935
+519816585,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-76.02199026140825,44.9026653822095
+522233839,Subway,NA,fast_food,Subway,Boulevard de la Gappe,71,NA,J8T 0B5,-75.71696064674931,45.46540432927628
+524643792,A&W,NA,fast_food,A&W,Heron Road,1660,NA,NA,-75.64396265061583,45.37993169981449
+528170403,Real Fruit Bubble Tea,NA,cafe,Real Fruit Bubble Tea,Place-d'Orléans Drive,110,NA,K1C 2L9,-75.51706888930657,45.4781262832372
+528200978,Booster Juice,NA,fast_food,Booster Juice,Place-d'Orléans Drive,110,NA,NA,-75.51489196736121,45.47791548951743
+531067021,McDonald's,NA,fast_food,McDonald's,County Road 2,12438,NA,NA,-75.18685151236653,44.90089411184859
+537538732,Pizza Pizza,NA,fast_food,Pizza Pizza,Stittsville Main Street,1250,NA,K2S 1S9,-75.93161951635295,45.26861595037142
+538876147,Subway,NA,fast_food,Subway,Stittsville Main Street,1261,NA,K2S 2E4,-75.92895368466034,45.26709850798057
+538876149,Little Caesars,NA,fast_food,Little Caesars,Stittsville Main Street,1261,NA,K2S 2E4,-75.9288250587925,45.26717353751165
+538876154,Quesada,NA,fast_food,Quesada,Stittsville Main Street,1261,NA,K2S 2E4,-75.9286145406843,45.26729750332918
+543613103,A&W,NA,fast_food,A&W,NA,NA,NA,NA,-75.30278507921987,45.54527355280367
+543613105,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-75.3024439000719,45.544450298623815
+543613107,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Chamberland Street,2756,NA,NA,-75.30233929795861,45.54462420181701
+545573641,Pizza Corner,NA,fast_food,NA,Greenbank Road,250,NA,K2H 8X4,-75.77965014453366,45.325455859097325
+545573642,Tim Hortons,NA,cafe,Tim Hortons,Greenbank Road,250,NA,K2H 8X4,-75.77951305728176,45.325498429567254
+545573753,Subway,NA,fast_food,Subway,Greenbank Road,250,NA,K2H 8X4,-75.77911352557346,45.324423371366976
+549656092,The Curry Palace,NA,fast_food,NA,Gladstone Avenue,569,NA,NA,-75.70045557911494,45.40951142351016
+551943411,Day Day Fast Food,NA,fast_food,NA,Merivale Road,1465,NA,K2E 5N9,-75.73343251216845,45.3601049475198
+553281883,McDonald's,NA,fast_food,McDonald's,March Road,886,NA,NA,-75.93647662189221,45.358802899928236
+557128320,Subway,NA,fast_food,Subway,Manotick Main Street,5511,NA,K4M 1A3,-75.68628819675746,45.227196097339274
+558418651,Dagwoods,NA,fast_food,NA,Klondike Road,1106,NA,K2K 0G1,-75.93213933054041,45.353784557399905
+558418656,Willy's Pizza,NA,fast_food,NA,Klondike Road,1104,NA,K2K 0G1,-75.93313899753738,45.35415470129164
+558621176,Mucho Burrito,NA,fast_food,Mucho Burrito,Wellington Road,3000,NA,NA,-75.63498955286562,45.029937349096976
+558621254,JJ's Shawarma,NA,fast_food,NA,Colonnade Drive,309,NA,NA,-75.63408384009115,45.0293520504087
+558621257,Dairy Queen,NA,fast_food,Dairy Queen,Colonnade Drive,309,NA,NA,-75.63362037333602,45.029513065330796
+558621258,Subway,NA,fast_food,Subway,Colonnade Drive,309,North Grenville,NA,-75.6335541728082,45.02953606583861
+559142241,The Bay Café,NA,cafe,NA,Constance Bay Road,131,Ottawa,K0A 3M0,-76.07432969935478,45.4859180989356
+560871110,Pizza Pizza,NA,fast_food,Pizza Pizza,Beaverwood Road,1160,NA,K4M 1A8,-75.68369642997615,45.223688237168865
+561087180,McDonald's,NA,fast_food,McDonald's,Meadowlands Drive,888,NA,NA,-75.70205005361808,45.367186391239485
+561374123,Stella Luna Cafe,NA,cafe,NA,NA,NA,NA,NA,-75.83567896228703,44.91639288985614
+561888504,Bob's Fresh Cut Fries,NA,fast_food,NA,St. Lawrence Street,330,NA,NA,-75.83662404869133,44.91403785039563
+562117353,Popeyes,NA,fast_food,Popeyes,Richmond Road,1495,NA,NA,-75.79085082536614,45.36319964180927
+562117354,Shawarma Garlic & Onion,NA,fast_food,NA,Richmond Road,1315,NA,NA,-75.79058047350017,45.363311862888295
+562117357,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Richmond Road,1355,NA,NA,-75.78768601607761,45.36680475671037
+565106778,Subway,NA,fast_food,Subway,Richmond Road,911,NA,NA,-75.77484135700614,45.37831330042166
+566237517,The Grounds Café,NA,cafe,NA,Hazeldean Road,5703,NA,NA,-75.91270573330962,45.285469074692564
+566452284,Starbucks,NA,cafe,Starbucks,Riocan Avenue,125,NA,K2J 5G5,-75.73963478926042,45.26982041397671
+566753801,Second Cup,NA,cafe,Second Cup,Hazeldean Road,486,NA,NA,-75.8906396851858,45.296284258790514
+567226637,Extreme Pita,NA,fast_food,Extreme Pita,Earl Grey Drive,510,NA,NA,-75.91233255254848,45.30998867012308
+567226639,Pizza Pizza,NA,fast_food,Pizza Pizza,Earl Grey Drive,300,NA,NA,-75.91605089918674,45.31127310175448
+567226642,Booster Juice,NA,fast_food,Booster Juice,Earl Grey Drive,300,NA,NA,-75.91596568424139,45.31145936343259
+567226643,Chung Chun Rice Dog,NA,fast_food,NA,Earl Grey Drive,300,NA,NA,-75.91594792472655,45.31149403917097
+567226646,Subway,NA,fast_food,Subway,Earl Grey Drive,300,NA,NA,-75.91588330982086,45.31161896857793
+567226657,Mary Brown's,NA,fast_food,Mary Brown's,Earl Grey Drive,400,NA,NA,-75.91458781220773,45.31182153327005
+567230325,Dairy Queen,NA,fast_food,Dairy Queen,Terry Fox Drive,499,NA,K2T 1H7,-75.92029108701195,45.31025862283339
+567230346,Pure Kitchen,NA,fast_food,NA,Terry Fox Drive,499,NA,K2T 1H7,-75.92061984579288,45.31085443123917
+568323178,Milan Pizzeria,NA,fast_food,NA,Rockdale Road,5832,NA,NA,-75.3508847206715,45.35151780633677
+569421704,Karara: The Indian Takeout,NA,fast_food,NA,Merivale Road,1600,NA,NA,-75.73310559518269,45.34871827393115
+570300168,Dumpling? Dumpling!,NA,fast_food,NA,Centrepointe Drive,261,NA,NA,-75.77151041150968,45.33875424118933
+570300176,Eggroll Factory,NA,fast_food,NA,Centrepointe Drive,261,NA,NA,-75.77163509848846,45.339345548477446
+570341943,Supreme Kabob House,NA,fast_food,NA,Iris Street,2730,NA,K2C 1E6,-75.7868805273541,45.34762390237457
+570367946,Starbucks,NA,cafe,Starbucks,Robertson Road,1831,NA,NA,-75.8189931955255,45.328249150558
+570367947,Shawarma Shish,NA,fast_food,NA,Robertson Road,1831,NA,NA,-75.81906459158112,45.32822898290255
+570367948,Quiznos,NA,fast_food,Quiznos,Robertson Road,1831,NA,NA,-75.81913600408363,45.32820880049748
+570815670,KFC,NA,fast_food,KFC,Trim Road,1375,NA,NA,-75.47758617001827,45.48992074821168
+570815671,Starbucks,NA,cafe,Starbucks,Trim Road,1375,NA,NA,-75.4775910699681,45.48951824415432
+570820750,Subway,NA,fast_food,Subway,Watters Road,900,NA,K4A 0B4,-75.47412631954947,45.481731961542486
+570820754,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Watters Road,900,NA,K4A 0B4,-75.47361928042366,45.48182776253226
+570820758,Prince Shawarma,NA,fast_food,NA,Watters Road,900,NA,NA,-75.47332946942062,45.482072121265205
+571467595,A&W,NA,fast_food,A&W,Daniel Street South,245,NA,NA,-76.3654198837241,45.42572930950603
+572229430,Willy's Pizza,NA,fast_food,NA,Merivale Road,1541,NA,NA,-75.7351000222255,45.35547402034841
+572492543,Tim Hortons,NA,cafe,Tim Hortons,Rue de la Fabrique,10,Gatineau,J9J 2X3,-75.85764910008012,45.41034384901197
+573225423,Subway,NA,fast_food,Subway,Merivale Road,1642,NA,NA,-75.7313395173744,45.34523972308531
+573225429,Pizza Pizza,NA,fast_food,Pizza Pizza,Merivale Road,1642,NA,NA,-75.73128224144283,45.34512220608739
+573228829,Milano Pizzeria,NA,fast_food,NA,Merivale Road,1843,NA,NA,-75.72636355634316,45.33746568616317
+573228831,Wing Hing Chinese Food,NA,fast_food,NA,Merivale Road,1843,NA,NA,-75.72627988156783,45.337479402152375
+573799352,The Hill Bakehouse And Deli,NA,fast_food,NA,Ogilvie Road,2339,NA,NA,-75.59787126771728,45.45178372999789
+574217785,Beneci Pizza,NA,fast_food,NA,Cobden Road,1105,NA,NA,-75.77802238726893,45.353021898165416
+574217787,Silver Dragon,NA,fast_food,NA,Cobden Road,1109,NA,NA,-75.77797193164824,45.35293124822347
+574217793,Greek on Wheels,NA,fast_food,NA,Cobden Road,1123,NA,NA,-75.77771663472421,45.352515277475604
+574589064,Little Caesars,NA,fast_food,Little Caesars,Cresthaven Drive,350,NA,K2G 4S4,-75.70933375849675,45.27302664499903
+574589075,Tim Hortons,NA,cafe,Tim Hortons,Cresthaven Drive,350,NA,K2G 4P4,-75.70857614176532,45.27370512724211
+575152879,Tim Hortons,NA,cafe,Tim Hortons,Boulevard Gréber,46,Gatineau,J8T 3P6,-75.70026020170555,45.460963900609364
+575369475,Melllo's Coffee Shop,NA,cafe,NA,Merivale Road,1516,NA,NA,-75.73749200772394,45.35649817561721
+575369510,Subway,NA,fast_food,Subway,Merivale Road,1523,NA,NA,-75.73645213223762,45.35698929445803
+575408930,Pizzalicious,NA,fast_food,NA,Merivale Road,1009,NA,NA,-75.73280702399086,45.3797380534451
+576378462,Meet Fresh,NA,cafe,NA,Merivale Road,1547,NA,NA,-75.733806352928,45.354810106143645
+576378468,Chatime,NA,cafe,Chatime,Merivale Road,1547,NA,NA,-75.73400418021437,45.35470921959931
+576378501,KFC,NA,fast_food,KFC,Merivale Road,1556,NA,NA,-75.73617311501313,45.35340289771667
+576378521,OneZo Tapioca,NA,cafe,NA,Merivale Road,1556,NA,NA,-75.73588941763948,45.35353717186608
+576378541,Tiger Sugar,NA,cafe,NA,Merivale Road,1558,NA,NA,-75.73538404875218,45.352903998031884
+576400393,Asia Garden,NA,fast_food,NA,Dynes Road,886,NA,NA,-75.70444877299742,45.369970776368255
+576409128,Booster Juice,NA,fast_food,Booster Juice,Merivale Road,1460,NA,NA,-75.73577525203169,45.362431473669915
+576409130,Starbucks,NA,cafe,Starbucks,Merivale Road,1460,NA,NA,-75.73553207418895,45.362499680108556
+576412262,Mucho Burrito,NA,fast_food,Mucho Burrito,Baseline Road,1385,NA,K2C 3G1,-75.73794782435026,45.36252515806541
+576412266,Zaky Grill,NA,fast_food,NA,Baseline Road,1385,NA,K2C 3G1,-75.7383935718156,45.36233562268883
+576412268,The Burger's Priest,NA,fast_food,The Burger's Priest,Baseline Road,1365,NA,NA,-75.73739561584493,45.36276619127011
+576869297,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Hazeldean Road,6081,NA,NA,-75.93240999293853,45.27281335288191
+576869298,Mucho Burrito,NA,fast_food,Mucho Burrito,Hazeldean Road,6081,NA,NA,-75.93245578129087,45.27276616181161
+576881312,Domino's,NA,fast_food,Domino's,Campeau Drive,8221,NA,NA,-75.92309626752564,45.305530340803685
+576883846,Tim Hortons,NA,cafe,Tim Hortons,Tenth Line Road,2280,NA,NA,-75.48345285485622,45.45207247534711
+576883848,Little Caesars,NA,fast_food,Little Caesars,Tenth Line Road,2284,NA,NA,-75.4831421860691,45.45164949716174
+576886775,McDonald's,NA,fast_food,McDonald's,Palladium Drive,3015,NA,NA,-75.94126066640627,45.29581849514974
+576918513,Harvey's,NA,fast_food,Harvey's,Eagleson Road,700,NA,NA,-75.86772385107129,45.28663145146811
+576918516,Domino's,NA,fast_food,Domino's,Eagleson Road,700,NA,NA,-75.8676877038801,45.28580943648108
+576918525,Subway,NA,fast_food,Subway,Eagleson Road,700,NA,NA,-75.86842120114919,45.28623405595786
+576918526,Pita Pit,NA,fast_food,Pita Pit,Eagleson Road,700,NA,NA,-75.86845165464162,45.28625635381453
+577926260,Ginko Garden Chinese Food,NA,fast_food,NA,St-Laurent Boulevard,2225,NA,NA,-75.617310887601,45.389612043028905
+577926263,Milano Pizzeria,NA,fast_food,NA,St-Laurent Boulevard,2241,NA,NA,-75.61717196638332,45.38936492291426
+578263652,Subway,NA,fast_food,Subway,Jeanne-d'Arc Boulevard North,6481,NA,NA,-75.53761749851115,45.47960575075054
+578263660,House of Pizza Plus,NA,fast_food,NA,Jeanne-d'Arc Boulevard North,6505,NA,NA,-75.53773404684567,45.47987964488623
+578263665,Greek Plus,NA,fast_food,NA,Jeanne-d'Arc Boulevard North,6483,NA,NA,-75.5375533411921,45.4796234017136
+578263666,Aljabal Bakery,NA,fast_food,NA,Jeanne-d'Arc Boulevard North,6469,NA,NA,-75.53775830055916,45.48003294735921
+578269812,Subway,NA,fast_food,Subway,Alta Vista Drive,1567,NA,NA,-75.65734999645932,45.408524107841394
+578269817,Super Bite Shawarma,NA,fast_food,NA,Alta Vista Drive,1577,NA,NA,-75.65749571202997,45.40831549660764
+578272890,KFC,NA,fast_food,KFC,Alta Vista Drive,2670,NA,NA,-75.66366494293244,45.373505057834265
+578272891,Subway,NA,fast_food,Subway,Alta Vista Drive,2678,NA,NA,-75.66380416928432,45.37348753847221
+578272893,Mango's,NA,fast_food,NA,Alta Vista Drive,2702,NA,NA,-75.663916160601,45.37347853036113
+578272895,PopulariTea,NA,cafe,NA,Alta Vista Drive,2690,NA,NA,-75.664014532941,45.37346364112872
+578272908,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Alta Vista Drive,2660,NA,NA,-75.66333212312146,45.37364700331534
+578287129,Chess Pizza,NA,fast_food,NA,Viewmount Drive,350,NA,NA,-75.71490664788165,45.34895584890118
+578296237,The Wok Chinese Food,NA,fast_food,NA,Prince Of Wales Drive,1896,NA,NA,-75.7050076521603,45.35372089839246
+578599188,Bobbie's Pizza & Subs,NA,fast_food,NA,Ogilvie Road,1443,NA,NA,-75.61836581920414,45.43196838696618
+578678058,J N Pizza,NA,fast_food,NA,Cyrville Road,1663,NA,K1B 3L7,-75.6081704139702,45.418002466513016
+580611245,Zoureen's Cafe,NA,cafe,NA,McArthur Avenue,320,NA,NA,-75.65388540150128,45.431506197466476
+581659405,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Robertson Road,2150,NA,NA,-75.83665570569279,45.319173711920484
+581659412,Balista,NA,fast_food,NA,Robertson Road,2150,NA,NA,-75.83697280084854,45.31969995821093
+581659416,Quesada,NA,fast_food,Quesada,Robertson Road,2150,NA,NA,-75.83734870463668,45.31993212219882
+581696766,Harbour Pizza,NA,fast_food,NA,Fitzroy Street,2391,NA,NA,-76.21513461204125,45.471526147762546
+583053805,Palermo's Pizzeria,NA,fast_food,NA,Tapiola Crescent,25,NA,NA,-75.64675193906973,45.364127330561786
+583053808,Al-oumara,NA,fast_food,NA,Tapiola Crescent,25,NA,NA,-75.64654026805728,45.363869100184075
+583599645,Kettleman's Bagel,NA,fast_food,NA,Trainyards Drive,197,NA,NA,-75.63817024231554,45.411654599463176
+583792597,Milano Pizzeria,NA,fast_food,NA,Montréal Road,876,NA,NA,-75.63017201550471,45.44607641368503
+584505117,Full Cup Cafe,NA,cafe,NA,Rue Principale,181,NA,NA,-75.8359908984483,45.39711115330544
+584710152,Aroma Select,NA,cafe,NA,Rue Principale,200,Gatineau,J9H 6J4,-75.83433467781904,45.394777996015
+584710161,Dairy Queen,NA,fast_food,Dairy Queen,Rue Principale,200,Gatineau,J9H 6J4,-75.83504895700983,45.394497406053105
+584712557,Snack-Shack,NA,fast_food,NA,Boulevard Wilfrid-Lavigne,420,Gatineau,NA,-75.83609625882927,45.39848003182339
+584712572,Chez Gaston Shawarma,NA,fast_food,NA,Boulevard Wilfrid-Lavigne,420,Gatineau,NA,-75.83657487585536,45.39869556189179
+584712590,Subway,NA,fast_food,Subway,Boulevard Wilfrid-Lavigne,420,Gatineau,NA,-75.83694235523235,45.39867192603782
+584815440,Tyros Shawarma&Donair,NA,fast_food,NA,Jeanne-d'Arc Boulevard South,5925,NA,NA,-75.54178739304378,45.464480992362134
+585752212,Habibi Pizza & Pies,NA,fast_food,NA,Main Street,62,NA,NA,-75.68026615363421,45.412551007004836
+587297070,Kiki Lebanese Pineview Pizza,NA,fast_food,NA,Meadowbrook Road,2045,NA,NA,-75.60199710153914,45.42728779790983
+587332711,Laziz,NA,fast_food,NA,Innes Road,1900,NA,NA,-75.59573678655129,45.418090805257215
+587769289,Sushi 29,NA,fast_food,NA,Innes Road,2662,NA,NA,-75.56244374061158,45.43156047472758
+587769303,Subway,NA,fast_food,Subway,Innes Road,2670,NA,NA,-75.56269198230358,45.4318676128433
+587955605,Hung Mein,NA,fast_food,NA,Baseline Road,2567,NA,NA,-75.78733069676008,45.341719752108936
+587955610,Mr. Shawarma,NA,fast_food,NA,Baseline Road,2555,NA,NA,-75.78693353812857,45.34188452294112
+587955611,1 for 1 Pizza,NA,fast_food,NA,Baseline Road,2547,NA,NA,-75.78681797157499,45.34193318056247
+588714002,Pizza Pizza,NA,fast_food,Pizza Pizza,Robertson Road,1826,NA,NA,-75.81812891298061,45.32725355144378
+588714008,Prima Cafe,NA,fast_food,NA,Northside Road,26,NA,NA,-75.8138799466493,45.32943951620175
+589529612,House of Greek,NA,fast_food,NA,Prince Of Wales Drive,1200,NA,NA,-75.70883578388033,45.37452862659008
+591034762,hanahana,NA,fast_food,NA,Hazeldean Road,474,NA,NA,-75.88790745549724,45.29718952432126
+591034766,Karara: The Indian Takeout,NA,fast_food,NA,Hazeldean Road,474,NA,NA,-75.88807857113643,45.29760403954271
+591041969,Jo Jo’s Pizza,NA,fast_food,NA,Fernbank Road,5373,NA,NA,-75.87053179752093,45.27384685081751
+591041973,Subway,NA,fast_food,Subway,Fernbank Road,5357,NA,NA,-75.87074225904568,45.2737141955078
+591059839,Thai Express,NA,fast_food,Thai Express,Heron Road,1670,NA,NA,-75.64590784549466,45.378678975206554
+591059840,Booster Juice,NA,fast_food,Booster Juice,Heron Road,1670,NA,NA,-75.64591481015151,45.37873632091436
+591675177,Pizza Pizza,NA,fast_food,Pizza Pizza,Hazeldean Road,420,NA,NA,-75.88110942972426,45.301195218085404
+591685232,Shawarma Master,NA,fast_food,NA,Eagleson Road,500,NA,NA,-75.87083912149673,45.29062293819343
+591846161,Mama Rosa Pizzeria,NA,fast_food,NA,Des Épinettes Avenue,375,NA,K1E 3E6,-75.49569597599421,45.466238154111885
+591866044,Bagel Run,NA,fast_food,NA,Tenth Line Road,2026,NA,NA,-75.488059393838,45.458647932693125
+591866047,Asia Wok,NA,fast_food,NA,Tenth Line Road,2026,NA,K4A 4X4,-75.48808880552268,45.458702464051086
+591915535,Greek on Wheels,NA,fast_food,NA,Montréal Road,585,NA,NA,-75.64436924041831,45.443000275471775
+591917949,Louie's Pizza,NA,fast_food,NA,Hobin Street,1,NA,NA,-75.9291826779687,45.26478065589347
+591921384,Fat Bastard Burrito Company,NA,fast_food,NA,Carp Road,1110,NA,NA,-75.9419782866066,45.26824184082954
+591921392,Subway,NA,fast_food,Subway,Carp Road,1110,NA,NA,-75.94231634796785,45.26847344922697
+591921394,Classic Shawarma,NA,fast_food,NA,Carp Road,1110,NA,NA,-75.94237681582476,45.268514863722366
+592832330,Nona's Deli,NA,fast_food,NA,Robertson Road,2194,NA,NA,-75.84020231163383,45.318108032259815
+592866900,Popeyes,NA,fast_food,Popeyes,Hazeldean Road,457,NA,NA,-75.88779189983882,45.29985796593585
+593903159,The King Shawarma,NA,fast_food,NA,Ogilvie Road,2177,NA,NA,-75.59431393680148,45.4457744539045
+593903168,Créole Sensations,NA,fast_food,NA,Ogilvie Road,2179,NA,NA,-75.5943117834368,45.44586086409075
+593903183,Pizza Pizza,NA,fast_food,Pizza Pizza,Montréal Road,1950,NA,NA,-75.59585262093985,45.44616833002355
+593918060,Milano Pizzeria,NA,fast_food,NA,Hazeldean Road,471,NA,NA,-75.88974295233054,45.29851214827763
+593918061,Pesto's Italian Deli,NA,fast_food,NA,Hazeldean Road,471,NA,NA,-75.88968574903355,45.298545651372706
+593922346,Subway,NA,fast_food,Subway,Hazeldean Road,500,NA,NA,-75.89399658247214,45.293046126480206
+593922351,Little Caesars,NA,fast_food,Little Caesars,Hazeldean Road,500,NA,NA,-75.89396405598934,45.29364874942799
+593943474,Retaj,NA,fast_food,NA,Limebank Road,4456,NA,NA,-75.672333430031955,45.28712113043506
+593943475,Subway,NA,fast_food,Subway,Limebank Road,4456,NA,NA,-75.6724006402563,45.28714128289656
+593943484,Dairy Queen,NA,fast_food,Dairy Queen,Spratt Road,3767,NA,NA,-75.67292601336212,45.288009567288746
+593971603,Pretty Handsome,hairdresser,fast_food,NA,Earl Armstrong Road,665,NA,NA,-75.69592754580411,45.27004397054473
+597844422,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Innes Road,3469,NA,NA,-75.5267372821878,45.44735339959208
+599071837,Romeo's Pizza,NA,fast_food,NA,Merivale Road,1568,NA,NA,-75.73469969443887,45.35150445526947
+599071842,Coco,NA,cafe,CoCo,Merivale Road,1568,Nepean,K2G 3J9,-75.7348944992784,45.3518266507538
+602277183,Lucky 7 Take Out,NA,fast_food,NA,Jeanne-d'Arc Boulevard North,8154,NA,NA,-75.51170740163627,45.48757950106783
+602785190,Milano Pizzeria,NA,fast_food,NA,Merivale Road,1078,NA,NA,-75.73358733901148,45.37751341095689
+602788166,Greeko's,NA,fast_food,NA,Merivale Road,1232,NA,NA,-75.73329451793671,45.370515121055014
+602788188,Punjabi Canteen,NA,fast_food,NA,Merivale Road,1232,NA,NA,-75.7332365063859,45.370330290794044
+603709470,Harvest Social,NA,cafe,NA,Russell Street West,7,Smiths Falls,K7A 1N8,-76.02199910631658,44.90094239909361
+603897735,Ottawa Perogies,NA,fast_food,NA,Baxter Road,1129,NA,NA,-75.78206740195351,45.3508654888341
+603897740,La Poutinerie,NA,fast_food,NA,Baxter Road,1139,NA,NA,-75.78185110493561,45.35062669164391
+603914585,Greek on Wheels,NA,fast_food,NA,Hazeldean Road,444,NA,NA,-75.88568748620692,45.29925946007887
+604059112,Burrito Gringo,NA,fast_food,NA,Bank Street,2430,NA,NA,-75.64886606776557,45.35324737063719
+604059118,Pho Mi Bo Ga,NA,fast_food,NA,Bank Street,2430,NA,NA,-75.64900571958209,45.35329306750648
+604059119,SemSem,NA,fast_food,NA,Bank Street,2430,NA,NA,-75.6488010145237,45.35322824630913
+604061487,Papa Joe's Pizzeria,NA,fast_food,NA,Bridle Path Drive,4000,NA,NA,-75.64552961580816,45.34837230238787
+604084514,Café Hiraeth,NA,cafe,NA,Gibford Drive,2900,NA,NA,-75.66854905586828,45.34274334686319
+604084870,Greek on Wheels,NA,fast_food,NA,Hunt Club Road,800,NA,NA,-75.6659979176059,45.344236531795566
+604084873,Pizza Lovers,NA,fast_food,NA,Hunt Club Road,800,NA,NA,-75.66616530241608,45.34435425929636
+604084875,Hong Kong Chinese Food,NA,fast_food,NA,Hunt Club Road,800,NA,NA,-75.6665057418818,45.34441106905841
+605069154,Roberto's Corner,NA,fast_food,NA,Pleasant Park Road,1034,NA,NA,-75.62173814915408,45.395313150482714
+605069157,New Town Chinese Cuisine,NA,fast_food,NA,Pleasant Park Road,1022,NA,NA,-75.62217324029405,45.39524375214817
+605069159,Super Duper Pizza,NA,fast_food,NA,Pleasant Park Road,1018,NA,NA,-75.62232624936576,45.395203249586025
+605276173,Tim Hortons,NA,cafe,Tim Hortons,Notre Dame Street,771,Embrun,NA,-75.3011149980052,45.26796140076759
+605312784,Tim Hortons,NA,cafe,Tim Hortons,Broadway Avenue,88,Russell,NA,-75.37481474252772,45.25615514203174
+605374219,Timothy's,NA,cafe,Timothy's,Riverside Drive,2277,NA,NA,-75.67669263696632,45.38608233071757
+605393475,Second Cup,NA,cafe,Second Cup,Eagleson Road,300,NA,NA,-75.87802628276799,45.3022412547134
+606499009,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Goldridge Drive,2,NA,NA,-75.92069519055951,45.31594045349571
+606501690,Law & Orders,NA,fast_food,NA,Carling Avenue,4055,NA,NA,-75.90768644816302,45.33858545150549
+606501696,Maverick's Donuts,NA,fast_food,NA,Carling Avenue,4055,Kanata,K2K 2A4,-75.90738104692753,45.33877469369936
+606521910,Subway,NA,fast_food,Subway,March Road,700,NA,NA,-75.92491929273125,45.34993144749649
+606789209,Centrale Burgham,NA,fast_food,NA,St. Joseph Boulevard,2208,NA,NA,-75.53231322451553,45.46723939989988
+606804349,Just Wok,NA,fast_food,NA,St. Joseph Boulevard,2138,NA,NA,-75.5343534646126,45.466312761289
+606804350,Gabriel Pizza,NA,fast_food,Gabriel Pizza,St. Joseph Boulevard,2158,NA,NA,-75.53415095438714,45.46640268311495
+607441094,Giovanni's Snack Bar,NA,fast_food,NA,Booth Street,376,NA,NA,-75.70924595793647,45.4069125847542
+607739749,1 for 1 Pizza,NA,fast_food,NA,St-Laurent Boulevard,1020,NA,NA,-75.63994251779961,45.42781392069614
+608433319,Subway,NA,fast_food,Subway,Walkley Road,1739,NA,NA,-75.64463844736832,45.37835084617635
+608433321,Mom Shawarma,NA,fast_food,NA,Walkley Road,1739,NA,NA,-75.64454512491109,45.37839000147973
+608433323,Little Caesars,NA,fast_food,Little Caesars,Walkley Road,1739,NA,NA,-75.6443805064876,45.37845763291681
+608433324,Fat Bastard Burrito Co.,NA,fast_food,NA,Walkley Road,1739,NA,NA,-75.64430663038627,45.37848748361249
+608433325,Popeyes,NA,fast_food,Popeyes,Walkley Road,1739,NA,NA,-75.644205225311,45.37852714494094
+609269895,Casse-croute Presto Grab & Go,NA,fast_food,NA,Gendron Road,3150,Hammond,K0A 2A0,-75.23959387638759,45.43990001255137
+609966177,Chili Craft Pizza,NA,fast_food,NA,Wylie Avenue,68,NA,NA,-75.80689564800929,45.35468496024927
+610253358,Café Dépôt,NA,cafe,NA,NA,NA,NA,NA,-75.7494209799927,45.276605046233264
+610253359,A&W,NA,fast_food,A&W,Highbury Park Drive,30,NA,NA,-75.7496047597442,45.27721355172523
+614051962,Mr. Mozzarella,NA,fast_food,NA,Main Street,505,NA,NA,-75.35429784719727,45.09262990095328
+614326760,Starbucks,NA,cafe,Starbucks,Hazeldean Road,457,NA,NA,-75.88572159503333,45.30016711783627
+614916099,Pizza Junction,NA,fast_food,NA,Innes Road,4025,NA,NA,-75.50602280482224,45.455993017403344
+614916102,Greek on Wheels,NA,fast_food,NA,Innes Road,4025,NA,NA,-75.50609645659107,45.455963498949984
+616200872,KFC,NA,fast_food,KFC,County Road 43,2970,NA,NA,-75.6368170131748,45.029366993392955
+616340161,Brewed Awakenings,NA,cafe,NA,County Road 43,2868,NA,NA,-75.64321540203787,45.02605560642028
+616340173,Little Caesars,NA,fast_food,Little Caesars,County Road 43,2878,NA,NA,-75.6424974733244,45.02637807384583
+616342841,Gabriel Pizza,NA,fast_food,Gabriel Pizza,County Road 43,2727,NA,NA,-75.65232874555485,45.02291290268275
+616359848,Milano Pizzeria,NA,fast_food,NA,County Road 43,2600,NA,NA,-75.65681200963778,45.01794333621534
+616359876,Subway,NA,fast_food,Subway,County Road 43,2600,NA,NA,-75.65612772103665,45.018276711531726
+617092346,Domino's,NA,fast_food,Domino's,Bank Street,1800,NA,NA,-75.66526471934075,45.37198572927052
+617092356,Ruby Chinese Food,NA,fast_food,NA,Bank Street,1834,NA,NA,-75.66470856176485,45.370479096021434
+617191786,Alnawaeer Sweets,NA,fast_food,NA,Bank Street,1549,NA,NA,-75.6674205215315,45.37992495373696
+617191789,Yemen Gate,NA,fast_food,NA,Bank Street,1559,NA,NA,-75.66745709808362,45.37983914883817
+617642479,Man'oushi Lebanese Bakery and Shawarma,bakery,fast_food,NA,Innovation Drive,5055,NA,NA,-75.93065453545208,45.343992627132856
+618833487,Royalty Pizza,NA,fast_food,NA,Lamira Street,2184,NA,NA,-75.67127693065736,45.385027286456
+618833488,New China Chinese Food,NA,fast_food,NA,Lamira Street,2184,NA,NA,-75.67128285060295,45.3849822000011
+619516713,Subway,NA,fast_food,Subway,McNeely Avenue,525,NA,NA,-76.11813035095724,45.132257149912085
+620501502,Domino's,NA,fast_food,Domino's,Montréal Road,572,NA,K1K 0T9,-75.64430740119953,45.440896357703124
+620501503,Pho Hoan,NA,fast_food,NA,NA,NA,NA,NA,-75.64423154641295,45.44092445725194
+620501504,Prince Gourmet,NA,fast_food,NA,Montréal Road,576,NA,NA,-75.64414467011194,45.440952001060666
+620660621,Subway,NA,fast_food,Subway,Montréal Road,973,NA,NA,-75.62663778523476,45.44752949613517
+621820151,The Chopped Leaf,NA,fast_food,NA,Trainyards Drive,140,NA,NA,-75.64536819964557,45.412994800013806
+621820158,Subway,NA,fast_food,Subway,Terminal Avenue,500,NA,NA,-75.64826542574879,45.41448711802652
+621820159,Chickpeas,NA,fast_food,NA,Terminal Avenue,500,NA,NA,-75.64827595133892,45.41454944866838
+621820178,Starbucks,NA,cafe,Starbucks,Trainyards Drive,100,NA,NA,-75.64635647329618,45.41286800591696
+621838607,Mucho Burrito,NA,fast_food,Mucho Burrito,Industrial Avenue,515,NA,NA,-75.64651566971357,45.41197626205853
+621838618,Five Guys,NA,fast_food,Five Guys,Industrial Avenue,525,NA,NA,-75.64595566919881,45.411982804525515
+621838621,Thaï Express,NA,fast_food,Thaï Express,Industrial Avenue,525,NA,NA,-75.64605391944006,45.41198587145355
+622453061,Willy's Pizza,NA,fast_food,NA,Hazeldean Road,484,NA,NA,-75.88986769508182,45.29603227974412
+622453063,Shawarma Prince,NA,fast_food,NA,Hazeldean Road,484,NA,NA,-75.89004046453063,45.295928394761184
+622453065,Cannatime,cannabis,NA,NA,Hazeldean Road,484,NA,NA,-75.88995284093194,45.295981655910204
+624881273,Tim Hortons,NA,cafe,Tim Hortons,Montée de la Source,415,NA,J8V 3B5,-75.77170905043675,45.538496699594084
+624881274,Subway,NA,fast_food,Subway,Montée de la Source,493,NA,J8V 3B5,-75.7731761601667,45.53898596558057
+626743696,Dairy Queen,NA,fast_food,Dairy Queen,NA,NA,NA,NA,-76.26163734960123,44.91128534949429
+627620104,Milano Pizzeria,NA,fast_food,NA,Martin Street North,20,NA,NA,-76.1934159328728,45.22946969650635
+628607970,Barney's Pizza,NA,fast_food,NA,Dumaurier Avenue,2843,NA,NA,-75.79365217474366,45.35054232835582
+628634314,The Hamburger Hut,NA,fast_food,NA,NA,NA,NA,NA,-76.24998817104586,45.05879605168619
+629141133,Figaro Coffee House,NA,cafe,NA,Industrial Avenue,650,NA,NA,-75.64033726975615,45.41037737680778
+630053623,Imilio's Pizzeria,NA,fast_food,NA,Bearbrook Road,110,NA,NA,-75.56548790124897,45.43188072954375
+631327666,Barburrito,NA,fast_food,NA,Lanthier Drive,2020,NA,NA,-75.49298344237017,45.45820499797316
+631327668,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Lanthier Drive,2020,NA,NA,-75.4931392270139,45.45816350401054
+631327671,The Great Canadian Poutinerie,NA,fast_food,NA,Lanthier Drive,2020,NA,NA,-75.49355921161322,45.4580501327207
+631333013,Papa John's,NA,fast_food,Papa John's,Tenth Line Road,2016,NA,NA,-75.48862290095506,45.45969830132271
+634491969,Louis Pizza Express,NA,fast_food,NA,Forest Valley Drive,1600,NA,NA,-75.53621864149251,45.44898612011392
+635759371,Britannia Coffeehouse,NA,cafe,NA,Britannia Road,273,NA,NA,-75.79602363219037,45.36555953450621
+637038124,Tim Hortons,NA,cafe,Tim Hortons,NA,NA,NA,NA,-75.1822040527309,44.90230310159479
+638361498,Malabar House,NA,fast_food,NA,Robertson Road,2194,NA,NA,-75.84087597522013,45.31798628604928
+640344334,Greenleaf Bubble Tea,NA,cafe,NA,March Road,591,NA,NA,-75.92378088403748,45.347443257842954
+640355007,Little Caesars,NA,fast_food,Little Caesars,March Road,836,NA,NA,-75.93353124892688,45.357411700357076
+640355010,Starbucks,NA,cafe,Starbucks,March Road,844,NA,NA,-75.93463870407341,45.35828101440274
+640897178,Domino's,NA,fast_food,Domino's,Stittsville Main Street,1300,NA,NA,-75.9306509103012,45.265729999569636
+640901925,Willy's Pizza,NA,fast_food,NA,Stittsville Main Street,1408,NA,NA,-75.92530796504433,45.26179063780396
+641594855,Wing Lee,NA,fast_food,NA,River Road,990,NA,NA,-75.67738034163315,45.23382384670267
+647450171,Domino's,NA,fast_food,Domino's,Strandherd Drive,4100,NA,K2J 0V2,-75.7687515581682,45.26024400856225
+651371830,Real Fruit Bubble Tea,NA,cafe,Real Fruit Bubble Tea,Rideau Street,50,NA,NA,-75.69138608261105,45.42565108061251
+651371845,Freshly Squeezed,NA,fast_food,NA,Rideau Street,50,NA,NA,-75.69198489985938,45.425468800254535
+651371848,Tim Hortons,NA,cafe,Tim Hortons,Rideau Street,50,NA,NA,-75.69202852849612,45.42575803393821
+651533596,Bridgehead,NA,cafe,Bridgehead,Rideau Street,50,NA,NA,-75.6910574869778,45.426271423501916
+651630087,Chipotle,NA,fast_food,Chipotle,Rideau Street,50,NA,NA,-75.69306826718932,45.425324008430394
+651630090,Bento Sushi,NA,fast_food,NA,Rideau Street,50,NA,NA,-75.6911489821706,45.42555184082666
+651637550,Umi Sushi & Teriyaki,NA,fast_food,NA,Rideau Street,50,NA,NA,-75.68969304962351,45.42485219934125
+651637551,Shanghai 360,NA,fast_food,Shanghai 360,Rideau Street,50,NA,NA,-75.68963701269094,45.424786307652255
+651637554,Thaï Express,NA,fast_food,Thaï Express,Rideau Street,50,NA,NA,-75.68963771280463,45.4247089146577
+651637555,Amaya,NA,fast_food,NA,Rideau Street,50,NA,NA,-75.68964767423779,45.4246527354889
+651637557,Jimmy the Greek,NA,fast_food,Jimmy the Greek,Rideau Street,50,NA,NA,-75.68966889284745,45.424527478114925
+651637558,Subway,NA,fast_food,Subway,Rideau Street,50,NA,NA,-75.6897474252799,45.424459482126736
+651637559,New York Fries,NA,fast_food,New York Fries,Rideau Street,50,NA,NA,-75.68987495028041,45.42440550040443
+651637560,Poulet Rouge,NA,fast_food,NA,Rideau Street,50,NA,NA,-75.69000413596224,45.42434781348054
+651637561,A&W,NA,fast_food,A&W,Rideau Street,50,NA,NA,-75.69017446997144,45.42429491065341
+651637562,KFC,NA,fast_food,KFC,Rideau Street,50,NA,NA,-75.69031430531533,45.424313688201664
+651637566,Mr. Pretzels,NA,fast_food,Mr. Pretzels,Rideau Street,50,NA,NA,-75.69082837254717,45.424669311892124
+651639753,Big Smoke Burger,NA,fast_food,NA,Rideau Street,50,NA,NA,-75.69014312353185,45.42487374178984
+651639755,Bourbon St. Grill,NA,fast_food,NA,Rideau Street,50,NA,NA,-75.69022655021789,45.42484245387259
+651855638,Lanark Pizzeria,NA,fast_food,NA,George Street,72,NA,NA,-76.36501555192334,45.01771855128937
+652110293,Full Start Chinese Food,NA,fast_food,NA,Bank Street,2515,NA,NA,-75.64523645253064,45.35490899950524
+652110295,Subway,NA,fast_food,Subway,Bank Street,2515,NA,NA,-75.64531099869967,45.3548890002258
+652110308,Tim Hortons,NA,cafe,Tim Hortons,Bank Street,2495,NA,NA,-75.64595374933862,45.354141899174344
+652144852,Carlo’s Bake Shop Express,bakery,fast_food,NA,Rideau Street,50,NA,NA,-75.69092085796488,45.425022406438096
+652157915,Starbucks,NA,cafe,Starbucks,Rideau Street,50,NA,NA,-75.69293151941442,45.42548211724319
+652164553,Booster Juice,NA,fast_food,Booster Juice,Rideau Street,50,NA,NA,-75.6906038177884,45.424391553714685
+653475585,Mr. Pretzels,NA,fast_food,NA,NA,NA,NA,NA,-75.80682955559612,45.34733651979063
+654078826,Hello Sushiman,NA,fast_food,NA,Innes Road,3885,NA,NA,-75.51134845131159,45.45383629970977
+654079708,Starbucks,NA,cafe,Starbucks,Innes Road,4240,NA,NA,-75.49751002091122,45.457395865550446
+654080791,Burger King,NA,fast_food,Burger King,Tenth Line Road,2035,NA,NA,-75.48677046709554,45.45996628452727
+654080796,Subway,NA,fast_food,Subway,Innes Road,4434,NA,NA,-75.4867785477457,45.46079499831982
+654080797,Real Fruit Bubble Tea,NA,cafe,Real Fruit Bubble Tea,Innes Road,4434,NA,NA,-75.48687374703759,45.460766443017555
+654080798,The King Bites,NA,fast_food,NA,Innes Road,4434,NA,NA,-75.48696897603922,45.460737844493956
+654118356,La Grand Pita,NA,fast_food,NA,Carling Avenue,1309,NA,NA,-75.7355316903156,45.387083078014385
+654118359,Subway,NA,fast_food,Subway,Carling Avenue,1309,NA,NA,-75.73563450029523,45.38701299033096
+654118362,Thai Go,NA,fast_food,NA,Carling Avenue,1309,NA,NA,-75.735574430896,45.38705330235753
+654118370,Second Cup,NA,cafe,Second Cup,Carling Avenue,1309,NA,NA,-75.73528426718586,45.386756639564624
+654819598,Craig Henry Chinese Food,NA,fast_food,NA,Chartwell Avenue,3,NA,NA,-75.77029531571644,45.332404197537294
+657653628,Benny & Co.,NA,fast_food,NA,Hazeldean Road,5671,NA,NA,-75.90952300210141,45.28555905159464
+659154456,Jo-Jo's Pizzeria,NA,fast_food,NA,Carling Avenue,4048,NA,NA,-75.90685370022759,45.33640674984945
+660813439,Edo Japan,NA,fast_food,NA,Greenbank Road,3181,NA,K2J 4H9,-75.74494383894267,45.26881820352459
+660813441,Fiazza,NA,fast_food,NA,Greenbank Road,3181,NA,K2J 4H9,-75.74497869274227,45.26889434673653
+660813444,Firehouse Subs,NA,fast_food,Firehouse Subs,Marketplace Avenue,41,NA,K2J 5G4,-75.74429418444329,45.26908966079177
+661301382,Sushi Shop,NA,fast_food,Sushi Shop,Chemin de la Savane,25,NA,J8T 8A4,-75.70317838933923,45.475088408484254
+661301386,Subway,NA,fast_food,Subway,Chemin de la Savane,25,NA,J8T 8A4,-75.70311292208714,45.47515612044166
+661301391,Domino's,NA,fast_food,Domino's,Chemin de la Savane,25,Gatineau,J8T 8A4,-75.70246982685559,45.474312525409594
+661305450,Pizza La Difference,NA,fast_food,NA,Boulevard Gréber,455,NA,NA,-75.70120014955164,45.48661423479757
+661305452,Elyo Shawarma,NA,fast_food,NA,Boulevard Gréber,455,NA,NA,-75.70121546613078,45.48671279277489
+661305454,Subway,NA,fast_food,Subway,Boulevard Gréber,455,NA,J8T 5T7,-75.70123055143576,45.486807005676475
+661306071,Sushi Shop,NA,fast_food,NA,Boulevard Gréber,1540,NA,J8R 0E1,-75.67822520588875,45.50429997273034
+661306072,Elyo Shawarma,NA,fast_food,NA,Boulevard Gréber,1540,NA,J8R 0E1,-75.67812909859475,45.50430764968921
+661306074,A&W,NA,fast_food,A&W,Boulevard Gréber,1510,NA,J8R 0E1,-75.67897479957055,45.504243297866786
+663542345,Talluza Desserts,NA,fast_food,NA,Hunt Club Road,1183,NA,NA,-75.65100222361278,45.35267231327522
+663543731,Greek Souvlaki House,NA,fast_food,NA,Rivergate Way,3625,NA,NA,-75.69244236514214,45.345634378795005
+664550166,Thai To Go,NA,fast_food,NA,Eagleson Road,701,NA,NA,-75.86675739920379,45.287586500586414
+664747075,The Scone Witch Express,NA,cafe,NA,Cyrville Road,1638,NA,NA,-75.60806760024911,45.41722395078142
+664937975,Milano Pizzeria,NA,fast_food,NA,Tompkins Avenue,385,NA,K1E 3H4,-75.49883105766183,45.477272965689615
+664937977,Orleans Shawarma,NA,fast_food,NA,Tompkins Avenue,385,NA,K1E 3H4,-75.4987368240028,45.477310606293244
+664940367,Domino's,NA,fast_food,Domino's,Tenth Line Road,1777,NA,K1E 3X2,-75.49068703909526,45.46676586175503
+666462086,A&W,NA,fast_food,A&W,Hazeldean Road,6305,NA,NA,-75.94019179659804,45.267461902509325
+668382826,Markie's Montreal Style Smoked Meat,NA,fast_food,NA,Carling Avenue,1679,NA,K2A 1C4,-75.75015139802628,45.379789149534794
+668382827,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Carling Avenue,1679,NA,K2A 1C4,-75.75021946371932,45.379759588001995
+668382828,Mr. Sub,NA,fast_food,Mr. Sub,Carling Avenue,1679,NA,K2A 1C4,-75.7502875516848,45.37973004829787
+668386464,Willy's Pizza,NA,fast_food,NA,Donald B. Munro Drive,461,NA,NA,-76.03814049111296,45.344762572963624
+668488642,Little Caesars,NA,fast_food,Little Caesars,Montréal Road,2200,NA,NA,-75.58725464489878,45.44941104937901
+668488645,Subway,NA,fast_food,Subway,Montréal Road,2200,NA,NA,-75.5873816940764,45.44937565368199
+668488646,Nani Shawarma,NA,fast_food,NA,Montréal Road,2200,NA,NA,-75.58744770280956,45.44935759888667
+668488647,Dairy Queen,NA,fast_food,Dairy Queen,Montréal Road,2200,NA,NA,-75.58754619918031,45.449330648945725
+668758555,McDonald's,NA,fast_food,McDonald's,Merivale Road,1675,NA,K2G 3K2,-75.73135549666647,45.34823012964385
+670779947,Maison de Nouilles,NA,fast_food,NA,Boulevard Gréber,110,Gatineau,J8T 6H5,-75.70084697651443,45.46720716962911
+671165710,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Trim Road,2010,NA,NA,-75.45428171444387,45.46863610304116
+671165712,Soul Stone Express,NA,fast_food,NA,Trim Road,2010,NA,NA,-75.45441550170017,45.46859815786806
+671165722,Subway,NA,fast_food,Subway,Innes Road,5160,NA,NA,-75.45566006402002,45.468607137456054
+671382563,Cite De Chine,NA,fast_food,NA,Boulevard Maloney Est,151,NA,J8P 1B9,-75.6503292732481,45.48411054213345
+671384729,Subway,NA,fast_food,Subway,Boulevard Maloney Est,381,NA,J8P 1E3,-75.64104848172305,45.48537662541894
+671384735,Pizza Pizza,NA,fast_food,Pizza Pizza,Boulevard Maloney Est,381,NA,J8P 1E3,-75.64221552277465,45.485365393230694
+671959547,Ultime Pizza,NA,fast_food,NA,Boulevard Maloney Est,922,Gatineau,NA,-75.5944780648003,45.49007619694929
+671959550,Poulet Frit Maniaque,NA,fast_food,NA,Boulevard Maloney Est,922,Gatineau,NA,-75.595268299247,45.489832486800196
+671959552,Chicco Shawarma,NA,fast_food,NA,Boulevard Maloney Est,922,Gatineau,NA,-75.59503942804456,45.48990481446248
+671959553,Le Social Cafe-Bistro,NA,cafe,NA,Boulevard Maloney Est,922,Gatineau,NA,-75.59496313512982,45.48992890097984
+672189488,A&W,NA,fast_food,A&W,Merivale Road,1454,NA,NA,-75.73343442979252,45.3629506422742
+672788706,Starbucks,NA,cafe,Starbucks,Carling Avenue,2222,NA,NA,-75.77218249633034,45.36899532608488
+672788996,Laziz Broast & Mix Grill,NA,fast_food,NA,Carling Avenue,1846,NA,NA,-75.756490165051,45.37586440842236
+672975929,Yaseen Pizza,NA,fast_food,NA,Bank Street,2895,NA,NA,-75.62655052832888,45.34897946050339
+673129217,Pizza Pizza,NA,fast_food,Pizza Pizza,St-Laurent Boulevard,1191,NA,NA,-75.63577731529203,45.42284472941384
+674473743,Lucky Star Chinese food,NA,fast_food,NA,Orléans Boulevard,1615,NA,NA,-75.52370766219896,45.46076991022848
+674473755,Mary Brown's,NA,fast_food,Mary Brown's,Orléans Boulevard,1615,NA,NA,-75.52375729372207,45.460996920361644
+674473758,Pizza Pizza,NA,fast_food,Pizza Pizza,Orléans Boulevard,1615,NA,NA,-75.52377781203924,45.46113641013615
+674473765,Cedar Valley Lebanese Food,NA,fast_food,NA,Orléans Boulevard,1615,NA,NA,-75.5237660466539,45.46105670185622
+674473768,Subway,NA,fast_food,Subway,Orléans Boulevard,1615,NA,NA,-75.52374874296079,45.460937198200774
+674473772,Starbucks,NA,cafe,Starbucks,Orléans Boulevard,1615,NA,NA,-75.52379401118955,45.46121074196583
+675860414,Tim Hortons,NA,cafe,Tim Hortons,Avenue Lépine,160,Gatineau,NA,-75.40356408979238,45.575043014644365
+678546496,King's Pizza,NA,fast_food,NA,NA,NA,NA,NA,-75.45087922612265,44.990620906079535
+679528477,Mary Brown's,NA,fast_food,Mary Brown's,Carling Avenue,3098,NA,K2B 7K2,-75.80595600161405,45.354010250326894
+679914077,Shawarma Andalos,NA,fast_food,NA,Riverside Drive,2277,NA,NA,-75.67704055615103,45.38555325604915
+679914078,Teriyaki Experience,NA,fast_food,Teriyaki Experience,Riverside Drive,2277,NA,NA,-75.67706467852827,45.38551719549374
+679914079,Subway,NA,fast_food,Subway,Riverside Drive,2277,NA,NA,-75.67715286004156,45.385431296716945
+679914080,Manchu Wok,NA,fast_food,Manchu Wok,Riverside Drive,2277,NA,NA,-75.67709046107636,45.38548033697466
+679914081,Tandori,NA,fast_food,NA,Riverside Drive,2277,NA,NA,-75.67713877462437,45.38568430325897
+679914082,McDonald's,NA,fast_food,McDonald's,Riverside Drive,2277,NA,NA,-75.67710228812784,45.385388233767706
+679914083,Thaï Express,NA,fast_food,Thaï Express,Riverside Drive,2277,NA,NA,-75.67709740001573,45.38563156000353
+679914088,Tim Hortons,NA,cafe,Tim Hortons,Riverside Drive,2277,NA,NA,-75.67735517737583,45.385324188118105
+679914089,New York Fries,NA,fast_food,New York Fries,Riverside Drive,2277,NA,NA,-75.67741617045722,45.38540984529672
+681150824,Suzy Q,pastry,fast_food,NA,Robertson Road,2015,NA,NA,-75.82776309488739,45.32471856312498
+681150825,KFC,NA,fast_food,KFC,Robertson Road,2015,NA,NA,-75.82794645141571,45.324649966082696
+681969370,S&G Fries,NA,fast_food,NA,Carling Avenue,1845,NA,NA,-75.75600007644047,45.37681658000783
+682010562,Quyon Pizza & Shawarma,NA,fast_food,NA,NA,NA,NA,NA,-76.2319177151405,45.52055622506735
+682183750,Gio Pizza,NA,fast_food,NA,Prince Of Wales Drive,1896,NA,NA,-75.70451699979239,45.35391875043999
+682738122,Subway,NA,fast_food,Subway,Hawthorne Road,3190,NA,NA,-75.60317550261692,45.383733252234336
+683428985,River Pizza,NA,fast_food,NA,Cameron Street,978,NA,NA,-75.41150154984338,45.517878853396546
+683614556,Second Cup,NA,cafe,Second Cup,Bank Street,1440,NA,K1H 8A7,-75.67103728592409,45.382427369727395
+683629807,Au p'tit castor,NA,fast_food,NA,Notre Dame Street,1066,NA,NA,-75.27146277049802,45.27435125213294
+685754788,Uncle Fester's Place,NA,fast_food,NA,Broadway Street West,106,NA,NA,-75.83934950207289,44.91982284891799
+685992089,Pita Pit,NA,fast_food,Pita Pit,Hazeldean Road,457,NA,NA,-75.88624961709247,45.29989528373836
+686433349,The Village Bean Coffee House,NA,cafe,NA,NA,NA,Merrickville,NA,-75.83638884515351,44.91519197707849
+690239255,Subway,NA,fast_food,Subway,Perth Street,5919,NA,NA,-75.82988597570841,45.20198524274382
+690762761,Burrito Gringo,NA,fast_food,NA,Innovation Drive,5045,NA,NA,-75.93100875025743,45.34471499926354
+690762765,Starbucks,NA,cafe,Starbucks,Innovation Drive,5055,NA,NA,-75.93050276494304,45.34398478041855
+692867691,A&W,NA,fast_food,A&W,NA,NA,NA,NA,-75.73176639138596,45.441972678242344
+692870830,Subway,NA,fast_food,Subway,Boulevard Saint-Joseph,320,NA,NA,-75.73202668518893,45.442230709506184
+692870834,Le Palais Libanais,NA,fast_food,NA,NA,NA,NA,NA,-75.73209262619207,45.44183441498328
+693931690,Pizza La Difference,NA,fast_food,NA,Rue Belmont,4,Gatineau,J9H 5L6,-75.83030620266355,45.39494775007013
+693942947,Pizza Jimmie,NA,fast_food,NA,Rue Belmont,10,NA,J9H 6J5,-75.83026725093443,45.39434149568352
+693942948,Tannour Shawarma,NA,fast_food,NA,Rue Belmont,10,NA,J9H 6J5,-75.8302606932516,45.39428876804746
+693945790,Thai Zone,NA,fast_food,NA,Chemin d'Aylmer,210,NA,J9H 1A2,-75.8321997045515,45.394889565151644
+693945792,Pizza Pizza,NA,fast_food,Pizza Pizza,Chemin d'Aylmer,210,NA,J9H 1A2,-75.83200803367225,45.39490419002338
+693986453,Pizza Heritage,NA,fast_food,NA,Rue Court,44,Gatineau,NA,-75.84517573874331,45.3945804796079
+700000725,Yorgo's,NA,fast_food,NA,Clyde Avenue,1356,NA,NA,-75.74092909915625,45.362567473678915
+704644508,Starbucks,NA,cafe,Starbucks,NA,NA,NA,NA,-76.26515425186666,44.90892116269433
+708290340,Barburrito,NA,fast_food,Barburrito,NA,NA,NA,K2J 4H9,-75.7449054282273,45.26875937152535
+709271126,Shawarma Station,NA,fast_food,NA,Bank Street,2446,NA,NA,-75.64602517024892,45.35231156047714
+709271128,La Bocca Juice,NA,fast_food,NA,Bank Street,2446,NA,NA,-75.6454340259177,45.352813082153155
+709271130,Gabriel Pizza,NA,fast_food,Gabriel Pizza,Bank Street,2446,NA,NA,-75.6455073233197,45.35292854697997
+709287218,Mozza Pizza,NA,fast_food,NA,Boulevard La Vérendrye Est,425,NA,NA,-75.64190005461357,45.501984475677446
+709287221,Shawarma Leoni,NA,fast_food,NA,Boulevard La Vérendrye Est,425,NA,NA,-75.64140140490099,45.50202387679953
+709287224,Subway,NA,fast_food,Subway,Boulevard La Vérendrye Est,425,NA,NA,-75.64131852230643,45.50202618142741
+709287239,Tim Hortons,NA,cafe,Tim Hortons,Boulevard La Vérendrye Est,415,NA,J8R 1N2,-75.64174723013699,45.50122002598983
+709287240,Familia Pizza,NA,fast_food,NA,Rue A.-Gibeault,511,NA,NA,-75.63580913535954,45.506718724973226
+709287241,Tai Hong,NA,fast_food,NA,Rue A.-Gibeault,511,NA,NA,-75.63588824279618,45.50671302340634
+710558839,Starbucks,NA,cafe,Starbucks,Campeau Drive,8555,NA,NA,-75.9395541856844,45.295885186061234
+710584896,Bellevue Pizza,NA,fast_food,NA,Rue Main,786,NA,J8R 1W7,-75.65201096720418,45.50573244920755
+710675459,Thaï Express,NA,fast_food,Thaï Express,Montée Paiement,710,NA,J8R 4A3,-75.67597025073127,45.50322580216765
+710693623,Booster Juice,NA,fast_food,Booster Juice,Boulevard Saint-René Ouest,643,NA,J8T 8M4,-75.67688010624951,45.490898322267675
+710758281,Pizza Shawarma Sami,NA,fast_food,NA,Montée Paiement,392,NA,J8P 6H6,-75.67443458322488,45.48961954741226
+712550334,Subway,NA,fast_food,Subway,River Road,665,NA,NA,-75.69811105423202,45.27074709753131
+714476737,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-75.43556266946946,45.5539413900575
+715175468,Starbucks,NA,cafe,Starbucks,Place-d'Orléans Drive,110,NA,NA,-75.51624411444725,45.47824347042853
+729378706,McDonald's,NA,fast_food,McDonald's,NA,NA,NA,NA,-76.12150700046371,45.13206649975893
+738330013,Ishkendar Doner Kebab House,NA,fast_food,NA,Innes Road,1750,NA,NA,-75.6011643215959,45.416022497251106
+738330014,Subway,NA,fast_food,Subway,Innes Road,1750,NA,NA,-75.60108047224622,45.41604876447177
+743665873,Sunflower Cafe,NA,cafe,NA,NA,NA,NA,NA,-76.24823025009081,44.89858734943439
+743734758,Chip's Diner,NA,fast_food,NA,NA,NA,NA,NA,-76.25458539044956,44.90174558393637
+743736489,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-76.26504429820999,44.908986067551716
+743770718,Shawarma Kitchen,NA,fast_food,NA,Place-d'Orléans Drive,110,NA,NA,-75.51647673876349,45.47786223236085
+743770720,New York Fries,NA,fast_food,New York Fries,Place-d'Orléans Drive,110,NA,NA,-75.516494149511,45.47791678134176
+743770721,Thaï Express,NA,fast_food,Thaï Express,Place-d'Orléans Drive,110,NA,NA,-75.51656108811027,45.47794112136693
+743770723,Subway,NA,fast_food,Subway,Place-d'Orléans Drive,110,NA,NA,-75.51600721621578,45.478040592236304
+743770724,A&W,NA,fast_food,A&W,Place-d'Orléans Drive,110,NA,NA,-75.51615603808776,45.478190781056966
+744776211,Osteria Italia,NA,fast_food,NA,Place-d'Orléans Drive,110,NA,NA,-75.51606970103364,45.4780619774733
+744776212,Tim Hortons,NA,cafe,Tim Hortons,Place-d'Orléans Drive,110,NA,NA,-75.51615651102355,45.47806224748274
+744776213,Famous Wok,NA,fast_food,NA,Place-d'Orléans Drive,110,NA,NA,-75.51612413066788,45.478138272061564
+754346682,Shawarma Chef,NA,fast_food,NA,Tenth Line Road,2012,NA,NA,-75.48766867884673,45.459695182565746
+758786528,Starbucks,NA,cafe,Starbucks,Wellington Road,3000,NA,NA,-75.63491435156494,45.03024659796642
+762491854,Starbucks,NA,cafe,Starbucks,Shuttleworth Drive,110,NA,NA,-75.59090723618556,45.31795881853446
+765771480,Café Dough Co.,NA,cafe,NA,Boulevard des Grives,213,Gatineau,J9A 0N4,-75.7811966268149,45.43296753501359
+768964057,Boardwalk Burgers,NA,fast_food,NA,NA,NA,NA,NA,-75.86445135401728,45.2807568551893
+779974342,Le Bac a Frites,NA,fast_food,NA,NA,NA,NA,NA,-75.68506595152672,45.42323367213415
+787268391,Bite This,NA,fast_food,NA,NA,NA,NA,NA,-75.74763260736401,45.3951483749386
+817724185,Hank Fries,NA,fast_food,NA,Lombard Street,156,Smiths Falls,K7A 4B8,-76.0333175846887,44.888344744544526
+819244369,Britt's Chips,NA,fast_food,NA,Highway 15,244,Smiths Falls,K7A 5B8,-76.03698705142344,44.88117470207737
+848546832,Bistro,NA,cafe,NA,NA,NA,NA,NA,-75.69285055153387,45.42221123277043
+862366224,Starbucks,NA,cafe,Starbucks,NA,NA,NA,NA,-76.03123741816381,44.89051373422984
+868191640,Starbucks,NA,cafe,Starbucks,Bank Street,1914,NA,NA,-75.66273968007776,45.36810083339623
+918407367,A&W,NA,fast_food,A&W,NA,NA,NA,NA,-75.55593560390979,45.26424203443106
+926850593,Subway,NA,fast_food,Subway,NA,NA,NA,NA,-76.18164891121036,45.23425209868613
+982356797,Fat Bastard Burrito Co.,NA,fast_food,NA,NA,NA,NA,NA,-75.7466515755028,45.27394597014184
+985182921,Lokma,NA,fast_food,NA,St. Joseph Boulevard,2208,NA,NA,-75.53224966260579,45.46726929402783
+998038894,Fat Bastard Burrito Co.,NA,fast_food,NA,Merivale Road,1642,NA,NA,-75.73145416428322,45.34548528168412
+1028815129,McDonald's,NA,fast_food,McDonald's,Chemin Cross Loop,17,NA,NA,-75.90077175187889,45.59767682318369
+1032351727,Starbucks,NA,cafe,Starbucks,Innes Road,5150,NA,NA,-75.45449977872484,45.47016848721522
+1053443673,Kettlemans Bagel,NA,fast_food,NA,Eagleson Road,710,NA,NA,-75.8670013257058,45.285364016747906
+1056536389,Starbucks,NA,cafe,Starbucks,County Road 17,9069,NA,NA,-75.30395244036416,45.54404431636816
+1093702410,Tim Hortons,NA,cafe,Tim Hortons,Palladium Drive,3015,NA,NA,-75.94190259645706,45.29530586919383
+1102864917,Fat Bastard Burrito Co.,NA,fast_food,NA,NA,NA,NA,NA,-75.89384212496758,45.29355178071173
+1123765049,Tim Hortons,NA,cafe,Tim Hortons,Toulon Street,5,Smiths Falls,K7A 5B2,-76.01733583325876,44.88323114984274
+1128361461,Patapouf,NA,fast_food,NA,Avenue Gatineau,125,NA,J8T 4J7,-75.71863381497388,45.484377407979025
+1144553613,McDonald's,NA,fast_food,McDonald's,NA,NA,NA,NA,-75.77204113076267,45.53889580675581
+1180736790,Mary Brown's,NA,fast_food,Mary Brown's,Iber Road,28,NA,NA,-75.91173854864581,45.28146001735193

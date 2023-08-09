@@ -1,0 +1,1471 @@
+osm_id,name,shop,amenity,brand,addr.street,addr.housenumber,addr.city,addr.postcode,lon,lat
+60890260,D'Arcy McGee's,NA,pub,NA,Sparks Street,44,NA,NA,-75.6958229,45.4234025
+293294911,Chantal's Hot Fries,NA,restaurant,NA,NA,NA,NA,NA,-75.5930326,45.2696561
+322132928,The Red Fox Restaraunt and Tavern,NA,restaurant,NA,NA,NA,NA,NA,-76.2522307,44.9003995
+440603952,Patty's Pub,NA,pub,NA,Bank Street,1186,NA,NA,-75.6817177,45.3918983
+443149505,Jersey Joe's,NA,restaurant,NA,NA,NA,NA,NA,-76.2546359,44.9024783
+443151704,Peter's Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-76.2485318,44.8989202
+443152542,Fiddleheads Bar & Grill,NA,restaurant,NA,NA,NA,NA,NA,-76.2512987,44.899623
+447045908,Cora,NA,restaurant,Cora,Rideau Street,179,NA,NA,-75.6893714,45.427413
+472451128,La Vallée,NA,restaurant,NA,Route 105,1418,Chelsea,J9B 1P4,-75.8709782,45.5743262
+501768047,The Mackenzie King Estate Tearoom,NA,restaurant,NA,Chemin Barnes,75,NA,NA,-75.8479167,45.4833831
+519546528,O'Max,NA,restaurant,NA,Chemin de Masson,849,NA,NA,-75.4212231,45.5467595
+560750193,The Cross Bar Restaurant,NA,restaurant,NA,Tenth Line Road,1585,NA,K1E 3E8,-75.492397,45.4720493
+588151003,The King Eddy,NA,restaurant,NA,Clarence Street,45,NA,K1N 5P4,-75.6940676,45.4288022
+588151181,Milestones,NA,restaurant,NA,Sussex Drive,700,NA,NA,-75.6941768,45.4256084
+588178971,Blue Cactus,NA,restaurant,NA,By Ward Market Square,2,NA,K1N 9B8,-75.6938017,45.4286044
+588178972,Zak's Diner,NA,restaurant,NA,By Ward Market Square,14,NA,NA,-75.6935015,45.4283133
+588181375,Sen's House,NA,pub,NA,York Street,73,NA,K1N 5T2,-75.6920976,45.4287501
+600101630,Zak's Diner,NA,restaurant,NA,Elgin Street,220,NA,NA,-75.6912879,45.4186917
+600126921,Daly's,NA,restaurant,NA,Colonel By Drive,11,NA,NA,-75.6924638,45.4247136
+600127269,Wilfred's,NA,restaurant,NA,Rideau Street,1,NA,NA,-75.6955164,45.4253644
+747539341,Cadena Restaurant & Tap Bar,NA,restaurant,NA,Richmond Road,385,NA,K2A 0E7,-75.7559923,45.3912464
+778695498,Gibsons on Queen,NA,restaurant,NA,Queen Street,404,NA,NA,-75.7065824,45.417786
+796259735,Perth Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-76.2502702,44.9007838
+796259743,Skye Dragon,NA,restaurant,NA,Foster Street,70,Perth,NA,-76.2519272,44.9005965
+796259752,Bistro 54,NA,restaurant,NA,NA,NA,NA,NA,-76.251553,44.9008302
+796259781,The Cafe Hideaway,NA,restaurant,NA,NA,NA,NA,NA,-76.2517759,44.9010102
+796259838,O’Reilly’s,NA,pub,NA,NA,NA,NA,NA,-76.2498532,44.900434
+796273685,JJ's Kitchen,NA,restaurant,NA,NA,NA,NA,NA,-76.2512353,44.9015123
+796289424,Mex & Co.,NA,restaurant,NA,NA,NA,NA,NA,-76.2493548,44.9001433
+796574642,The Stone Cellar,NA,restaurant,NA,NA,NA,NA,NA,-76.2488895,44.8996277
+796576074,Kothu Labs,NA,restaurant,NA,NA,NA,NA,NA,-76.2506649,44.901338
+805818076,Grey Jay Hospitality,NA,restaurant,NA,NA,NA,NA,NA,-75.6826278,45.4119532
+808468420,Festival Japan,NA,restaurant,NA,Kent Street,149,NA,NA,-75.7020756,45.4188792
+808846143,Daniel O'Connell's Irish Pub,NA,pub,NA,Wellington Street West,1211,NA,NA,-75.7306274,45.4003571
+808846235,The Royal Oak,NA,pub,NA,Wellington Street West,1217,NA,NA,-75.7312723,45.4001957
+808846249,Fil's diner,NA,restaurant,NA,Wellington Street West,1205,NA,NA,-75.7305636,45.4003813
+845121550,Petit Bill's Bistro,NA,restaurant,NA,Wellington Street West,1293,NA,K1Y 3B1,-75.7354987,45.3990911
+928642850,Luxe Bistro,NA,restaurant,NA,York Street,47,NA,NA,-75.6934396,45.4281827
+933318961,The Wood on Wellington,NA,pub,NA,Wellington Street West,1237,NA,NA,-75.7324094,45.3997534
+948968741,Elgin Beer Project,NA,pub,NA,Elgin Street,399,NA,NA,-75.6875637,45.4150264
+957642723,Elmazaj Lebanese Restaurant,NA,restaurant,NA,Canotek Road,5307,NA,NA,-75.587637,45.452842
+967976470,So Good Restaurant,NA,restaurant,NA,Somerset Street West,717,NA,NA,-75.7078702,45.410692
+967976471,Ben Ben Restaurant,NA,restaurant,NA,Somerset Street West,697,NA,NA,-75.7070219,45.4110431
+968038320,Lexus Resto Bar,NA,restaurant,NA,Centrum Boulevard,210,NA,K1E 3V7,-75.512037,45.4787939
+1025418075,Taproom 260,NA,pub,NA,Centrum Boulevard,260,NA,NA,-75.5095394,45.4803628
+1026537535,Chez Clauda,NA,restaurant,NA,NA,NA,NA,NA,-75.4961532,45.5302941
+1027049084,Chez Tom,NA,pub,NA,NA,NA,NA,NA,-75.4930335,45.52391
+1027969434,The Swan at Carp,NA,restaurant,NA,Falldown Lane,108,NA,NA,-76.0393874,45.345863
+1143319495,Harmony Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.7060143,45.4070721
+1144102566,Pure Kitchen,NA,restaurant,NA,Elgin Street,340,NA,K2P 1M5,-75.6888567,45.4159025
+1144102577,St. Louis Bar & Grill,NA,restaurant,St. Louis Bar & Grill,Elgin Street,399,NA,NA,-75.6875022,45.414946
+1305071675,Boston Pizza,NA,restaurant,Boston Pizza,Notre Dame Street,767,NA,NA,-75.3018364,45.2693955
+1339127901,The Prior Sports Bar,NA,pub,NA,NA,NA,NA,NA,-76.3686971,45.421156
+1339127902,Asia Garden,NA,restaurant,NA,NA,NA,NA,NA,-76.3691156,45.4215928
+1339127903,Danny Mac's,NA,pub,NA,John Street North,51,NA,NA,-76.3558175,45.4322419
+1339127910,East Side Mario's,NA,restaurant,East Side Mario's,NA,NA,NA,NA,-76.346926,45.4346455
+1339185466,The Hangar,NA,restaurant,NA,White Lake Road,580,Arnprior,K7S 3G9,-76.3752999,45.4185791
+1419422340,Café Panorama,NA,restaurant,NA,NA,NA,NA,NA,-75.7078658,45.4298357
+1483919748,Flippers,NA,restaurant,NA,Bank Street,819,NA,NA,-75.6877944,45.4022472
+1483920550,Von's,NA,restaurant,NA,Bank Street,819,NA,NA,-75.6878198,45.4022853
+1540354453,Giulia,NA,restaurant,NA,NA,NA,NA,NA,-75.6885052,45.415514
+1646406917,The Good Food Company,NA,restaurant,NA,Bridge Street,31,NA,NA,-76.1429984,45.1376008
+1649542506,Ottawa Bagelshop and Deli,deli,restaurant,NA,Wellington Street West,1321,NA,K1Y 3B6,-75.73667,45.398855
+1649548122,The Wellington Gastropub,NA,restaurant,NA,Wellington Street West,1325,NA,K1Y 3B6,-75.7369581,45.3988327
+1658402022,The Keg,NA,restaurant,The Keg,Richmond Road,529,NA,NA,-75.7619613,45.3882653
+1675788185,Bar Lupulus,NA,restaurant,NA,Wellington Street West,1242,NA,NA,-75.7322726,45.3995023
+1725501308,The Heart and Crown,NA,pub,NA,Preston Street,353 B,NA,NA,-75.7097784,45.4014625
+1782236090,Clocktower Brew Pub,NA,pub,NA,MacKay Street,422,NA,NA,-75.6772687,45.4395679
+1796954783,Fulton's Pancake House,NA,restaurant,NA,Sugar Bush Road,399,NA,K0A 2X0,-76.3112618,45.24775
+1800926194,Sushi Ro,NA,restaurant,NA,Wellington Street West,1123,NA,NA,-75.726478,45.4022851
+1855068387,The Clocktower Brew Pub,NA,pub,NA,Richmond Road,418,NA,NA,-75.7576196,45.3899194
+2038796594,Southside Tap & Grill,NA,restaurant,NA,Lorry Greenberg Drive,4,NA,NA,-75.6204542,45.369307
+2086197036,The Golden Arrow,NA,pub,NA,NA,NA,NA,NA,-76.2521703,44.9007736
+2088038850,Aiyara Thai Cuisine,NA,restaurant,NA,Walkley Road,1590,NA,NA,-75.646263,45.376752
+2088038858,Zaytoun Pizza,NA,restaurant,NA,Walkley Road,1588,NA,NA,-75.646349,45.3767249
+2088038882,J.M. Walkley Dining Lounge,NA,restaurant,NA,Walkley Road,1432,NA,NA,-75.6534196,45.3736307
+2097412825,Corazon de Maiz,NA,restaurant,NA,NA,NA,NA,NA,-75.6926302,45.4277676
+2097412826,Pure Power Juice Bar,NA,restaurant,NA,NA,NA,NA,NA,-75.6925537,45.4277098
+2097429143,Tingz,NA,restaurant,NA,York Street,55,NA,NA,-75.6928105,45.4283016
+2097432357,Oh So Good,NA,restaurant,NA,York Street,25,NA,NA,-75.6940993,45.4278907
+2097433634,Sushi Umi,NA,restaurant,NA,Wellington Street West,1311,NA,NA,-75.7359738,45.3989798
+2104707493,Mona's Taqueria,NA,restaurant,NA,Bank Street,873,NA,NA,-75.686956,45.4008555
+2104707500,The Rowan,NA,restaurant,NA,Bank Street,915,NA,NA,-75.6866067,45.4001695
+2104707515,Jericho,NA,restaurant,NA,Bank Street,840,NA,NA,-75.6878902,45.4018809
+2104707538,Irene's,NA,pub,NA,Bank Street,885,NA,K1S 3W4,-75.6869277,45.4007447
+2106233435,Le foubrac,NA,restaurant,NA,Boulevard Montclair,47,NA,J8Y 2T8,-75.7352491,45.4400827
+2106234835,Edgar,NA,restaurant,NA,Rue Bégin,60,Gatineau,J9A 1C8,-75.7451457,45.4207731
+2118022289,Glebe Central,NA,pub,NA,Bank Street,779,NA,NA,-75.6884533,45.4034403
+2118022291,La Strada,NA,restaurant,NA,Bank Street,697,NA,NA,-75.6895216,45.4053051
+2118022300,Feleena's,NA,restaurant,NA,Bank Street,742,NA,NA,-75.6889643,45.4037736
+2146971239,The Senate Tavern on Wellington,NA,pub,NA,Wellington Street West,1008,NA,K1Y 2X9,-75.723403,45.4048816
+2149257005,Supply and Demand,NA,restaurant,NA,Wellington Street West,1335,NA,K1Y 3C2,-75.7372765,45.3987213
+2156864663,Pubblico Eatery,NA,pub,NA,Wellington Street West,1331,NA,K1Y 3B6,-75.7371071,45.3987528
+2242297930,Nate's Deli,NA,restaurant,NA,Sparks Street,152,NA,K1P 5M4,-75.6991305,45.4219867
+2264623799,Gourmet,NA,restaurant,NA,Highway 7,NA,NA,NA,-76.1246473,45.1289087
+2277737092,Moose McGuire's,NA,restaurant,NA,Eagleson Road,320,NA,K2M 1C9,-75.8760806,45.3007484
+2294817715,Elgin Street Diner,NA,restaurant,NA,Elgin Street,374,NA,K2P 1N1,-75.6880264,45.4149134
+2295959718,Sanguiccio,NA,restaurant,NA,Preston Street,183,NA,NA,-75.7128332,45.4064824
+2296549958,Rosebowl Steak & Seafood,NA,restaurant,NA,Preston Street,228,NA,NA,-75.7124544,45.4051999
+2296549959,La Dolce Vita,NA,restaurant,NA,Preston Street,180,NA,NA,-75.7131027,45.4061857
+2296549964,Pub Italia,NA,restaurant,NA,Preston Street,434,NA,NA,-75.7090552,45.3995041
+2364687173,Pizza Hut,NA,restaurant,Pizza Hut,NA,NA,NA,NA,-76.0300561,44.8918369
+2400746454,The Royal Oak,NA,pub,NA,March Road,329,NA,NA,-75.9081329,45.3352604
+2402682118,Sushi 88,NA,restaurant,Sushi 88,Somerset Street West,690 B,NA,K1R 6P4,-75.7063288,45.4110448
+2434101397,Saigon Restaurant,NA,restaurant,NA,Clarence Street,85,NA,NA,-75.6929462,45.4292289
+2434101402,Tomo,NA,restaurant,NA,Clarence Street,109,NA,NA,-75.692324,45.4295024
+2434101409,Frida's Mexican Kitchen,NA,restaurant,NA,Clarence Street,105 A,NA,NA,-75.6924394,45.4294384
+2434150770,The Senate Sports Tavern & Eatery,NA,pub,NA,Clarence Street,33,NA,NA,-75.6945214,45.4285891
+2434150771,India Curry and Kebab House,NA,restaurant,NA,Clarence Street,39,NA,NA,-75.6944173,45.4286354
+2434150773,Play Food & Wine,NA,restaurant,NA,York Street,1,NA,NA,-75.6948678,45.4275904
+2434150777,Lavender Grill,NA,restaurant,NA,Clarence Street,41,NA,NA,-75.6942397,45.4287096
+2446563762,The Newboro,NA,pub,NA,Richmond Road,295,NA,NA,-75.7518428,45.3931414
+2450668977,Indian express,NA,restaurant,NA,Somerset Street West,1000,NA,NA,-75.7155319,45.4078151
+2450668978,Xtreme Pizza,NA,restaurant,NA,Preston Street,125,NA,NA,-75.7138248,45.408036
+2450668987,Karuna Cafe,NA,restaurant,NA,Somerset Street West,820,NA,NA,-75.7112188,45.4091319
+2450668991,Corner Peach,NA,restaurant,NA,Somerset Street West,802,NA,NA,-75.7106448,45.4093221
+2453133822,Danbys Bar And Grill,NA,pub,NA,Munster Road,2858,NA,NA,-75.9404223,45.1647326
+2459775704,The Shore Club,NA,restaurant,NA,Colonel By Drive,11,NA,NA,-75.6923304,45.4245596
+2476963173,Freshii,NA,restaurant,Freshii,NA,NA,NA,NA,-75.6869362,45.4232434
+2509777457,The Hot Wok,NA,restaurant,NA,Wilson Street West,41,Perth,NA,-76.2545621,44.9024251
+2538363336,The Works,NA,restaurant,NA,St-Laurent Boulevard,363,NA,NA,-75.6509686,45.4488458
+2556547862,Chinhon Restaurant,NA,restaurant,NA,Perth Street,6179,NA,NA,-75.8425581,45.1940745
+2558498649,The Black Tartan,NA,restaurant,NA,Bridge Street,130,NA,NA,-76.1456967,45.1394565
+2570629670,Mexicali Rosa's,NA,restaurant,NA,Queen Elizabeth Driveway,1001,NA,NA,-75.7056158,45.3965033
+2604569377,The Royal Oak,NA,pub,NA,Centrepointe Drive,117,NA,NA,-75.7627349,45.3430809
+2604734740,Perspectives,NA,restaurant,NA,Legget Drive,525,NA,NA,-75.9173257,45.3479823
+2604969041,Sante,NA,restaurant,NA,Rideau Street,45,NA,NA,-75.6931671,45.4257833
+2605229894,Manx,NA,pub,NA,NA,NA,NA,NA,-75.6881566,45.4150346
+2624036640,Amberwood Lounge & Eatery,NA,restaurant,NA,Springbrook Drive,54,NA,K2S 1B9,-75.9222786,45.2712875
+2625061152,Cabotto's,NA,restaurant,NA,Hazeldean Road,5816,NA,K2S 1B9,-75.9164633,45.2798792
+2627158361,Minari,NA,restaurant,NA,Somerset Street West,610,NA,NA,-75.703979,45.4121002
+2636936195,Haldi East Indian Cuisine,NA,restaurant,NA,Preston Street,449,NA,NA,-75.7082659,45.3989885
+2643819840,The Standard Tavern,NA,pub,NA,Elgin Street,360,NA,NA,-75.688424,45.4153568
+2685161867,Frattoria Caffe Italia,NA,restaurant,NA,Preston Street,254,NA,NA,-75.7121496,45.4046719
+2685204465,Meadow's Diner,NA,restaurant,NA,Preston Street,NA,NA,NA,-75.7082359,45.3988027
+2698581404,Lone Star Texas Grill,NA,restaurant,NA,George Street,128,NA,NA,-75.689955,45.4277485
+2706036649,Pizza Plateau,NA,restaurant,NA,Boulevard du Plateau,20,Gatineau,J9A 3G1,-75.768297,45.4369349
+2706232163,Swiss Chalet,NA,restaurant,Swiss Chalet,NA,NA,NA,NA,-76.1222659,45.1298286
+2750783776,East India Company,NA,restaurant,NA,Somerset Street West,210,NA,NA,-75.691292,45.4172438
+2752679740,St. Louis Bar & Grill,NA,restaurant,St. Louis Bar & Grill,Clyde Avenue,1311,NA,NA,-75.7401675,45.3628004
+2762708978,Gather,NA,restaurant,NA,NA,NA,NA,NA,-76.2501787,44.9003127
+2784073678,Chelsea Shawarma & Pizza,NA,restaurant,NA,Chemin Old Chelsea,5,Chelsea,J9B 1L2,-75.7838645,45.5043928
+2784116782,Le Resto,NA,restaurant,NA,Route 105,528,Chelsea,J9B 1L2,-75.7850262,45.5081649
+2800119813,Mr B's-March House Restaurant,NA,restaurant,NA,Bank Street,2401,NA,NA,-75.6493667,45.3547867
+2801647375,Cora,NA,restaurant,Cora,NA,NA,NA,NA,-75.6305597,45.4114009
+2802347622,Le Café,NA,restaurant,NA,Elgin Street,53,NA,K1P 5W1,-75.6925577,45.4236083
+2913128601,El Taco De Oro,NA,restaurant,NA,St. Patrick Street,303,NA,K1N 5K4,-75.6912903,45.431643
+2930375111,the unrefined olive,NA,restaurant,NA,Second Avenue,151 A,NA,NA,-75.6892807,45.4036506
+2930382420,Eldon's,NA,restaurant,NA,Bank Street,775,NA,NA,-75.6885465,45.4036215
+2964220033,Madhuban Indian Cuisine,NA,restaurant,NA,Rideau Street,610,Ottawa,K1N 6A2,-75.6749179,45.4329786
+2967021002,Courtyard Restaurant,NA,restaurant,NA,George Street,21,NA,NA,-75.693818,45.4268862
+2970677748,Beckta,NA,restaurant,NA,NA,NA,NA,NA,-75.6928553,45.4204657
+2970689418,Clocktower Brew Pub,NA,pub,NA,Elgin Street,200,NA,NA,-75.6918606,45.419337
+2970698456,Johnny Farina Restaurant,NA,restaurant,NA,Elgin Street,216,NA,NA,-75.6915622,45.4189585
+2970722678,Gokusen,NA,restaurant,NA,Elgin Street,280,NA,NA,-75.6901869,45.417434
+2970906274,Sir John A. Pub,NA,pub,NA,NA,NA,NA,NA,-75.6897752,45.4169327
+2970914660,Lemon Grass,NA,restaurant,NA,Elgin Street,331,NA,NA,-75.6885011,45.4158925
+2970918436,Al's,NA,restaurant,NA,Elgin Street,327,NA,K2P 1M5,-75.6885669,45.4160554
+2970918564,Lieutenant's Pump,NA,pub,NA,Elgin Street,361,NA,K2P 1M7,-75.688131,45.4155602
+2970918589,The Captain's Boil,NA,restaurant,NA,Elgin Street,354,NA,NA,-75.6884596,45.415419
+2970941183,Datsun,NA,restaurant,NA,Elgin Street,380,NA,NA,-75.6879688,45.414728
+3030361179,Stofa,NA,restaurant,NA,Wellington Street West,1356,NA,NA,-75.7392703,45.3979854
+3047796105,The Works,NA,restaurant,NA,NA,NA,NA,NA,-75.6913625,45.4078283
+3080792721,Green Papaya,NA,restaurant,NA,Rue Laurier,69,NA,J8X 3V7,-75.7102451,45.4303328
+3089888874,Wilf & Ada's,NA,restaurant,NA,Bank Street,510,NA,K2P 1Z4,-75.6926325,45.4102144
+3089913769,GoGiYa Sushi n Poké,NA,restaurant,NA,Bank Street,504,NA,K2P 1Z4,-75.6926818,45.4102989
+3104504361,Italian Joe's Kitchen,NA,restaurant,NA,Wellington Street West,1323,NA,K1Y 3B6,-75.7368697,45.3988073
+3104897929,iPho,NA,restaurant,NA,Parent Avenue,115,NA,K1N 7B5,-75.693754,45.429382
+3273872227,Barley Mow,NA,pub,NA,Richmond Road,399,NA,NA,-75.756583,45.3909592
+3281225353,Canadian Cafe,NA,restaurant,NA,Bridge Street,11,NA,NA,-76.193673,45.2262539
+3286789271,Golden India Restaurant,NA,restaurant,NA,McArthur Avenue,408,NA,NA,-75.6486314,45.4319296
+3306672995,Banc Sushi,NA,restaurant,NA,Montréal Road,919,NA,NA,-75.6289893,45.4470243
+3325661877,gezellig,NA,restaurant,NA,Churchill Avenue North,337,NA,NA,-75.7540266,45.3922141
+3470380003,Golden City Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.1828162,44.9008726
+3487731892,Ola Cocina,NA,restaurant,NA,Barrette Street,62,NA,NA,-75.6747945,45.4394114
+3522632487,Brassica,NA,restaurant,NA,Richmond Road,309,NA,NA,-75.7526373,45.3928112
+3602842066,Quinn's Ale House,NA,pub,NA,Bank Street,1070,NA,K1S 3X3,-75.6838279,45.3946955
+3603028120,Belmont,NA,restaurant,NA,Bank Street,1169,NA,K1S 3X7,-75.6818868,45.3924386
+3603219504,Georgie's Pizza&Subs,NA,restaurant,NA,Carling Avenue,1661,NA,K2A 1C4,-75.7490267,45.379836
+3603256846,Sapporo Sushi,NA,restaurant,NA,Carling Avenue,1671,NA,K2A 1C4,-75.7493336,45.3797065
+3624147948,Milestones,NA,restaurant,NA,Marché Way,325,NA,NA,-75.6840612,45.4004374
+3624147949,Jack Astor's,NA,restaurant,Jack Astor's,NA,NA,NA,NA,-75.682972,45.4008237
+3624147950,Joey,NA,restaurant,Joey,NA,NA,NA,NA,-75.6842972,45.3997311
+3632200617,Local Public Eatery,NA,restaurant,NA,NA,NA,NA,NA,-75.6840316,45.3999382
+3661044095,Chahaya Malaysia,NA,restaurant,NA,Montréal Road,1690,NA,K1J 6N5,-75.6125772,45.4460148
+3661044097,King's Palace,NA,restaurant,NA,Montréal Road,1690,NA,NA,-75.6124758,45.4460097
+3663875493,Royal Treasure Restaurant,NA,restaurant,NA,Somerset Street West,774,NA,NA,-75.7095177,45.4098777
+3672681948,The Green Door Restaurant,NA,restaurant,NA,Main Street,198,NA,K1S 1C6,-75.677792,45.4083746
+3679083983,Restaurant Casse-Croute,NA,restaurant,NA,Rue Saint-Louis,2544,NA,J8V 1A2,-75.757329,45.4931157
+3690112281,Pizza Italie,NA,restaurant,NA,Promenade du Portage,101,Gatineau,J8X 2K2,-75.7176278,45.4253912
+3690118369,Cazza Pizza,NA,restaurant,NA,Rue Frontenac,103,Gatineau,J8X 1Z4,-75.7160646,45.4291802
+3690170026,Pizza Hut,NA,restaurant,Pizza Hut,Promenade du Portage,114,Gatineau,J8X 2K1,-75.7171911,45.425247
+3690183363,Café Aylmer,NA,restaurant,NA,Rue Front,117,Gatineau,J9H 5S9,-75.8554745,45.4039488
+3690210967,Chez Barbe,NA,restaurant,NA,Rue Eddy,122,Gatineau,J8X 2W5,-75.7199855,45.4288401
+3690234256,Chez Fatima,NA,restaurant,NA,Promenade du Portage,125,Gatineau,J8X 2K2,-75.7170133,45.4256068
+3690255586,Mistura Restaurant,NA,restaurant,NA,Boulevard Saint-Joseph,13,Gatineau,J8Y 3V6,-75.733753,45.424347
+3690306898,Le Stena sur Notre-Dame,NA,restaurant,NA,Rue de Notre-Dame-de-l'Île,133,Gatineau,J8X 3T2,-75.711289,45.429895
+3690400185,Petit Peru,NA,restaurant,NA,Rue Montcalm,152,Gatineau,J8X 2M2,-75.7258915,45.4293559
+3690449651,La Belle Verte,NA,restaurant,NA,Rue Eddy,166,Gatineau,J8X 2W9,-75.7201984,45.4307572
+3690540790,Orchidée,NA,restaurant,NA,Rue Eddy,201,NA,J8X 2X5,-75.720538,45.431941
+3690557600,Lyna Sushi,NA,restaurant,NA,Boulevard Maloney Ouest,219,NA,J8P 3V9,-75.6544423,45.4838817
+3690576188,Café Cognac,NA,restaurant,NA,Rue Montcalm,230,Gatineau,J8Y 3C1,-75.7324288,45.4314175
+3690588870,Le Pied de Cochon,NA,restaurant,NA,Rue Montcalm,242,Gatineau,J8Y 3C1,-75.7328757,45.4315701
+3690610475,China Moon,NA,restaurant,NA,Boulevard Saint-René Ouest,273,NA,J8P 2X4,-75.6580511,45.4918992
+3690629265,Restaurant la teranga,NA,restaurant,NA,Boulevard Saint-Joseph,303,Gatineau,J8Y 3Y6,-75.733126,45.439722
+3690636564,Multiservices Vert,clothes,restaurant,NA,Rue Notre-Dame,305,Gatineau,J8P 1K9,-75.6442834,45.4816468
+3690636614,Bistro L'Alambic,NA,restaurant,NA,Boulevard Saint-Joseph,307,Gatineau,J8Y 3Y6,-75.733171,45.439983
+3690650318,Café Renaissance,NA,restaurant,NA,Rue Notre-Dame,325,Gatineau,J8P 1L2,-75.6432785,45.4816279
+3690653989,Palais du Vietnam,NA,restaurant,NA,Boulevard Alexandre-Taché,335,Gatineau,J9A 1L8,-75.7417247,45.4223599
+3690674814,Mia Pasta,NA,restaurant,NA,Boulevard Saint-Joseph,365,Gatineau,J8Y 3Z6,-75.73298,45.443264
+3690712882,Le Troquet,NA,restaurant,NA,Rue Laval,41,Gatineau,NA,-75.7164799,45.4268605
+3690724377,Clandestin,NA,restaurant,NA,Rue Laval,45,Gatineau,NA,-75.7164472,45.4269555
+3690731786,Le Pêle-Mêle,NA,restaurant,NA,Rue Laval,47,Gatineau,NA,-75.7164512,45.4269989
+3690737560,Ben & Florentine,NA,restaurant,NA,Chemin Vanier,483,Gatineau,NA,-75.8073052,45.4162333
+3690738739,Cellier,NA,restaurant,NA,Rue Saint-Jacques,49,Gatineau,NA,-75.719299,45.4268533
+3690753442,Rustick,NA,restaurant,NA,Rue Saint-Jacques,51,Gatineau,NA,-75.7193043,45.42706
+3690817457,Lia Cuisine,NA,restaurant,NA,Boulevard Saint-Joseph,693,NA,J8Y 4B4,-75.7408626,45.4542224
+3690838569,Naples Pizza,NA,restaurant,NA,Rue Montcalm,70,NA,J8X 2L5,-75.7241328,45.4269025
+3690845844,Pub British,NA,pub,NA,Rue Principale,71,Gatineau,NA,-75.8471681,45.3949081
+3690849375,Bistro75,NA,restaurant,NA,Rue d'Edmonton,75,Gatineau,NA,-75.7299488,45.4493382
+3690863695,Bistro Alégria,NA,restaurant,NA,Promenade du Portage,77,Gatineau,NA,-75.7181897,45.4252189
+3690884349,Astoria Bistro Botanique,NA,restaurant,NA,Promenade du Portage,80,Gatineau,NA,-75.718055,45.4250221
+3690908622,Bambou,NA,restaurant,NA,Rue Principale,87,Gatineau,NA,-75.8463485,45.3949469
+3690948781,Choux Choux,NA,restaurant,NA,Rue de l'Hôtel-de-Ville,98,Gatineau,NA,-75.715111,45.42748
+3692152377,Hokkaido Sushi,NA,restaurant,NA,Dalhousie Street,272,NA,NA,-75.6923268,45.4300844
+3692152723,Ahora Mexican Cuisine,NA,restaurant,NA,Dalhousie Street,307,NA,NA,-75.6914119,45.4294051
+3692153029,Pho By Night,NA,restaurant,NA,Dalhousie Street,309,NA,NA,-75.6913773,45.4293656
+3692154441,cacao 70,NA,restaurant,NA,William Street,51,NA,NA,-75.6919413,45.4276497
+3692154720,Tucker’s Marketplace,NA,restaurant,NA,York Street,61,NA,NA,-75.692484,45.4285836
+3715796853,Chesterfield's Gastro Dinner,NA,restaurant,NA,Wellington Street West,1433,NA,NA,-75.7410243,45.3978482
+3720364825,The Senate Tavern,NA,pub,NA,Bank Street,1159,NA,K1S 3X7,-75.6821087,45.3926479
+3733591483,Thai Coconut,NA,restaurant,NA,Prince Of Wales Drive,1390,NA,NA,-75.7031781,45.369291
+3741509602,Bramasole Diner,NA,restaurant,NA,Bank Street,428,NA,NA,-75.6939037,45.412338
+3741511389,Fauna,NA,restaurant,NA,Bank Street,425,NA,K2P 1Y7,-75.6936979,45.4124931
+3741523863,Tamis Cafe Bistro,NA,restaurant,NA,Bank Street,374,NA,NA,-75.6951455,45.4137576
+3741524059,The Gilmour,NA,pub,NA,Bank Street,313,NA,NA,-75.6955564,45.4146282
+3778702558,Moe's Pizza,NA,restaurant,NA,McEwen Avenue,102,NA,NA,-75.7820053,45.3709881
+3778731922,Baja Burger,NA,restaurant,NA,NA,NA,NA,NA,-75.8018148,45.364216
+3788563732,Aulde Dubliner & Pour House,NA,pub,NA,William Street,62,NA,NA,-75.691703,45.4269923
+3791891418,So Good Asian Fusion,NA,restaurant,NA,Springfield Road,15,NA,NA,-75.6763375,45.440332
+3899100120,Indian Affair Takeout,NA,restaurant,NA,Queen Mary Street,291,NA,NA,-75.6529361,45.4252885
+3923022288,D'Arcy McGee's,NA,pub,NA,NA,NA,NA,NA,-75.665381,45.3210603
+3952692422,Cortelli's,NA,restaurant,NA,Mill Street,NA,NA,NA,-76.1953567,45.2253214
+3952692423,Mill Street Crepe Company,NA,restaurant,NA,Mill Street,14,NA,NA,-76.1976478,45.2252221
+3952714790,Superior Restaurant,NA,restaurant,NA,Mill Street,84,NA,NA,-76.1949265,45.2252473
+3959508886,The Sticks Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.5225362,45.3533052
+3978199030,Thai Lannan Cuisine,NA,restaurant,NA,Bank Street,2401,NA,NA,-75.6492854,45.3548124
+3993502778,Sahara,NA,restaurant,NA,Montréal Road,1716,NA,NA,-75.611181,45.445882
+4018178651,Lorenzo's Restaurant,NA,restaurant,NA,Carling Avenue,3007,NA,NA,-75.8053286,45.3553394
+4018181737,Taj Indian Cuisine,NA,restaurant,NA,Carling Avenue,3009,NA,NA,-75.8053637,45.3552917
+4026502342,The Office Resto Pub,NA,pub,NA,Sparks Street,202,NA,K1P 5T9,-75.7007941,45.4212636
+4026515812,Brixton's British Pub,NA,pub,NA,Sparks Street,210,NA,K1P 5C1,-75.7010422,45.4211534
+4056647146,Tooth and Nail Brewing Company,NA,pub,NA,Irving Avenue,3,NA,K1Y 1Z2,-75.7226309,45.4054303
+4102445293,Nando's,NA,restaurant,Nando's,NA,NA,NA,NA,-75.6946296,45.4222282
+4117571982,Koreana Restaurant,NA,restaurant,NA,Somerset Street West,711,NA,NA,-75.70743,45.4108871
+4122495389,Pili Pili Grilled Chicken,NA,restaurant,NA,Dalhousie Street,205,NA,NA,-75.6936478,45.4320097
+4210765089,MacLaren's on Elgin,NA,pub,NA,Elgin Street,301,NA,NA,-75.6895558,45.4171422
+4231081791,3 Brewers,NA,restaurant,3 Brasseurs,NA,NA,NA,NA,-75.7014335,45.4209104
+4234144889,Russell Restaurant & Pub,NA,pub,NA,NA,NA,NA,NA,-75.3573758,45.2573403
+4241773994,La Bonita,NA,restaurant,NA,NA,NA,NA,NA,-75.7251721,45.4034415
+4243522193,Asia Pacific Res,NA,restaurant,NA,Somerset Street West,939,NA,NA,-75.7153402,45.4081719
+4243540392,NANA Thai Cuisine,NA,restaurant,NA,Preston Street,NA,NA,NA,-75.7138796,45.4081418
+4243547892,Laheeb Flaming Hot,NA,restaurant,NA,Somerset Street West,947,NA,NA,-75.7155581,45.4081049
+4243547893,Retro Gusto,NA,restaurant,NA,Preston Street,122,NA,NA,-75.714416,45.4084567
+4244633399,Gregor's Place,NA,restaurant,NA,NA,NA,NA,NA,-75.1821701,44.9010528
+4244666890,New Centennial Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.1821947,44.9007099
+4247497590,Metropolitan Restaurant,NA,restaurant,NA,Sussex Drive,700,NA,NA,-75.6940152,45.4255878
+4247497593,Social,NA,restaurant,NA,NA,NA,NA,NA,-75.6941506,45.4266397
+4247530395,Edoko Japanese Steak House,NA,restaurant,NA,Queen Street,64,NA,NA,-75.6958566,45.4225196
+4247530489,Moscow Tea Room,NA,restaurant,NA,NA,NA,NA,NA,-75.6943558,45.4268887
+4249773191,Bier Markt,NA,restaurant,NA,Sparks Street,156,NA,K1P 5C1,-75.699698,45.4217175
+4256888392,Chez Francois,NA,restaurant,NA,Richmond Road,427,NA,NA,-75.7580996,45.3901729
+4268226889,Lowertown Brewery,NA,pub,NA,York Street,73,NA,K1N 5T2,-75.6921579,45.4287133
+4270910292,Baton Rouge,NA,restaurant,NA,Albert Street,360,NA,K1R 7X7,-75.7039824,45.4181659
+4273810779,The Hintonburg Public House,NA,pub,NA,Wellington Street West,1020,NA,NA,-75.723618,45.4046491
+4322595589,Happy Fish Raw Bar,NA,restaurant,NA,Elgin Street,330,NA,K2P 1M5,-75.6889304,45.4159721
+4342742090,Fraser Cafe,NA,restaurant,NA,Springfield Road,7,NA,NA,-75.6763169,45.4402048
+4342788290,Table 40,NA,restaurant,NA,Springfield Road,11,NA,NA,-75.6763265,45.4402702
+4347487189,Jasper,NA,restaurant,NA,Beechwood Avenue,18,NA,NA,-75.6770425,45.438966
+4348647396,Dooly's,NA,pub,NA,Gladwin Crescent,2279,NA,NA,-75.6236194,45.4041237
+4349870610,Grill Forty One Restaurant & Bar,NA,restaurant,NA,NA,NA,NA,NA,-75.6939457,45.4216851
+4350026196,Kasbah Village Moroccan Cuisine,NA,restaurant,NA,NA,NA,NA,NA,-75.6974946,45.4193044
+4350029090,D'Afrique,NA,restaurant,NA,Laurier Avenue West,164,NA,NA,-75.6944061,45.4203354
+4350033189,VJ'S Pub & Bar,NA,pub,NA,Laurier Avenue West,150,NA,NA,-75.6937168,45.4206018
+4350033389,Shinka Sushi Bar,NA,restaurant,NA,Laurier Avenue West,150,NA,NA,-75.6937949,45.4205699
+4350033489,Capital Diner Deli & Grill,NA,restaurant,NA,Laurier Avenue West,164,NA,NA,-75.6943507,45.4203591
+4350048193,Eggspectation,NA,restaurant,NA,Bank Street,171,NA,NA,-75.6987046,45.4184151
+4350054830,The Rox,NA,restaurant,NA,Metcalfe Street,123,NA,NA,-75.6949429,45.4203954
+4351595540,The Draft Pub,NA,pub,NA,King Edward Avenue,801,NA,NA,-75.6775912,45.4196573
+4351925994,The Oriental House,NA,restaurant,NA,Elgin Street,266,NA,NA,-75.690359,45.4176552
+4353880995,Open Rice,NA,restaurant,NA,St-Laurent Boulevard,1755,NA,NA,-75.625809,45.4049558
+4354349089,Pizza Hut,NA,restaurant,Pizza Hut,St-Laurent Boulevard,1741,NA,NA,-75.6259975,45.4053713
+4354449991,168 Sushi Asian Buffet,NA,restaurant,NA,St-Laurent Boulevard,NA,NA,NA,-75.6268171,45.4045114
+4357789505,Au Petit Mouton Blanc,NA,restaurant,NA,County Road 17,8250A,NA,NA,-75.2270264,45.565112
+4362229312,Atari,NA,restaurant,NA,Dalhousie Street,297,NA,K1N 7E5,-75.6917074,45.4297651
+4375116039,Lala bistro,NA,restaurant,NA,Av. Buckingham,530,NA,NA,-75.4163539,45.5862658
+4382813393,Sansotei Ramen,NA,restaurant,NA,Bank Street,153,NA,K1P 5N7,-75.6992229,45.4189378
+4416759590,Sushi Zone,NA,restaurant,NA,NA,NA,NA,NA,-75.6922834,45.4276855
+4416763190,Le Mien - Craft Noodle,NA,restaurant,NA,William Street,43,NA,NA,-75.6921155,45.4278155
+4422904690,Cooper's Gastropub,NA,pub,NA,NA,NA,NA,NA,-75.6886697,45.4196785
+4456642681,Mezzanotte Bistro Italiano,NA,restaurant,NA,Murray Street,50,NA,NA,-75.6941562,45.4293061
+4457963458,Shafali,NA,restaurant,NA,Dalhousie Street,308,NA,NA,-75.6916555,45.429298
+4458638689,Kochin Kitchen,NA,restaurant,NA,Dalhousie Street,271,NA,K1N 7E5,-75.692088,45.4301839
+4462646188,The Koven,NA,restaurant,NA,Murray Street,93,NA,K1N 5M5,-75.6933924,45.4298965
+4462646290,Khao Thai,NA,restaurant,NA,Murray Street,103,NA,K1N 5M5,-75.693211,45.4299875
+4462646293,Bite Burger House,NA,restaurant,NA,Murray Street,108,NA,NA,-75.6929002,45.4298428
+4471395691,Rockcliffe Marina,NA,restaurant,NA,NA,NA,NA,NA,-75.6871133,45.455184
+4491333833,Spicy House,NA,restaurant,NA,Dalhousie Street,281,NA,NA,-75.691949,45.4300693
+4492735611,Gyubee Japanese Grill,NA,restaurant,NA,York Street,95,NA,NA,-75.6914368,45.429029
+4496341903,Dominion City Brewing Company,NA,pub,NA,Canotek Road,5510,NA,K1J 9J5,-75.5856887,45.4571972
+4496376589,Stalwart Brewing Company,NA,pub,NA,High Street,10,NA,NA,-76.1486391,45.1413729
+4497135191,Starling,NA,restaurant,NA,York Street,54,NA,NA,-75.6923663,45.4281525
+4497182201,Shelby Burger,NA,restaurant,NA,William Street,11,NA,NA,-75.6927432,45.4288765
+4506648728,Osmow's,NA,restaurant,Osmow's,Dalhousie Street,347,Ottawa,K1N 7G1,-75.6904235,45.4282411
+4506648730,Dunn's Famous,NA,restaurant,NA,Dalhousie Street,355,NA,NA,-75.6902822,45.4280974
+4507021962,La Noodle,NA,restaurant,NA,George Street,179,NA,NA,-75.6879304,45.4288438
+4565707171,Umbrella Bar,NA,restaurant,NA,Queen Elizabeth Driveway,1001,NA,NA,-75.7055287,45.3961643
+4589743494,Kiko Sushi Bar,NA,restaurant,NA,Preston Street,349 B,NA,NA,-75.7099541,45.4017457
+4602178067,Tennessy Willems,NA,restaurant,NA,NA,NA,NA,NA,-75.7250954,45.4031364
+4602196625,Carben,NA,restaurant,NA,Wellington Street West,1100,NA,NA,-75.7256971,45.4026246
+4614343810,Zoé's Lounge,NA,restaurant,NA,Rideau Street,1,NA,NA,-75.6945142,45.425326
+4614662732,Level One,NA,pub,NA,Waller Street,14,NA,K1N 9C4,-75.6887926,45.4269994
+4616578252,feast + revel,NA,restaurant,NA,Dalhousie Street,325,NA,NA,-75.6908634,45.4287799
+4630563690,Sushi Kan,NA,restaurant,NA,Albert Street,228,NA,K1P 5G6,-75.6998517,45.4200138
+4677337290,Swiss Chalet,NA,restaurant,Swiss Chalet,Terry Fox Drive,653,NA,K2L 4E7,-75.8959449,45.2941416
+4689150893,East Side Mario's,NA,restaurant,East Side Mario's,Kirkwood Avenue,675,NA,NA,-75.7401001,45.3853797
+4710660985,Hong Kong Express,NA,restaurant,NA,Rideau Street,246,NA,NA,-75.6869391,45.428043
+4721341691,Scone Witch,NA,restaurant,NA,NA,NA,NA,NA,-75.6937728,45.4200321
+4751129370,All You Can Eat,NA,restaurant,NA,Dalhousie Street,276,NA,NA,-75.6922653,45.4300121
+4751129776,Mother McGuinty's Irish Pub,NA,pub,NA,Parent Avenue,115,NA,NA,-75.6935384,45.4293823
+4751593610,Sugar & Slice,NA,restaurant,NA,Mann Avenue,107,NA,NA,-75.6723425,45.4212244
+4757841149,Swiss Chalet,NA,restaurant,Swiss Chalet,Innes Road,4290,NA,NA,-75.4948957,45.4583711
+4777144400,C’est Japon À Suisha,NA,restaurant,NA,Slater Street,208,NA,NA,-75.6991906,45.4194392
+4779280069,Perfection Satisfaction Promise,NA,restaurant,NA,Laurier Avenue East,167,NA,NA,-75.6835531,45.4251657
+4779809728,Sushi Village,NA,restaurant,NA,Rideau Street,217,NA,NA,-75.6882389,45.4278772
+4779809835,Clocktower Brew Pub,NA,pub,NA,Rideau Street,140,NA,NA,-75.6902108,45.4266319
+4781941922,Ceylonta Restaurant,NA,restaurant,NA,Somerset Street West,403,NA,NA,-75.6977594,45.414963
+4782141726,Lorenzos,NA,restaurant,NA,Arch Street,2201,NA,NA,-75.6304196,45.3898074
+4797885026,The Mongolian Village,NA,restaurant,NA,Ogilvie Road,1980,NA,NA,-75.6094128,45.4318617
+4829275623,Maison Samorn,NA,restaurant,NA,NA,NA,NA,NA,-75.7153822,45.4287313
+4911333408,Stuffed Burgers,NA,restaurant,NA,St-Laurent Boulevard,912,NA,NA,-75.6415344,45.4311897
+4924957944,Industria,NA,restaurant,NA,Marché Way,225,NA,NA,-75.6846052,45.4002015
+4924957945,Sunset Grill,NA,restaurant,Sunset Grill,Marché Way,100,NA,NA,-75.6851068,45.3996588
+4924957946,Crust & Crate,NA,restaurant,NA,Marché Way,325,NA,NA,-75.6838596,45.4005047
+4924957947,Sen Asian Cuisine,NA,restaurant,NA,Marché Way,200,NA,NA,-75.6842887,45.3999548
+5009714022,Town,NA,restaurant,NA,Elgin Street,296,NA,NA,-75.6894947,45.4166296
+5039207629,Broadway Bar & Grill,NA,restaurant,NA,NA,NA,NA,NA,-75.6052944,45.41453
+5044985621,Mad Radish,NA,restaurant,NA,Albert Street,NA,NA,NA,-75.6964503,45.4214604
+5085980121,Denny's,NA,restaurant,Denny's,Clyde Avenue,1380,NA,NA,-75.7392519,45.3595889
+5108586921,Il Vicolo,NA,restaurant,NA,NA,NA,NA,NA,-75.6919639,45.4293232
+5113455801,Marzitelli,NA,restaurant,NA,NA,NA,NA,NA,-75.6883718,45.4152974
+5113457164,Backdrop,NA,restaurant,NA,NA,NA,NA,NA,-75.694603,45.4193501
+5124537174,High Fives Sports Pub,NA,restaurant,NA,Robertson Road,1876,NA,NA,-75.8205213,45.3269654
+5155564931,T & J Style Kitchen,NA,restaurant,NA,Colonel By Drive,1125,NA,NA,-75.693899,45.384546
+5156244577,Oliver's Pub and Patio,NA,restaurant,NA,Colonel By Drive,1125,NA,NA,-75.6975534,45.3831656
+5158087367,Suya Palace,NA,restaurant,NA,NA,NA,NA,NA,-75.7038669,45.4079648
+5159905522,Mad Radish,NA,restaurant,NA,Bank Street,859,NA,NA,-75.6872576,45.4013352
+5160126081,Bistro Boreal,NA,restaurant,NA,NA,NA,NA,NA,-75.7098869,45.4294947
+5204815607,Cafe nostalgica,NA,restaurant,NA,NA,NA,NA,NA,-75.683922,45.4240305
+5204841597,Bento Sushi,NA,restaurant,NA,Université Private,65,NA,K1N 6N5,-75.6838916,45.4226641
+5302768450,Mexi's,NA,restaurant,NA,Centrum Boulevard,250,NA,NA,-75.5102134,45.480197
+5398462221,St. Martha's Brasserie D'Orleans,NA,restaurant,NA,St. Joseph Boulevard,3095,NA,NA,-75.5092201,45.4802402
+5423846666,GoGiYa,NA,restaurant,NA,Bank Street,155,NA,NA,-75.6991952,45.4189055
+5444251919,Stars Palace,NA,restaurant,NA,Montréal Road,161,NA,NA,-75.6648755,45.4349458
+5445740608,Vietnam Palace,NA,restaurant,NA,Somerset Street West,819,NA,NA,-75.7112818,45.4093948
+5476023963,i Cook Persian Cuisine,NA,restaurant,NA,Ridgewood Avenue,731,NA,NA,-75.6881867,45.3685357
+5500119893,Sésame,NA,restaurant,NA,Boulevard du Plateau,20,NA,NA,-75.7681239,45.4370553
+5500119894,Sushi Go,NA,restaurant,NA,Boulevard du Plateau,20,NA,NA,-75.7682177,45.4370045
+5521529911,Mr. Mic,NA,restaurant,NA,Merivale Road,956,NA,NA,-75.7334597,45.3815884
+5528478945,Wild Wing,NA,restaurant,Wild Wing,NA,NA,NA,NA,-75.7026015,45.3687794
+5585459044,Vietnamese Kitchen,NA,restaurant,NA,Bank Street,1098,NA,NA,-75.6834119,45.3939888
+5586080103,Thai Flame,NA,restaurant,NA,Robertson Road,1902,NA,K2H 5B8,-75.8217265,45.3261901
+5589247245,Tutti Frutti,NA,restaurant,NA,NA,NA,NA,NA,-75.8081371,45.4142954
+5594420122,Bistro Manchester,NA,pub,NA,Route 105,474,NA,J9B1L2,-75.7832709,45.5044407
+5599225824,Thanjai,NA,restaurant,NA,Third Avenue,108,NA,NA,-75.6878282,45.4030545
+5602498622,Darcy's,NA,pub,NA,Kirkwood Avenue,675,NA,NA,-75.7402289,45.3853517
+5622497589,Bakers,NA,restaurant,NA,Colonel By Drive,1125,NA,NA,-75.6980699,45.3834479
+5622497603,Mike's Place,NA,pub,NA,Colonel By Drive,1125,NA,NA,-75.6978996,45.3835129
+5622637384,the caf,NA,restaurant,NA,Colonel By Drive,1125,NA,NA,-75.6975576,45.3871029
+5629499466,Delicious Sichuan Cuisine,NA,restaurant,NA,Prince Of Wales Drive,1430,NA,NA,-75.7024191,45.3685949
+5631157088,Mulligans Golf Bar,NA,restaurant,NA,Queen Street,201,NA,NA,-75.7004001,45.4208549
+5631157091,Rice & Roll Sushi,NA,restaurant,NA,NA,NA,NA,NA,-75.7016835,45.4200481
+5631157092,Red Pepper Thai-Viet,NA,restaurant,NA,Queen Street,246,NA,NA,-75.7017784,45.4200131
+5631157093,Spin Kitchen & Bar,NA,restaurant,NA,Kent Street,100,NA,NA,-75.703313,45.4196871
+5631415369,Ariana Kabab House,NA,restaurant,NA,Rideau Street,426,NA,NA,-75.6812358,45.430493
+5635792581,Danas Indian Cuisine,NA,restaurant,NA,Bank Street,1589,NA,NA,-75.6673681,45.3788455
+5636351045,Greek to Go,NA,restaurant,NA,McArthur Avenue,425,NA,NA,-75.647118,45.4325161
+5636351047,Arta Coffee House,NA,restaurant,NA,McArthur Avenue,425,NA,NA,-75.6468671,45.4325372
+5636351048,Stacked,NA,restaurant,NA,McArthur Avenue,425,NA,NA,-75.6467845,45.432546
+5640336089,Boston Pizza,NA,restaurant,Boston Pizza,Promenade du Portage,179,Gatineau,J8X 2K5,-75.7150607,45.4268666
+5654095945,Lunergans Pub & Eatery,NA,pub,NA,Montréal Road,1661,NA,NA,-75.6132089,45.4468762
+5657025548,Lee Ga,NA,restaurant,NA,Robertson Road,1902,NA,NA,-75.8219367,45.3261031
+5667233869,Bobby's Table,NA,restaurant,NA,Montréal Road,255,Vanier,K1L 6C4,-75.6610865,45.4364191
+5667282245,Pho La Express,NA,restaurant,NA,Montréal Road,79,NA,NA,-75.6676595,45.4338597
+5667282247,La Villa Latina,NA,restaurant,NA,Montréal Road,85,NA,NA,-75.6673344,45.4339833
+5667282252,Bukhari Restaurant,NA,restaurant,NA,Montréal Road,92,NA,NA,-75.6670409,45.4338465
+5667366792,Fontenelle,NA,restaurant,NA,Montréal Road,55,NA,NA,-75.6682907,45.4336223
+5667458687,MuGoongHwa Garden,NA,restaurant,NA,Rideau Street,376,NA,NA,-75.6828947,45.4297778
+5667458688,RamaKrishna Indian Restaurant,NA,restaurant,NA,Rideau Street,417,NA,NA,-75.6816085,45.4306559
+5667458691,Habesha Restaurant,NA,restaurant,NA,Rideau Street,574,NA,NA,-75.6764634,45.4324845
+5667880280,Bangkok Thai Garden,NA,restaurant,NA,Dalhousie Street,370,NA,NA,-75.6902206,45.4275081
+5668279488,Orchid Sushi,NA,restaurant,NA,Laurier Avenue West,445,NA,NA,-75.7036007,45.4168011
+5668279489,Madisons,NA,restaurant,NA,Lyon Street North,189,NA,NA,-75.7031766,45.4170403
+5674062432,Craft Beer Market,NA,pub,NA,Bank Street,975,NA,K1S 3W7,-75.6853227,45.3985357
+5676031676,Mary's Restaurant,NA,restaurant,NA,St. Lawrence Street,513,Winchester,K0C 2K0,-75.3531374,45.0923022
+5676880036,La Fromentine,NA,restaurant,NA,Bank Street,1202,NA,NA,-75.6813135,45.3915983
+5676880037,Table Sodam,NA,restaurant,NA,Bank Street,1200,NA,NA,-75.6813819,45.3916412
+5680428543,Restaurant International,NA,restaurant,NA,Woodroffe Avenue,1385,NA,NA,-75.7571258,45.3498681
+5680804077,Hanabi Japanese Cuisine,NA,restaurant,NA,Bank Street,434,NA,NA,-75.6938168,45.412206
+5689063818,Hidden Taste,NA,restaurant,NA,St. Joseph Boulevard,2807,NA,NA,-75.5204584,45.4735741
+5689366234,T'Basil,NA,restaurant,NA,St. Joseph Boulevard,2440,NA,NA,-75.5276853,45.4690916
+5691211919,Juluca's Bistro Cafe,NA,restaurant,NA,Longfields Drive,613,NA,NA,-75.7448738,45.2843094
+5697750380,Springroll House Café,NA,restaurant,NA,Wellington Street West,1093,NA,NA,-75.7256843,45.4029777
+5699786530,La Noodle,NA,restaurant,NA,Clyde Avenue,1383,NA,NA,-75.7381743,45.3597334
+5705789995,Jade Yi's Kitchen,NA,restaurant,NA,Teron Road,1027,NA,NA,-75.9002155,45.3304382
+5707431594,Erling's Variety,NA,restaurant,NA,Strathcona Avenue,225,NA,NA,-75.690482,45.4075991
+5716085115,Lexington Smokehouse & Bar,NA,restaurant,NA,Richmond Road,344,NA,K1Z 5C6,-75.754087,45.3918615
+5720792396,Siam Bistro,NA,restaurant,NA,Wellington Street West,1268,NA,NA,-75.7335348,45.3992212
+5731368056,Cyranos,NA,restaurant,NA,Robertson Road,2039,NA,NA,-75.8300769,45.3237947
+5732379446,Giant Panda,NA,restaurant,NA,Lees Avenue,170,NA,NA,-75.6717337,45.4151476
+5737284781,Fat Alberts,NA,restaurant,NA,Russell Road,1990,NA,K1G 4J6,-75.624155,45.4008512
+5737389120,NH 44,NA,restaurant,NA,Lancaster Road,2450,NA,NA,-75.6192049,45.4011582
+5746068622,The Juke Joint Soul Kitchen,NA,restaurant,NA,NA,NA,NA,K0A 1L0,-76.0357543,45.3447489
+5749766432,La p'tite épicerie,NA,restaurant,NA,NA,NA,NA,NA,-75.7108075,45.4305753
+5749873122,Alice’s Village Cafe,NA,restaurant,NA,Carp Road,3773,NA,K0A 1L0,-76.0377491,45.3458441
+5756769171,Hey Kitchen,NA,restaurant,NA,Somerset Street West,710,NA,NA,-75.7073146,45.4106529
+5762521393,Big H Restaurant,NA,restaurant,NA,Swansea Crescent,3210,NA,NA,-75.6056584,45.3818098
+5764954290,The Waverley,NA,restaurant,NA,Elgin Street,339,NA,NA,-75.6883802,45.4157736
+5764954291,El Camino,NA,restaurant,NA,Elgin Street,380,NA,NA,-75.687958,45.4148296
+5764954293,Pancho Villa,NA,restaurant,NA,Elgin Street,361,NA,K2P 1M7,-75.6877824,45.415303
+5777078828,Sheikh Almandi,NA,restaurant,NA,Carling Avenue,3059,NA,NA,-75.8072318,45.354703
+5799174350,Liam Maguires,NA,pub,NA,St-Laurent Boulevard,1705,NA,NA,-75.626526,45.4064632
+5800000098,Light of India Restaurant,NA,restaurant,NA,Bank Street,730,NA,NA,-75.6891429,45.4041106
+5800000108,Eddy's Diner,NA,restaurant,NA,Bank Street,777,NA,NA,-75.6885226,45.4035673
+5800014780,Cantina Gia,NA,restaurant,NA,Bank Street,749,NA,NA,-75.6888867,45.404201
+5800014782,Anthony's,NA,restaurant,NA,Bank Street,753,NA,NA,-75.6888431,45.4041153
+5808943982,Sutton's Restaurant,NA,restaurant,NA,Main Street,500,NA,NA,-75.3537749,45.0931877
+5811215717,Bar de l'Encan,NA,pub,NA,Rue Georges,110,NA,NA,-75.4356381,45.5535589
+5813719924,La Tanqueria Bonita,NA,restaurant,NA,Cadboro Road,1128,NA,NA,-75.6213857,45.4310613
+5818685254,Burgers and Shakes,NA,restaurant,NA,NA,NA,NA,NA,-75.6495649,45.2466369
+5825900100,Weis Noodle House,NA,restaurant,NA,NA,NA,NA,NA,-75.7018232,45.4039848
+5825966857,Viet Thai Restaurant,NA,restaurant,NA,Bank Street,312,NA,NA,-75.6958444,45.4145529
+5825966858,The Royal Oak,NA,pub,NA,Bank Street,318,NA,NA,-75.6957733,45.4144757
+5827078488,Constance Lake Lodge,NA,restaurant,NA,Constance Lake Road,175,NA,NA,-75.9757726,45.4023137
+5832443342,Salamanders,NA,restaurant,NA,Clothier Street East,28,NA,NA,-75.64673,45.0170901
+5832443360,O'Heaphy's Pub,NA,pub,NA,Clothier Street East,27,NA,NA,-75.6472541,45.0170179
+5832443725,Fast Eddie's Diner,NA,restaurant,NA,Sanders Street,200,NA,NA,-75.6483056,45.0181309
+5833495172,Tadka Junction,NA,restaurant,NA,Bank Street,1930,NA,NA,-75.6629752,45.3671943
+5834483727,Hyderabadi Adda,NA,restaurant,NA,Bank Street,1652,NA,NA,-75.666904,45.376673
+5835480949,Posto Locale,NA,restaurant,NA,Preston Street,338,NA,NA,-75.7107588,45.4022943
+5835480952,Pure Kitchen,NA,restaurant,NA,Preston Street,345,NA,NA,-75.7102579,45.4023155
+5835515528,MeNa,NA,restaurant,NA,Preston Street,276,NA,NA,-75.711712,45.4040085
+5836628250,Koichi Ramen,NA,restaurant,NA,Somerset Street West,832,NA,NA,-75.7116674,45.409008300000004
+5836628255,Pho Bo Ga 2,NA,restaurant,NA,Somerset Street West,857,NA,NA,-75.7126377,45.4089752
+5836676588,New Pho Bo Ga La,NA,restaurant,NA,Somerset Street West,761,NA,NA,-75.70935,45.4102114
+5836676590,Co Cham,NA,restaurant,NA,Somerset Street West,780,NA,NA,-75.7097531,45.4097975
+5836676591,Mehfil Indian Cuisine,NA,restaurant,NA,Somerset Street West,790,NA,NA,-75.7100087,45.4096582
+5836676597,Korean House,NA,restaurant,NA,Somerset Street West,785,NA,NA,-75.7102163,45.4098451
+5836676598,Pho Thu Do,NA,restaurant,NA,Somerset Street West,781,NA,NA,-75.7101163,45.4098898
+5836676603,Double Happiness Food & BBQ,NA,restaurant,NA,Somerset Street West,777 A,NA,NA,-75.7099354,45.4099661
+5836744309,Phucket Royal,NA,restaurant,NA,Somerset Street West,713,NA,NA,-75.7077782,45.4107226
+5836744311,Maht,NA,restaurant,NA,Somerset Street West,726,NA,NA,-75.7078958,45.4103972
+5836744312,Dumpling Bowl,NA,restaurant,NA,Somerset Street West,752,NA,NA,-75.7079747,45.4103716
+5836839069,Le Poisson Bleu,NA,restaurant,NA,Somerset Street West,610,NA,NA,-75.703899,45.4121343
+5836839081,Mekong Asian Cuisine,NA,restaurant,NA,Somerset Street West,637,NA,NA,-75.7048412,45.4119813
+5836839082,Ciao Italia,NA,restaurant,NA,Somerset Street West,641,NA,NA,-75.7049089,45.4119526
+5836839083,Shanghai Restaurant,NA,restaurant,NA,Somerset Street West,651,NA,NA,-75.7052284,45.4118194
+5838349123,Freshii,NA,restaurant,Freshii,Bank Street,255,NA,NA,-75.6969722,45.4162606
+5838486029,The Royal Oak,NA,pub,NA,Bank Street,188,NA,NA,-75.6986077,45.4177625
+5838522832,Izakaya Shingen,NA,restaurant,NA,Bank Street,201,NA,NA,-75.6981115,45.4176152
+5838522833,Burrito Sensei,NA,restaurant,NA,Bank Street,199,NA,NA,-75.698141,45.4176515
+5838553659,Kyoto Sushi,NA,restaurant,NA,Bank Street,132,NA,NA,-75.69981,45.4191962
+5840901285,Deacon Brodies,NA,pub,NA,Elgin Street,247,NA,NA,-75.6907046,45.4184795
+5844120481,The Bistro,NA,restaurant,NA,Dalhousie Street,350,NA,NA,-75.6910989,45.4285797
+5844699565,The Albion Rooms,NA,restaurant,NA,Nicholas Street,33,NA,NA,-75.6894694,45.4258276
+5854289532,Shaan Curry House,NA,restaurant,NA,Merivale Road,1489,NA,NA,-75.7358683,45.3591928
+5857472180,Sagar Indian Cuisine,NA,restaurant,NA,Bridge Street,156,NA,NA,-76.1463764,45.1400137
+5857487901,Eateria Unlimited,NA,restaurant,NA,Bridge Street,73,NA,NA,-76.1441025,45.138485
+5857487925,Smith & Barrel Pub & Eatery,NA,pub,NA,Bridge Street,7,NA,NA,-76.1421002,45.1371313
+5862216280,Shahrazad Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.7326865,45.3790724
+5866624787,Meow! That's Hot,NA,restaurant,NA,Bank Street,519,NA,NA,-75.6920879,45.4098065
+5868668223,Yunshang Rice Noodle,NA,restaurant,Yunshang Rice Noodle,Bank Street,275,Ottawa,K2P 2L6,-75.6963466,45.4156162
+5868793710,Dakgogi,NA,restaurant,NA,Elgin Street,280,NA,NA,-75.6900863,45.4173149
+5878796872,Won Ton House,NA,restaurant,NA,Wellington Street West,1300,NA,NA,-75.735815,45.39874
+5888798672,Kyan Cuisine,NA,restaurant,NA,Notre Dame Street,829,NA,NA,-75.2956152,45.2692237
+5888903567,Village Dining Lounge,NA,restaurant,NA,NA,NA,NA,NA,-75.277234000000007,45.2732821
+5888903568,Sandee's Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.2781875,45.2729734
+5891429652,Main Street Cafe,NA,restaurant,NA,Stittsville Main Street,1626,NA,NA,-75.9165533,45.2541373
+5897508094,Motel du Parc Resto-Bar,NA,restaurant,NA,Chemin de Masson,1023,NA,NA,-75.4189137,45.5590987
+5897661861,La Maladroite Crêperie,NA,restaurant,NA,NA,NA,NA,NA,-75.4164722,45.5857136
+5910591572,Chilaquiles,NA,restaurant,NA,Beechwood Avenue,49,NA,NA,-75.6758519,45.4401489
+5916191220,Dagu Rice Noodle,NA,restaurant,NA,Riverside Drive,3987,NA,NA,-75.6923814,45.3333515
+5916191221,Morals Village,NA,restaurant,NA,Riverside Drive,3987,NA,NA,-75.6923768,45.3334262
+5916222982,Thr33's Co.,NA,restaurant,NA,Bank Street,589,NA,NA,-75.6909668,45.4078317
+5916222984,Hareg Cafe & Variety,NA,restaurant,NA,Bank Street,587,NA,NA,-75.6910006,45.4078828
+5916236088,Pretoria Place Restaurant,NA,restaurant,NA,O'Connor Street,460,NA,NA,-75.6887003,45.4092219
+5924647583,Heirloom,NA,restaurant,NA,Mill Street,7,NA,NA,-76.1976917,45.2254704
+5930606185,Lumbertown Ale House,NA,pub,NA,John Street North,123,NA,NA,-76.3539089,45.4337399
+5930606190,The Cupboard,NA,restaurant,NA,John Street North,105,NA,NA,-76.3541959,45.4334708
+5930606191,Steve & Denni's Restaurant,NA,restaurant,NA,John Street North,129,NA,NA,-76.3537721,45.4338585
+5930606192,The John St. Pub,NA,pub,NA,John Street North,129,NA,NA,-76.3536943,45.4338359
+5931574163,Krave Bistro,NA,restaurant,NA,Elgin Street West,24,NA,NA,-76.3540524,45.4330689
+5931574164,2 Grands Piano Bar & Steakhouse,NA,restaurant,NA,Elgin Street West,26,NA,NA,-76.3541235,45.4331094
+5931575501,Jim's Restaurant,NA,restaurant,NA,Elgin Street West,54,NA,NA,-76.3549671,45.4335659
+5932107709,Champa Thai,NA,restaurant,NA,King Edward Avenue,193,NA,NA,-75.6893273,45.4333306
+5932107753,La Brochette,NA,restaurant,NA,Rideau Street,319,NA,NA,-75.6849164,45.429294
+5933580835,Fairouz Cafe,NA,restaurant,NA,Clarence Street,15,NA,NA,-75.6950685,45.4284281
+5934579427,The Clarendon Tavern,NA,pub,NA,George Street,11,NA,NA,-75.6938239,45.426551
+5934579428,Sidedoor,NA,restaurant,NA,York Street,18,NA,NA,-75.693844,45.4272088
+5934579429,Restaurant 18,NA,restaurant,NA,York Street,18,NA,K1N 5T5,-75.6940378,45.4274349
+5934579435,Bistro Ristoro,NA,restaurant,NA,Clarence Street,17,NA,NA,-75.6949379,45.4284501
+5939864448,Asli Dining,NA,restaurant,NA,Bank Street,2019,NA,NA,-75.6595735,45.3654206
+5941699914,LIFT Resto Lounge,NA,restaurant,NA,Lyon Street North,101,NA,NA,-75.7042015,45.4184271
+5941722843,Carleton Grill,NA,restaurant,NA,Albert Street,150,NA,NA,-75.6975751,45.4209245
+5941745350,The Whalesbone,NA,restaurant,NA,Elgin Street,231,NA,K2P 1L6,-75.6910781,45.4188851
+5947588537,Big Rig Brewery,NA,pub,NA,Ogilvie Road,1980,NA,NA,-75.6102034,45.4327283
+5951913906,Colonnade,NA,restaurant,NA,Metcalfe Street,280,NA,NA,-75.6914476,45.4157447
+5951913914,Citizen,NA,restaurant,NA,Gilmour Street,207,NA,NA,-75.6896699,45.4164867
+5960587129,Chili Thai,NA,restaurant,NA,St. Joseph Boulevard,3018,NA,NA,-75.513711,45.4767045
+5973556904,Blue Diamond Bar & Grill,NA,restaurant,NA,Meadowlands Drive East,1119,NA,NA,-75.7119389,45.3629602
+5976332359,Tommy's Restaurant,NA,restaurant,NA,Hearst Way,260,NA,NA,-75.8942682,45.3143702
+5986726653,Somewhere Dine Bar,NA,restaurant,NA,Murray Street,110,NA,NA,-75.6927806,45.4298961
+5986726656,Fiazza,NA,restaurant,NA,Murray Street,86,NA,NA,-75.693482,45.4296211
+5994231117,Suya Palace,NA,restaurant,NA,McArthur Avenue,411,NA,NA,-75.6487589,45.4322412
+5994539018,Chez Leila,NA,restaurant,NA,McArthur Avenue,456,NA,NA,-75.6435983,45.4323043
+5995855505,Mandarin Restaurant,NA,restaurant,NA,Ogilvie Road,1137,NA,NA,-75.6314546,45.426605
+6007626807,Macintosh Inn Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.1747468,44.9053745
+6015802191,Grillades Kenayah,NA,restaurant,NA,McArthur Avenue,273,NA,NA,-75.6573486,45.4317038
+6015834727,Restaurant Vision Éclair,NA,restaurant,NA,Montgomery Street,337,NA,NA,-75.6658385,45.4317278
+6018196686,Papa Pizza,NA,restaurant,NA,Montée de la Source,393,NA,J8V 0J2,-75.7713275,45.537425
+6018494628,Bombay Chaat & Paan,NA,restaurant,NA,Baseline Road,2946,NA,NA,-75.7994947,45.3350915
+6018514819,Ishina,NA,restaurant,NA,Bexley Place,14,NA,NA,-75.8194426,45.329863
+6032576980,Le St. Laurent,NA,restaurant,NA,St-Laurent Boulevard,460,NA,NA,-75.6496135,45.4455392
+6034633363,Eatz,NA,restaurant,NA,NA,NA,NA,NA,-75.7027423,45.4182408
+6034637686,ARC Lounge,NA,restaurant,NA,Slater Street,140,NA,NA,-75.6968126,45.420476
+6034637703,Bibliothèque Café,NA,restaurant,NA,Slater Street,88,NA,NA,-75.6954256,45.4213453
+6036866504,Napoli's Café,NA,restaurant,NA,Stittsville Main Street,1300,NA,NA,-75.9302567,45.2659928
+6049977222,Reza's,NA,restaurant,NA,Joseph Cyr Street,1199,NA,NA,-75.6344039,45.4230583
+6053540753,Les Grillades,NA,restaurant,NA,Colonnade Road,111,NA,NA,-75.7023467,45.3464299
+6056155791,Dunn's Famous,NA,restaurant,NA,Laurier Street,2370,NA,NA,-75.2952223,45.5459633
+6065306255,Bun Seto,NA,restaurant,NA,NA,NA,NA,NA,-75.7718736,45.4648262
+6067392244,Meldo,NA,restaurant,NA,NA,NA,NA,NA,-75.7460319,45.4625744
+6067433327,Chez Gerry,NA,restaurant,NA,NA,NA,NA,NA,-75.7522693,45.4540809
+6075056932,Mona's,NA,restaurant,NA,Humber Place,1325,NA,K1B 1A4,-75.6055927,45.4026479
+6078060159,Steele's Restaurant,NA,restaurant,NA,Merivale Road,1900,NA,NA,-75.7222277,45.3302666
+6094266538,Pho Bac Oriental Cuisine,NA,restaurant,NA,Somerset Street West,873,NA,NA,-75.7131701,45.4088033
+6100576576,Le Casablanca,NA,restaurant,NA,By Ward Market Square,55,NA,NA,-75.6923964,45.4275072
+6100578095,Norca Restaurant & Bar,NA,restaurant,NA,Daly Avenue,30,NA,NA,-75.6882477,45.4257786
+6103824316,Japanese Village Steak House,NA,restaurant,NA,Laurier Avenue West,168,NA,NA,-75.6946166,45.420203
+6103871469,Indian Curry House,NA,restaurant,NA,Gloucester Street,114,NA,NA,-75.6961595,45.4187679
+6104060086,Tosca,NA,restaurant,NA,O'Connor Street,144,NA,NA,-75.6969488,45.4188046
+6117519716,The Gallery,NA,restaurant,NA,NA,NA,NA,NA,-75.8264861,45.3512358
+6146660587,Cindy's Restaurant,NA,restaurant,NA,Capella Court,15,NA,NA,-75.7064411,45.3317685
+6154404783,The Royal Oak,NA,pub,NA,Kent Street,180,NA,NA,-75.7018076,45.418029
+6154404897,Mad Radish,NA,restaurant,NA,Slater Street,275,NA,NA,-75.7018907,45.4187425
+6187041123,South Side Roadhouse,NA,restaurant,NA,Queen Street,7,NA,NA,-75.1527319,45.2183509
+6187145997,The Side Door Restaurant,NA,restaurant,NA,Queen Street,33,NA,NA,-75.1510963,45.2161665
+6195795989,Big Daddy's,NA,restaurant,NA,Cooper Street,180,NA,NA,-75.690192,45.4186583
+6283783712,Casa Greque,NA,restaurant,NA,Rue Bellehumeur,85,NA,NA,-75.6917024,45.4760283
+6284376557,Portugalos,NA,restaurant,NA,Rue Bellehumeur,53,NA,J8T 6K5,-75.6925868,45.4752854
+6287185499,Au P'tit Cafe,NA,restaurant,NA,Rue Notre-Dame,285,NA,NA,-75.6452036,45.4817428
+6287480127,La Fiesta Restaurant,NA,restaurant,NA,Boulevard Maloney Est,630,NA,NA,-75.6274205,45.4836695
+6319158555,Ironstone Grill,NA,restaurant,NA,Terry Fox Drive,320,NA,NA,-75.912137,45.3524525
+6329377743,KC's Corner,NA,restaurant,NA,Burton Road,984,NA,NA,-75.3472025,45.3313601
+6383659041,Al Quadrato Resto and Pizza,NA,restaurant,NA,Somerset Street West,324,NA,NA,-75.6947983,45.4158727
+6386265337,Olivia Bistro,NA,restaurant,NA,NA,NA,NA,NA,-75.7198149,45.4267215
+6386569895,Les Vilains Garcons,NA,restaurant,NA,Promenade du Portage,131,NA,NA,-75.7169031,45.4256563
+6386569906,Café Merkén,NA,restaurant,NA,Rue Aubry,2,NA,NA,-75.7158496,45.4270088
+6386569907,Piz'za-za,NA,restaurant,NA,Rue Laval,36,NA,NA,-75.7161916,45.4266912
+6386569908,Chez Le Thai,NA,restaurant,NA,Rue Laval,39,NA,NA,-75.7164665,45.4267923
+6403114284,Eldorodo Taco,NA,restaurant,NA,Preston Street,170,NA,NA,-75.7131785,45.4063921
+6410711688,The Bridge Public House,NA,restaurant,NA,Donald Street,1,NA,NA,-75.6695339,45.4271302
+6426904527,Naismith Pub,NA,pub,NA,NA,NA,NA,NA,-76.1818063,45.2342466
+6428368565,Le Pierrot,NA,restaurant,NA,Rue des Flandres,22,NA,NA,-75.7189938,45.4709528
+6434057651,Harry McLean's Pub,NA,pub,NA,St. Lawrence Street,111,NA,NA,-75.8367455,44.91589
+6434057662,Baldachin Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.8367415,44.9159674
+6434057840,Iron Forge Pizza,NA,restaurant,NA,Main Street West,206,NA,NA,-75.8387112,44.9157929
+6450933846,Heart and Crown Pub,NA,pub,NA,Clarence Street,67,NA,NA,-75.6934505,45.4290456
+6450933847,The Snug Pub,NA,pub,NA,Parent Avenue,117,NA,NA,-75.6936222,45.429214
+6462517339,La Squadra,NA,restaurant,NA,Rue Montcalm,114,NA,NA,-75.7252139,45.428719
+6462980291,Ho Wah,NA,restaurant,NA,Rue Montcalm,216,NA,NA,-75.7315607,45.4311406
+6465066683,Pho Maison de Nouilles,NA,restaurant,NA,Boulevard Saint-Joseph,277,NA,NA,-75.7331063,45.4384415
+6465066938,Manara Shawarma,NA,restaurant,NA,Boulevard Saint-Joseph,309,NA,NA,-75.7331277,45.4400911
+6475954931,Blue Diamond Bar & Grill,NA,restaurant,NA,Perth Street,6179,NA,NA,-75.8427912,45.1941352
+6475954938,East N West Diner,NA,restaurant,NA,Perth Street,6179,NA,NA,-75.842236,45.1938016
+6515775625,Pho Van Van,NA,restaurant,NA,Holland Avenue,131,NA,NA,-75.7315476,45.3994497
+6516550376,Beyond the Pale Brewing Company,NA,pub,NA,City Centre Avenue,250,NA,NA,-75.7184386,45.4077258
+6567057086,Au Ché Nous,NA,restaurant,NA,Montée de la Source,468,NA,J8V 3B5,-75.7743136,45.5423209
+6579336678,Little Nero's,NA,restaurant,NA,NA,NA,NA,NA,-75.2284621,45.2909382
+6600232638,Rosalynn's Bistro & Catering,NA,restaurant,NA,NA,NA,NA,NA,-75.3039542,45.5405343
+6600796238,Maison de Xin,NA,restaurant,NA,NA,NA,NA,NA,-75.2883612,45.5515054
+6600802806,Spartas,NA,restaurant,NA,NA,NA,NA,NA,-75.2912009,45.549041
+6600802807,Friendly Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.2912539,45.5489964
+6602898446,Parliament Pub,NA,pub,NA,Wellington Street,90,NA,NA,-75.6981638,45.423049
+6621453840,Amicci Pizza,NA,restaurant,NA,Boulevard Louise-Campagna,2,NA,NA,-75.7630545,45.4304375
+6630302225,Restaurant Laspézia,NA,restaurant,NA,Boulevard d'Europe,147,NA,NA,-75.7949661,45.4425978
+6648386393,The Old Mill at Ashton,NA,pub,NA,Old Mill Road,113,NA,NA,-76.0333917,45.156671
+6651582680,Freska,NA,restaurant,NA,Bridge Street,151,NA,NA,-76.1460116,45.1400639
+6652405056,Browns Socialhouse,NA,restaurant,NA,NA,NA,NA,NA,-75.692742,45.4201419
+6652411593,Mamma Grazzi's Kitchen,NA,restaurant,NA,George Street,25,NA,K1N 8W5,-75.6934341,45.4267094
+6652411601,Warehouse,NA,restaurant,NA,Clarence Street,77,NA,NA,-75.6932158,45.4291273
+6652411602,Peter Devine's,NA,pub,NA,Clarence Street,73,NA,NA,-75.693333,45.4290814
+6652411603,El Camino,NA,restaurant,NA,Clarence Street,81,NA,NA,-75.6930816,45.4291751
+6654004762,Spartan Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-76.145457,45.1406031
+6666504734,Gabriel Pizza,NA,restaurant,Gabriel Pizza,Boulevard La Vérendrye Est,408,NA,NA,-75.6421472,45.5005428
+6680785256,Patio Vidal,NA,restaurant,NA,Boulevard Saint-René Est,411,NA,NA,-75.6405889,45.4934088
+6682070467,Copper Branch,NA,restaurant,NA,Albert Street,350,NA,NA,-75.7036478,45.4182417
+6699490001,The Whalesbone,NA,restaurant,NA,Bank Street,430,NA,K2P 1Y8,-75.6938651,45.4122762
+6714638170,Pure Kitchen,NA,restaurant,NA,Richmond Road,357,NA,K2A 0E7,-75.754907,45.3917527
+6714638171,Churchills,NA,pub,NA,Richmond Road,356,NA,NA,-75.7544757,45.3916568
+6714638172,Zak's Dinner,NA,restaurant,NA,Richmond Road,334,NA,NA,-75.7535428,45.3921004
+6714638173,The Works,NA,restaurant,NA,Richmond Road,322,NA,NA,-75.7532891,45.3922165
+6714638178,Fratelli Westboro,NA,restaurant,NA,Richmond Road,275,NA,K1Z 6X3,-75.7512666,45.393408
+6719059025,Grill 158,NA,restaurant,NA,NA,NA,NA,NA,-75.715224,45.4260798
+6719063215,Freshii,NA,restaurant,Freshii,Sparks Street,98,NA,NA,-75.6975332,45.4226271
+6719067657,Shakey's,NA,restaurant,Shakey's,Albert Street,111,NA,NA,-75.6974641,45.4214435
+6720122070,Restaurant Centenaire,NA,restaurant,NA,NA,NA,NA,NA,-75.4102421,45.5882144
+6720122135,Le Buck,NA,pub,NA,NA,NA,NA,NA,-75.4086147,45.5757777
+6720220647,Buckingham Pizza,NA,restaurant,NA,NA,NA,NA,NA,-75.4170236,45.588517
+6720239441,Cafe Cosy,NA,restaurant,NA,NA,NA,NA,NA,-75.4166883,45.5870369
+6720239444,Belga Bistro Bar,NA,restaurant,NA,NA,NA,NA,NA,-75.4170084,45.587013
+6744494972,Cork and Well,NA,restaurant,NA,NA,NA,NA,NA,-75.6697808,45.3233518
+6747283265,Anthony's,NA,restaurant,NA,Wellington Street West,1218,NA,K1Y 2Z7,-75.7307725,45.4000491
+6747283266,Absinthe,NA,restaurant,NA,Wellington Street West,1208,NA,NA,-75.7305348,45.400129
+6747817900,BiBi's,NA,restaurant,NA,Wellington Street West,1087,NA,NA,-75.7255385,45.4031149
+6753880307,The Third,NA,restaurant,NA,Wellington Street West,1017,NA,NA,-75.7237763,45.404901
+6754681516,The Observatory,NA,restaurant,NA,NA,NA,NA,NA,-75.7576914,45.3490407
+6760909712,Chili Chili Restaurant,NA,restaurant,NA,Somerset Street West,706,NA,NA,-75.707152,45.4107304
+6762950664,La Fromentine,NA,restaurant,NA,NA,NA,NA,NA,-75.741004,45.4601355
+6779508788,Perfect Thyming,NA,restaurant,NA,NA,NA,NA,NA,-76.0196641,44.8985643
+6873516125,Britannia Yacht Club,NA,restaurant,NA,NA,NA,NA,NA,-75.8032635,45.3716837
+6898520488,Fieldhouse,NA,pub,NA,NA,NA,NA,NA,-76.2503052,44.9001575
+6898530785,Weatherhead Brew Co,NA,pub,NA,Beckwith Street East,29,NA,NA,-76.2461767,44.9014399
+6917331196,Maximilian Dining Lounge,NA,restaurant,NA,NA,NA,NA,NA,-76.2480554,44.8989254
+6918513209,The Locks Perth,NA,restaurant,NA,NA,NA,NA,NA,-76.2524262,44.8996987
+6960800948,Thomasino's,NA,restaurant,NA,NA,NA,NA,NA,-76.2538156,44.9016613
+6960961710,Joe's Italian Kitchen,NA,restaurant,NA,NA,NA,NA,NA,-76.1978613,45.2255327
+7014394885,Boston Pizza,NA,restaurant,Boston Pizza,NA,NA,NA,NA,-76.0150841,44.8821676
+7039333996,Ding Ho,NA,restaurant,NA,NA,NA,NA,NA,-75.7459763,45.4875103
+7039333999,Fuji Sushi,NA,restaurant,NA,NA,NA,NA,NA,-75.7461515,45.4875611
+7048032309,Louis' Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.2286242,45.1024272
+7067956365,Thali,NA,restaurant,NA,NA,NA,NA,NA,-75.6972292,45.4190748
+7072570334,Papa Gus Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.2298284,45.103004
+7086940166,Kelly's Landing,NA,restaurant,NA,NA,NA,NA,NA,-75.6375667,45.1985258
+7102203034,The Keg,NA,restaurant,The Keg,York Street,75,NA,NA,-75.6919789,45.4288143
+7102203036,Il Perugino,NA,restaurant,NA,Dalhousie Street,277,NA,NA,-75.6920191,45.430119500000004
+7102261582,The Brig,NA,pub,NA,Clarence Street,39,NA,NA,-75.6942089,45.4278594
+7103367306,Pure Kitchen,NA,restaurant,NA,Preston Street,344,NA,NA,-75.7107306,45.4022044
+7126118770,Dunn's Famous,NA,restaurant,NA,Rideau Road,5033,NA,NA,-75.5798063,45.2973773
+7126550213,Papa Joe's Pizza,NA,restaurant,NA,NA,NA,NA,NA,-75.5679359,45.2772212
+7127354186,Stanley's,NA,pub,NA,NA,NA,NA,NA,-75.9097758,45.2972313
+7212135879,Garden Grille and Bar,NA,restaurant,NA,Alert Road,2400,NA,NA,-75.6520848,45.327722
+7241404361,Iwacu Bar & Grill,NA,restaurant,NA,Montréal Road,77,NA,NA,-75.6677631,45.4338184
+7241488671,Spark Beer,NA,pub,NA,NA,NA,NA,NA,-75.7070646,45.4107439
+7281190801,Score Pizza,NA,restaurant,NA,Bank Street,852,NA,NA,-75.6877167,45.4014505
+7448789785,O'Brien's Roadhouse,NA,pub,NA,NA,NA,NA,NA,-75.6361575,45.4090667
+7579146834,Back to Brooklyn,NA,restaurant,NA,Clarence Street,81,NA,NA,-75.6931147,45.4292092
+7599156107,Franktown Pizza,NA,restaurant,NA,NA,NA,NA,NA,-76.0593147,45.0387486
+7599158415,Aiana,NA,restaurant,NA,O'Connor Street,50,NA,NA,-75.6988158,45.421094
+7732339385,City Goose,NA,restaurant,NA,Bank Street,478,NA,NA,-75.6930951,45.4109993
+7744657464,Parlour,NA,restaurant,NA,Wellington Street West,1319,NA,NA,-75.736516,45.398893
+7747286862,Cafe Orient,NA,restaurant,NA,Somerset Street West,808,NA,K1R 6R5,-75.7108,45.4092788
+7747286863,Pho Tuan,NA,restaurant,NA,Booth Street,300,NA,NA,-75.710526,45.4091649
+7747286864,Pho Bo Ga La,NA,restaurant,NA,Somerset Street West,784,NA,NA,-75.7098519,45.4097483
+7747286865,Pho Bo Ga King,NA,restaurant,NA,Somerset Street West,778,NA,NA,-75.7096583,45.4098364
+7747287176,La Taverna,NA,restaurant,NA,Preston Street,226,NA,NA,-75.7125472,45.4053536
+7747287179,Pietro's Corner,deli,restaurant,NA,Preston Street,106,NA,NA,-75.7145536,45.408644
+7747299885,Yimin Dim Sum House,NA,restaurant,NA,Somerset Street West,870,NA,NA,-75.7128536,45.4086437
+7747308093,Crazy Pho You,NA,restaurant,NA,Bronson Avenue,696,NA,NA,-75.7003337,45.401797
+7752634549,Mojo's Chinese Food,NA,restaurant,NA,NA,NA,NA,NA,-75.5923612,45.3189804
+7773799985,Bistro L'Autre Oiel,NA,pub,NA,NA,NA,NA,NA,-75.8406061,45.3949782
+7773799987,Pub British,NA,pub,NA,NA,NA,NA,NA,-75.8472052,45.3949196
+7826910128,Brasserie du Bas-Canada,NA,pub,NA,Boulevard de la Gappe,455,NA,NA,-75.6998099,45.4789176
+7826910129,À La Dérive,NA,pub,NA,Rue Jacques-Cartier,1015,Gatineau,J8T 2W3,-75.6915956,45.4562701
+7862180579,Merivale Seafood Grill,NA,restaurant,NA,Merivale Road,1480,NA,NA,-75.7358944,45.3601556
+7961528863,Greens & Beans,NA,restaurant,NA,Main Street,137,NA,NA,-75.678416,45.4102434
+7967872609,Wendover Family Restaurant & Pizzeria,NA,restaurant,NA,NA,NA,NA,NA,-75.1237607,45.5681669
+7974969756,Phynicia Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.7456555,45.2851215
+8001779266,Hammond Golf Restaurant,NA,restaurant,NA,Du Golf Road,600,NA,NA,-75.2693993,45.4642562
+8023734748,Rob Roy's Pub & Restaurant,NA,restaurant,NA,Centre Street,33,Smiths Falls,K7A 2Y3,-76.0182988,44.897461
+8073886544,Club Red,NA,restaurant,NA,Palladium Drive,1000,Kanata,NA,-75.9258872,45.2969462
+8345818721,Harmons Steakhouse,NA,restaurant,NA,Elgin Street,283,NA,NA,-75.6896883,45.4174028
+8519269606,Pastel & Coco,NA,restaurant,NA,Promenade du Portage,80,Gatineau,NA,-75.7181104,45.4250055
+8541438517,Juliano’s Gelato,NA,restaurant,NA,Rue Laurier,61,Gatineau,J8X 3V7,-75.7105699,45.4299382
+8830695917,3 Brewers / 3 Brasseurs,NA,pub,NA,NA,NA,NA,NA,-75.7014347,45.4208991
+8989251817,Mr Puffs,NA,restaurant,NA,NA,NA,NA,J8R 0E1,-75.6783192,45.5042893
+9035882819,Chuck's Roadhouse,NA,restaurant,NA,Baxter Road,1100,NA,NA,-75.7832363,45.3515611
+9046528721,Taj Mahal,NA,restaurant,NA,Bank Street,925,NA,NA,-75.6865235,45.4000634
+9046594113,Dumpling? Dumpling!,NA,restaurant,NA,Bank Street,382,NA,NA,-75.6950058,45.4135718
+9059419735,Brokenstick Brewing,NA,pub,NA,Du Golf Road,600,NA,NA,-75.2693014,45.464065
+9085059905,Ayini,NA,restaurant,NA,NA,NA,NA,NA,-75.7453804,45.2850253
+9085059908,Carmalito Cafe,NA,restaurant,NA,NA,NA,NA,NA,-75.7458001,45.2851833
+9085059909,KhoKha,NA,restaurant,NA,NA,NA,NA,NA,-75.7457199,45.2852584
+9085135039,Mad Radish,NA,restaurant,NA,NA,NA,NA,NA,-75.7486443,45.2774394
+9105332392,Brauwerk Hoffman Rockland,NA,pub,NA,Industrielle Street,733,NA,NA,-75.2751103,45.5587033
+9108244430,Bistro L'Entre Deux,NA,restaurant,NA,NA,NA,NA,NA,-75.4824226,45.4908356
+9161609934,Paul's Bistro,NA,restaurant,NA,County Road 20,2110,NA,NA,-75.612004,44.9336779
+9180618586,Le 138 Sandwicherie,NA,restaurant,NA,Rue Wellington,138,Gatineau,J8X 2J2,-75.7183513,45.4260599
+9278393469,Bistro Polo,NA,restaurant,NA,Bridge Street,14,NA,NA,-76.1428054,45.1371333
+9278393471,Thirsty Moose,NA,pub,NA,Bridge Street,20,NA,NA,-76.1429356,45.1372534
+9297665844,Clocktower Brew Pub,NA,pub,NA,Clarence Street,89,NA,NA,-75.6928363,45.4292783
+9307365035,Castorps,NA,restaurant,NA,NA,NA,NA,NA,-75.7330366,45.4325991
+9333196528,Pi Co.,NA,restaurant,NA,Rideau Street,305,NA,NA,-75.6851817,45.4292073
+9406242081,Ottavio,NA,restaurant,NA,Boulevard Gréber,56,Gatineau,J8T 3P8,-75.7006152,45.461978
+9406242082,Meli,NA,restaurant,NA,NA,NA,NA,NA,-75.7006235,45.4620854
+9593097030,Roulas,NA,restaurant,NA,Rue de Cannes,245,NA,NA,-75.7235184,45.4894776
+9611926161,Pizza Hut,NA,restaurant,Pizza Hut,Manotick Main Street,5556,NA,NA,-75.6835022,45.2241004
+9611926163,The Olive Branch,NA,restaurant,NA,Manotick Main Street,5556,NA,NA,-75.683617,45.2241714
+9611926169,Angelina,NA,restaurant,NA,Manotick Main Street,5530,NA,NA,-75.6853802,45.2257042
+9634645808,Olivia Bistro-Boutique,NA,restaurant,NA,Boulevard des Grives,219,NA,NA,-75.7811719,45.432836
+9634708677,Spritz,NA,restaurant,NA,NA,NA,NA,NA,-75.7995478,45.4341665
+9634708678,Juliano's,NA,restaurant,NA,Allée de Hambourg,35,NA,NA,-75.7985826,45.4338369
+9725503315,Paper Tiger,NA,restaurant,NA,Bank Street,1091,NA,NA,-75.683199,45.3942014
+9725529110,Ten Fish,NA,restaurant,NA,NA,NA,NA,NA,-75.6822483,45.3931319
+9747380017,La Buena,NA,restaurant,NA,NA,NA,NA,NA,-75.7385744,45.4738182
+9813357169,Brasserie du Bas-Canada,NA,pub,NA,Boulevard de la Technologie,95,Gatineau,NA,-75.7783105,45.4769468
+9880065210,Pho Bo Ga 777,NA,restaurant,NA,Boulevard de la Carrière,725,NA,NA,-75.7303554,45.4504222
+9898028148,Chickpeas,NA,restaurant,NA,York Street,55,NA,NA,-75.6928413,45.4282893
+9898512454,Pure Kitchen,NA,restaurant,NA,Rideau Street,115,NA,NA,-75.6913364,45.4265754
+9936209168,Oka's,NA,restaurant,NA,NA,NA,NA,NA,-75.7368318,45.4686437
+9936209215,Au Vieux Duluth,NA,restaurant,NA,NA,NA,NA,NA,-75.7387418,45.4738999
+9938314474,The Vault,NA,restaurant,NA,Russell Street East,2,Smiths Falls,K7A 1E8,-76.0210113,44.9014914
+9938314475,Rocky River,NA,restaurant,NA,Russell Street East,6,Smiths Falls,K7A 1E8,-76.0207639,44.901506
+9938314480,Pizza Unlimited,NA,restaurant,NA,Russell Street East,16,Smiths Falls,K7A 1E8,-76.0202888,44.9015356
+9938314482,Bowie's,NA,restaurant,NA,Russell Street East,20,Smiths Falls,K7A 1E8,-76.0201009,44.9015568
+9938314485,Chuckles Jack,NA,restaurant,NA,Russell Street East,23,Smiths Falls,K7A 1E8,-76.019879,44.9012984
+9948507316,Boomtown Fusion Eatery,NA,restaurant,NA,Beckwith Street North,27,Smiths Falls,K7A 2B2,-76.0209598,44.9003897
+10005255511,Lotus House,NA,restaurant,NA,Main Street West,12,Smiths Falls,K7A 1M5,-76.0219168,44.8997429
+10005255513,My Place,NA,restaurant,NA,Main Street West,2,Smiths Falls,K7A 1M5,-76.0216982,44.8997595
+10036742183,Pizza Hut,NA,restaurant,Pizza Hut,NA,NA,NA,NA,-75.7518006,45.3931604
+10038131647,Susan Palace African Grill & BBQ,NA,restaurant,NA,NA,NA,NA,NA,-75.7202958,45.4064061
+10108342721,Milano Pizzeria,NA,restaurant,NA,NA,NA,NA,NA,-75.8407318,44.9206252
+10210727272,Vivian Fine Indian Cuisine,NA,restaurant,NA,NA,NA,NA,NA,-75.7123338,45.405663
+10211286557,Wolves Den Restauraunt,NA,restaurant,NA,Woodroffe Ave,1385,Nepean,K2G 1V8,-75.7545652,45.3508225
+10287570365,Raahi Indian Dhaba,NA,restaurant,NA,Eagleson Road,782,NA,NA,-75.865174,45.2806793
+10555699489,Sakura Sushi,NA,restaurant,NA,Bank Street,1666,NA,NA,-75.6667224,45.3762199
+10649688005,hola pub,NA,pub,NA,NA,NA,NA,NA,-75.91688,45.4120055
+10656361412,Lone Star,NA,restaurant,NA,Hazeldean Road,5734,NA,NA,-75.9127896,45.2822302
+10656361414,The Mad Radish,NA,restaurant,NA,Iber Road,24,NA,NA,-75.9111374,45.2818068
+10700896316,In's Kitchen,NA,restaurant,NA,Templeton Street,65,Ottawa,K1N 0A6,-75.6779347,45.421044
+10708126186,Egg Pops Cafe and Grill,NA,restaurant,NA,Rideau Street,358,NA,NA,-75.6835058,45.4295462
+10747284501,Hadramount Restaurant,NA,restaurant,NA,Bank Street,1930,NA,NA,-75.6630589,45.3672788
+10762000570,Halibut House Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.8735893,45.2760786
+10783414805,The Neighborhood Pub,NA,pub,NA,NA,NA,NA,NA,-75.7870558,45.3417425
+10799577576,ToBiko,NA,restaurant,NA,Boulevard Maloney Ouest,219,NA,NA,-75.6545573,45.4838535
+10930002309,The Sterling,NA,restaurant,NA,NA,NA,NA,NA,-76.197277,45.225163
+10963899605,Amiral,NA,restaurant,NA,NA,NA,NA,NA,-75.7439944,45.4218871
+10966040787,Masala Trail,NA,restaurant,NA,Hazeldean Road,5754,NA,NA,-75.9136343,45.2815313
+10966040793,Osmow's,NA,restaurant,Osmow's,Iber Road,24,NA,NA,-75.9112126,45.2817813
+55428880,Rotisserie St-Hubert - Hull,NA,restaurant,NA,Boulevard Maisonneuve,225,Gatineau,J8X 4C4,-75.71305611190652,45.43396682305375
+56104394,Perkins,NA,restaurant,Perkins,St-Laurent Boulevard,1130,NA,NA,-75.63834150806488,45.424551941067726
+68587061,St-Hubert,NA,restaurant,St-Hubert,St-Laurent Boulevard,1754,NA,K1G 1A2,-75.62708590169856,45.40501851291906
+68587545,Big Rig,NA,pub,NA,Iris Street,2750,NA,K2C 3C9,-75.78725046702876,45.347502216259954
+68587644,Senpai,NA,restaurant,NA,Carling Avenue,2280,NA,NA,-75.77427482681833,45.36795386949496
+68587725,Biagio's,NA,restaurant,NA,Richmond Road,1394,NA,NA,-75.78831275290936,45.36453071878217
+68588667,Mill Street Brew Pub,NA,pub,NA,Wellington Street,555,NA,K1R 1C5,-75.71280579741934,45.41960115582055
+68609059,Red Lobster,NA,restaurant,Red Lobster,Merivale Road,1595,NA,K2G 3J4,-75.73247749012573,45.35211044339077
+68609417,Kanata Noodle House,NA,restaurant,NA,Carling Avenue,4049,NA,NA,-75.90660447157464,45.33853181531325
+68609457,Big Rig Brewery,NA,pub,NA,Schneider Road,103,NA,K2K 1Y3,-75.90144663085351,45.339611205514
+68658320,Zola's,NA,restaurant,NA,Robertson Road,2194,NA,NA,-75.8401514253451,45.31875905429743
+68661987,Lone Star Texas Grill,NA,restaurant,NA,Lemieux Street,1211,NA,K1J 1A2,-75.6340702189943,45.4222021797143
+68853768,La Creppa Restaurant,NA,restaurant,NA,Boulevard Gréber,106,Gatineau,J8T 3P8,-75.70092014882934,45.466165648464084
+68899677,Red Lobster,NA,restaurant,Red Lobster,St-Laurent Boulevard,1499,NA,NA,-75.63035763520789,45.412755572829866
+68899703,Robbies,NA,restaurant,NA,St-Laurent Boulevard,1531,NA,NA,-75.62972953803738,45.411699624264116
+68899802,St-Hubert,NA,restaurant,St-Hubert,Boulevard Maloney Ouest,357,NA,J8P 3W1,-75.66120296389217,45.48393490045665
+70330962,Canal Ritz,NA,restaurant,NA,Queen Elizabeth Driveway,375,NA,NA,-75.68168007561114,45.404128962364126
+95171338,Milestones,NA,restaurant,NA,Baxter Road,1080,NA,NA,-75.78381599896254,45.352023000632094
+104491822,Les Brasseurs du Temps,NA,pub,NA,Rue Montcalm,170,Gatineau,J8X 2M2,-75.72675756787778,45.42985062917294
+107452021,Yangtze,NA,restaurant,NA,Somerset Street West,700,NA,NA,-75.7068196118006,45.41081633061524
+111609277,The Royal Oak,NA,pub,NA,Beechwood Avenue,1,NA,NA,-75.67781068738738,45.43867838037717
+115661316,Au Vieux Duluth,NA,restaurant,NA,Chemin de la Savane,25(4),Gatineau,J8T 8A4,-75.7040392264679,45.474102684267805
+129435334,La Cabaña,NA,restaurant,NA,Merivale Road,848,NA,NA,-75.7326059372994,45.38545322141904
+129435336,Amigo's,NA,restaurant,NA,Merivale Road,858,NA,NA,-75.73286849606161,45.38477164803981
+129840885,Bowman 's Bar & Grill,NA,pub,NA,Carling Avenue,1170,NA,NA,-75.729263557019,45.38788771134208
+131640997,Trofi,NA,restaurant,NA,Somerset Street West,343,NA,K2P 0J8,-75.69567222753867,45.4159061665592
+131640999,Union 613,NA,restaurant,NA,Somerset Street West,315,NA,K2P 0J8,-75.69497040836985,45.41620418247157
+131641001,T's Pub,NA,pub,NA,Somerset Street West,323,NA,NA,-75.69509008625543,45.4161639443793
+131641002,Prohibition Public House,NA,pub,NA,Somerset Street West,337,NA,NA,-75.69549888086397,45.41594741807236
+144458919,La Noodle,NA,restaurant,NA,Kanata Avenue,790,NA,NA,-75.90939031570996,45.31030185377406
+144458923,Sushi Kanata,NA,restaurant,NA,Kanata Avenue,655,NA,NA,-75.90972640499817,45.31020433583319
+151906219,NEXT,NA,restaurant,NA,Hazeldean Road,6400,NA,NA,-75.94320269386903,45.262914129493204
+153185724,Caffe Mio,NA,restaurant,NA,Wellington Street West,1379,NA,K1Y 3C2,-75.73942036733192,45.398361864283324
+153886833,Broadway Bar & Grill,NA,restaurant,NA,Portobello Boulevard,1968,NA,K4A 4E7,-75.46674486943705,45.465933498825436
+155015134,Kristy's Restaurant,NA,restaurant,NA,Richmond Road,809,NA,K2A 0G7,-75.7718795947815,45.381013917660155
+155022785,Westboro Beach Yacht Club Café,NA,restaurant,NA,Sir John A. Macdonald Parkway,745,NA,NA,-75.76140864633484,45.39578970237517
+155034928,Napoli's Pizzeria,NA,restaurant,NA,Richmond Road,81,NA,NA,-75.74333761232205,45.39700456144929
+155195580,The Emperor Shawarma,NA,restaurant,NA,Wellington Street West,1230,NA,NA,-75.7316340024676,45.399692004048774
+155286803,Pho Viet Taste Restaurant,NA,restaurant,NA,Wellington Street West,1395,NA,K1Y 2X2,-75.74004059326886,45.39819105020171
+155286938,The Wellington Diner,NA,restaurant,NA,Wellington Street West,1385,NA,K1Y 2X2,-75.73986283738466,45.39825054664003
+155293899,The Hollander Gastropub,NA,restaurant,NA,Holland Avenue,65,NA,NA,-75.73286150750903,45.40161487166516
+155986813,Fiazza Fresh Fired,NA,restaurant,NA,Richmond Road,108,NA,NA,-75.74863194970922,45.394719656857994
+156730365,Pizza Hut,NA,restaurant,Pizza Hut,Merivale Road,1550,NA,K2G 3J4,-75.7358329325743,45.35377809965212
+157291438,Chances R Restaurant,NA,restaurant,NA,Woodroffe Avenue,1365,NA,K2G 1V7,-75.75859907516855,45.350317902105886
+160675478,Royal Oak,NA,pub,NA,Laurier Avenue East,161,NA,NA,-75.68388803599849,45.4251514145482
+161918355,Bistro Casa Paula,NA,restaurant,NA,Chemin Vanier,50,Gatineau,NA,-75.80505564416654,45.38360202545655
+162844521,Mikes,NA,restaurant,Mikes,Boulevard Saint-Joseph,470,NA,NA,-75.73223755398445,45.44593922466381
+162855996,Houston avenue bar & grill,NA,restaurant,NA,Boulevard Montclair,7,Gatineau,J8Y 2E2,-75.72849137341387,45.44011306201273
+162964253,Milan,NA,restaurant,NA,Boulevard Maloney Ouest,740,NA,J8T 8K7,-75.67916670184748,45.48131170017324
+163144053,BonapT,NA,restaurant,NA,Boulevard de l'Hôpital,405,NA,J8T 8E2,-75.68913798562158,45.48989158039008
+163762363,African Kitchen,NA,restaurant,NA,Holland Avenue,81,NA,NA,-75.73242136653795,45.40098108994647
+167692074,Fatboys Southern Smokehouse,NA,restaurant,NA,Murray Street,34,NA,NA,-75.69476966855649,45.42890630260132
+167834835,Carlos Pizza,NA,restaurant,NA,Harmer Avenue North,60,NA,NA,-75.73268596661629,45.39666463508322
+168121434,Boston Pizza,NA,restaurant,Boston Pizza,Boulevard de la Gappe,61,NA,J8T 0B5,-75.7173993479955,45.465099098755
+168259537,Benny & Co.,NA,restaurant,NA,Chemin Vanier,415,Gatineau,NA,-75.80787355066438,45.41397849989828
+174190031,Au Coin du Camionneur,NA,restaurant,NA,Route 148,3228,NA,NA,-76.09795620163818,45.552316949779645
+175677672,Boston Pizza,NA,restaurant,Boston Pizza,Carling Avenue,1640,NA,NA,-75.74831886149298,45.37953851706154
+182249098,Pizza Hut,NA,restaurant,Pizza Hut,Boulevard Gréber,325(3),NA,J8T 8J3,-75.7003664107578,45.47756340962102
+182249100,Resto Bistro Rumeur,NA,restaurant,NA,NA,NA,NA,NA,-75.69392099774606,45.48033556670338
+182249104,Scores,NA,restaurant,NA,Boulevard Maloney Ouest,1000,Gatineau,J8T 3R6,-75.69308491772743,45.47800298737531
+182249106,Resto Bar La Drave,NA,restaurant,NA,Rue Bellehumeur,195,Gatineau,J8T 8H3,-75.69244504538054,45.479484231270966
+191017583,Palki Cuisine of India,NA,restaurant,NA,Russell Road,6501,Carlsbad Springs,NA,-75.45582915787303,45.36950005260466
+195441386,Fisherman Palace Chinese Restaurant,NA,restaurant,NA,Munro Street,45,NA,NA,-76.14003834951666,45.13694294883914
+196504530,The Carleton Tavern,NA,pub,NA,Armstrong Street,223,NA,NA,-75.73014146758027,45.40210656551572
+196942582,Mia's Indian Cuisine,NA,restaurant,NA,Richmond Road,917,NA,NA,-75.77483419979806,45.3780833517407
+201851182,Swiss Chalet,NA,restaurant,Swiss Chalet,Bank Street,1910,NA,NA,-75.66286697040069,45.36846821496737
+209263485,Scores,NA,restaurant,Scores,NA,NA,NA,NA,-75.6452588706466,45.4132817582976
+218465319,Thruway Restaurant,NA,restaurant,NA,Highway 7,10432,NA,NA,-76.12201514967617,45.131691400174425
+219306003,Johnny Canuck's,NA,restaurant,NA,Bank Street,4768,NA,K1T 3W7,-75.59404189623832,45.31843251146345
+221090932,Newport,NA,restaurant,NA,Churchill Avenue North,322,NA,NA,-75.75555042916517,45.39457266253729
+223543013,Bâton Rouge,NA,restaurant,NA,Boulevard Saint-Joseph,350,Gatineau,J8Y 3Y8,-75.73243669537919,45.442787934222885
+227985073,The Brookfield Restaurant,NA,restaurant,NA,Brookfield Road,704,NA,NA,-75.68949325102336,45.372922300215
+230118842,Lebanese Palace,NA,restaurant,NA,Industrial Avenue,909,NA,NA,-75.62833114937018,45.406731301690215
+231975871,Montana's,NA,restaurant,Montana's,Earl Grey Drive,140,NA,NA,-75.91417317740078,45.30882875555863
+231975935,Kelsey's,NA,restaurant,Kelsey's,Earl Grey Drive,130,NA,NA,-75.91375785293455,45.30962879983543
+231975936,Moxie's,NA,restaurant,NA,Earl Grey Drive,601,NA,NA,-75.91186410546825,45.309605055311785
+232675406,Lapointe,NA,restaurant,NA,Colchester Square,60,NA,NA,-75.88980372333894,45.32084217357899
+233576695,Boston Pizza,NA,restaurant,Boston Pizza,Roland Michener Drive,135,NA,NA,-75.91228671584594,45.30835468442802
+233576696,Jack Astor's,NA,restaurant,Jack Astor's,Roland Michener Drive,125,NA,NA,-75.91306521506033,45.30847335410363
+233662994,Main Street Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.21856150287114,45.315025618041545
+233810239,Buster's Bar & Grill,NA,restaurant,NA,Hazeldean Road,420,NA,K2L 4B2,-75.88130048069299,45.301058988566645
+233810790,Sukhothai,NA,restaurant,NA,Robertson Road,2134,NA,NA,-75.83539140747358,45.32082061845048
+233811394,Mort's Pub,NA,pub,NA,Robertson Road,2011,NA,NA,-75.82741799618785,45.32482750093654
+233898921,East Side Mario's,NA,restaurant,East Side Mario's,Robertson Road,1861,NA,NA,-75.82055957031994,45.328458787359835
+233902466,Villalucia Supper Club,NA,restaurant,NA,Carling Avenue,3430,NA,NA,-75.83684162603119,45.35205480378996
+233903078,Summerhays Restaurant,NA,restaurant,NA,Baseline Road,1973,NA,NA,-75.76207281706989,45.35220614894465
+233910513,Cora,NA,restaurant,Cora,Carling Avenue,4055,NA,NA,-75.9071056264543,45.3389436893469
+234032097,Hurley's,NA,restaurant,NA,Stonehaven Drive,60,NA,NA,-75.85714145070486,45.29149130109784
+236476397,Thyme & Again,NA,restaurant,NA,Wellington Street West,1255,NA,NA,-75.7332754212282,45.39968416862052
+236481870,The Elmdale Oyster House & Tavern,NA,pub,NA,Wellington Street West,1084,NA,NA,-75.72518006126316,45.402999339562434
+237107742,Pubwells,NA,restaurant,NA,Preston Street,96,NA,NA,-75.71471776731094,45.4088741930565
+237109083,The Prescott,NA,restaurant,NA,Preston Street,379,NA,NA,-75.70909853377748,45.4004969054673
+237109085,Kuidaore Izakaya,NA,restaurant,NA,Preston Street,420,NA,NA,-75.70963777353242,45.400342138536445
+237109086,Allegro Ristorante,NA,restaurant,NA,Preston Street,422,NA,NA,-75.70955669867884,45.400241099400276
+237109323,Ciccio Ristorante,NA,restaurant,NA,Preston Street,330,NA,NA,-75.71088351206397,45.40242798190518
+237159461,Aahar - The Taste of India,NA,restaurant,NA,Churchill Avenue North,727,NA,K1Z 5G7,-75.74686284843523,45.38121254845902
+237315146,Yuzumi,NA,restaurant,NA,Holland Avenue,83,NA,NA,-75.73236184195065,45.40091369144027
+237315379,The Momo Spot,NA,restaurant,NA,Holland Avenue,79,NA,NA,-75.73244957047027,45.401041198278136
+237593148,Golden Palace,NA,restaurant,NA,Carling Avenue,2195,NA,NA,-75.77174090034143,45.36998505029043
+238085276,Miss Molly's Breakfast Club,NA,restaurant,NA,Laperriere Avenue,1577,NA,NA,-75.74571703608923,45.376720945203296
+238119932,Clocktower Brew Pub,NA,pub,NA,Bank Street,575,NA,NA,-75.6911365435828,45.40835569422198
+238120313,Boston Pizza,NA,restaurant,Boston Pizza,Bank Street,640,NA,NA,-75.69051957655962,45.40630128898822
+239060118,Chez Monik,NA,restaurant,NA,Boulevard Saint-Joseph,33,Gatineau,J8Y 3V8,-75.73371815393611,45.42561582572053
+239818804,Montana's,NA,restaurant,Montana's,Merivale Road,1711,NA,K2G 3K2,-75.73004378347431,45.3457648263975
+242712129,Hog's Back Restaurant,NA,restaurant,NA,Dynes Road,888,NA,NA,-75.7045364272165,45.36994806532922
+242713825,Jadeland Restaurant,NA,restaurant,NA,Somerset Street West,625,NA,NA,-75.70455384944086,45.412195031400216
+242714052,Saigon Boy Noodle House,NA,restaurant,NA,Somerset Street West,648,NA,NA,-75.7048854247696,45.411633881561514
+242719345,PHO 99 Beef Noodle Soup Restaurant,NA,restaurant,NA,Lebreton Street North,120,NA,NA,-75.70786973373795,45.40712831602666
+244243182,Silk Road Restaurant,NA,restaurant,NA,Cyrville Road,1021,NA,NA,-75.63588549584169,45.42572116889257
+244243194,Biggs,NA,restaurant,NA,St-Laurent Boulevard,1099,NA,NA,-75.63770938661051,45.426042143993755
+244442925,Hardstone Grill,NA,restaurant,NA,Roydon Place,1,NA,K2E 1A3,-75.72555776569494,45.33865292195689
+246860638,Mia's Indian Cuisine,NA,restaurant,NA,St-Laurent Boulevard,327,NA,NA,-75.65157619532471,45.44999327091971
+246860642,Cat's,NA,restaurant,NA,St-Laurent Boulevard,319,NA,NA,-75.65170585362479,45.450259349426105
+249256392,Ten Sushi Japanese Restaurant,NA,restaurant,NA,Bank Street,1490,NA,NA,-75.67039040728609,45.38171082632039
+249256393,Colonnade Pizza,NA,restaurant,NA,Bank Street,1500,NA,NA,-75.66934366022296,45.380822989998634
+250548973,3 Brewers,NA,restaurant,3 Brasseurs,Kanata Avenue,565,NA,K2T 1K5,-75.90825478953504,45.31006549907102
+250911753,Le Forum,NA,restaurant,NA,NA,NA,NA,NA,-75.6985861868053,45.456947208049485
+255396635,Das Lokal,NA,restaurant,NA,Dalhousie Street,190,NA,NA,-75.69423683466985,45.432176671671414
+256018211,Mazarine,NA,restaurant,NA,Kent Street,282,NA,K2P 2A4,-75.69921485164447,45.41496371962882
+257157053,Reynolds Restaurant,NA,restaurant,NA,Clyde Avenue North,874,NA,NA,-75.74895361777425,45.37659031859338
+257904944,Silver Spoon,NA,restaurant,NA,Carling Avenue,1775,NA,NA,-75.75416790184846,45.377694717022464
+258269797,La Roma Restaurant,NA,restaurant,NA,Preston Street,430,NA,NA,-75.70923739283425,45.39977420623182
+258270128,Il Primo,NA,restaurant,NA,Preston Street,371,NA,NA,-75.70937583572483,45.40080221661773
+258271691,Wandee Thai Cuisine,NA,restaurant,NA,Beech Street,40,NA,NA,-75.70780135272264,45.40087983560043
+258419136,North & Navy,NA,restaurant,NA,Nepean Street,226,NA,K2P 0B8,-75.6990761011765,45.416710932627865
+259846788,Hing Wah Restaurant,NA,restaurant,NA,Bridge Street,NA,NA,NA,-76.14801820023183,45.141637099993474
+262721279,East India Company,NA,restaurant,NA,Robertson Road,1993,NA,K2H 5B7,-75.82661389358714,45.32502444083694
+262861747,Two Six {Ate},NA,restaurant,NA,Preston Street,268,NA,NA,-75.71193867107623,45.404199313365446
+262861748,Kochu sushi and korean food,NA,restaurant,NA,Preston Street,266,NA,NA,-75.71194575721452,45.40427947659102
+262861749,DreamLand Cafe,NA,restaurant,NA,Preston Street,262,NA,NA,-75.71201660560423,45.40433196812683
+262861750,Green Papaya,NA,restaurant,NA,Preston Street,256,NA,NA,-75.71209811205175,45.404422078000486
+262866731,Giovanni,NA,restaurant,NA,Preston Street,362,NA,NA,-75.71018628233045,45.40135014106485
+262866732,La Favorita,NA,restaurant,NA,Preston Street,356,NA,NA,-75.71039827132186,45.40149059706684
+262866733,Flapjack's Canadian Diner,NA,restaurant,NA,Preston Street,354 A,NA,NA,-75.71051083477258,45.401563711730006
+262901797,Cornerstone,NA,restaurant,NA,Clarence Street,92,NA,NA,-75.69270593897447,45.429021155345296
+264399747,Riviera,NA,restaurant,NA,Sparks Street,62,NA,NA,-75.69632996257567,45.423069072887856
+264693949,Mama Rosa Pizzaria,NA,restaurant,NA,Laird Street,18,NA,K7S 1W5,-76.34406510313453,45.433617247234345
+270213045,Green Papaya,NA,restaurant,NA,Baseline Road,1374,NA,NA,-75.73701460822265,45.362225183465725
+273545127,Larrimac Golf Club,NA,restaurant,NA,Route 105,1148,Chelsea,J9B 1P4,-75.82742945100028,45.55436164931071
+273574749,Le Pub Chelsea,NA,pub,NA,Chemin Old Chelsea,238,Chelsea,J9B 1J3,-75.81030122557918,45.503227953558145
+273586390,Mamma Teresa,NA,restaurant,NA,Chemin Old Chelsea,254,Chelsea,J9B 1R5,-75.81106809615889,45.503264452861124
+273594641,Chalet Principal,NA,restaurant,NA,NA,NA,NA,NA,-75.85121905448977,45.509086040310684
+273595189,Skyline Chalet,NA,restaurant,NA,NA,NA,NA,NA,-75.83662358482346,45.512017945051745
+273599894,L’Orée du Bois,NA,restaurant,NA,Chemin Kingsmere,15,Chelsea,J9B 1R7,-75.81251590353912,45.50091921812353
+275479191,Small Street Barbecue Restaurant,NA,restaurant,NA,Bank Street,1792,NA,NA,-75.66462303383193,45.37230134251728
+275694595,The Barley Mow Pub,NA,pub,NA,Carp Road,1160,NA,NA,-75.94035374497838,45.268199812523896
+286940851,Ng's Cuisine,NA,restaurant,NA,Merivale Road,1499,NA,K2E 5P3,-75.73655370584405,45.358164897345
+292460592,Jersey Joe's,NA,restaurant,NA,Union Street,8,Smiths Falls,K7A 2S1,-76.02077308060684,44.91009844275688
+294777461,Alirang,NA,restaurant,NA,Merivale Road,1485,NA,K2E 5P3,-75.7354724861223,45.35948837927379
+295413533,Isabella Pizzeria,NA,restaurant,NA,Isabella Street,118,NA,NA,-75.68823342559956,45.409836677580195
+295546825,Le Pub Du Bon Vivant,NA,restaurant,NA,Promenade du Portage,70,Gatineau,J8X 2K1,-75.71820888289055,45.42488433755951
+298460056,Margarita,NA,restaurant,NA,Bank Street,895,NA,K1S 3W4,-75.68666982611443,45.40066168834873
+303113273,The Jolly Taxpayer,NA,restaurant,NA,Woodroffe Avenue,3050,NA,K2J 4G3,-75.72447092430016,45.28444161944123
+305655247,Newfoundland Pub,NA,pub,NA,Montréal Road,940,NA,NA,-75.62793488108085,45.44664401474093
+305655362,Dragon Dining Lounge,NA,restaurant,NA,Montréal Road,971,NA,K1K 0S6,-75.62707163496971,45.44748845500752
+305804889,Host Indian Cuisine,NA,restaurant,NA,Montréal Road,622,NA,NA,-75.64172652278977,45.44241343927999
+305805011,Swiss Chalet,NA,restaurant,Swiss Chalet,Montréal Road,540,NA,NA,-75.64544595812232,45.440889274096406
+307230162,Frerot,NA,restaurant,NA,Boulevard Gréber,78,Gatineau,NA,-75.7005275962445,45.46402542841009
+307230983,Saigon Thai,NA,restaurant,NA,Boulevard Gréber,69,Gatineau,J8T 3P7,-75.6994273007904,45.46303239997995
+307636866,Le Club House,NA,restaurant,NA,Boulevard Gréber,109,Gatineau,J8T 3P9,-75.6999231838803,45.46602117708398
+307655023,Patio Vidal,NA,restaurant,NA,Boulevard Gréber,470,NA,NA,-75.7031935501206,45.48821275053082
+308485624,O'Mulligans,NA,pub,NA,Boulevard Maloney Est,889,Gatineau,NA,-75.59920260088342,45.489224200559605
+310454236,Signatures,NA,restaurant,NA,Laurier Avenue East,453,NA,K1N 6R4,-75.67470776612878,45.42917200798362
+312879791,Mamma Teresa,NA,restaurant,NA,Somerset Street West,298,NA,NA,-75.69395515282389,45.416093898886665
+314352293,Pizza Express,NA,restaurant,NA,Boulevard Maloney Est,175,NA,J8P 1B9,-75.64968092732535,45.48415463823752
+315013624,Finnigans Pub,NA,pub,NA,Montréal Road,347,NA,NA,-75.65629463854147,45.4381864777252
+315539803,Mumbai Masala Grill,NA,restaurant,NA,St. Joseph Boulevard,2181,NA,NA,-75.53383126056511,45.46748830031806
+315560681,Greely Hot Pizzeria,NA,restaurant,NA,Meadow Drive,1341,NA,K4P 1N3,-75.56215828535467,45.265356579171865
+317132583,Beurre Sale,NA,restaurant,NA,Rue Principale,31,Gatineau,J9H 3L2,-75.85181650803439,45.394655424284174
+319187559,Kemptville Family Restaurant,NA,restaurant,NA,County Road 43,2794,NA,NA,-75.64823914651373,45.02355899710639
+319204712,Country Kitchen Restaurant,NA,restaurant,NA,County Road 31,2159,NA,NA,-75.37593786603576,45.08758302317729
+319811085,Safari Grill,NA,restaurant,NA,St. Patrick Street,360,NA,NA,-75.68914446232898,45.43206839557024
+319963370,Shifa Restaurant,NA,restaurant,NA,Cobden Road,1115,NA,NA,-75.77787497066197,45.35279499031235
+320898322,Brother Wu,NA,restaurant,NA,St-Laurent Boulevard,1060,NA,NA,-75.63943087733159,45.42683197751841
+320898350,Boston Pizza,NA,restaurant,Boston Pizza,St-Laurent Boulevard,1055,NA,K1K 3B1,-75.63841239612006,45.42704210230324
+321072596,Golden Bowl,NA,restaurant,NA,Cyrville Road,1598,NA,NA,-75.61056947384863,45.41805741144227
+322817753,EVOO Greek Kitchen,NA,restaurant,NA,Preston Street,438,NA,NA,-75.70892427923904,45.39916191216506
+324322251,Happy Lam,NA,restaurant,NA,Bank Street,5469,NA,NA,-75.57111023086519,45.282273046968776
+326305279,Gavan's,NA,pub,NA,Rue de Clarendon,1157,NA,NA,-76.23084738468813,45.52069131824354
+330091905,Casse Croute Maxi Frite,NA,restaurant,NA,Boulevard Maloney Est,972,Gatineau,NA,-75.59295075113575,45.490611106512205
+330094273,Cantina,NA,restaurant,NA,NA,NA,NA,NA,-75.56648764859843,45.51062514590674
+330375800,Le Buffet des continents,NA,restaurant,NA,Impasse de la Gare-Talon,4,NA,J8T 0B1,-75.68894087077996,45.48030307429531
+330376419,Phoenix Du Vietnam,NA,restaurant,NA,Boulevard Gréber,179,Gatineau,J8T 3R1,-75.7007395017609,45.47203940011509
+330376586,Canton,NA,restaurant,NA,Boulevard Gréber,199,Gatineau,J8T 3R1,-75.7008810065892,45.473075883618606
+330376658,L'Oncle Ho,NA,restaurant,NA,Boulevard Gréber,203,Gatineau,J8T 3R1,-75.70095541341989,45.47334942128213
+358241729,Sterling,NA,restaurant,NA,Rue Jacques-Cartier,835,Gatineau,NA,-75.6974069171715,45.456282017921325
+361647695,Sonny's Bar & Grill,NA,pub,NA,Baxter Road,1119,NA,K2C 1M1,-75.78220039767939,45.350986121592705
+361986655,Pho Bo Ga 1,NA,restaurant,NA,Lebreton Street North,12,NA,NA,-75.70950148513184,45.40968870423883
+364192395,Nickel's Deli,NA,restaurant,NA,Boulevard de l'Hôpital,120,NA,J8T 8M2,-75.68690297209241,45.48087491529218
+367865980,Le Flamboyant,NA,restaurant,NA,Boulevard Saint-René Ouest,205,NA,J8P 2V5,-75.65464997752343,45.4922103613267
+368638909,Brasserie La Vieille,NA,restaurant,NA,Rue Notre-Dame,377,Gatineau,J8P 1L6,-75.64104234951567,45.48159291584934
+370464403,Social Thai,NA,restaurant,NA,Bank Street,399,Ottawa,K2P 1Y3,-75.69433504990444,45.41331510152619
+371773893,La Maison Szechuan,NA,restaurant,NA,Rue Saint-Louis,1115,Gatineau,J8T 2R8,-75.69779938017416,45.46231960710156
+371782946,Meule Et Caquelon,NA,restaurant,NA,Boulevard Gréber,74,Gatineau,J8T 3P8,-75.70105495522749,45.463457165644684
+373162558,Boston Pizza,NA,restaurant,Boston Pizza,Boulevard des Grives,247,Gatineau,J9A 0C7,-75.78022638999666,45.43359597343249
+380253018,Al's Diner,NA,restaurant,NA,Clyde Avenue North,834,NA,NA,-75.74973800087527,45.37786505038033
+383070834,Rest'o'bord Le Pirate,NA,restaurant,NA,Rue Jacques-Cartier,1067,Gatineau,J8T 2W3,-75.69004080270773,45.45712233282962
+383070855,Noche Maya,NA,restaurant,NA,Rue Jacques-Cartier,895,Gatineau,NA,-75.69504061997498,45.455864534860936
+383070867,Mon Cafe Bistro,NA,restaurant,NA,Rue Jacques-Cartier,943,Gatineau,NA,-75.69385294679016,45.45587634923341
+384129133,Holly's Hot Chicken,NA,restaurant,NA,Armstrong Street,45,NA,NA,-75.7237676870416,45.406130530356016
+387943099,Cumberland pizza,NA,restaurant,NA,Nelson Street,152,NA,NA,-75.68452925226951,45.42997680253648
+387943902,Alirang,NA,restaurant,NA,Nelson Street,134,NA,NA,-75.68494081234502,45.43029031548151
+402363821,Mati,NA,restaurant,NA,Preston Street,428,NA,NA,-75.70940000482373,45.4000226258872
+406524393,Pub 101,NA,pub,NA,York Street,101,NA,NA,-75.69116207277804,45.42917953208186
+412293087,Cora,NA,restaurant,Cora,Rue Gamelin,1,Gatineau,J8Y 1V4,-75.73306590681054,45.4435730915567
+412293847,Chez Red Grillade,NA,restaurant,NA,Boulevard Saint-Joseph,321,NA,J8Y 3Z1,-75.73311972685339,45.440766085069995
+412294156,Le BBQ Shop,NA,restaurant,NA,Boulevard Saint-Joseph,315,Gatineau,J8Y 3Z1,-75.73312538497886,45.44049201076412
+413955342,Caramela,NA,restaurant,NA,Boulevard Saint-Joseph,651,NA,J8Y 4B2,-75.7385947472913,45.4517648819207
+413956336,Pacini,NA,restaurant,NA,Boulevard Saint-Joseph,615,Gatineau,J8Y 4A6,-75.73743014991736,45.450832648976
+413958878,Benny & Co.,NA,restaurant,Benny & Co.,Boulevard Saint-Joseph,531,Gatineau,J8Y 4A1,-75.7346684569774,45.44860076951492
+413958884,La Station,NA,restaurant,NA,Boulevard Saint-Joseph,611,Gatineau,J8Y 4A6,-75.73675778364556,45.45022889941021
+421705740,Shoeless Joe's,NA,restaurant,NA,Innes Road,4444,NA,NA,-75.48649835331237,45.46086315936608
+422903536,Colonnade Pizza,NA,restaurant,NA,Greenbank Road,896,NA,K2J 1S8,-75.75604895569653,45.2857582207997
+428195975,Le Petit Dakar,NA,restaurant,NA,Boulevard Saint-Joseph,188,Gatineau,J8Y 3W9,-75.73301039891076,45.433339395249845
+428195988,Pho Vietnamien,NA,restaurant,NA,Boulevard Saint-Joseph,174,Gatineau,J8Y 3W9,-75.73296636005497,45.432802304414395
+428787185,Le Forain Restaurant,NA,restaurant,NA,Boulevard Saint-Joseph,189,Gatineau,J8Y 3X2,-75.73369776194328,45.43339347490498
+429219055,Lone Star Texas Grill,NA,restaurant,NA,Strandherd Drive,4275,NA,K2J 6E5,-75.78146146980663,45.26990270925971
+429219056,East Side Mario's,NA,restaurant,East Side Mario's,Strandherd Drive,4235,NA,NA,-75.78088269080115,45.26895807460535
+429219057,Montana's,NA,restaurant,Montana's,Strandherd Drive,4245,NA,NA,-75.78077945385358,45.26919409209531
+445605693,Host India,NA,restaurant,NA,Limebank Road,4456,NA,NA,-75.67263581531843,45.28721183178313
+447043296,La Fiesta Latina,NA,restaurant,NA,Somerset Street West,565,NA,NA,-75.70275503102857,45.4129492470139
+447277014,Bambu,NA,restaurant,NA,Riverside Drive,3993,NA,NA,-75.69271543909085,45.33276677050214
+447277065,Moxie's,NA,restaurant,NA,Riverside Drive,3967,NA,NA,-75.69250065995669,45.33405598783163
+447587656,Little Garden Restaurant,NA,restaurant,NA,Lancaster Road,2786,NA,NA,-75.60548436010997,45.394601512699396
+452937089,The Grand Pizzeria & Bar,NA,restaurant,NA,George Street,74,NA,NA,-75.69143655497713,45.42709585838944
+457999971,Mandarin,NA,restaurant,NA,Tenth Line Road,2055,NA,NA,-75.48613329665481,45.459073458962905
+459083562,Bistro Coqlicorne,NA,restaurant,NA,Rue Laval,59,Gatineau,J8X 3H1,-75.7164018386471,45.427365101179724
+460242956,Boston Pizza,NA,restaurant,Boston Pizza,West Hunt Club Road,521,NA,NA,-75.7252010358373,45.334685433515624
+460246044,Mexi's,NA,restaurant,NA,West Hunt Club Road,540,NA,NA,-75.72677912418746,45.33318554657044
+460246049,East Side Mario's,NA,restaurant,East Side Mario's,West Hunt Club Road,526,NA,NA,-75.72573019997118,45.33361166116747
+460246050,Thi Fusion,NA,restaurant,NA,West Hunt Club Road,500,NA,NA,-75.72429525404004,45.334268718907005
+460436585,University Bar & Grill,NA,pub,NA,Somerset Street East,196,NA,NA,-75.67988209968921,45.42203874960963
+460440201,Flora Hall Brewing,NA,pub,NA,Flora Street,37,NA,K2P 1A7,-75.69328881162477,45.410849191649895
+460449455,Mason-Dixon Kitchen + Bar,NA,restaurant,NA,Preston Street,424,NA,NA,-75.70947256092053,45.400111445403354
+460669832,Habesha Restaurant,NA,restaurant,NA,Montréal Road,99,NA,NA,-75.66701504951226,45.434153049051595
+460956122,Atelier,NA,restaurant,NA,Rochester Street,540,NA,K1S 4M1,-75.70656388609596,45.399570101907955
+461017216,Restaurant Alpina,NA,restaurant,NA,Chemin de la Montagne,1189,Gatineau,J9J 3S2,-75.82175221175369,45.46332945757467
+461161249,Alice,NA,restaurant,NA,Adeline Street,40,NA,NA,-75.70653519077868,45.39903061192735
+462790350,Dinty's Restaurant,NA,restaurant,NA,Chemin d'Aylmer,620,Gatineau,J9H 1B4,-75.80747012554184,45.399399060429374
+463500864,O Victoria 1890,NA,restaurant,NA,Rue Front,39,Gatineau,J9H 4X3,-75.85516950143142,45.397498996930395
+464796164,Restaurant Lee,NA,restaurant,NA,Chemin de Montréal Est,96,NA,NA,-75.40780975354822,45.5460286220859
+465035610,Le Roi des Patates Frites,NA,restaurant,NA,Rue Maclaren Ouest,120,Gatineau,J8L 1K1,-75.41543511831705,45.58673965082377
+465036736,Dragon Rouge,NA,restaurant,NA,NA,NA,NA,NA,-75.41173537491305,45.58796566227391
+465626103,Resto du Progrès,NA,restaurant,NA,Rue du Progrès,115,Gatineau,J8M 1T1,-75.49412808710555,45.523535929424476
+465967612,Rivera Pizza,NA,restaurant,NA,Rue Georges,937,NA,NA,-75.42491640353313,45.56874787507427
+466435466,St-Hubert,NA,restaurant,St-Hubert,Rue Georges,99,NA,NA,-75.4361547583534,45.55292175266608
+466682492,J:unique Kitchen,NA,restaurant,NA,Cooper Street,381,NA,NA,-75.696373015729165,45.41649064044865
+466690718,D. J. Nels Plus,NA,restaurant,NA,Montréal Road,313,NA,NA,-75.65816413766542,45.437599398223945
+467485599,Hung Fatt Chinese Food,NA,restaurant,NA,Montréal Road,2108,NA,NA,-75.5924154038717,45.44779987180788
+467485601,Gabriel Pizza,NA,restaurant,Gabriel Pizza,Montréal Road,2094,NA,NA,-75.59293395615526,45.447428185641556
+467487177,Ha Noi Pho,NA,restaurant,NA,Innes Road,4312,NA,NA,-75.49324310306291,45.45894587706517
+467495899,Chez Vickie,NA,restaurant,NA,Chemin des Érables,258,Gatineau,J8V 3Z8,-75.73919882850497,45.5132228416872
+468194033,Boston Pizza,NA,restaurant,Boston Pizza,Conroy Road,2980,NA,K1G 6C1,-75.6302447423441,45.38276766402997
+469722747,Marlborough Pub,NA,pub,NA,Roger Stevens Drive,2364,NA,NA,-75.72029188479144,45.12960900074029
+469731369,Riverbend Pub,NA,pub,NA,River Road,3256,NA,NA,-75.63279250738437,45.132861068887536
+469780517,The Swan on the Rideau,NA,restaurant,NA,River Road,2730,NA,K4M 1B4,-75.63054163362439,45.162155827510844
+469799095,Richmond Gourmet Restaurant,NA,restaurant,NA,McBean Street,3518,NA,NA,-75.83520811789384,45.191137052823564
+469799288,Danbys Roadhouse,NA,pub,NA,Perth Street,6127,NA,NA,-75.8391157879133,45.19458852349764
+469799303,Royals Restaurant,butcher,restaurant,NA,Perth Street,6152,NA,NA,-75.83969606408658,45.193351347344176
+469951628,Metcalfe Pizza,NA,restaurant,NA,Victoria Street,8202,NA,NA,-75.4738433306741,45.23521380507126
+469954958,Metcalfe Fare,NA,restaurant,NA,Victoria Street,7905,NA,NA,-75.4912854231513,45.22883545179063
+470022425,Black Dog Bistro,NA,restaurant,NA,Manotick Main Street,5540,NA,NA,-75.68477234168355,45.22526322431872
+470022614,Take Another Bite,NA,restaurant,NA,Mill Street,1135,NA,NA,-75.68404465065443,45.226230832429714
+470022627,Khao Yum,NA,restaurant,NA,Manotick Main Street,5562 C,NA,NA,-75.68320992758301,45.224015523637306
+470022657,Miller's Oven,NA,restaurant,NA,Mill Street,1137,NA,NA,-75.6842139673472,45.226102875857606
+470022684,The Vault Bistro,NA,pub,NA,Manotick Main Street,5539,NA,NA,-75.68433104257429,45.22549793505155
+470022788,The Mill Tavern,NA,pub,NA,Manotick Main Street,5544,NA,NA,-75.68426180206919,45.225007977343566
+470091553,East Side Mario's,NA,restaurant,East Side Mario's,Terry Fox Drive,651,NA,NA,-75.89986203424226,45.2968458657669
+470245223,Ze Kitchen,NA,restaurant,NA,Old Montreal Road,2607,NA,NA,-75.40457737477477,45.517724771751645
+470334781,Navan Restaurant,NA,restaurant,NA,Colonial Road,1211,NA,NA,-75.42587937379679,45.42091263377459
+470334951,Castello's Pizza,NA,restaurant,NA,Colonial Road,1223,NA,NA,-75.42499899825194,45.42111949954031
+470386790,Swiss Chalet,NA,restaurant,Swiss Chalet,Terry Fox Drive,653,NA,NA,-75.89946714706444,45.29648582746821
+470386791,Darcy McGee's,NA,restaurant,NA,Terry Fox Drive,655,NA,NA,-75.89887481637359,45.29616986035503
+470425226,The Royal Oak,NA,pub,NA,Strandherd Drive,4110,NA,NA,-75.76785518549072,45.259820952980725
+470442512,The Barley Mow,NA,pub,NA,Greenbank Road,1481,NA,K2J 4Y6,-75.74796375519645,45.274050713200396
+470443207,Boston Pizza,NA,restaurant,Boston Pizza,Greenbank Road,1681,NA,K2J 4Y6,-75.74729830346676,45.272985532750546
+470444077,Kelsey's,NA,restaurant,Kelsey's,Marketplace Avenue,75,NA,K2J 5G4,-75.74194192739593,45.26994391475779
+470444130,Swiss Chalet,NA,restaurant,Swiss Chalet,Strandherd Drive,3775,NA,K2J 4B1,-75.74958056075867,45.268848236009475
+470444280,Broadway Bar & Grill,NA,restaurant,NA,Strandherd Drive,3777,NA,K2J 4B1,-75.74826558370724,45.267853456236416
+470452075,1000 Sushi Islands,NA,restaurant,NA,Riocan Avenue,129,NA,K2J 5G3,-75.73863207654526,45.269345374312614
+470836259,Broadway Bar & Grill,NA,restaurant,NA,Earl Armstrong Road,665,NA,NA,-75.69568368198524,45.269904479427545
+471171449,The Jack Ketch,NA,restaurant,NA,Stittsville Main Street,1536,NA,NA,-75.91993937188772,45.25736410596469
+471204059,ParsItal,NA,restaurant,NA,Carp Road,1133,NA,NA,-75.94016010146485,45.268943479321656
+471616681,Papa Sam's,NA,restaurant,NA,Stittsville Main Street,1374,NA,NA,-75.92647150809485,45.26291733335638
+471797779,The Glen,NA,pub,NA,Hazeldean Road,6081,NA,NA,-75.93102882968122,45.27318479809822
+471898454,Occo Kitchen,NA,restaurant,NA,Innes Road,4240,NA,NA,-75.49720189755321,45.45695983370478
+472168773,Country Place Chinese Restaurant,NA,restaurant,NA,Merivale Road,1969,NA,NA,-75.7192904337831,45.32703319690685
+472413803,Angry Dragonz,NA,restaurant,NA,River Road,300,NA,NA,-75.69069178337386,45.32034567607943
+472844028,Mandarin,NA,restaurant,NA,West Hunt Club Road,290,NA,K2E 0B7,-75.71056045775948,45.338549951095665
+472844031,Prince Gourmet,NA,restaurant,NA,West Hunt Club Road,280,NA,K2E 0B7,-75.71193939472369,45.33946705040025
+472844034,Baton Rouge,NA,restaurant,NA,West Hunt Club Road,270,NA,K2E 0B7,-75.7109760716111,45.33958003823878
+472844036,Jack Astor's,NA,restaurant,Jack Astor's,West Hunt Club Road,310,NA,NA,-75.71287537925771,45.33906522136839
+473063670,Milestones,NA,restaurant,NA,Kanata Avenue,435,NA,NA,-75.90712185857791,45.31159323532475
+473083809,Vittoria Trattoria,NA,restaurant,NA,Rivergate Way,3625,NA,K1V 1Z9,-75.6926062151277,45.34581267185027
+473083898,The Keg,NA,restaurant,The Keg,Hunt Club Road,376,NA,NA,-75.68216819116384,45.33847909063378
+473083950,Riverside Pub,NA,pub,NA,Riverside Drive,3673,NA,K1V 0P5,-75.69047896079279,45.34370216788493
+473084310,Pho Kam Long,NA,restaurant,NA,Rivergate Way,3635,NA,NA,-75.69203063527245,45.34474104531754
+473202383,The Royal Oak,NA,pub,NA,Meadowbrook Road,2067,NA,NA,-75.60116755693241,45.42736333286166
+473202386,Sushi Kan,NA,restaurant,NA,Innes Road,1910,NA,NA,-75.59791414286362,45.41797365417405
+473202698,Kanata Noodle House,NA,restaurant,NA,Innes Road,1930,NA,NA,-75.59684999854377,45.418336000216456
+473224057,Topper's Pizza,NA,restaurant,Topper's Pizza,Merivale Road,1691,NA,NA,-75.7302830183178,45.34622033398472
+473645896,Pearl House,NA,restaurant,NA,Beaverwood Road,1160,NA,K4M 1A6,-75.68205339931647,45.222824700532115
+473653289,Bistro Vitalia,NA,restaurant,NA,Rue Principale,100,Gatineau,J9H 3L8,-75.84549850178375,45.39467500121429
+473653320,Bisto Mexicana,NA,restaurant,NA,Rue Principale,129,Gatineau,J9H 3M5,-75.84320373057756,45.39521889575966
+473653347,Lanterne de Szechwan,NA,restaurant,NA,Rue Principale,148,Gatineau,J9H 3M4,-75.84174968022187,45.39494746379211
+473653348,Café Mulligan,NA,restaurant,NA,Rue Principale,149,Gatineau,J9H 3M7,-75.84122393392717,45.3954376009144
+473653355,Antonyme,NA,restaurant,NA,Rue Principale,150,Gatineau,J9H 3M4,-75.84151716473919,45.394949067132934
+473653358,Bistro L'Autre Oeil,NA,pub,NA,Rue Principale,152,Gatineau,J9H 3M8,-75.84063911911107,45.39492872971056
+473653392,Amazonas,NA,restaurant,NA,Chemin Eardley,19,Gatineau,J9H 4J8,-75.84642561221983,45.39653117821066
+473653707,L'Aubergiste,NA,restaurant,NA,Rue Principale,58,Gatineau,J9H 3L5,-75.84867832359082,45.3945170348679
+474458710,Banditos,NA,restaurant,NA,Bank Street,683,NA,NA,-75.68948544793052,45.405754319761336
+474903770,House of Lasagna,NA,restaurant,NA,Merivale Road,984,NA,NA,-75.73355959646146,45.38055769468824
+476688664,Benny & Co.,NA,restaurant,Benny & Co.,Boulevard Maloney Est,318,NA,J8P 1C9,-75.64385349782526,45.4841209997869
+476688737,Gatineau Pizza,NA,restaurant,NA,Rue Main,344,NA,J8P 5K3,-75.65149686022961,45.49024138136561
+476688864,Papa Pizza,NA,restaurant,NA,Boulevard Maloney Est,257,NA,J8P 1C3,-75.64677010846019,45.48450888220322
+477150268,Paradis De Chine,NA,restaurant,NA,Boulevard Saint-Joseph,741,Gatineau,NA,-75.74288958085467,45.45750819814784
+477150277,Restaurant Caramela,NA,restaurant,NA,Boulevard Saint-Raymond,85,Gatineau,NA,-75.74128667884806,45.44686760872767
+477368567,Mon Resto,NA,restaurant,NA,Boulevard Maloney Est,532,Gatineau,NA,-75.6326635511228,45.48449248037885
+477685544,Le P'tit Canot,NA,pub,NA,Rue Main,321,NA,J8P 5K4,-75.6519839520692,45.48916479304338
+477884569,Le Bistro Pho,NA,restaurant,NA,Boulevard Saint-Raymond,62,Gatineau,J8Y 1S1,-75.7393510775703,45.44733423841338
+477884681,Bistro La Gargouille,NA,restaurant,NA,Boulevard Saint-Joseph,556,Gatineau,J8Y 4A1,-75.7349153678223,45.44952566301017
+477906890,La belle et le boeuf,NA,restaurant,NA,NA,NA,NA,NA,-75.69606181310542,45.47653429526213
+477906977,Shaker,NA,restaurant,NA,NA,NA,NA,NA,-75.6987347402781,45.47611334752022
+477906989,Allô! Mon Coco,NA,restaurant,Allô! Mon Coco,NA,NA,NA,NA,-75.69907511704294,45.4753612899329
+478188360,Dakgogi,NA,restaurant,NA,Marketplace Avenue,80,NA,K2J 5G3,-75.74259081072825,45.27019873536626
+478217638,Golden Restaurant,NA,restaurant,NA,Riocan Avenue,130,NA,K2J 5G4,-75.74078635546866,45.26852051517891
+478217643,PiRho,NA,restaurant,NA,Riocan Avenue,81,NA,K2J 5G3,-75.7410968702972,45.26967785938643
+478217650,Pho Thi Fusion,NA,restaurant,NA,Riocan Avenue,129,NA,K2J 5G3,-75.73941138367474,45.26904230325707
+478366935,Barrhaven Vietnamese Restaurant,NA,restaurant,NA,Strandherd Drive,3777,NA,K2J 4B1,-75.74757200417972,45.267972956336386
+478366940,Asian Dragon,NA,restaurant,NA,Strandherd Drive,3777,NA,K2J 4B1,-75.7472391250137,45.26815947716417
+478374544,Chillies,NA,restaurant,NA,Greenbank Road,1581,NA,K2J 4Y6,-75.74642035045511,45.27365050282264
+478374547,Pizza Hut,NA,restaurant,Pizza Hut,Greenbank Road,1581,NA,K2J 4Y6,-75.74636000104317,45.27357295158606
+478521049,China Star,NA,restaurant,NA,Strandherd Drive,3161,NA,K2J 5N1,-75.71931068454876,45.27405135361361
+478521052,Heart & Crown,NA,pub,NA,Strandherd Drive,3161,NA,K2J 5N1,-75.71903498553507,45.27414555260307
+478533535,Topper's Pizza,NA,restaurant,Topper's Pizza,Strandherd Drive,3570,NA,K2J 5L4,-75.73731110512654,45.275244847434266
+478533541,Ka Familia,NA,restaurant,NA,Strandherd Drive,3570,NA,K2J 5L4,-75.73782755204603,45.27503858981684
+478555842,Pinelopi's Greek Kitchen,NA,restaurant,NA,Strandherd Drive,4100,NA,K2J 0V2,-75.76834174211926,45.26039465915715
+478555855,Karara,NA,restaurant,NA,Strandherd Drive,4100,NA,K2J 0V2,-75.76858052986931,45.26026311498022
+478630935,Il Vagabondo Ristorante,NA,restaurant,NA,Barrette Street,186,NA,K1L 8A1,-75.67120354376709,45.44175395810025
+478766610,Hunter's Public House,NA,pub,NA,Bank Street,4750,NA,K1T 0K8,-75.5951532513165,45.31842870160442
+478830513,Arturo's Ristorante,NA,restaurant,NA,Beechwood Avenue,98,NA,NA,-75.67423194674453,45.44064087492859
+478956215,Pho Haven,NA,restaurant,NA,Woodroffe Avenue,2900,NA,K2J 4G3,-75.72889747426515,45.292149437685325
+478956217,Brother Chiu's Chinese Food,NA,restaurant,NA,Woodroffe Avenue,2900,NA,K2J 4G3,-75.72894809789848,45.292252470810645
+478970232,San Marino Pizza,NA,restaurant,NA,Jockvale Road,2201,NA,K2J 4J9,-75.77726214701335,45.27579585696707
+478977128,Greenfields Gastro Public House,NA,pub,NA,Greenbank Road,900,NA,K2J 1S8,-75.75692792499882,45.285066359495545
+478978382,Yorgo's Greek Food and Pizza,NA,restaurant,NA,Fallowfield Road,3780,NA,K2J 1A1,-75.75772945030907,45.28709194957604
+478978385,Lotus Chinese Food,NA,restaurant,NA,Fallowfield Road,3780,NA,K2J 1A1,-75.75789144823787,45.28702430190195
+479191225,Willy's Pizza,NA,restaurant,NA,Cedarview Road,3023,NA,K2J 4A8,-75.77156189445314,45.266267511623354
+479191247,Lucky Panda Fine Chinese,NA,restaurant,NA,Cedarview Road,3023,NA,K2J 4A8,-75.77144479077671,45.265830898224394
+479399894,Wan's Chinese Food,NA,restaurant,NA,Fallowfield Road,3500,NA,K2J 4A7,-75.74152033915796,45.29372410885591
+479399909,Pho Hoa Nam,NA,restaurant,NA,Fallowfield Road,3500,NA,K2J 4A7,-75.74186697424626,45.29322543091937
+479399914,The Works,NA,restaurant,NA,Fallowfield Road,3500,NA,K2J 4A7,-75.7417538152513,45.29342054529552
+479399929,La Porto A Casa,NA,restaurant,NA,Fallowfield Road,3500,NA,K2J 4A7,-75.7415568532033,45.293676600390455
+479521654,Reggae Rooster,NA,restaurant,NA,Somerset Street East,321,NA,NA,-75.67426929085077,45.42468325457174
+479752059,Rangoon Restaurant,NA,restaurant,NA,Somerset Street West,634,NA,NA,-75.70444089878856,45.411798507669666
+479752065,Taqueria San Jose,NA,restaurant,NA,Somerset Street West,638,NA,NA,-75.70462791480423,45.411713795007266
+479756621,Lai Lai Chinese Restaurant,NA,restaurant,NA,McArthur Avenue,449,NA,NA,-75.64441066781762,45.43270278228602
+479757032,Coconut Lagoon,NA,restaurant,NA,St-Laurent Boulevard,853,NA,NA,-75.64204202551853,45.433284729818
+479919696,Xiang Zi,NA,restaurant,NA,Meadowlands Drive East,1121,NA,NA,-75.71183505535669,45.362683545178335
+480073437,Moose McGuire's Irish Pub & Grill,NA,restaurant,NA,Mccarthy Road,3320,NA,K1V 0X3,-75.67076102460793,45.35096415629071
+480205077,Fusion Yunnan,NA,restaurant,NA,McArthur Avenue,178,NA,NA,-75.66264425235453,45.43098041510676
+481260109,New Mee Fung,NA,restaurant,NA,Booth Street,350,NA,NA,-75.70961122922567,45.407530356849755
+481260348,Huong's Vietnamese Bistro,NA,restaurant,NA,Booth Street,359,NA,NA,-75.70904322652338,45.407404491949336
+481263814,Gina's Cafe,NA,restaurant,NA,Gladstone Avenue,710,NA,NA,-75.70420769040616,45.407413854029016
+481263823,Blue Nile,NA,restaurant,NA,Gladstone Avenue,707,NA,NA,-75.70431542290741,45.40775407358737
+481263845,Abruzzo,NA,restaurant,NA,Gladstone Avenue,705,NA,NA,-75.70424257839633,45.40781385619329
+481266734,Shekarchi Express,NA,restaurant,NA,Kent Street,398,NA,NA,-75.69666459032338,45.41196791832898
+481266833,Gladstone Golden Grill,NA,restaurant,NA,Gladstone Avenue,523,NA,NA,-75.6988219885188,45.41016395859158
+481375423,Pizzaro's Italian Ristorante,NA,restaurant,NA,Marguerite Avenue,366,NA,NA,-75.66652152297968,45.430644194777734
+481375480,Vanier Grill,NA,restaurant,NA,Montréal Road,159,NA,NA,-75.66517060660595,45.43488920879747
+481440024,Chinese Meat Pie House,NA,restaurant,NA,Rideau Street,508,NA,NA,-75.6785080708119,45.431554778479864
+481677580,Sula Wok,NA,restaurant,NA,Main Street,184,NA,NA,-75.67823184717854,45.40894614535691
+481693133,Allô! Mon Coco,NA,restaurant,Allô! Mon Coco,Woodroffe Avenue,1377,NA,K2G 1V7,-75.76128598674217,45.350001917830575
+481786795,Arlo,NA,restaurant,NA,Somerset Street West,340,NA,NA,-75.69532479380632,45.41555173463251
+481816915,Army Officers' Mess,NA,pub,NA,Somerset Street West,149,NA,NA,-75.68974886205633,45.418440733105356
+481890133,Broadway Bar&Grill,NA,restaurant,NA,Prince Of Wales Drive,1896,NA,NA,-75.70525400545525,45.353615774477504
+481899065,Welcome Back Restaurant,NA,restaurant,NA,Robertson Road,2090,NA,K2H 8V5,-75.83173028854333,45.32216011000249
+482003442,Ricardo's Pizza,NA,restaurant,NA,Bay Street,267,NA,NA,-75.70375284520685,45.41510650049929
+482238150,Som Tum Thai,NA,restaurant,NA,Nepean Street,260,NA,NA,-75.70022436029275,45.41621836408502
+482238182,Mystiko Greek Kitchen,NA,restaurant,NA,Kent Street,281,NA,NA,-75.6987982052014,45.41506905292188
+482248230,Talay Thai,NA,restaurant,NA,Bank Street,511,NA,NA,-75.692115466801,45.41002454096408
+482458648,Stacked,NA,restaurant,NA,Bank Street,2679,NA,NA,-75.63494670453221,45.35287565126633
+482653707,Montana's,NA,restaurant,Montana's,Bank Street,2216,NA,K1V 1J6,-75.65295177626443,45.35346983113497
+482653757,KS on the Keys,NA,restaurant,NA,Mountain Crescent,40,NA,NA,-75.65209069957139,45.353295619903996
+482653840,Kelsey's,NA,restaurant,Kelsey's,Bank Street,2206,NA,K1V 1J6,-75.65455662556509,45.356906379908075
+482693018,Montana's,NA,restaurant,Montana's,Ogilvie Road,1750,NA,NA,-75.61573591845378,45.43214049931944
+482693040,State & Main,NA,restaurant,NA,Ogilvie Road,1880,NA,NA,-75.61459624037496,45.432612300631504
+482693046,Ten Sushi,NA,restaurant,NA,City Park Drive,2300,NA,NA,-75.61192836252063,45.430873304673575
+482693059,Moxie's,NA,restaurant,NA,Ogilvie Road,1976,NA,NA,-75.61178617881035,45.43371158497229
+482693115,East Side Mario's,NA,restaurant,East Side Mario's,Ogilvie Road,1820,NA,NA,-75.61509203161806,45.432263030704256
+482735227,Sushi Kan,NA,restaurant,NA,Baseline Road,1280,NA,NA,-75.73270851759789,45.364068508441214
+483033152,Wild Wing,NA,restaurant,Wild Wing,Innes Road,3712,NA,K1W 0C8,-75.51758165040849,45.450242459364006
+483056480,Thai Kitchen Catering Service,NA,restaurant,NA,Bank Street,1300,NA,NA,-75.67947680264515,45.390100900267086
+483101142,Schnitzel Works,NA,restaurant,NA,Cyrville Road,1400,NA,NA,-75.62110591225945,45.42083022032584
+483103095,Stan's Diner,NA,restaurant,NA,NA,NA,NA,NA,-75.62100150033461,45.41005949987972
+483103103,Cozy's Express,NA,restaurant,NA,Michael Street,1572,NA,NA,-75.62638198082963,45.41114556095175
+483246476,Sweet Basil,NA,restaurant,NA,Bank Street,1585,NA,NA,-75.66733074820004,45.37902404273304
+483246510,Alhalabi Restaurant,NA,restaurant,NA,Bank Street,1638,NA,NA,-75.66707198448913,45.37695553149193
+483246563,O'Brien's Eatery & Pub,NA,pub,NA,Heron Road,1145,NA,NA,-75.67094971580748,45.37852310918356
+483307579,Dunn's Famous,NA,restaurant,NA,Shefford Road,900,NA,NA,-75.59005376307908,45.45249019408634
+484079378,Lordia,NA,restaurant,NA,Ogilvie Road,1151,NA,K1J 7P6,-75.63081271558552,45.4270333685463
+484370739,Delicious Steak House,NA,restaurant,NA,St. Joseph Boulevard,2080,NA,NA,-75.53599224753779,45.46565427586868
+484428425,Chop,NA,restaurant,NA,West Hunt Club Road,250,NA,NA,-75.70995155356185,45.33874738424977
+484428426,Shark Club,NA,restaurant,NA,West Hunt Club Road,NA,NA,NA,-75.71046143412403,45.33962826852157
+484428427,Cora,NA,restaurant,Cora,West Hunt Club Road,280,NA,K2E 0B7,-75.71182632337884,45.33949951114479
+484525680,Moxie's,NA,restaurant,NA,Innes Road,3818,NA,NA,-75.51489385717707,45.4512609829933
+484525716,East Side Mario's,NA,restaurant,East Side Mario's,Innes Road,3802,NA,NA,-75.5156561815352,45.450967756492055
+484530529,Boston Pizza,NA,restaurant,Boston Pizza,Innes Road,3884,NA,NA,-75.51021979753362,45.45304184116876
+484551438,Kozy Nest Restaurant,NA,restaurant,NA,St. Joseph Boulevard,2520,NA,NA,-75.52639227374216,45.46982772542195
+484551632,St-Hubert,NA,restaurant,St-Hubert,St. Joseph Boulevard,2484,NA,NA,-75.52686823363656,45.46962749871251
+484551647,O'Connor's Irish Pub,NA,pub,NA,St. Joseph Boulevard,2401,NA,NA,-75.52907047310498,45.46963434272126
+484638739,Mezbaan,NA,restaurant,NA,Carling Avenue,3098,NA,K2B 7K2,-75.80588919964869,45.35393245088971
+484644575,Pho May,NA,restaurant,NA,Donald Street,1245,NA,K1K 3B1,-75.63814990640918,45.43002933567486
+484644583,Wild Wing,NA,restaurant,Wild Wing,Donald Street,1265,NA,K1K 3B1,-75.63798062360142,45.429481787414296
+484718425,Willie's Chinese Food,NA,restaurant,NA,St. Joseph Boulevard,2908,NA,NA,-75.51776589524998,45.47451334563018
+484822864,Lone Star Texas Grill,NA,restaurant,NA,Baseline Road,780,NA,K2C 3V8,-75.71677455252136,45.370737759935444
+484822876,Prime Burger Bar,NA,restaurant,NA,Baseline Road,780,NA,K2C 3V8,-75.71663880280002,45.37058780541169
+484828745,Saigon Pho,NA,restaurant,NA,Innes Road,3712,NA,K1W 0C8,-75.51652762719188,45.44897100868148
+484828770,Caravela,NA,restaurant,NA,Innes Road,3712,NA,K1W 0C8,-75.517305251665,45.449954767866295
+485104045,Pho Truc Lien,NA,restaurant,NA,St. Joseph Boulevard,3010,NA,NA,-75.51448223423984,45.476222218163734
+485140487,Bite Burger House,NA,restaurant,NA,Tenth Line Road,1675,NA,K1E 3P6,-75.49013691998475,45.46848372126995
+485194406,Kara Mia,NA,restaurant,NA,St-Laurent Boulevard,1910,NA,NA,-75.6247128146321,45.39886856501065
+485224222,Asian Palace,NA,restaurant,NA,Mccarthy Road,3320,NA,K1V 0X3,-75.67104411687555,45.350473535744015
+485230001,La Cucina,NA,restaurant,NA,Hazeldean Road,5547,NA,K2S 0P5,-75.90499166275829,45.2880303956617
+487516630,Colonnade Pizza,NA,restaurant,NA,Carling Avenue,2140,NA,NA,-75.76830600721982,45.370807370077976
+496742905,Perth Brewery,NA,pub,NA,Dufferin Street,121,NA,NA,-76.27030563048834,44.90689919742676
+496742916,Pizza Hut,NA,restaurant,Pizza Hut,NA,NA,NA,NA,-76.26449589962908,44.909297850901595
+498924545,Lone Star Texas Grill,NA,restaurant,NA,Gibford Drive,2880,NA,K1V 2L9,-75.66860280004028,45.34348025024685
+499974974,New Hong Kong Chinese Restaurant,NA,restaurant,NA,Woodroffe Avenue,1433,NA,NA,-75.7560925238488,45.341926158834916
+499974976,Crispy's Grill & Resto,NA,restaurant,NA,Woodroffe Avenue,1433,NA,K2G 2V5,-75.75607917487297,45.342019718786005
+510520354,Tutti Frutti,NA,restaurant,NA,Strandherd Drive,4335,NA,NA,-75.7848322503071,45.27045475031762
+510520359,Freshii,NA,restaurant,Freshii,Strandherd Drive,4235,NA,NA,-75.78108343077598,45.268877490481714
+510520361,Authentic Vietnamese Pho House,NA,restaurant,NA,Strandherd Drive,4235,NA,NA,-75.78145358110156,45.2687262968901
+510535381,Crust & Crate,NA,pub,NA,Ogilvie Road,2018,NA,NA,-75.60267675393483,45.43736275073729
+514271592,Shoeless Joe's,NA,restaurant,NA,Colonnade Drive,315,NA,NA,-75.6328346506812,45.029450399692536
+516203988,Babouls,NA,restaurant,NA,NA,NA,NA,NA,-75.25197101878689,45.33082468590194
+518606252,PJ's Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-76.3361927008076,45.430261599822124
+522236357,Luxx Deli Bistro,NA,restaurant,NA,Boulevard de la Gappe,73,NA,NA,-75.71721294628823,45.46603036682048
+522456049,Barbies,NA,restaurant,NA,Boulevard de la Gappe,52,NA,J8T 0C7,-75.71708773227388,45.46390444189478
+524485984,Mack's Pizza & Diner,NA,restaurant,NA,County Road 17,7204,Wendover,K0A 3K0,-75.12030274930598,45.56789599998862
+533298637,Red Dot Cafe,NA,restaurant,NA,Osgoode Main Street,5673,NA,K0A 2W0,-75.6015169539793,45.15002710615586
+536141783,All Seasons restaurant,NA,restaurant,NA,Cyrville Road,1460,NA,NA,-75.61926126263074,45.41997047404202
+538876148,Pham Le Kitchen,NA,restaurant,NA,Stittsville Main Street,1261,NA,K2S 2E4,-75.92888350479973,45.267139446985546
+538876150,Hurley's Grill,NA,restaurant,NA,Stittsville Main Street,1261,NA,K2S 2E4,-75.92873253228946,45.267246682523925
+538876157,Sushi Sama,NA,restaurant,NA,Stittsville Main Street,1261,NA,K2S 2E4,-75.92833589938543,45.26754189700605
+541623094,Brigadoon,NA,restaurant,NA,NA,NA,NA,NA,-75.67819469030535,44.96561766793803
+542836622,The Barley Mow,NA,pub,NA,NA,NA,NA,NA,-76.19615129760213,45.22625196618558
+543613111,Broadway Bar & Grill,NA,restaurant,NA,NA,NA,NA,NA,-75.30237202446601,45.544529357092664
+545360475,Willys Pizza,NA,restaurant,NA,Richmond Road,1315,NA,NA,-75.78578447533057,45.36820079609699
+545542947,New Hong Shing,NA,restaurant,NA,Greenbank Road,285,NA,K2H 8K9,-75.7776024654303,45.32419619773406
+545542950,Parti Pizza,NA,restaurant,NA,Greenbank Road,267,NA,K2H 8K9,-75.77774023110854,45.32444743191805
+545573640,Authentic Vietnamese Pho House,NA,restaurant,NA,Greenbank Road,250,NA,K2H 8X4,-75.7797157093766,45.32543687727133
+545573657,Fitz's Classic Grill,NA,restaurant,NA,Greenbank Road,250,NA,K2H 8X4,-75.7800373685276,45.325274284424935
+545573661,Bella's Boys Italian Kitchen,NA,restaurant,NA,Greenbank Road,250,NA,K2H 8X4,-75.78053359979661,45.32506435192726
+545573732,Ottawa Shawarma,NA,restaurant,NA,Greenbank Road,250,NA,K2H 8X4,-75.77936325519967,45.3243339478755
+549656202,The Noodle House,NA,restaurant,NA,Gladstone Avenue,775,NA,NA,-75.70655515618658,45.40691192977091
+551780151,World Burgers,NA,restaurant,NA,Merivale Road,1651,NA,K2G 3K2,-75.73161164610131,45.35090185838707
+551780152,168 Sushi,NA,restaurant,NA,Merivale Road,1651,NA,K2G 3K2,-75.73142169245985,45.350922154953864
+551943407,Nando's,NA,restaurant,Nando's,Merivale Road,1461,NA,K2E 5N9,-75.73362679609215,45.36157194097609
+551943409,Colonnade Pizza,NA,restaurant,NA,Merivale Road,1463,NA,K2E 5N9,-75.73311955982109,45.36133822525207
+551943413,Hockey Sushi,NA,restaurant,NA,Merivale Road,1465,NA,K2E 5N9,-75.73347346176035,45.3600364681934
+551950057,Swiss Chalet,NA,restaurant,Swiss Chalet,Carling Avenue,2150,NA,K2A 1H1,-75.76895032805275,45.37051490337076
+557128319,Mano City Pizza,NA,restaurant,NA,Manotick Main Street,5511,NA,K4M 1B2,-75.68622865127598,45.227150701872
+557674240,Cheshire Cat Pub,NA,pub,NA,Richardson Side Road,2193,NA,NA,-75.97181771246359,45.293637934373535
+558167622,Lighthouse,NA,restaurant,NA,Bayview Drive,655,NA,NA,-76.09438606860387,45.50953907394871
+558418652,Freshii,NA,restaurant,Freshii,Klondike Road,1106,NA,K2K 0G1,-75.93204390037366,45.35384459970661
+558418655,Flavours of Kerala,NA,restaurant,NA,Klondike Road,1104,NA,K2K 0G1,-75.93320319052907,45.35411390846813
+560136806,Heart and Soul Café,NA,restaurant,NA,Dunrobin Road,2741,NA,NA,-76.0200886230041,45.42158772300757
+560428766,The New Rideau Restaurant,NA,restaurant,NA,Merlyn Wilson Road,7780,NA,NA,-75.6836172768308,45.05113066331888
+560812572,CreekSide Bar & Grill,NA,restaurant,NA,Manotick Main Street,5511,NA,NA,-75.68603009809786,45.226999451434956
+560871136,Viet Express,NA,restaurant,NA,Beaverwood Road,1160,NA,K4M 1A7,-75.68486449834202,45.223723248775876
+560871152,Babbos,NA,restaurant,NA,Beaverwood Road,1160,NA,K4M 1A2,-75.6848935804255,45.22376794166992
+561138178,Riverside Pizzeria,NA,restaurant,NA,Riverside Drive,3679,NA,K1V 1G8,-75.69036875803158,45.34356749525662
+561888506,The Goose and Gridiron,NA,restaurant,NA,NA,NA,NA,NA,-75.83628692569341,44.91430523340989
+562117358,Cora,NA,restaurant,Cora,Richmond Road,1355,NA,NA,-75.7874439864569,45.36694923108703
+565106784,Lorenzo Bar & Grill,NA,restaurant,NA,Richmond Road,911,NA,NA,-75.7746530005597,45.37849040052476
+566237525,The Keg,NA,restaurant,The Keg,Huntmar Drive,15,NA,NA,-75.91267049390954,45.283213449660686
+566753807,The Burbs,NA,restaurant,NA,Hazeldean Road,501,NA,K2L 1V6,-75.89324856155514,45.29595429434706
+567226636,Via Cibo,NA,restaurant,NA,Earl Grey Drive,120,NA,NA,-75.91449976865894,45.309515861784526
+567226649,Digby's Seafood Restaurant,NA,restaurant,NA,Earl Grey Drive,300,NA,NA,-75.91577590034683,45.31182354850798
+567226652,Amaya Buffet,NA,restaurant,NA,Earl Grey Drive,300,NA,NA,-75.91570469887151,45.311961399372166
+567226670,Tomaso Grilled Pizza & Panini,NA,restaurant,NA,Kanata Avenue,450,NA,NA,-75.90764902983508,45.31110316832625
+567230331,Zak's Diner,NA,restaurant,NA,Terry Fox Drive,499,NA,K2T 1H7,-75.91987828414443,45.31103026175649
+567230332,Fratelli,NA,restaurant,NA,Terry Fox Drive,499,NA,K2T 1H7,-75.9199839771212,45.310973603749936
+567230334,The Unrefined Olive,NA,restaurant,NA,Terry Fox Drive,499,NA,K2T 1H7,-75.92009696271886,45.310932661332096
+569421714,36 Pho Viet Cuisine,NA,restaurant,NA,Merivale Road,1600,NA,NA,-75.73353868615635,45.349409699229845
+569421734,Swiss Chalet,NA,restaurant,Swiss Chalet,Merivale Road,1600,NA,NA,-75.73350619921064,45.349592928168356
+570300170,Lil Negril,NA,restaurant,NA,Centrepointe Drive,261,NA,NA,-75.77158916768674,45.338781613057236
+570300175,BAAN Thai Restaurant,NA,restaurant,NA,Centrepointe Drive,261,NA,NA,-75.77174309715025,45.339095501568664
+570367949,Pizza Hut,NA,restaurant,Pizza Hut,Robertson Road,1831,NA,NA,-75.81920739668169,45.3281886024634
+570367952,Lapointe's Seafood Grill,NA,restaurant,NA,Robertson Road,1831,NA,NA,-75.81936549877345,45.32815518339771
+570373950,Nu Caribbean,NA,restaurant,NA,Castlefrank Road,100,NA,NA,-75.88179209450419,45.29375769131382
+570373959,Lorenzo's,NA,restaurant,NA,Castlefrank Road,100,NA,NA,-75.88173094621929,45.293512896122635
+570570087,Eggstyle,NA,restaurant,NA,Kanata Avenue,790,NA,NA,-75.9094259262443,45.31040491245022
+570570088,Baton Rouge,NA,restaurant,NA,Kanata Avenue,790,NA,NA,-75.90945007470053,45.31054071347831
+570570089,Ox Head Restaurant,NA,restaurant,NA,Kanata Avenue,790,NA,NA,-75.90951490421213,45.31015784709021
+570570091,Aperitivo,NA,restaurant,NA,Kanata Avenue,655,NA,NA,-75.90963147001986,45.310168705797366
+570820748,The Works,NA,restaurant,NA,Watters Road,900,NA,K4A 0B4,-75.47421735068865,45.481786300243336
+570820763,Johnny Canuck's,NA,restaurant,NA,Watters Road,900,NA,K4A 0B4,-75.47301422348939,45.48234726011312
+572229427,Barley Mow,NA,pub,NA,Merivale Road,1541,NA,NA,-75.73495138534757,45.35586895247204
+573312286,The Captain's Boil,NA,restaurant,NA,West Hunt Club Road,290,NA,K2E 0B7,-75.71096866825545,45.33847837752936
+573385579,Pizza Hut,NA,restaurant,Pizza Hut,Montréal Road,526,NA,NA,-75.6459990006436,45.440611366646024
+574620301,Clarendon Street Cafe,NA,restaurant,NA,NA,NA,NA,NA,-76.23416051298598,45.52057269741941
+575369489,Happy Lamb Hot Pot,NA,restaurant,NA,Merivale Road,1514,NA,NA,-75.73771594446698,45.356545433220646
+575369507,Merivale Noodle House,NA,restaurant,NA,Merivale Road,1519,NA,NA,-75.73650886758077,45.35708530035111
+575369512,Sansotei Ramen,NA,restaurant,NA,Merivale Road,1537,NA,K2G 3J3,-75.73602643538483,45.355856892350054
+575408953,Sundari's Cuisine,NA,restaurant,NA,Merivale Road,1487,NA,NA,-75.73568366899043,45.359334939065235
+575408955,Casa México,NA,restaurant,NA,Merivale Road,1489,Nepean,K2E 5P3,-75.73593503722657,45.35895679417397
+576378518,Daal Roti,NA,restaurant,NA,Merivale Road,1556,NA,NA,-75.7358221858967,45.3535668127989
+576378532,Sea King Restaurant,NA,restaurant,NA,Merivale Road,1558,NA,NA,-75.73548674881579,45.3530189512168
+576409163,La Casa Del Gusto,NA,restaurant,NA,Merivale Road,1460,NA,NA,-75.73459819382258,45.36202494285909
+576869290,Lucky Dragon,NA,restaurant,NA,Hazeldean Road,6081,NA,NA,-75.93193751975136,45.27308988374773
+576869291,Brew Revolution,NA,pub,NA,Hazeldean Road,6081,NA,NA,-75.93200743243204,45.273045961005124
+576869294,Pocopazzo,NA,restaurant,NA,Hazeldean Road,6081,NA,NA,-75.93223204704627,45.272925100028985
+576873990,Pelican Fishery & Grill,NA,restaurant,NA,Bank Street,1500,NA,NA,-75.67042192761633,45.38107256888785
+576883845,St. Louis Bar & Grill,NA,restaurant,St. Louis Bar & Grill,Tenth Line Road,2280,NA,NA,-75.48335349730746,45.45196570519416
+576883849,Culinaire d'Orléans,NA,restaurant,NA,Tenth Line Road,2284,NA,NA,-75.4831822672276,45.45170704411199
+576883854,Tarboush,NA,restaurant,NA,Tenth Line Road,2288,NA,NA,-75.48440323570453,45.45106604242694
+576883861,Persis Grill,NA,restaurant,NA,Tenth Line Road,2288,NA,NA,-75.48436438525788,45.45095321005515
+577126701,Benny & Co.,NA,restaurant,Benny & Co.,Innes Road,4120,NA,NA,-75.50276294465179,45.455887570987116
+577126702,Lone Star Texas Grill,NA,restaurant,NA,Innes Road,4110,NA,NA,-75.5036086230033,45.45566493582201
+578268886,Bella Vista,NA,restaurant,NA,Alta Vista Drive,2629,NA,NA,-75.66208167718602,45.37276094216902
+578268895,Chillies,NA,restaurant,NA,Alta Vista Drive,2629,NA,NA,-75.66235100333125,45.37239269813737
+578268901,Ariana Kebab House,NA,restaurant,NA,Alta Vista Drive,2629,NA,NA,-75.66256904961429,45.372296211950584
+578268909,Cora,NA,restaurant,Cora,Alta Vista Drive,2629,NA,NA,-75.662089957447,45.37344665338527
+578269816,Aahar,NA,restaurant,NA,Alta Vista Drive,1573,NA,NA,-75.65743704980562,45.40836239647813
+578272888,Sala Thai,NA,restaurant,NA,Alta Vista Drive,2666,NA,NA,-75.66355886011667,45.3735322717774
+578296255,Shawarma De Roza,NA,restaurant,NA,Prince Of Wales Drive,1896,NA,NA,-75.70444955129956,45.35394594850888
+581627361,Margo,NA,restaurant,NA,York Street,259,NA,K1N 5T9,-75.68581727356016,45.431402769120616
+581659407,Athens Grill,NA,restaurant,NA,Robertson Road,2150,NA,NA,-75.83669424983277,45.319219811005944
+581659411,The Mongolian Village,NA,restaurant,NA,Robertson Road,2150,NA,NA,-75.83698456074141,45.31956662342246
+581766098,Rangoli,NA,restaurant,NA,St. Joseph Boulevard,2491,NA,NA,-75.52739814515357,45.47028176909658
+583053810,O'Grady's Outpost,NA,restaurant,NA,Tapiola Crescent,25,NA,NA,-75.64647922437982,45.36379197583528
+583075397,The Works,NA,restaurant,NA,Bank Street,2525,NA,NA,-75.6438441903733,45.35421773289132
+583580937,Shanghai One,NA,restaurant,NA,Merivale Road,1872,NA,NA,-75.72505053548484,45.33337835472056
+583776652,Boukannen Bar & Grill,NA,restaurant,NA,Center Street,623,NA,NA,-75.64257931248754,45.441582381055085
+583792600,Pilos Restaurant,NA,restaurant,NA,Montréal Road,876,NA,NA,-75.63020894924357,45.44615871960193
+584505149,Chez Putters,NA,restaurant,NA,Rue Principale,181,NA,NA,-75.8347823246526,45.397386317151025
+584505154,St-Hubert,NA,restaurant,St-Hubert,Rue Principale,181,NA,NA,-75.83689632132085,45.39644897953204
+584710156,Casa Grecque,NA,restaurant,NA,Rue Principale,200,Gatineau,J9H 6J4,-75.83435622505503,45.394933397418114
+584710159,Le Matinal,NA,restaurant,NA,Rue Principale,200,Gatineau,J9H 6J4,-75.83464682891298,45.394527926791774
+584815438,Bien Pho,NA,restaurant,NA,Jeanne-d'Arc Boulevard South,5925,NA,NA,-75.54174207129408,45.464427146254486
+584815455,The Bad Alibi,NA,restaurant,NA,Jeanne-d'Arc Boulevard South,5935,NA,NA,-75.54208629368566,45.46550131471957
+584815460,Topper's Pizza,NA,restaurant,Topper's Pizza,Jeanne-d'Arc Boulevard South,5957,NA,NA,-75.54278849570531,45.46545176780321
+585009461,Dainty Kitchen,NA,restaurant,NA,Somerset Street East,322,NA,K1N 6W3,-75.67444727270518,45.42428808841122
+587602380,Blackburn Arms Pub,NA,pub,NA,Innes Road,2586,NA,NA,-75.56540933618724,45.43087672813561
+587769301,Jumbo Restaurant,NA,restaurant,NA,Innes Road,2672,NA,NA,-75.56265082097669,45.431981144250884
+589120344,Nuvo,NA,restaurant,NA,Innes Road,1481,NA,NA,-75.60762742863392,45.41667381590992
+589533363,Latinos Resto Bar,NA,restaurant,NA,Bronson Avenue,665,NA,NA,-75.70075156615044,45.40329329105387
+589715408,Go Gi Ya,NA,restaurant,NA,Rideau Street,470,NA,NA,-75.67964181417604,45.431085828978205
+590258038,Good Companion,NA,restaurant,NA,NA,NA,NA,NA,-76.14654713166979,45.1396300161515
+590274807,Roberto Pizza Romana,NA,restaurant,NA,Chemin Old Chelsea,241,Chelsea,J9B 1J3,-75.81055986302371,45.50285085092716
+590274808,Tonique,NA,restaurant,NA,Chemin Scott,18,Chelsea,J9B 1R5,-75.81130344846392,45.504605327194284
+591034764,Pizza Hut,NA,restaurant,Pizza Hut,Hazeldean Road,474,NA,NA,-75.8878384465194,45.297404716191394
+591034765,My Thai Village,NA,restaurant,NA,Hazeldean Road,474,NA,NA,-75.88791894595356,45.29746992225141
+591041971,Authentic Vietnamese Pho House,NA,restaurant,NA,Fernbank Road,5373,NA,NA,-75.8706721396611,45.27375840398523
+591282739,Boulton House,NA,restaurant,NA,NA,NA,NA,NA,-76.14575105245068,45.141042631908846
+591685227,Rideau Restaurant,NA,restaurant,NA,Eagleson Road,500,NA,NA,-75.87064774139093,45.290906090266475
+591685231,Amuse Kitchen,NA,restaurant,NA,Eagleson Road,500,NA,NA,-75.87087964980549,45.290582045014304
+591866035,The Barley Mow,NA,pub,NA,Tenth Line Road,2034,NA,K4A 4X4,-75.4869298404944,45.45843157590945
+591869370,Li's Fusion,NA,restaurant,NA,Vanguard Drive,200,NA,NA,-75.48765145089712,45.45773444956445
+591869372,Ali Baba bakery,NA,restaurant,NA,Vanguard Drive,200,NA,NA,-75.48745149853342,45.45736559752758
+591917954,New Queen Restaurant,NA,restaurant,NA,Hobin Street,1,NA,NA,-75.92917209675674,45.26447929875107
+591921387,Topper's Pizza,NA,restaurant,Topper's Pizza,Carp Road,1110,NA,NA,-75.9421834637776,45.268382454895715
+591921397,Kungfu Bistro,NA,restaurant,NA,Carp Road,1110,NA,NA,-75.94243313928139,45.26855344081158
+593903161,Pho V,NA,restaurant,NA,Ogilvie Road,2181,NA,NA,-75.59431283811807,45.445926391215515
+593918057,Egg Roll Plus,NA,restaurant,NA,Hazeldean Road,471,NA,NA,-75.88991459960548,45.298411651950644
+593922345,Kanata Noodle House,NA,restaurant,NA,Hazeldean Road,500,NA,NA,-75.89391843539426,45.29309635655948
+593943470,Sing Hing Restaurant,NA,restaurant,NA,Limebank Road,4456,NA,NA,-75.67250143684262,45.287171541656356
+593971602,Zizis Kitchen,NA,restaurant,NA,Earl Armstrong Road,665,NA,NA,-75.69588442918695,45.27001992301929
+597564037,Bon Goût Créole Restaurant,NA,restaurant,NA,St. Joseph Boulevard,2564,NA,NA,-75.52532401857883,45.470475706726596
+597564042,Soul Stone,NA,restaurant,NA,St. Joseph Boulevard,2701,NA,NA,-75.52343383385042,45.47242702032935
+597564047,Cucina da Vito,NA,restaurant,NA,St. Joseph Boulevard,2701,NA,NA,-75.52372481500825,45.47229065378296
+597802718,Lorenzo's,NA,restaurant,NA,Innes Road,3621,NA,NA,-75.52183280191191,45.44947454888628
+597802720,Little Elephant Thai Bistro,NA,restaurant,NA,Innes Road,3617,NA,NA,-75.52204924044814,45.44942870262673
+597802722,Charlie Chan,NA,restaurant,NA,Innes Road,3615,NA,NA,-75.52212680255803,45.44939276396917
+598637386,JAX,NA,restaurant,NA,Bronson Avenue,479,NA,NA,-75.70319542199675,45.40746647184567
+598644436,222 Lyon Tapas Bar,NA,restaurant,NA,Lyon Street North,222,NA,NA,-75.7028876511158,45.41597000427351
+599071832,Chongqing Liuyishou Hotpot,NA,restaurant,NA,Merivale Road,1568,NA,NA,-75.73482794950827,45.35171848749164
+602970966,Man Ŀing Restaurant,NA,restaurant,NA,Main Street West,28,Smiths Falls,K7A 1M6,-76.02302428820417,44.89967591966748
+603198635,Long Reach Bar & Grill,NA,restaurant,NA,County Road 44,116,NA,NA,-75.67705126686805,45.0442254409902
+603914589,Pho Moonlight,NA,restaurant,NA,Hazeldean Road,442,NA,NA,-75.88498188143743,45.299646400098986
+603997848,The Lockmaster's Taphouse and Patio,NA,restaurant,NA,Beckwith Street South,32,Smiths Falls,K7A 2A8,-76.02126274981805,44.898736473561165
+604061485,Grumpy's Pub & Eatery,NA,pub,NA,Bridle Path Drive,4000,NA,NA,-75.645661560575,45.34835927818593
+604084872,Nippon Sushi,NA,restaurant,NA,Hunt Club Road,800,NA,NA,-75.66610122378351,45.34432002243281
+604084876,Royal Oak,NA,pub,NA,Hunt Club Road,800,NA,NA,-75.66637791014293,45.344425141557046
+605340289,The Waterfront Gastropub,NA,restaurant,NA,Bell Street,12,NA,K7C 1V9,-76.14712975047387,45.14136715046987
+605365770,Allô! Mon Coco,NA,restaurant,Allô! Mon Coco,Riverside Drive,2277,NA,NA,-75.6782629517666,45.385607795890444
+605907718,Matty O'Sea's Pub and Restaurant,NA,pub,NA,Chambers Street,12,Smiths Falls,K7A 2A8,-76.01991919545831,44.89901568731997
+605907724,Ger-Bo's Steak House,NA,restaurant,NA,Beckwith Street South,11,Smiths Falls,K7A 2A9,-76.02077504158446,44.89925672471959
+606501688,Hockey Sushi,NA,restaurant,NA,Carling Avenue,4055,NA,NA,-75.90725652772124,45.33885876755487
+606501693,Indian Punjabi Clay Oven,NA,restaurant,NA,Carling Avenue,4055,NA,NA,-75.9075337248939,45.33868005504282
+606501695,Sabai Thai,NA,restaurant,NA,Carling Avenue,4055,NA,NA,-75.90743194710673,45.33874313888334
+606521912,Sushi 'n' Poke,NA,restaurant,NA,March Road,700,NA,NA,-75.92460148259224,45.3501400649909
+606521913,Phu Yen,NA,restaurant,NA,March Road,700,NA,NA,-75.92464699205493,45.35010997255888
+606521915,RangDe,NA,restaurant,NA,March Road,700,NA,NA,-75.9247673793074,45.35003654076402
+606521921,Barley Mow,NA,pub,NA,March Road,700,NA,NA,-75.92403621661865,45.35044130646046
+606789203,East Feast,NA,restaurant,NA,St. Joseph Boulevard,2208,NA,NA,-75.53249100533962,45.46716910070876
+606789213,Pizza Hut,NA,restaurant,Pizza Hut,St. Joseph Boulevard,2297,NA,NA,-75.53207743163475,45.468287705734895
+606804348,Pili Pili Grilled Chicken,NA,restaurant,NA,St. Joseph Boulevard,2136,NA,NA,-75.53441392246485,45.46628608275217
+606809605,The Royal Oak,NA,pub,NA,St. Joseph Boulevard,1981,NA,NA,-75.53965521726522,45.46498613864817
+606809606,Cora,NA,restaurant,Cora,St. Joseph Boulevard,1971,NA,NA,-75.53990796557325,45.46487198079789
+607218506,Copper Branch,NA,restaurant,NA,Strandherd Drive,3161,NA,K2J 5N1,-75.7191718128177,45.274098284957965
+607449917,Govinda's,NA,restaurant,NA,Somerset Street East,212,NA,NA,-75.67892395736277,45.42243667747635
+607739751,Double 7 Bar & Grill,NA,restaurant,NA,St-Laurent Boulevard,1020,NA,NA,-75.64010629237175,45.42810533998568
+609198049,Lee Tavern,NA,pub,NA,Daniel Street,72,Smiths Falls,K7A 1J7,-76.01781781688416,44.90536222425184
+609608197,Salang Restaurant,NA,restaurant,NA,Carling Avenue,2934,NA,NA,-75.80172088727602,45.35608032287774
+609966176,Little India Cafe,NA,restaurant,NA,Wylie Avenue,66,NA,NA,-75.80692997072441,45.35474324343981
+610253344,Browns Social House,NA,restaurant,NA,NA,NA,NA,NA,-75.7493693708376,45.27650974635804
+613195165,Full House Asian Cuisine,NA,restaurant,NA,Carling Avenue,1766,NA,NA,-75.75338586520535,45.37733191857708
+614326761,Pi-Rho,NA,restaurant,NA,Hazeldean Road,457,NA,NA,-75.88645370407885,45.30006342219509
+614916089,Moose McGuire's Pub&Grill,NA,pub,NA,Innes Road,4025,NA,NA,-75.50580167947284,45.45608161871308
+614916091,Pak India Restaurant,NA,restaurant,NA,Innes Road,4025,NA,NA,-75.50550718945044,45.45619958839006
+614916104,Ti-Pik-Liz,NA,restaurant,NA,Innes Road,4025,NA,NA,-75.50617007668639,45.45593400612743
+616342844,Hard Stones Grill,NA,restaurant,NA,County Road 43,2727,NA,NA,-75.65252868458612,45.02277310460506
+616342848,Nakken Thai,NA,restaurant,NA,County Road 43,2820,NA,NA,-75.64746575009845,45.02397360116515
+616359878,Five Star Restaurant,NA,restaurant,NA,County Road 43,2600,NA,NA,-75.65602687636527,45.01826670280763
+616787864,South Branch Bistro,NA,restaurant,NA,Clothier Street East,15,NA,NA,-75.64753789916277,45.016778600043686
+617092344,Ocho Rios,NA,restaurant,NA,Bank Street,1800,NA,NA,-75.66502113626532,45.37201086426371
+617092347,Beijing Legend,NA,restaurant,NA,Bank Street,1800,NA,NA,-75.66469299553843,45.37204497105476
+617642478,Pizza Hut,NA,restaurant,Pizza Hut,Innovation Drive,5045,NA,NA,-75.93095218867609,45.34466909646407
+618242238,King Star Oriental Buffet,NA,restaurant,NA,Greig Street,15,Smiths Falls,K7A 1M1,-76.0206320958576,44.91084691931452
+618242250,Union Street Bar and Grill,NA,restaurant,NA,Union Street,7,Smiths Falls,K7A 2R9,-76.02042946693314,44.910534290374
+618363697,Country Diner,NA,restaurant,NA,Union Street,23,Smiths Falls,K7A 2S3,-76.02104753381059,44.911168751769495
+620180748,Kallisto,NA,restaurant,NA,Bank Street,2950,NA,NA,-75.62633344125686,45.346471565165
+621820164,Roger's Italian Bistro,NA,restaurant,NA,Terminal Avenue,500,NA,K1G 0Z3,-75.64829446300172,45.41467175094059
+622453054,Chez Lam,NA,restaurant,NA,Hazeldean Road,484,NA,NA,-75.88954748333887,45.296232021327874
+622453060,strEATS Kanata,NA,restaurant,NA,Hazeldean Road,484,NA,NA,-75.88978704373392,45.29608221421216
+622453064,Rockin' Johnny's Diner,NA,restaurant,NA,Hazeldean Road,484,NA,NA,-75.88922461707688,45.296431496072785
+623573727,Étienne Brûlé,NA,pub,NA,Notre Dame Street,893,NA,NA,-75.2894864337377,45.27180436157916
+623583432,Homestead Pub,NA,pub,NA,Notre Dame Street,968,NA,NA,-75.28077979932473,45.272140849233296
+626743697,The Hungry 7,NA,restaurant,NA,NA,NA,NA,NA,-76.2619037018553,44.91112505002343
+626743708,Penny's Place,NA,restaurant,NA,NA,NA,NA,NA,-76.25959770236075,44.913484349105694
+629334339,India Palace,NA,restaurant,NA,Albert Street,292,NA,NA,-75.70177561434714,45.41906410392382
+631327662,Rayan,NA,restaurant,NA,Lanthier Drive,2020,NA,NA,-75.49345348187653,45.458078523406215
+632027826,Big Bite Bistro,NA,restaurant,NA,Concession Street,1128,NA,NA,-75.35834451936981,45.25690591239713
+632594648,Boston Pizza,NA,restaurant,Boston Pizza,Richelieu Street,3002,NA,NA,-75.3072831618524,45.533907451531874
+633081406,Mandarin,NA,restaurant,NA,Katimavik Road,150B,NA,NA,-75.89614365855945,45.31380698527635
+638580070,Meech & Munch,NA,restaurant,NA,Chemin Old Chelsea,205,Chelsea,J9B 1J3,-75.80814181771554,45.502756743022545
+640344333,Harbin Restaurant,NA,restaurant,NA,March Road,591,NA,NA,-75.92368729871092,45.34750231760501
+640355005,Lucky Dragon Chinese Restaurant,NA,restaurant,NA,March Road,854,NA,NA,-75.93493577257978,45.35849751886308
+640355006,Poco Pazzo,NA,restaurant,NA,March Road,854,NA,NA,-75.9348416915579,45.358422884096676
+640355008,Shawarma House,NA,restaurant,NA,March Road,836,NA,NA,-75.93346140064594,45.35735620175398
+640901926,Main St. Pub,NA,pub,NA,Stittsville Main Street,1408,NA,NA,-75.92541529920892,45.26172206493121
+651533594,Joey,NA,restaurant,Joey,Rideau Street,50,NA,NA,-75.69065249003648,45.42637947368505
+651855635,Lanark Landing Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-76.36518851666536,45.018453648523156
+654088006,St. Louis Bar & Grill,NA,restaurant,St. Louis Bar & Grill,Innovation Drive,5035,NA,NA,-75.93147549801171,45.344378499203025
+654100523,Sham Cuisine Oriental,NA,restaurant,NA,Rue Victoria,67,NA,J8X 2A2,-75.71289470309894,45.42881930898552
+654118381,Rockin' Johnny's,NA,restaurant,NA,Carling Avenue,1309,NA,NA,-75.7352213415038,45.38681661658994
+654750515,Wild Wing,NA,restaurant,Wild Wing,Eagleson Road,700,NA,NA,-75.86826777658283,45.28612177762597
+656819196,Pookie's Thai Restaurant,NA,restaurant,NA,Carling Avenue,2280,NA,NA,-75.77424273768179,45.367893732432044
+659154458,Lone Star Texas Grill,NA,restaurant,NA,Carling Avenue,4048,NA,NA,-75.90769369701508,45.33717231017712
+660813450,Paramount Fine Foods,NA,restaurant,NA,Marketplace Avenue,51,NA,K2J 5G4,-75.74352859885246,45.269400633850886
+661301373,Haru Izakaya,NA,restaurant,NA,Chemin de la Savane,25(4),Gatineau,J8T 8A4,-75.7040012596936,45.47396081897639
+661301378,L'Académie,NA,restaurant,NA,Chemin de la Savane,25,NA,J8T 8A4,-75.70466754909194,45.47504559802145
+661301381,Ben & Florentine,NA,restaurant,NA,Chemin de la Savane,25,NA,J8T 8A4,-75.70538546730504,45.474962857660934
+661901857,Duna European Bistro,NA,restaurant,NA,Robertson Road,2130,NA,NA,-75.83501959820016,45.32053311678928
+663541689,House of Mandi,NA,restaurant,NA,Hunt Club Road,1183,NA,NA,-75.65110887010931,45.352831881939075
+664536852,Dragon Fortune,NA,restaurant,NA,Stonehaven Drive,62,NA,NA,-75.85774615381837,45.292265049328755
+664536857,The Works,NA,restaurant,NA,Stonehaven Drive,60,NA,NA,-75.85716800028818,45.291987051789356
+664550161,Big Bone BBQ,NA,restaurant,NA,Eagleson Road,701,NA,NA,-75.86677559020077,45.28753690146893
+664747501,Swiss Chalet,NA,restaurant,Swiss Chalet,Cyrville Road,1899,NA,NA,-75.60152495058635,45.415922164006716
+664940366,Corner Bar and Grill,NA,pub,NA,Tenth Line Road,1777,NA,K1E 3X2,-75.49059460015017,45.46679300036998
+667329599,Freshii,NA,restaurant,Freshii,West Hunt Club Road,290,NA,K2E 0B7,-75.71083999252708,45.3385962067268
+669194893,Little Turkish Village,NA,restaurant,NA,St. Joseph Boulevard,2095,NA,K1C 1E7,-75.53555730060518,45.46670113187792
+670779940,Yam'e,NA,restaurant,NA,Boulevard Gréber,130,Gatineau,J8T 6H5,-75.70115775052294,45.467721499836614
+670790824,Mikes,NA,restaurant,NA,Boulevard Gréber,200,Gatineau,J8T 6K2,-75.702403069962,45.47289459429812
+670790832,Cora,NA,restaurant,Cora,Boulevard Gréber,200,Gatineau,J8T 6K2,-75.70235330791971,45.47260623923843
+671001686,Tutti Frutti,NA,restaurant,NA,Boulevard Gréber,325,NA,J8T 8J3,-75.69949540212761,45.47785314977437
+671002013,Krong Thai,NA,restaurant,NA,Rue Bellehumeur,205,Gatineau,J8T 8H3,-75.69185816737219,45.48008962149746
+671164980,New Mukut Restaurant,NA,restaurant,NA,Portobello Boulevard,1968,NA,K4A 4E7,-75.46683765133662,45.466109303295624
+671165709,Clocktower Brew Pub,NA,pub,NA,Trim Road,2010,NA,NA,-75.45414783342339,45.46867407062618
+671165711,Yalla Yalla,NA,restaurant,NA,Trim Road,2010,NA,NA,-75.45434862090566,45.468617156474245
+671386331,L'Industriel,NA,restaurant,NA,Boulevard Maloney Est,378,NA,J8P 1E6,-75.64092211727278,45.484176252142106
+671623819,Au Rendez Vous,NA,restaurant,NA,Boulevard Maloney Est,825,Gatineau,NA,-75.60970613157153,45.48472613941206
+671932741,Mr. Pho,NA,restaurant,NA,Robertson Road,1861,NA,NA,-75.82095700863422,45.32828284079956
+671933050,iCook Pho You,NA,restaurant,NA,Robertson Road,2006,NA,K2H 1A5,-75.82716270590404,45.32385168680773
+671933055,Desi Tadka,NA,restaurant,NA,Robertson Road,2006,NA,K2H 1A5,-75.82709296967411,45.323669337590225
+671933059,Scotty's Corner Diner,NA,restaurant,NA,Robertson Road,2006,NA,K2H 1A5,-75.8265838012707,45.32332777904839
+672998176,Ralph & Sons Diner,NA,restaurant,NA,Carling Avenue,3420,NA,NA,-75.83566839747196,45.35202006560631
+673129219,Pho Vietnam,NA,restaurant,Pho Vietnam,St-Laurent Boulevard,1187,NA,NA,-75.63584177432178,45.422964575000094
+674473727,Broadways Bar & Grill,NA,restaurant,NA,Orléans Boulevard,1615,NA,NA,-75.52356391432622,45.46048583873665
+678688685,Sandy Row Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-75.44229546934352,44.98774564730344
+679524057,Yang Sheng Restaurant,NA,restaurant,NA,Somerset Street West,662,NA,NA,-75.70549776159028,45.411451877841706
+681153106,La Cage,NA,restaurant,La Cage,Boulevard des Grives,229,Gatineau,J9A 0C7,-75.78066640226835,45.433012482615275
+686061178,Main Street Family Restaurant,NA,restaurant,NA,Main Street West,112,NA,NA,-75.8380561432863,44.915762754962095
+686061179,Di Luca Italian Restaurant,NA,restaurant,NA,Main Street West,106,NA,NA,-75.83795015622093,44.91582606029869
+689008647,Shakits Makasi,NA,restaurant,NA,Boulevard Alexandre-Taché,479,Gatineau,NA,-75.75182051469739,45.42023214168665
+692514732,Halibut House Fish & Chips,NA,restaurant,NA,Strandherd Drive,4235,NA,NA,-75.7811791073973,45.26883774527439
+692860063,East Side Mario's,NA,restaurant,East Side Mario's,NA,NA,NA,NA,-75.73234240850445,45.441713829118136
+693894794,Sushi Haru Haru,NA,restaurant,NA,Rue Principale,181,NA,NA,-75.83586751264863,45.396577591772136
+693930836,Sushi de G&V,NA,restaurant,NA,Chemin d'Aylmer,375,NA,NA,-75.82293394916033,45.397429176509014
+693931692,Ile Pho,NA,restaurant,NA,Rue Belmont,4,Gatineau,J9H 5L6,-75.83033604960555,45.39512050039625
+693945808,Coco Frutti,NA,restaurant,NA,Chemin d'Aylmer,210,NA,J9H 1A2,-75.83143403699114,45.394945728848185
+693956405,Restaurant Aylmer B.B.Q.,NA,restaurant,NA,Rue Principale,134,NA,J9H 3M4,-75.84261962767158,45.39439060219665
+693987190,Ürasie,NA,restaurant,NA,Rue Front,11,Gatineau,J9J 1C3,-75.8548880000202,45.395616201757704
+701917663,Mermaid's Seafood Restaurant,NA,restaurant,NA,Walkley Road,1729,NA,NA,-75.64592363868331,45.37852586726579
+701917664,Samar Kabab House,NA,restaurant,NA,Walkley Road,1729,NA,NA,-75.64631774854136,45.37837658368535
+702835883,New Ruby House,NA,restaurant,NA,NA,NA,NA,NA,-75.2908913928418,45.5487110269838
+709271111,Moe's BBQ and Smokehouse,NA,restaurant,NA,Bank Street,2446,NA,NA,-75.6469822557569,45.35291704113082
+710675462,Wa Hing Li Ho,NA,restaurant,NA,Montée Paiement,710,NA,J8R 4A3,-75.67592595124665,45.502928499302115
+710758279,Resto Le Cachet,NA,restaurant,NA,Montée Paiement,392,NA,J8P 6H6,-75.67440790874994,45.489717973224046
+714476740,Resto-Cafe Calimero,NA,restaurant,NA,Rue Georges,110,NA,J8M 1A2,-75.43494234518805,45.55402367880244
+737956418,Lock 17 Bistro & Store,NA,restaurant,NA,River Road,646,NA,NA,-75.78674224950849,44.98143684752784
+738303214,Centennial Restaurant,NA,restaurant,NA,NA,NA,NA,NA,-76.2901098790857,45.333137845277385
+738325549,Copper Kettle,NA,restaurant,NA,NA,NA,NA,NA,-76.29083614774895,45.32548505476598
+743657264,Mr. Victor's Diner,NA,restaurant,NA,NA,NA,NA,NA,-76.25212909571877,44.888599482608484
+743660048,Michael's Table,NA,restaurant,NA,NA,NA,NA,NA,-76.2477348623367,44.898165052553644
+743736488,St. Louis Bar & Grill,NA,restaurant,St. Louis Bar & Grill,NA,NA,NA,NA,-76.26493435489633,44.90905096181879
+753385846,La Tasca Resto Bar,NA,restaurant,NA,Boulevard Saint-René Ouest,827,NA,NA,-75.68566660318355,45.49011826990208
+753441815,Fat Les,NA,restaurant,NA,NA,NA,NA,NA,-75.23000490082596,45.103262350411896
+761740097,Osmow's,NA,restaurant,Osmow's,Woodroffe Avenue,1365,NA,K2G 1V7,-75.75896227296062,45.35025426514157
+762479347,Pizza Hut,NA,restaurant,Pizza Hut,NA,NA,NA,NA,-75.55600964804303,45.2643348002886
+762491853,Crust & Crate,NA,restaurant,NA,Shuttleworth Drive,100,NA,NA,-75.59175139959655,45.317842598972675
+768808756,Ramigab,NA,restaurant,NA,NA,NA,NA,NA,-75.15597504928292,45.431871897925745
+768964056,St. Louis Bar & Grill,NA,restaurant,St. Louis Bar & Grill,NA,NA,NA,NA,-75.8643850493762,45.28064794884456
+781322199,Jing Jing Buffet,NA,restaurant,NA,NA,NA,NA,NA,-75.15921938305057,45.43630059137205
+843722769,Argos Greek & Pizza,NA,restaurant,NA,Highbury Park Drive,34,NA,NA,-75.74841031464952,45.277215252772784
+926850592,Mamma's Place,NA,restaurant,NA,NA,NA,NA,NA,-76.18170073551674,45.23422046223043
+1042078559,MEX BBQ,NA,restaurant,NA,NA,NA,NA,NA,-75.78269004497541,45.56721133398717
+1071252195,The Brew Table,NA,pub,NA,Moodie Drive,308,Ottawa,K2H 9C4,-75.83592948198539,45.325963374689465

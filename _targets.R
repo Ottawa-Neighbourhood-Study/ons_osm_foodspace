@@ -19,8 +19,6 @@ list(
                         sf::st_buffer(10000) |>
                         sf::st_transform(crs="WGS84")),
 
-  targets::tar_target(ottawa_roads_shp, pseudohouseholds::ottawa_roads_shp),
-  targets::tar_target(ons_db_sli, neighbourhoodstudy::sli_dbs_gen3_maxoverlap),
   targets::tar_target(dbpops, neighbourhoodstudy::ottawa_dbs_pop2021),
   targets::tar_target(da_ons_sli, neighbourhoodstudy::sli_das_gen3_mape),
   # targets::tar_targeT(ottawa_phhs, )
@@ -66,77 +64,72 @@ list(
   targets::tar_target(foodspace_specialty_distances,
                       get_db_centroid_walkdistance (neighbourhoodstudy::ottawa_dbs_shp2021, foodspace_specialty, foodspace_id_col = "osm_id")),
 
+  targets::tar_target(foodspace_fastfood_distances,
+                      get_db_centroid_walkdistance (neighbourhoodstudy::ottawa_dbs_shp2021, foodspace_fast_food, foodspace_id_col = "osm_id")),
+
+  targets::tar_target(foodspace_convenience_distances,
+                      get_db_centroid_walkdistance (neighbourhoodstudy::ottawa_dbs_shp2021, foodspace_convenience, foodspace_id_col = "osm_id")),
+
   targets::tar_target(foodspace_grocery_distances,
                       get_db_centroid_walkdistance (neighbourhoodstudy::ottawa_dbs_shp2021, foodspace_grocery, foodspace_id_col = "osm_id")),
 
-  ######## SPECIALTY
+  targets::tar_target(foodspace_restaurant_distances,
+                      get_db_centroid_walkdistance (neighbourhoodstudy::ottawa_dbs_shp2021, foodspace_restaurant, foodspace_id_col = "osm_id")),
+
+
+   ######## COMPUTE STATS
+
+  # Specialty
   targets::tar_target(foodspace_stats_specialty, {
 
-    compute_and_save_stats (prefix = "food_specialty", foodspace_data = foodspace_specialty,
+    compute_and_save_stats (prefix = "food_specialty_", foodspace_data = foodspace_specialty,
                             foodspace_distances = foodspace_specialty_distances,
                             ons_gen3_shp = ons_gen3_shp, pop_data = dbpops, single_link_indicator = da_ons_sli )
+  }),
+
+  # Fast food
+  targets::tar_target(foodspace_stats_fastfood, {
+
+    compute_and_save_stats (prefix = "food_fastfood_", foodspace_data = foodspace_fast_food,
+                            foodspace_distances = foodspace_fastfood_distances,
+                            ons_gen3_shp = ons_gen3_shp, pop_data = dbpops, single_link_indicator = da_ons_sli )
+  }),
+
+  # Convenience
+  targets::tar_target(foodspace_stats_convenience, {
+
+    compute_and_save_stats (prefix = "food_convenience_", foodspace_data = foodspace_convenience,
+                            foodspace_distances = foodspace_convenience_distances,
+                            ons_gen3_shp = ons_gen3_shp, pop_data = dbpops, single_link_indicator = da_ons_sli )
+  }),
+
+  # Grocery
+  targets::tar_target(foodspace_stats_grocery, {
+
+    compute_and_save_stats (prefix = "food_grocery_", foodspace_data = foodspace_grocery,
+                            foodspace_distances = foodspace_grocery_distances,
+                            ons_gen3_shp = ons_gen3_shp, pop_data = dbpops, single_link_indicator = da_ons_sli )
+  }),
+
+  # Restaurant
+  targets::tar_target(foodspace_stats_restaurant, {
+
+    compute_and_save_stats (prefix = "food_resto_", foodspace_data = foodspace_restaurant,
+                            foodspace_distances = foodspace_restaurant_distances,
+                            ons_gen3_shp = ons_gen3_shp, pop_data = dbpops, single_link_indicator = da_ons_sli )
+  }),
+
+  # SAVE GEOMETRY
+
+  targets::tar_target(save_foodspace, {
+    save_food_files(foodspace_convenience,
+                        foodspace_fast_food,
+                        foodspace_grocery,
+                        foodspace_restaurant,
+                        foodspace_specialty)
+  }),
 
 
-    }),
-
-  targets::tar_target(foodspace_stats_avgdistclosest3,
-
-                      FALSE
-  ),
-
-  targets::tar_target(foodspace_stats_pctwithin15minswalk,
-                      FALSE
-  ),
-
-  ######## FAST FOOD
-
-  ######## CONVENIENCE
-
-  ######## GROVERY
-
-  ######## RESTAURANT
-  #
-  #   targets::tar_target(overpass_data,
-  #                       query_osm_api_food(ons_gen3_buffer, amenities, shops)),
-  #
-  #   targets::tar_target(ottawa_food,
-  #                     process_overpass_data(overpass_data, shops, amenities)),
-  #
-  #   # Save foodspace results to disk
-  #   targets::tar_target(save_ottawa_food,
-  #                       save_food_data(ottawa_food)),
-
-
-  # # Run distance analysis
-  # targets::tar_target(ons_phhs,
-  #                     create_ons_phhs (ons_gen3_shp, ons_gen3_pop2021, ottawa_roads_shp)),
-  #
-  # targets::tar_target(result_within_15min_walk,
-  #                     phh_walkdistance (ottawa_phhs, ons_gen3_shp, ottawa_food, ons_db_sli)),
-  # targets::tar_target(phh_destination_candidates,
-  #                     get_destination_candidates(ottawa_phhs = ottawa_phhs, ons_gen3_shp = ons_gen3_shp, destinations = ottawa_food, destination_id_col = "osm_id")),
-  # targets::tar_target(candidate_distances,
-  #                    get_candidate_distances (phh_destination_candidates, ottawa_food)),
-  # targets::tar_target(od_table,
-  #                     phh_distance_analysis (ottawa_phhs = ottawa_phhs, ons_gen3_shp = ons_gen3_shp, destinations = ottawa_food, destination_id_col = "osm_id")),
 
   NULL
 )
-
-
-# targets::tar_target(amenities,
-#                     c("restaurant",
-#                       "pub",
-#                       "bar",
-#                       "cafe",
-#                       "fast_food",
-#                       "food_court" )),
-#
-# targets::tar_target(shops,
-#                     c("grocery",
-#                       "convenience",
-#                       "deli",
-#                       "greengrocer",
-#                       "food",
-#                       "general",
-#                       "supermarket")),

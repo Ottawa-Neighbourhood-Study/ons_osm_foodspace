@@ -1,24 +1,31 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-.Random.seed|object|36a13bc3e1ef9e37|||||||||||||||
+.Random.seed|object|1174476b341d9b4e|||||||||||||||
 amenities|stem|5eaf275ea9cf1c7d|bd0d3dfb53bd8196|a3dad144c40657ed|1993867516||t19522.6304470516s|f55bdaeb17afeaf9|102|rds|local|vector|||0.001||
 candidate_distances|stem|0c7cea2c4d2d947c|b4f321113da902da|08f39ee422f051b7|-1252470832||t19531.7641257395s|1a9f20b6cec5c008|32223669|rds|local|vector|||1882.851||
-compute_and_save_stats|function|856568d860a31a7d|||||||||||||||
+compute_and_save_stats|function|ca09d1348a60fef2|||||||||||||||
 convenience_shops|stem|6c9fda3e8ee094bb|71e69c80ed285965|a3dad144c40657ed|2129176263||t19535.7093406551s|93a4d4dc4116d568|64|rds|local|vector|||0.001||
 create_ons_phhs|function|3458c6aa78bfe56e|||||||||||||||
 da_ons_sli|stem|5c3d552e5fce579a|4f55ab93d3319190|c3b5fc02cdc369c1|-1177061827||t19577.8113796735s|d05f1b0b8c7733d6|4634|rds|local|vector|||0.004||
 dbpops|stem|b361f9a883e347df|33ce142c289ead0d|c3b5fc02cdc369c1|-2040031525||t19577.811380368s|215e3932622b4ff4|92053|rds|local|vector|||0.006||
 fast_food_amenities|stem|ba82418a2ed08831|1a03c1574218d545|a3dad144c40657ed|360960821||t19535.7093404236s|dff9495c51b724c1|77|rds|local|vector|||0.001||
 foodspace_convenience|stem|99e6f2c3599a9413|a631c0a3895ef458|7225d2cb84ccde1b|1242188377||t19535.7280219112s|426204a8d87dface|25873|rds|local|vector|||5.217||
+foodspace_convenience_distances|stem|cd597d451803f011|37adba37eb2d6a5a|d2238a1c0d858c1d|1379261871||t19577.8240071057s|a980d97710eb74b9|27338216|rds|local|vector|||703.232|testing with only some data use with caution|
 foodspace_fast_food|stem|25ebbbcdb641ae2f|e13bcdc1a6481e4f|39744e526be492a1|-1178653210||t19535.7280538557s|d37903193a6b29ca|77702|rds|local|vector|||2.747||
+foodspace_fastfood_distances|stem|37b1056b0692d8be|66df5e1a8add335b|e4206736c1a40e72|1560904086||t19578.5443343264s|021cdad5e103155e|184354725|rds|local|vector|||1067.498|testing with only some data use with caution|
 foodspace_grocery|stem|3de03f2eddb94803|c872e8c4318b8d14|00b0fd19c012208e|381908718||t19535.7279613788s|d942ab82ed9a058f|9772|rds|local|vector|||4.246|the condition has length  1 and only the first element will be used. running command timedatectl had status 1|
 foodspace_grocery_distances|stem|70f4be4880637d2a|ab6097d788558d32|c685ebec1184bf09|-216638702||t19577.7119946453s|4675bcb8aad42971|9941125|rds|local|vector|||521.247|testing with only some data use with caution|
 foodspace_restaurant|stem|497057245f05b6cc|4e74a0c25d51fb78|5e1922022df6c3b0|1683850669||t19535.7282676514s|58c11175652eca78|62173|rds|local|vector|||3.215|running command timedatectl had status 1|
+foodspace_restaurant_distances|stem|fe0d5b2d3fa6b882|7dc5fb6da595076c|a79b019868f450a3|-1945151113||t19578.5551226592s|ef59154f5b92a0f2|67969045|rds|local|vector|||909.802|testing with only some data use with caution|
 foodspace_specialty|stem|0f520153f39d0895|1667af949c908751|c32a89865c4aacfd|1142092423||t19535.7094491303s|f10189b7d3ffcf74|20832|rds|local|vector|||9.31|the condition has length  1 and only the first element will be used. running command timedatectl had status 1|
 foodspace_specialty_distances|stem|4554fcb67f7ca7a3|d7a5d96ca5df5aa8|9beea9a0dafeb541|-900079620||t19577.7059256773s|4ce935105ecad4a2|19963806|rds|local|vector|||596.361|testing with only some data use with caution|
 foodspace_stats_avgdistclosest3|stem|a5e3b6da9ff3bf9b|21f2602a4521432d|ef46db3751d8e999|118125587||t19577.6664549016s|ac45463db19e2cbe|48|rds|local|vector|||0||
+foodspace_stats_convenience|stem|5e7495c7f21d32d3|61028cd75266612a|6579a1b582c83290|-1632772594||t19578.5759742842s|fb001a2829da44a9|2022|rds|local|vector|||3.142|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+foodspace_stats_fastfood|stem|6efb02119078b8d6|5386c8412ffb18a5|e850c24109de08a3|-1910036002||t19578.5759062102s|1a9a7bc9cce36d30|2085|rds|local|vector|||9.255|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+foodspace_stats_grocery|stem|9923cab3d123e736|d3b1e40d6520a590|335597ec1125823b|1196890119||t19578.5760046083s|cff692338c9a5749|1943|rds|local|vector|||1.666|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
 foodspace_stats_pctwithin15minswalk|stem|a5e3b6da9ff3bf9b|21f2602a4521432d|ef46db3751d8e999|-92244858||t19577.6664546701s|ac45463db19e2cbe|48|rds|local|vector|||0.001||
-foodspace_stats_specialty|stem|47ddeaa078418f8b|e087edc4205ac3f7|535bde0d41e315b5|-70474463||t19577.8126906167s|c0bebc5c3608683c|2087|rds|local|vector|||2.172|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
-get_avg_dist_to_closest_three|function|040e8087c352b543|||||||||||||||
+foodspace_stats_restaurant|stem|3cf6736d22ec517e|55a102ee97a4f9be|c56865f2ea16c7e7|-1747063712||t19578.5756106083s|358a3a9a010d27d6|2070|rds|local|vector|||6.801|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+foodspace_stats_specialty|stem|ea77432f434dadaa|e087edc4205ac3f7|613bf788ad0cae6e|-70474463||t19578.5756617657s|99a83d63162c20fd|1992|rds|local|vector|||2.366|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+get_avg_dist_to_closest_three|function|b087700245457679|||||||||||||||
 get_candidate_distances|function|48d1be13b43e5332|||||||||||||||
 get_db_centroid_walkdistance|function|a69b04bc8fffa0b5|||||||||||||||
 get_destination_candidates|function|398bd6f2f38bbe18|||||||||||||||
@@ -30,6 +37,7 @@ get_number_per_region_plus_buffer|function|be65930b59b7cf50|||||||||||||||
 get_pct_residents_within_traveltime_valhalla_isochrones|function|470abb06d359f691|||||||||||||||
 get_pct_within_15_mins|function|fb51b75b28d510a3|||||||||||||||
 grocery_shops|stem|9fd7f90353efd02a|d9806511f8818f9d|a3dad144c40657ed|1494639608||t19535.7093407708s|dff9495c51b724c1|77|rds|local|vector|||0.001||
+mapcheck|function|473b9c4e21093cd6|||||||||||||||
 od_table|stem|b6dc4cedcbed8fa3|abc1b3d31e5abab1|dee25322c332fa7a|337822913||t19522.7195732517s||626|rds|local|vector|||0.046||this doesnt work properly
 ons_db_sli|stem|f23e25aef209a005|16b529546e503eab|c3b5fc02cdc369c1|1075562696||t19522.8071371438s|6c1757e441399f02|69354|rds|local|vector|||0.008||
 ons_gen3_buffer|stem|afd341eb4dccd69e|1c6bf3042d69626d|016395e60b98a5a4|-1718569965||t19522.6278666076s|68410c631a43068e|13022|rds|local|vector|||0.28||
@@ -48,7 +56,25 @@ restaurant_amenities|stem|e67f588a71f6e765|edbc9ac2a040ba43|a3dad144c40657ed|214
 restaurant_amenity|stem|e67f588a71f6e765|edbc9ac2a040ba43|a3dad144c40657ed|-1147264078||t19535.7093400764s|d586f792a395948c|68|rds|local|vector|||0||
 result_within_15min_walk|stem|16d63a7c6a8b38ef|c209f66ef2d90886|2ee4ec59ada91b16|-934852062||t19522.8089612896s|7146b2c5b1eab951|3767|rds|local|vector|||157.545||
 save_food_data|function|c9edc5b95b047654|||||||||||||||
+save_food_files|function|c0b1b3139d6e7325|||||||||||||||
+save_foodspace|stem|8da31a42b3c0f967|8c51a645d4c348e9|d3de4037b4e50a86|-633495190||t19578.6439174198s|f10189b7d3ffcf74|20832|rds|local|vector|||0.472|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.|
+save_geometry|stem|8da31a42b3c0f967|ae3c94de3aab0efc|9e84f72be7cf5346|-1402728113||t19578.5754499381s|f10189b7d3ffcf74|20832|rds|local|vector|||0.088|Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.|
+save_geometry_files|function|26c1ee2720b71a17|||||||||||||||
 save_ottawa_food|stem|da7a3dad7a31c553|b0560a7c95dae04e|77dd79c839bf4cee|1901892111||t19522.7663169093s|ac45463db19e2cbe|48|rds|local|vector|||0.245|Field names abbreviated for ESRI Shapefile driver. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.|
+sf_to_latlon|function|7dab2706e541d890|||||||||||||||
 shops|stem|c479098e9aff3756|13e1b3f8d0eadb27|a3dad144c40657ed|1003437644||t19522.6304471673s|c1aa9ca10fc19154|116|rds|local|vector|||0||
 specialty_amenities|stem|d1a9d12eca415d25|9bb1ac7f3de738d4|a3dad144c40657ed|-2036198898||t19535.7093406551s|e0224cf10db1a05d|62|rds|local|vector|||0||
 specialty_shops|stem|818fb570610066d3|b1d1ddb84398b14d|a3dad144c40657ed|954448086||t19535.7093404236s|711075fab977c90c|168|rds|local|vector|||0||
+get_number_per_region_plus_buffer|function|be65930b59b7cf50
+sf_to_latlon|function|7dab2706e541d890
+get_pct_within_15_mins|function|fb51b75b28d510a3
+mapcheck|function|473b9c4e21093cd6
+.Random.seed|object|618e931814cb0535
+get_db_centroid_walkdistance|function|a69b04bc8fffa0b5
+get_avg_dist_to_closest_three|function|b087700245457679
+get_number_per_region_per_1000_residents_plus_buffer|function|af1b8d2c189a34d8
+save_food_files|function|9e5aa94a76811085
+compute_and_save_stats|function|309320b3f6cea83c
+save_foodspace|stem|b3d5c5ce7734bb62|8c51a645d4c348e9|4e063ef17acf75c6|-633495190||t19578.64563674s|ac45463db19e2cbe|48|rds|local|vector|||0.453|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.. Field names abbreviated for ESRI Shapefile driver. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Message 1 One or several characters couldnt be converted correctly from UTF8 to ISO88591.  This warning will not be emitted anymore.|
+foodspace_stats_restaurant|stem|3cf6736d22ec517e|55a102ee97a4f9be|a39a2ce3f851df55|-1747063712||t19578.6458111959s|358a3a9a010d27d6|2070|rds|local|vector|||7.379|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+foodspace_stats_specialty|stem|ea77432f434dadaa|e087edc4205ac3f7|13f5d0142dded913|-70474463||t19578.6458615431s|99a83d63162c20fd|1992|rds|local|vector|||2.331|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
