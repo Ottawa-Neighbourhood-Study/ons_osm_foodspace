@@ -27,9 +27,21 @@ get_number_per_region_plus_buffer <- function(region_shp, point_data, region_id_
     dplyr::group_by(!!rlang::sym(region_id_col)) |>
     dplyr::summarise(num_region_plus_buffer = dplyr::n(), .groups = "drop")
 
+  # create overall measure too for id_col values = 0
+  # find points within the union of the buffered areas, count rows
+  raw_count_overall <- sf::st_filter(point_data, sf::st_as_sf(sf::st_union(region_shp))) |>
+    sf::st_drop_geometry() |>
+    dplyr::summarise(num_region_plus_buffer = dplyr::n()) |>
+    dplyr::mutate({{region_id_col}} := "0", .before = 1 )
+
+  # get hoodwise counts
   result <- dplyr::full_join(sf::st_drop_geometry(region_shp), raw_counts, by = region_id_col ) |>
     dplyr::mutate(num_region_plus_buffer = dplyr::if_else(is.na(num_region_plus_buffer), 0, num_region_plus_buffer)) |>
-    tidyr::drop_na(!!rlang::sym(region_id_col))
+    tidyr::drop_na(!!rlang::sym(region_id_col)) |>
+    dplyr::arrange(!!rlang::sym(region_id_col))
+
+  # combine overall with hoodwise
+  result <- dplyr::bind_rows(raw_count_overall, result)
 
   return(result)
 }
@@ -52,16 +64,31 @@ get_number_per_region_plus_buffer <- function(region_shp, point_data, region_id_
 #' @export
 get_number_per_region_per_1000_residents_plus_buffer <- function(region_shp, point_data, pop_data, region_id_col = "ONS_ID", pop_col = "SF_TotalPop", crs = 32189, buffer_m = 50) {
 
+  # add ottawa-wide population value to pop_data if we're taking
+  # input from package `neighbourhoodstudy`
+  #region_shp <- ons_gen3_shp
+  #point_data <- foodspace_grocery
+  #pop_data <- neighbourhoodstudy::ons_gen3_pop2021
+
+  if ( region_id_col == "ONS_ID" && ! "0" %in% pop_data$ONS_ID) {
+    pop_ott <- sum(pop_data[,pop_col, drop = TRUE])
+    pop_data <- dplyr::add_row(pop_data, ONS_ID = "0", ONS_Name = "OTTAWA",  {{pop_col}} := pop_ott, .before = 1)
+  }
+
+
+  # first we get the numbers per region, including ottawa-wide
   num_per_region <- get_number_per_region_plus_buffer(region_shp, point_data, region_id_col, crs, buffer_m)
 
+  # then divide by population
   result <- dplyr::left_join(num_per_region, pop_data, by = region_id_col) |>
     dplyr::mutate(num_per_1000_res_plus_buffer = num_region_plus_buffer / SF_TotalPop * 1000) |>
     dplyr::select(dplyr::all_of(region_id_col), num_per_1000_res_plus_buffer)
 
+  # methodology choice: give NA for any division by zero, could arguably give 0 instead
   result <- result |>
     #dplyr::arrange(dplyr::desc(num_per_1000)) |> View()
     tidyr::drop_na(!!rlang::sym(region_id_col)) |>
-    dplyr::mutate(num_per_1000_res_plus_buffer = dplyr::if_else(is.na(num_per_1000_res_plus_buffer) | is.infinite(num_per_1000_res_plus_buffer) | is.nan(num_per_1000_res_plus_buffer), 0, num_per_1000_res_plus_buffer))
+    dplyr::mutate(num_per_1000_res_plus_buffer = dplyr::if_else(is.na(num_per_1000_res_plus_buffer) | is.infinite(num_per_1000_res_plus_buffer) | is.nan(num_per_1000_res_plus_buffer), NA, num_per_1000_res_plus_buffer))
 
   return(result)
 }
@@ -126,17 +153,28 @@ get_avg_dist_to_closest_three <- function(od_table, from_id_col = "DBUID", to_id
   # average them, get populations for DBUIDs, convert DBUIDs to DAUIDs, use
   # single-link indicator to map DAs to ONS hoods, pop-weight avg distance from
   # DAs up to gen3 hoods
-  result <-  tidyr::drop_na(od_table) |>
+  # first get db-level results, so we can do hoods and citywide
+  result_dbs <-  tidyr::drop_na(od_table) |>
     dplyr::group_by(!!rlang::sym(from_id_col)) |>
     dplyr::arrange(distance) |>
     dplyr::slice_head(n=3) |>
     dplyr::summarise(dist_closest_3 = mean(distance, na.rm = TRUE)) |>
     dplyr::left_join(dbpops, by = "DBUID") |>
-    dplyr::mutate(DAUID = substr(DBUID, 1, 8)) |>
+    dplyr::mutate(DAUID = substr(DBUID, 1, 8))
+
+  # hood results
+  result_hoods <- result_dbs |>
     dplyr::left_join(froms_to_ons_sli, by = "DAUID") |>
     dplyr::select(DAUID, dist_closest_3, dbpop2021, ONS_ID) |>
     dplyr::group_by(ONS_ID) |>
     dplyr::summarise(dist_closest_3_popwt = sum((dist_closest_3 * dbpop2021) / sum(dbpop2021) ))
+
+  # citywide
+  result_ott <- result_dbs |>
+    dplyr::summarise(dist_closest_3_popwt = sum((dist_closest_3 * dbpop2021) / sum(dbpop2021) )) |>
+    dplyr::mutate(ONS_ID = "0", .before = 1)
+
+  result <- dplyr::bind_rows(result_ott, result_hoods)
 
   return(result)
 }
@@ -150,15 +188,23 @@ get_pct_within_15_mins <- function(od_table, from_id_col = "DBUID", to_id_col, f
   # take the od_table, find out if DBs have ANY trips under 15 minutes,
   # add DB pops, link DBs to DAs, link DAs to hoods using sli, use db pops and
   # whether they're covered or not to estimate % of hood pop within 15 minutes
-  result <-  tidyr::drop_na(od_table) |>
+  result_db <-  tidyr::drop_na(od_table) |>
     dplyr::group_by(!!rlang::sym(from_id_col)) |>
     dplyr::summarise(covered = any (time < 15 * 60)) |>
     dplyr::left_join(dbpops, by = "DBUID") |>
-    dplyr::mutate(DAUID = substr(DBUID, 1, 8)) |>
+    dplyr::mutate(DAUID = substr(DBUID, 1, 8))
+
+  result_hood <- result_db |>
     dplyr::left_join(froms_to_ons_sli, by = "DAUID") |>
     dplyr::select(DAUID, covered, dbpop2021, ONS_ID) |>
     dplyr::group_by(ONS_ID) |>
     dplyr::summarise(pct_within_15_mins = sum((covered * dbpop2021) / sum(dbpop2021) ))
+
+  result_ott <- result_db |>
+    dplyr::summarise(pct_within_15_mins = sum((covered * dbpop2021) / sum(dbpop2021) ) )|>
+    dplyr::mutate(ONS_ID = "0", .before = 1)
+
+  result <- dplyr::bind_rows(result_ott, result_hood)
 
   return(result)
 }
@@ -200,9 +246,9 @@ compute_and_save_stats <- function(prefix, foodspace_data, foodspace_distances, 
   output_dir <- paste0("output/", datestamp,"/hood_stats")
   if (!dir.exists(output_dir)) dir.create(output_dir)
 
-  readr::write_csv(results_tidy, paste0(output_dir,"/", prefix, "_tidy_", Sys.Date(), ".csv"))
+  readr::write_csv(results_tidy, paste0(output_dir,"/", prefix, "tidy_", Sys.Date(), ".csv"))
 
-  readr::write_csv(results_wide, paste0(output_dir,"/", prefix, "_wide_", Sys.Date(), ".csv"))
+  readr::write_csv(results_wide, paste0(output_dir,"/", prefix, "wide_", Sys.Date(), ".csv"))
 
   return(results_tidy)
 }
@@ -284,4 +330,39 @@ sf_to_latlon <- function(shp) {
   # bind latlon to geometryless input, rename latlon columns
   dplyr::bind_cols(sf::st_drop_geometry(shp), latlon) |>
     dplyr::rename(lat = Y, lon = X)
+}
+
+
+# finally save all the stats into one csv file for easier loading
+# and to finish our targets workflow in a nice single node :)
+save_consolidated_food_stats <- function(foodspace_stats_convenience,
+                                         foodspace_stats_fastfood,
+                                         foodspace_stats_grocery,
+                                         foodspace_stats_restaurant,
+                                         foodspace_stats_specialty){
+
+  prefix <- "food_all_"
+
+  results_tidy <- foodspace_stats_convenience |>
+    dplyr::left_join(foodspace_stats_fastfood, by = "ONS_ID") |>
+    dplyr::left_join(foodspace_stats_grocery, by = "ONS_ID") |>
+    dplyr::left_join(foodspace_stats_restaurant, by = "ONS_ID") |>
+    dplyr::left_join(foodspace_stats_specialty, by = "ONS_ID")
+
+  results_wide <- results_tidy |>
+    tidyr::pivot_longer(names_to = "variable", values_to = "value", cols = -ONS_ID) |>
+    tidyr::pivot_wider(values_from = value, names_from = ONS_ID)
+
+  # save to file
+  datestamp <- Sys.Date()
+  if (!dir.exists(paste0("output/", datestamp))) dir.create(paste0("output/", datestamp))
+
+  output_dir <- paste0("output/", datestamp,"/hood_stats")
+  if (!dir.exists(output_dir)) dir.create(output_dir)
+
+  readr::write_csv(results_tidy, paste0(output_dir,"/", prefix, "tidy_", Sys.Date(), ".csv"))
+
+  readr::write_csv(results_wide, paste0(output_dir,"/", prefix, "wide_", Sys.Date(), ".csv"))
+
+  return (TRUE)
 }

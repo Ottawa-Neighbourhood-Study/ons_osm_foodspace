@@ -119,6 +119,15 @@ list(
                             ons_gen3_shp = ons_gen3_shp, pop_data = dbpops, single_link_indicator = da_ons_sli )
   }),
 
+  # Consolidated
+  targets::tar_target(foodspace_stats_consolidated, {
+    save_consolidated_food_stats(foodspace_stats_convenience,
+                                 foodspace_stats_fastfood,
+                                 foodspace_stats_grocery,
+                                 foodspace_stats_restaurant,
+                                 foodspace_stats_specialty)
+  }),
+
   # SAVE GEOMETRY
 
   targets::tar_target(save_foodspace, {
