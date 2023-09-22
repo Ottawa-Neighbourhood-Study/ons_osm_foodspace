@@ -1,8 +1,8 @@
 name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
-.Random.seed|object|1746a088d3b2dfd9|||||||||||||||
+.Random.seed|object|43dc848f0a1a8e56|||||||||||||||
 amenities|stem|5eaf275ea9cf1c7d|bd0d3dfb53bd8196|a3dad144c40657ed|1993867516||t19522.6304470516s|f55bdaeb17afeaf9|102|rds|local|vector|||0.001||
 candidate_distances|stem|0c7cea2c4d2d947c|b4f321113da902da|08f39ee422f051b7|-1252470832||t19531.7641257395s|1a9f20b6cec5c008|32223669|rds|local|vector|||1882.851||
-compute_and_save_stats|function|c56f68912a1cab30|||||||||||||||
+compute_and_save_stats|function|ee457210ba06094c|||||||||||||||
 convenience_shops|stem|6c9fda3e8ee094bb|71e69c80ed285965|a3dad144c40657ed|2129176263||t19535.7093406551s|93a4d4dc4116d568|64|rds|local|vector|||0.001||
 create_ons_phhs|function|3458c6aa78bfe56e|||||||||||||||
 da_ons_sli|stem|5c3d552e5fce579a|4f55ab93d3319190|c3b5fc02cdc369c1|-1177061827||t19577.8113796735s|d05f1b0b8c7733d6|4634|rds|local|vector|||0.004||
@@ -19,13 +19,13 @@ foodspace_restaurant_distances|stem|fe0d5b2d3fa6b882|7dc5fb6da595076c|a79b019868
 foodspace_specialty|stem|0f520153f39d0895|1667af949c908751|c32a89865c4aacfd|1142092423||t19535.7094491303s|f10189b7d3ffcf74|20832|rds|local|vector|||9.31|the condition has length  1 and only the first element will be used. running command timedatectl had status 1|
 foodspace_specialty_distances|stem|4554fcb67f7ca7a3|d7a5d96ca5df5aa8|9beea9a0dafeb541|-900079620||t19577.7059256773s|4ce935105ecad4a2|19963806|rds|local|vector|||596.361|testing with only some data use with caution|
 foodspace_stats_avgdistclosest3|stem|a5e3b6da9ff3bf9b|21f2602a4521432d|ef46db3751d8e999|118125587||t19577.6664549016s|ac45463db19e2cbe|48|rds|local|vector|||0||
-foodspace_stats_consolidated|stem|b3d5c5ce7734bb62|30cf6e2471b72be7|3bfc81306384a020|458488031||t19578.7683828483s|ac45463db19e2cbe|48|rds|local|vector|||0.144||
-foodspace_stats_convenience|stem|672de48955a0df9e|437cd473fd5e3c6e|e22375b13c026634|-1632772594||t19578.762771045s|aceaae682d404099|2039|rds|local|vector|||3.224|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
-foodspace_stats_fastfood|stem|9baf9188b0160522|d79c9972e592daf8|4e570ff8a26a80a7|-1910036002||t19578.7626999802s|3a6432e114668770|2105|rds|local|vector|||8.665|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
-foodspace_stats_grocery|stem|c8a209952fe3674c|fea14edd318d5a72|81499db2a0659518|1196890119||t19578.7628076191s|f118b36e9cd47519|1965|rds|local|vector|||2.079|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+foodspace_stats_consolidated|stem|b3d5c5ce7734bb62|30cf6e2471b72be7|014bb862aa31dd95|458488031||t19599.7902233358s|ac45463db19e2cbe|48|rds|local|vector|||0.036||
+foodspace_stats_convenience|stem|a2bfc60ad58b87da|437cd473fd5e3c6e|2ed31e093245d62a|-1632772594||t19599.8057278159s|37212b9ac35b7c54|2041|rds|local|vector|||3.267|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+foodspace_stats_fastfood|stem|308354cb08d90ee4|d79c9972e592daf8|647752aab1afc987|-1910036002||t19599.8056583715s|0695945d816e828c|2109|rds|local|vector|||8.39|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+foodspace_stats_grocery|stem|8339c137dae368dd|fea14edd318d5a72|2292bd93feac0bb1|1196890119||t19599.8057590659s|9e20f02755247576|1966|rds|local|vector|||1.764|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
 foodspace_stats_pctwithin15minswalk|stem|a5e3b6da9ff3bf9b|21f2602a4521432d|ef46db3751d8e999|-92244858||t19577.6664546701s|ac45463db19e2cbe|48|rds|local|vector|||0.001||
-foodspace_stats_restaurant|stem|27494f715b9b1a1e|49c4dfefd6a61156|ba8212f685e1d355|-1747063712||t19578.7624271564s|1f402b66e1b4ccc8|2081|rds|local|vector|||6.66|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
-foodspace_stats_specialty|stem|d4211b79e28333c5|7ad370a6433c41f4|1631af87c27d5a79|-70474463||t19578.7624747259s|3575a5b143c48cf4|2004|rds|local|vector|||2.27|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+foodspace_stats_restaurant|stem|64d50ecb52c121b0|49c4dfefd6a61156|5a37f8675d0e97f5|-1747063712||t19599.8053753681s|21fc9f6c9a1f480d|2076|rds|local|vector|||6.994|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
+foodspace_stats_specialty|stem|7742201581a86e80|7ad370a6433c41f4|1515815695237648|-70474463||t19599.8054257153s|c69f774be48a4f2c|2008|rds|local|vector|||2.369|GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019. GDAL Error 1 PROJ proj_as_wkt DatumEnsemble can only be exported to WKT22019|
 get_avg_dist_to_closest_three|function|14082313f74d94f8|||||||||||||||
 get_candidate_distances|function|48d1be13b43e5332|||||||||||||||
 get_db_centroid_walkdistance|function|a69b04bc8fffa0b5|||||||||||||||
@@ -33,8 +33,8 @@ get_destination_candidates|function|398bd6f2f38bbe18|||||||||||||||
 get_dist_to_closest_three|function|c1072524eb865531|||||||||||||||
 get_number_per_1000|function|62d4a7a12b712832|||||||||||||||
 get_number_per_hood|function|72b823423e1efddf|||||||||||||||
-get_number_per_region_per_1000_residents_plus_buffer|function|a41e04f79c729bca|||||||||||||||
-get_number_per_region_plus_buffer|function|f5d4bc968f0d1cab|||||||||||||||
+get_number_per_region_per_1000_residents_plus_buffer|function|1aede5093286bdc8|||||||||||||||
+get_number_per_region_plus_buffer|function|748f957fca08f269|||||||||||||||
 get_pct_residents_within_traveltime_valhalla_isochrones|function|470abb06d359f691|||||||||||||||
 get_pct_within_15_mins|function|85bb8fe8e9720b58|||||||||||||||
 grocery_shops|stem|9fd7f90353efd02a|d9806511f8818f9d|a3dad144c40657ed|1494639608||t19535.7093407708s|dff9495c51b724c1|77|rds|local|vector|||0.001||

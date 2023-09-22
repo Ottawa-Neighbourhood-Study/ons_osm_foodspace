@@ -1,0 +1,28 @@
+---
+output: github_document
+---
+
+
+# A Simple Food Environment Data Pipeline from OpenStreetMaps to ONS Statistics
+
+```{r include=FALSE}
+library(dplyr, warn.conflicts = FALSE)
+library(sf) |> suppressWarnings() |> suppressMessages()
+library(targets)
+```
+
+
+
+
+
+## Workflow diagram
+
+This is generated automatically--it should render properly on GitHub.
+
+
+```{r results='asis', echo=FALSE}
+ 
+ cat(c("```mermaid", targets::tar_mermaid(), "```"), sep = "\n")
+ 
+ ```
+

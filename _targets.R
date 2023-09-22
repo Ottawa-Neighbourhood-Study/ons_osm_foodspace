@@ -1,9 +1,9 @@
 library(targets)
-library(sf)
-library(dplyr)
+suppressPackageStartupMessages(library(sf))
+library(dplyr, warn.conflicts = FALSE)
 library(readr)
-library(neighbourhoodstudy)
-library(osmdata)
+suppressPackageStartupMessages(library(neighbourhoodstudy))
+suppressPackageStartupMessages(library(osmdata))
 library(future)
 
 source("R/functions.R")
